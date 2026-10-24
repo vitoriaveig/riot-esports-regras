@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news_live/5bcfcb880fa20f8ee18bf6127bb
 sha256: "0589033a2776a11a152c8e1c9473f97c3b9893dd10ceb0d1d54798970b6104e0"
 paginas: "16"
 idioma: "en"
-baixado_em: "2026-10-24T20:32:36Z"
+baixado_em: "2026-10-24T20:58:10Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -411,3 +411,16 @@ Dispute Resolution for Riot Games' Esports EMEA   For further questions pl
 
 
                                                          DR@martens.legal
+
+## Links presentes no documento
+
+- https://competitiveops.riotgames.com/en-US/dispute-resolution-emea
+- https://cdn.sanity.io/files/dsfx7636/news_live/9c66bafc80fd4e7887a2b0d54593e76de4702afe.pdf
+- https://cdn.sanity.io/files/dsfx7636/news/3290d162991a88a5139e0120414756848f91613f.docx
+- https://www.dropbox.com/scl/fo/07b98rut2crilsf9r2bhs/AAQNL-5W-qvGP-_f1f1wmr0?rlkey=dr375tidbixp91k3oc5fv4zti&e=1&st=l8g54h07&dl=0
+- https://cdn.sanity.io/files/dsfx7636/news_live/cffa86644dc9da20827f63b8e6a2059e6281db2b.pdf
+- https://cdn.sanity.io/files/dsfx7636/news/16b35274e077e4e228337cba26edb1543526703c.docx
+- https://cdn.sanity.io/files/dsfx7636/news/667003e7af7706f3ebe0198afe8207668a8f125f.pdf
+- http://competitiveops.riotgames.com/dispute-resolution-emea
+- https://cdn.sanity.io/files/dsfx7636/news_live/1e8a0de5885cfd0a0923985637fdabd0c874b7ff.pdf
+- https://cdn.sanity.io/files/dsfx7636/news_live/e0ab8514b4c681378878233654da30a8334ed3a1.pdf

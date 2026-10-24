@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news/3290d162991a88a5139e012041475684
 sha256: "b6be7f466bfe5ce04b36ac84f7561885ab2e2eb8da195b6664cdef53b1a24714"
 paginas: ""
 idioma: "en"
-baixado_em: "2026-10-24T20:32:34Z"
+baixado_em: "2026-10-24T20:58:08Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 Date:      
@@ -90,7 +90,7 @@ Mr / Ms ........................................................................
 [name(s) of representative(s)]
 
 
-each individually to fully and generally represent the undersigned, including the right to grant sub-power of attorney, vis-à-vis third parties and courts / courts of arbitration in the matter of
+each individually to fully and generally represent the undersigned, including the right to grant sub-power of attorney, vis-à-vis third parties and courts / courts of arbitration in the matter of
 
 [Claimant(s) vs. Respondent(s)]
 before the Dispute Resolution for Riot Games’ Esports (EMEA)

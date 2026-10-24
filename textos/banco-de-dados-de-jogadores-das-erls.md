@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news/276b32200c0cf498a8aceb12043e28fc
 sha256: "f8eaec106d60bae63e861196bfba9417ea02d68ff06620b90ca048ddd4ae1d07"
 paginas: "1"
 idioma: ""
-baixado_em: "2026-10-24T20:32:56Z"
+baixado_em: "2026-10-24T20:58:37Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -29,3 +29,8 @@ ecosystem.
 
 
            LEC and ERL Penalty Tracker
+
+## Links presentes no documento
+
+- https://docs.google.com/spreadsheets/u/1/d/1Y7k5kQ2AegbuyiGwEPsa62e883FYVtHqr6UVut9RC4o/pubhtml#
+- https://docs.google.com/spreadsheets/d/e/2PACX-1vToDuaA1JyOscmclCrn83ogLoC57WutxqLdQTtCik39Yj4lVr_uZSll8dOGalteUVjHmWyfpH3pd6r4/pubhtml

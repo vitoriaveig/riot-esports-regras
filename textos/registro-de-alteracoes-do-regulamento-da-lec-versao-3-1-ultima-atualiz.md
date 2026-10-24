@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news_live/39c5742654303b0a6f876d03b33
 sha256: "4252d08c81bc8951231e8d33e960a13fd2c3bd3bae11132a206670c5fee6b7d0"
 paginas: "15"
 idioma: "en"
-baixado_em: "2026-10-24T20:31:00Z"
+baixado_em: "2026-10-24T20:56:19Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -458,15 +458,15 @@ The Team Member Agreement must
                              exception to the above, shifts            LEC and ERL Roster may be requested up
                              between the LEC and ERL Roster            until 24 hours before the start of the
                              may be requested up until 24 hours        Competition Week.
-                             before the start of the Competition            -​ For shifts between the LEC and
+                             before the start of the Competition            - For shifts between the LEC and
                              Week.                                             ERL Team Roster may be requested
                                                                                up until:
-                                                                                   -​ 72 hours before the start of
+                                                                                   - 72 hours before the start of
                                                                                          the Competition Week, if the
                                                                                          Player has not yet been
                                                                                          approved for participation in
                                                                                          the LEC.
-                                                                                   -​ 24 hours before the start of
+                                                                                   - 24 hours before the start of
                                                                                          the Competition Week, if the
                                                                                          Player has already been
                                                                                          approved for participation in
@@ -555,15 +555,15 @@ The Team Member Agreement must
                              rule.
 
 14.11.2025.   Substitution   3.3.3.                                     Removed. Covered by LoL Esports Global
-              s                  -​   Only Players who were Free        Policies.
+              s                  -   Only Players who were Free        Policies.
                                       Agents on the most recent
                                       signing deadline will be
                                       eligible to be signed.
-                                 -​   The new addition cannot be a
+                                 -   The new addition cannot be a
                                       Player        who      played
                                       professionally in the current
                                       Split.
-                                 -​   A Player signed this way can
+                                 -   A Player signed this way can
                                       only compete for as long as
                                       the emergency persists. The
                                       Team will be responsible for
@@ -616,8 +616,8 @@ The Team Member Agreement must
                          and/or digits. Team tags must be
                          unique globally.
 
-14.11.2025.   Finance    4.2.2.                                       -​   Head Coach. The Head Coach of an
-                             -​   Head Coach. The Head                     LEC Team must earn at least
+14.11.2025.   Finance    4.2.2.                                       -   Head Coach. The Head Coach of an
+                             -   Head Coach. The Head                     LEC Team must earn at least
                                   Coach of an LEC Team must                €5,000 gross per month. If they
                                   earn at least €5,000 gross               have held the position for the same
                                   per month. If they have held             Team in 15 or more Regular Season
@@ -628,9 +628,9 @@ The Team Member Agreement must
                                   must earn a total of at least
 
 <!-- página 14 -->
-                                     €60,000 gross during that            -​   LEC Players. Players on the LEC
+                                     €60,000 gross during that            -   LEC Players. Players on the LEC
                                      Season.                                   Roster of a Team must earn a
-                               -​    LEC Players. Players on the               minimum of €1,000 gross per
+                               -    LEC Players. Players on the               minimum of €1,000 gross per
                                      LEC Roster of a Team must                 month. If the Player has participated
                                      earn a minimum of €1,000                  in an LEC Match during any given
                                      gross per month. If the Player            month, this number increases by
@@ -675,17 +675,17 @@ The Team Member Agreement must
                                                                       teams one point.
 
 <!-- página 15 -->
-14.11.2025.   Glossary   Added.   Invited LEC Versus Team​
+14.11.2025.   Glossary   Added.   Invited LEC Versus Team
                                   The two invited ERL Teams who are
                                   competing in LEC Versus 2026.
 
-14.11.2025.   Glossary   Added.   LEC Versus​
+14.11.2025.   Glossary   Added.   LEC Versus
                                   A new EMEA invitational tournament that
                                   kicks off the 2026 season. It features the ten
                                   LEC teams and two invited guest teams
                                   from the ERLs.
 
-14.11.2025.   Glossary   Added.   LEC Secondary Team​
+14.11.2025.   Glossary   Added.   LEC Secondary Team
                                   A Team operated by, or under common
                                   ownership or control with, an Organization
                                   that fields a Team in the LEC, which

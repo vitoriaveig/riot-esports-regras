@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news_live/cffa86644dc9da20827f63b8e6a
 sha256: "3891451edb2d0f2ad92ac83c3feb6a0f75d40c7b1ccd32d1e3196c97979fa504"
 paginas: "4"
 idioma: "en"
-baixado_em: "2026-10-24T20:31:45Z"
+baixado_em: "2026-10-24T20:57:13Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -239,3 +239,10 @@ Björn is a lecturer at various universities in Switzerland and internationally.
 was a Counsel at the Court of Arbitration for Sport (CAS) in Lausanne, Switzerland.
 
 https://www.linkedin.com/in/bj%C3%B6rn-hessert-72b59a161/
+
+## Links presentes no documento
+
+- https://www.linkedin.com/in/liviakaegi/
+- https://www.linkedin.com/in/dev-kumar-parmar-74351314/
+- https://www.linkedin.com/in/barbora-%C5%A1n%C3%A1blov%C3%A1-841b0b100/
+- https://www.linkedin.com/in/bj%C3%B6rn-hessert-72b59a161/

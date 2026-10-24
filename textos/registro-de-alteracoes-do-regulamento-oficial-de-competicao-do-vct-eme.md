@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news_live/5f05f1c4334e826f1439270a0f5
 sha256: "80f43018851200dfb6a95344c719e4a619c7e580c95387ed9cb342f6813e6b87"
 paginas: "2"
 idioma: "en"
-baixado_em: "2026-10-24T20:30:06Z"
+baixado_em: "2026-10-24T20:55:17Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -61,9 +61,9 @@ Date         Section   Previous Rule                              Updated Rule
                                                                   Match Area.
 
              24.                                                  Tiebreakers
-                                                                      -​ Removed strength of Victory
+                                                                      - Removed strength of Victory
                                                                          as a tiebreaking criteria.
-                                                                      -​ General language cleanup
+                                                                      - General language cleanup
 
 <!-- página 2 -->
 Date         Section     Previous Rule   Updated Rule

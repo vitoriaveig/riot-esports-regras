@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news_live/e069feed802c0aa6e77797e7727
 sha256: "5b8f77313114a972e12280ffd877cc8ed373af3949d1cc635142fb37f07766aa"
 paginas: "63"
 idioma: "en"
-baixado_em: "2026-10-24T20:29:58Z"
+baixado_em: "2026-10-24T20:55:04Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -21,79 +21,79 @@ VALORANT Official Competition Ruleset
 
 <!-- página 2 -->
                                       Table of Contents
-1. Introduction and Purpose​                                      4
-    1.1. Background.​                                             4
-    1.2. Purpose.​                                                4
-    1.3. Acknowledgement and Acceptance.​                         4
-    1.4. Application of the Competition Ruleset.​                 5
-    1.5. Disciplinary Action.​                                    5
-    1.6. Defined Terms.​                                          5
-2. Equipment and Peripherals​                                     6
-    2.1. Team-owned Equipment​                                    6
-    2.2. League Equipment​                                        7
-    2.3. Computer Programs and Usage​                             7
-3. Venue, Competition Area Layout, and Schedule​                  9
-    3.1. General Venue Access​                                    9
-    3.2. Pre-Entry Health Inspection​                             9
-    3.3. Match Area​                                              9
-4. Match Process​                                                11
-    4.1. Changes to Schedule​                                    11
-    4.2. Arrival at Venue​                                       11
-    4.3. Roles of League Officials​                              11
-    4.4. Competitive Patches​                                    12
-    4.5. Pre-Match Setup​                                        13
-    4.6. Match Setup and Play Restrictions​                      15
-    4.7. Starting Roster Submission​                              1
-5. Post-Match Process​                                            1
-    5.1. Post-Match Process​                                      1
-6. Pauses​                                                        1
-    6.1. Timeouts​                                                1
-    6.2. Technical Pauses​                                        1
-    6.3. Player Emergency Pause​                                  1
-7. Bugs​                                                          1
-    7.1. Types of Bugs​                                           1
-    7.2. League Official Initiated Round Rollback​                1
-8. Exploit Adjudication​                                          1
-    8.1. Agent Specific Exploits​                                 1
-    8.2. Assessment of Penalties​                                 1
-    8.3. Types of Penalties​                                      1
-    8.4. Finality of Judgment on Bug and Exploit Adjudication​    1
+1. Introduction and Purpose                                      4
+    1.1. Background.                                             4
+    1.2. Purpose.                                                4
+    1.3. Acknowledgement and Acceptance.                         4
+    1.4. Application of the Competition Ruleset.                 5
+    1.5. Disciplinary Action.                                    5
+    1.6. Defined Terms.                                          5
+2. Equipment and Peripherals                                     6
+    2.1. Team-owned Equipment                                    6
+    2.2. League Equipment                                        7
+    2.3. Computer Programs and Usage                             7
+3. Venue, Competition Area Layout, and Schedule                  9
+    3.1. General Venue Access                                    9
+    3.2. Pre-Entry Health Inspection                             9
+    3.3. Match Area                                              9
+4. Match Process                                                11
+    4.1. Changes to Schedule                                    11
+    4.2. Arrival at Venue                                       11
+    4.3. Roles of League Officials                              11
+    4.4. Competitive Patches                                    12
+    4.5. Pre-Match Setup                                        13
+    4.6. Match Setup and Play Restrictions                      15
+    4.7. Starting Roster Submission                              1
+5. Post-Match Process                                            1
+    5.1. Post-Match Process                                      1
+6. Pauses                                                        1
+    6.1. Timeouts                                                1
+    6.2. Technical Pauses                                        1
+    6.3. Player Emergency Pause                                  1
+7. Bugs                                                          1
+    7.1. Types of Bugs                                           1
+    7.2. League Official Initiated Round Rollback                1
+8. Exploit Adjudication                                          1
+    8.1. Agent Specific Exploits                                 1
+    8.2. Assessment of Penalties                                 1
+    8.3. Types of Penalties                                      1
+    8.4. Finality of Judgment on Bug and Exploit Adjudication    1
 
 
                                                                  2
 
 <!-- página 3 -->
-9. Challenge​                                                1
-    9.1. Requesting Challenge​                               1
-    9.2. Challenges Per Map​                                 1
-    9.3. Official Review​                                    1
-    9.4. Successful Challenge​                               1
-    9.5. Unsuccessful Challenge​                             1
-    9.6. Game Pause for Challenge​                           1
-10. Crashes and Interruptions of Gameplay​                   1
-    10.1. Discontinuity of Gameplay​                         1
-    10.2. Individual Player Gameplay Interruptions​          1
-11. Player and Team Conduct During Matches​                  1
-    11.1. Delay of Game​                                     1
-    11.2. Non-Compliance​                                    1
-    11.3. Unprofessional or Hostile Behavior.​               1
-12. Travel and Expenses​                                     1
-13. Construction, Amendments and Other General Provisions​   1
-    13.1. Priority and Conflicts.​                           1
-    13.2. Amendments to the Competition Ruleset.​            1
-    13.3. Consents and Approvals.​                           1
-    13.4. Construction.​                                     1
-Exhibit 1 - VCT EMEA Event Specific Rules​                   1
-    1. Competition Overview​                                 1
-    2. Kickoff​                                              1
-    3. Stage 1​                                              1
-    4. Stage 2​                                              1
-    5. Championship Points​                                  1
-    6. VCT EMEA Prize Money​                                 1
-    7. VCT International Event Prize Money​                  1
-    8. Tie-Breakers - VCT EMEA​                              1
-Exhibit 2 - VCT Penalty Index​                               1
-Exhibit 3 - Ascension Team Extension & Relegation​           1
+9. Challenge                                                1
+    9.1. Requesting Challenge                               1
+    9.2. Challenges Per Map                                 1
+    9.3. Official Review                                    1
+    9.4. Successful Challenge                               1
+    9.5. Unsuccessful Challenge                             1
+    9.6. Game Pause for Challenge                           1
+10. Crashes and Interruptions of Gameplay                   1
+    10.1. Discontinuity of Gameplay                         1
+    10.2. Individual Player Gameplay Interruptions          1
+11. Player and Team Conduct During Matches                  1
+    11.1. Delay of Game                                     1
+    11.2. Non-Compliance                                    1
+    11.3. Unprofessional or Hostile Behavior.               1
+12. Travel and Expenses                                     1
+13. Construction, Amendments and Other General Provisions   1
+    13.1. Priority and Conflicts.                           1
+    13.2. Amendments to the Competition Ruleset.            1
+    13.3. Consents and Approvals.                           1
+    13.4. Construction.                                     1
+Exhibit 1 - VCT EMEA Event Specific Rules                   1
+    1. Competition Overview                                 1
+    2. Kickoff                                              1
+    3. Stage 1                                              1
+    4. Stage 2                                              1
+    5. Championship Points                                  1
+    6. VCT EMEA Prize Money                                 1
+    7. VCT International Event Prize Money                  1
+    8. Tie-Breakers - VCT EMEA                              1
+Exhibit 2 - VCT Penalty Index                               1
+Exhibit 3 - Ascension Team Extension & Relegation           1
 
 
 
@@ -101,8 +101,8 @@ Exhibit 3 - Ascension Team Extension & Relegation​           1
                                                              3
 
 <!-- página 4 -->
-1.​   Introduction and Purpose
-      1.1.​   Background.
+1.   Introduction and Purpose
+      1.1.   Background.
       VALORANT Champions Tour LLC, a Delaware limited liability company (“League
       Entity”), along with its affiliates (collectively, “Riot”), organizes a series of regional,
       cross-regional, and international esports tournaments and related media events under the
@@ -116,7 +116,7 @@ Exhibit 3 - Ascension Team Extension & Relegation​           1
       Agreements and as more fully described therein, the League Entity has granted each
       Team Entity the right to field a team that will compete in the VCT and its respective
       League (“Team”).
-      1.2.​   Purpose.
+      1.2.   Purpose.
       The League Entity has created this VALORANT Official Competition Ruleset (the
       “Competition Ruleset”) to set forth certain policies, rules and procedures that will apply
       to all Team Entities that have entered into Team Participation Agreements with the
@@ -127,7 +127,7 @@ Exhibit 3 - Ascension Team Extension & Relegation​           1
       event-specific policies, rules and procedures that will apply to all Team Entities
       participating in the applicable event (“Event-Specific Ruleset”). These Event-Specific
       Rulesets are in addition to, and not in lieu of, the Competition Ruleset.
-      1.3.​   Acknowledgement and Acceptance.
+      1.3.   Acknowledgement and Acceptance.
 
       The acknowledgement of the Competition Ruleset, and an agreement to be bound by and
       comply with their terms, is an essential term of each Team Participation Agreement. This
@@ -147,7 +147,7 @@ Exhibit 3 - Ascension Team Extension & Relegation​           1
                                                                                                4
 
 <!-- página 5 -->
-1.4.​   Application of the Competition Ruleset.
+1.4.   Application of the Competition Ruleset.
 
 Each Team Entity acknowledges and agrees that a breach of, or failure to comply with,
 the Competition Ruleset or any Guidance Document by (a) any person or entity who,
@@ -164,7 +164,7 @@ Team Entity, in each instance even in cases where the Team Entity was not, itsel
 This Competition Ruleset applies only to official VCT or League play and not to other
 competitions, tournaments or organized play of VALORANT as administered by
 employees, contractors or agents of the League (“League Officials”).
-1.5.​   Disciplinary Action.
+1.5.   Disciplinary Action.
 
 The League Entity shall be entitled to undertake such disciplinary procedures as it
 determines in relation to any breach of, or failure to comply with, this Competition
@@ -177,7 +177,7 @@ competitive integrity of League Games or the goodwill associated with the Game, 
 VCT and the VCT Leagues, and (iii) are dealt with in compliance with the Riot Games
 Esports Global Code of Conduct, as well as with the TPA and all relevant Rules.
 
-1.6.​   Defined Terms.
+1.6.   Defined Terms.
 
 Capitalized terms in this Competition Ruleset, unless expressly defined otherwise herein,
 shall have the meaning ascribed to such terms in the applicable Team Participation
@@ -189,10 +189,10 @@ Agreement.
                                                                                            5
 
 <!-- página 6 -->
-2.​   Equipment and Peripherals
-      2.1.​   Team-owned Equipment
+2.   Equipment and Peripherals
+      2.1.   Team-owned Equipment
 
-              2.1.1.​ Permitted Player-Owned or Team-Owned Equipment.
+              2.1.1. Permitted Player-Owned or Team-Owned Equipment.
 
               At LAN events held as part of the VCT or a League, players are allowed to bring
               the following categories of equipment, which are owned by themselves or their
@@ -205,7 +205,7 @@ Agreement.
               Team-owned Equipment. If the Team-owned Equipment brought by a player is
               incompatible with the League Entity-provided equipment, the League Entity will
               provide replacement equipment for use by the player.
-              2.1.2.​ Required Approvals for Use of Team-Owned Equipment.
+              2.1.2. Required Approvals for Use of Team-Owned Equipment.
 
               All Team-owned Equipment used at LAN events may be subject to competitive
               integrity checks by League Officials in advance of a Match (as defined in Section
@@ -224,7 +224,7 @@ Agreement.
               brand which is a competitor of Riot or VALORANT. League Officials reserve
               the right to request the Team to cover-up a logo or brand on Team-owned
               Equipment during the event.
-              2.1.3.​ ​Replacement Team-owned Equipment
+              2.1.3. Replacement Team-owned Equipment
 
               Players may bring additional sets of Team-owned Equipment to use as
               replacement in case of equipment failure. The replacement Team-owned
@@ -238,7 +238,7 @@ Agreement.
 <!-- página 7 -->
         Equipment to use in case of equipment failure, then the player must use League
         Entity-provided equipment.
-2.2.​   League Equipment
+2.2.   League Equipment
 
 The League Entity will provide, and players will exclusively use, equipment in the
 following categories for all VCT and League LAN events: (1) PC and monitor, (2) hand
@@ -252,7 +252,7 @@ use of hardware, software or other equipment that is not provided or approved by
 League Officials will be deemed cheating. Players must return all League
 Entity-provided equipment to League Officials when the LAN event is over or upon
 request by League Officials.
-        2.2.1.​ Replacement of League Equipment
+        2.2.1. Replacement of League Equipment
 
         If equipment or technical problems are suspected at a LAN event, a player or
         League Official may request a technical review of the situation. A technician
@@ -260,20 +260,20 @@ request by League Officials.
         issues. Technicians may request that League Officials order replacements of any
         equipment at the applicable technician’s discretion. Decisions regarding the
         replacement of any equipment are solely at the discretion of the League Entity.
-2.3.​   Computer Programs and Usage
+2.3.   Computer Programs and Usage
 
 At LAN events, players and coaches are prohibited from installing their own programs
 and must use only the programs provided by the League Entity. This includes the
 warm-up area computers. If a player wishes to install a program onto the warm-up area
 computers, they must ﬁrst ask a League Official.
-        2.3.1.​ Voice Chat.
+        2.3.1. Voice Chat.
 
         Voice chat will be provided only via the native system used in League
         Entity-provided headsets. Use of third-party voice chat software (e.g., Discord) is
         not permitted at either LAN events or online events, without explicit prior
         approval of League Officials. League Officials may monitor a Team’s audio at
         the discretion of the League Entity.
-        2.3.2.​ Social Media and Communication.
+        2.3.2. Social Media and Communication.
 
         It is prohibited to use League Entity-provided computers to view or post on any
         social media or communication sites. This includes, but is not limited to,
@@ -283,30 +283,30 @@ computers, they must ﬁrst ask a League Official.
                                                                                          7
 
 <!-- página 8 -->
-2.3.3.​ Non-Essential Equipment.
+2.3.3. Non-Essential Equipment.
 
 It is prohibited to connect anything other than permitted Team-owned equipment,
 or League Entity-provided equipment, to League Entity-provided computers, for
 any reason. By way of example, this includes devices such as mobile phones or
 flash drives.
-2.3.4.​ Macros
+2.3.4. Macros
 
 All macro programs, including software macros and hardware implemented
 macros stored in on-board memory of the hardware, external to the VALORANT
 game client are prohibited.
-2.3.5.​ Snap Tap & SOCD
+2.3.5. Snap Tap & SOCD
 
 Unless otherwise instructed by League Officials, players may use Snaptap,
 SOCD, or other equivalent keyboard technologies.
 
-2.3.6.​ Native Programs.
+2.3.6. Native Programs.
 
 Players may use the native programs MS Paint and Notepad before and after
 Matches. Players may not use the native programs MS Paint and Notepad during
 a Match, and must close out of those programs before the start of the Match.
 League Officials may prohibit players from accessing native programs in cases
 of abuse.
-2.3.7.​ Audio Restrictions
+2.3.7. Audio Restrictions
 
 Players and coaches will be required to maintain volume levels above minimum
 settings. League Officials may require players and coaches to increase their
@@ -320,7 +320,7 @@ the player’s ears, except for certain religious articles and/or medical device
 (e.g., hijab, dastar, yarmulke and hearing devices). The determination of whether
 an item qualifies for the religious and/or medical exemption will be made by
 League Officials at their sole discretion.
-2.3.8.​ Equipment Tampering
+2.3.8. Equipment Tampering
 
 At LAN events, players may not touch or handle another player’s equipment
 after a Match has started. Players who require assistance with their equipment
@@ -330,7 +330,7 @@ should ask for assistance from a League Official.
                                                                                8
 
 <!-- página 9 -->
-              2.3.9.​ Display Resolutions
+              2.3.9. Display Resolutions
 
               At LAN events, players may only use the display resolutions offered natively in
               the in-game client. Players are prohibited from using any out-of-client method to
@@ -339,13 +339,13 @@ should ask for assistance from a League Official.
               comply with any instructions or guidance documents regarding display
               resolutions provided by League Officials, which may be updated from time to
               time.
-3.​   Venue, Competition Area Layout, and Schedule
-      3.1.​   General Venue Access
+3.   Venue, Competition Area Layout, and Schedule
+      3.1.   General Venue Access
 
       At LAN events, access for Teams to the restricted areas of venues for official Matches is
       restricted to Team Personnel only, unless otherwise approved, in advance, by the League
       Entity. Permission to attend Matches is solely at the discretion of the League Entity.
-      3.2.​   Pre-Entry Health Inspection
+      3.2.   Pre-Entry Health Inspection
 
       At LAN events, each Team Personnel must verify their identity with League Officials
       prior to entering the venue for official Matches. Additionally, League Officials will have
@@ -360,13 +360,13 @@ should ask for assistance from a League Official.
       sanitation or public safety procedures, League Officials will have full authority to
       implement those procedures, and all players will cooperate with League Officials in the
       implementation of those procedures.
-      3.3.​   Match Area
+      3.3.   Match Area
 
       The “Match Area” is the area immediately surrounding any competition PCs used
       during Match play at a LAN or online event. During Match play, the presence of Team
       Personnel in the Match Area is restricted solely to the players of the Teams in play that
       are participating in the Match, and the coaches in accordance with Section 3.3.2.
-              3.3.1.​ Team Personnel.
+              3.3.1. Team Personnel.
 
               Credentialed Team Personnel, including team managers, translators, and other
               Team support staff that have been registered and given credentials for the event
@@ -382,7 +382,7 @@ of the Match.
 The total number of Team Personnel, including the players, coaches, and other
 Team Personnel, allowed in the Match Area during the Match prep process may
 not exceed eight (8).
-3.3.2.​ Coach Match Area Access.
+3.3.2. Coach Match Area Access.
 
 The Team may designate one (1) coach that will participate on stage during the
 Match (“Match Coach”). At the discretion of League Officials, the Team may
@@ -392,7 +392,7 @@ will be classified as the Match Coach. The Match Coach for Teams participating
 in a given day’s Matches will be granted Match Area access during those
 Matches, and will be allowed to communicate with their Team during the map
 pick/ban and agent selection process.
-3.3.3.​ Wireless Devices and Player Accessories.
+3.3.3. Wireless Devices and Player Accessories.
 
 No electronic devices, including, but not limited to: mobile phones, tablets, and
 smart watches are allowed in the Match Area and the Team huddle rooms during
@@ -404,7 +404,7 @@ All personal accessories worn or otherwise brought into the Match Area must be
 approved by League Officials, and must be presented for inspection by League
 Officials upon request. League Officials, at their sole discretion, may prohibit a
 personal accessory from being brought into the Match Area.
-3.3.4.​ Notes and Notepads.
+3.3.4. Notes and Notepads.
 
 Players are not permitted to bring any written or printed materials into the Match
 Area during a Match.
@@ -415,7 +415,7 @@ Match Coaches are prohibited from using the written or printed materials to
 communicate or convey information to the players during a Match outside of
 timeouts, halftimes, between maps, and other time periods where communication
 between coaches and players is allowed.
-3.3.5.​ Consumable Restrictions.
+3.3.5. Consumable Restrictions.
 
 
 
@@ -423,25 +423,25 @@ between coaches and players is allowed.
 
 <!-- página 11 -->
               Allowed Consumables:
-                 ●​ Drinks are permitted in the Match Area only in League Entity-approved
+                 ● Drinks are permitted in the Match Area only in League Entity-approved
                     re-sealable containers. League Officials will provide such containers to
                     players upon request.
-                 ●​ Chewing gum is allowed in the Match Area.
+                 ● Chewing gum is allowed in the Match Area.
               Prohibited Consumables:
-                 ●​ Food is prohibited in the Match Area.
-                 ●​ Tobacco and other nicotine products are prohibited in the Match Area.
+                 ● Food is prohibited in the Match Area.
+                 ● Tobacco and other nicotine products are prohibited in the Match Area.
               Teams may not leave any trash or gum within the Match Area after the
               conclusion of the Match. League Officials reserve the right to prohibit other
               items or consumables at their discretion.
 
-4.​   Match Process
-      4.1.​   Changes to Schedule
+4.   Match Process
+      4.1.   Changes to Schedule
 
       League Officials may, at their sole discretion, re-order the schedule of Matches within a
       given day and/or change the date of a Match to a diﬀerent date or otherwise modify the
       schedule of Matches. In the event that the League Officials modify a Match schedule,
       they will notify all Teams as soon as possible.
-      4.2.​   Arrival at Venue
+      4.2.   Arrival at Venue
 
       Members of a Team’s Active Roster (as defined in the VCT Roster Construction Rules)
       who are participating in a LAN event held as part of the VCT or a League must arrive at
@@ -450,57 +450,57 @@ between coaches and players is allowed.
       ready to join the Match lobby no later than thirty (30) minutes before the Team’s
       scheduled Match time specified by League Officials. Sanctions for tardiness may be
       assessed at the discretion of League Officials.
-      4.3.​   Roles of League Officials
+      4.3.   Roles of League Officials
 
-              4.3.1.​ Match Operations Lead.
+              4.3.1. Match Operations Lead.
 
               The “Match Operations Lead” is a League Official who is responsible for
               judgments on every Match-related issue that impacts competitive integrity. The
               role of this person includes, but is not limited to:
-              ●​ Making the final determination on technical pauses and their appropriate
+              ● Making the final determination on technical pauses and their appropriate
                  duration.
-              ●​ Ensuring tactical timeouts are valid and all parties are informed.
-              ●​ Evaluating bug and exploit occurrences and any potential repercussions.
+              ● Ensuring tactical timeouts are valid and all parties are informed.
+              ● Evaluating bug and exploit occurrences and any potential repercussions.
 
 
 
                                                                                             11
 
 <!-- página 12 -->
-        ●​ Making judgment calls regarding round rollbacks and all other issues that
+        ● Making judgment calls regarding round rollbacks and all other issues that
            may affect the competitive integrity of the game.
-        ●​ Coordinating map pick/ban process.
-        ●​ Making the final determination on all Match Operations Regulations
-           (Section 11.4.)​
+        ● Coordinating map pick/ban process.
+        ● Making the final determination on all Match Operations Regulations
+           (Section 11.4.)
 
-        4.3.2.​ Head Referee.
+        4.3.2. Head Referee.
 
         The “Head Referee” is a League Official who is responsible for pre- and post-
         Match setup as well as the in-game lobby. Their oversight includes, but is not
         limited to:
-        ●​ Checking the Team’s lineup before a Match.
-        ●​ Checking and monitoring player peripherals and Match Areas, if applicable.
-        ●​ Announcing the beginning of the Match.
-        ●​ Ordering pause/resume during play.
-        ●​ Informing Teams of sanctions and Disciplinary Action in response to rule
+        ● Checking the Team’s lineup before a Match.
+        ● Checking and monitoring player peripherals and Match Areas, if applicable.
+        ● Announcing the beginning of the Match.
+        ● Ordering pause/resume during play.
+        ● Informing Teams of sanctions and Disciplinary Action in response to rule
            violations during the Match.
-        ●​ Making Match-related determinations under this Competition Ruleset,
+        ● Making Match-related determinations under this Competition Ruleset,
            including with regard to pauses and stoppages of play.
-        ●​ Confirming the end of the Match and its results.​
+        ● Confirming the end of the Match and its results.
 
 
-        4.3.3.​ Stage Referees
+        4.3.3. Stage Referees
 
         The “Stage Referees” are under the direction of the Match Operations Lead and
         the Head Referee. Responsibilities include but are not limited to:
-        ●​ Admitting or denying access to the Match Areas, if applicable.
-        ●​ Carrying out security protocols directed by the Head Referee and other
+        ● Admitting or denying access to the Match Areas, if applicable.
+        ● Carrying out security protocols directed by the Head Referee and other
            League Officials, and/or in support of this Competition Ruleset.
-        ●​ Administering the player checklist and enforcing this Competition Ruleset,
+        ● Administering the player checklist and enforcing this Competition Ruleset,
            including directing players to take or refrain from taking any action.
-        ●​ Communicating with players about any issues experienced, in-game and out.​
+        ● Communicating with players about any issues experienced, in-game and out.
 
-        4.3.4.​ Finality of Judgment.
+        4.3.4. Finality of Judgment.
 
         All decisions regarding the interpretation of this Competition Ruleset, player
         eligibility, scheduling and staging of the event, and penalties for misconduct, lie
@@ -508,7 +508,7 @@ between coaches and players is allowed.
         Operations Lead decisions with respect to this Competition Ruleset cannot be
         appealed and shall not give rise to any claim for monetary damages or any other
         legal or equitable remedy.
-4.4.​   Competitive Patches
+4.4.   Competitive Patches
 
 
 
@@ -517,19 +517,19 @@ between coaches and players is allowed.
 <!-- página 13 -->
 All official Matches of the VCT and the Leagues will be played on the patch version
 specified by League Officials.
-        4.4.1.​ New Agents
+        4.4.1. New Agents
 
         New agents will be automatically restricted for approximately two weeks from
         their release on the live Competitive queue. Example: Agent A was released on
         February 5, so Agent A will become eligible to be used in all Matches on
         February 19.
-        4.4.2.​ New Maps
+        4.4.2. New Maps
 
         New maps will be automatically restricted for approximately four weeks (28
         days) from their release on live Competitive queue. Example: Map A was
         released on January 1, so Map A will become eligible to be used in all Matches
         on January 29.
-        4.4.3.​ Additional Restrictions
+        4.4.3. Additional Restrictions
 
         Additional restrictions (e.g., disabling certain weapons) may be added by League
         Officials at any time before or during a Match, if there are known bugs with any
@@ -537,25 +537,25 @@ specified by League Officials.
         may be extended or reduced at the discretion of League Officials.
         Eligibility for new agents and maps for an official Match of the VCT and the
         Leagues will be communicated to Teams in advance by League Officials.
-4.5.​   Pre-Match Setup
+4.5.   Pre-Match Setup
 
-        4.5.1.​ Player Accounts.
+        4.5.1. Player Accounts.
 
         Players will be provided with accounts (“Tournament Realm Accounts”) for
         use in all official Matches of the VCT and the Leagues. Tournament Realm
         Accounts will be named using the official Team tag followed by the player’s
         official tournament handle.
-        4.5.2.​ Game Settings
+        4.5.2. Game Settings
 
-        ●​ All players will be required to have the in-game settings for blood and
+        ● All players will be required to have the in-game settings for blood and
            bodies turned off.
-        ●​ Titles and gun buddies awarded for winning an event, including Masters,
+        ● Titles and gun buddies awarded for winning an event, including Masters,
            Champions, and Game Changers Champions, may only be equipped by
            players that have earned those titles and gun buddies.
-        ●​ FPS/Latency text and graph trackers must be disabled during gameplay.
+        ● FPS/Latency text and graph trackers must be disabled during gameplay.
            Graphs are permitted during tech checks and warm ups for player usage.
 
-        4.5.3.​ Setup Time.
+        4.5.3. Setup Time.
 
 
 
@@ -570,24 +570,24 @@ to have begun once players enter the Match Area, at which point they are not
 allowed to leave without permission of the on-site League Official and
 accompaniment by another League Official.
 Setup is comprised of the following:
-●​ Confirm Tournament Realm Account name accuracy
-●​ Ensuring the quality of all League Entity-provided equipment.
-●​ Connecting and calibrating peripherals.
-●​ Ensuring proper function of voice chat system.
-●​ Selecting skins.
-●​ Adjusting in-game settings
-●​ Limited in-game warm-up.
-4.5.4.​ Lighting Levels.
+● Confirm Tournament Realm Account name accuracy
+● Ensuring the quality of all League Entity-provided equipment.
+● Connecting and calibrating peripherals.
+● Ensuring proper function of voice chat system.
+● Selecting skins.
+● Adjusting in-game settings
+● Limited in-game warm-up.
+4.5.4. Lighting Levels.
 
 Players may request adjustments to the level of lighting being directed at the
 stage during the setup process. However, there will be a minimum level of stage
 lighting required by the League Officials, and the lighting will not be lowered
 below this level.
-4.5.5.​ Technical Failure of Equipment.
+4.5.5. Technical Failure of Equipment.
 
 If a player encounters any equipment problems during any phase of the setup
 process, the player must notify a League Official immediately.
-4.5.6.​ Timelines of Match Start.
+4.5.6. Timelines of Match Start.
 
 It is expected that players will resolve any issues with the setup process within
 the allotted time and that the Match will begin at the scheduled time. Sanctions
@@ -598,7 +598,7 @@ Ready State”). During Team Ready State, all players must be out of the range,
 must be in the correct lobby order, must exit out of all native programs, and be
 prepared to enter the Match. Sanctions for tardiness in entering the Team Ready
 State may be assessed at the discretion of League Officials.
-4.5.7.​ Player Ready State.
+4.5.7. Player Ready State.
 
 No fewer than five minutes before an official Match is scheduled to begin, a
 referee will conﬁrm with each player that their setup is complete. Once all ten
@@ -613,12 +613,12 @@ referee will conﬁrm with each player that their setup is complete. Once all te
         Once all ten players in a Match have confirmed completion of setup, all settings
         will be considered complete and no pauses or delay of the Match will be allowed
         for minor settings issues.
-        4.5.8.​ Match Lobby Creation.
+        4.5.8. Match Lobby Creation.
 
         All official Matches of the VCT and the Leagues will be played in Match lobbies
         hosted by the League Entity. League Officials will decide how the official Match
         lobby will be created.
-        4.5.9.​ Online Matches.
+        4.5.9. Online Matches.
 
         For official online Matches, players will be expected to complete setup, as
         outlined in Section 4.5.3. and the VCT Online Play Regulations shared with
@@ -627,12 +627,12 @@ referee will conﬁrm with each player that their setup is complete. Once all te
         performance of their chosen setup, including computer hardware and peripherals,
         internet connection, DDOS protection and power. Issues with this setup are not
         an acceptable reason for lateness or pausing beyond a Team’s allowance.
-        4.5.10.​Pre-Match Obligations.
+        4.5.10.Pre-Match Obligations.
 
         Players will be informed of any pre-Match obligations, including, but not limited
         to, media appearances, interviews, or further discussion of any Match matters.
         Players are required to perform these pre-Match obligations.
-        4.5.11.​Pre-Match Schedule.
+        4.5.11.Pre-Match Schedule.
 
         All Teams are obligated to adhere to any pre-Match schedule provided to the
         Teams by League Officials. The pre-Match schedule may include designated
@@ -642,9 +642,9 @@ referee will conﬁrm with each player that their setup is complete. Once all te
         pre-Match requirements. Sanctions for tardiness and/or failure to comply with the
         obligations set forth in the pre-Match schedule may be assessed at the discretion
         of League Officials.
-4.6.​   Match Setup and Play Restrictions
+4.6.   Match Setup and Play Restrictions
 
-        4.6.1.​ Match Definition
+        4.6.1. Match Definition
 
         A “game” is an instance of competition on a VALORANT map that is played
         until a winner is determined for the map. A “Match” is a set of games that is
@@ -661,33 +661,33 @@ winning three games out of five will be considered a “Bo5 Match”. The winnin
 Team will either receive a win tally in a league format or advance to the next
 round in a tournament format. In a “best-of-one” (“Bo1”) format, the terms game
 and Match may be used interchangeably.
-4.6.2.​ Lobby Settings.
+4.6.2. Lobby Settings.
 
 The official Match lobby will be set to “Tournament” mode with “Overtime: Win
 by Two” turned on.
-4.6.3.​ Server Selection for LAN Matches.
+4.6.3. Server Selection for LAN Matches.
 
 Matches will be hosted on a local server.
-4.6.4.​ Server Selection for Online Matches.
+4.6.4. Server Selection for Online Matches.
 
 Any online Matches played as part of the VCT and the Leagues will be hosted on
 servers selected by League Officials based on ping for computers within the
 applicable Hub City.
-4.6.5.​ Start of Map Selection Process.
+4.6.5. Start of Map Selection Process.
 
 For the first Match of the day, the map selection process will begin at least sixty
 (60) minutes prior to the start of map one. For all other Matches, the map
 selection process will begin at the start of the second map of the previous Match.
 Under no circumstances may a map be played twice in one Match unless all
-other available maps have been played.​
-​
+other available maps have been played.
+
 For map selection processes that require a coin toss, Teams will be assigned
 heads or tails based on alphabetical order of the Team Tag.
-4.6.6.​ Map Pool.
+4.6.6. Map Pool.
 
 The map pool consists of seven (7) maps at any given time, with changes made
 from time to time during the season.
-4.6.7.​ Map Selection Process for Best-of-One Matches.
+4.6.7. Map Selection Process for Best-of-One Matches.
 
 The better-seeded team will decide if they are either Team A or Team B. If the
 tournament in question has no predetermined seeding, the “better-seeded team”
@@ -695,39 +695,21 @@ for purposes of this Section will be determined at random. When instructed in th
 map selection process, the Team must ban a map and cannot choose to skip the
 map ban. Team A starts the process and the map for the Match will be selected
 according to the following procedure:
-           ●​ Team A bans 1 map
+           ● Team A bans 1 map
 
 
                                                                                 16
 
 <!-- página 17 -->
-           ●​ Team B bans 1 map
-           ●​ Team A bans 1 map
-           ●​ Team B bans 1 map
-           ●​ Team A bans 1 map
-           ●​ Team B bans 1 map
-           ●​ Map 7 is only map remaining
-           ●​ Team A picks side
+           ● Team B bans 1 map
+           ● Team A bans 1 map
+           ● Team B bans 1 map
+           ● Team A bans 1 map
+           ● Team B bans 1 map
+           ● Map 7 is only map remaining
+           ● Team A picks side
 
-4.6.8.​ Map Selection Process for Best-of-Three Matches.
-
-The better-seeded team will decide if they are either Team A or Team B. If the
-tournament in question has no predetermined seeding, the “better-seeded team”
-for purposes of this Section will be determined at random. When instructed in the
-map selection process, the Team must ban a map and cannot choose to skip the
-map ban. Team A starts the process and the map for the Match will be selected
-according to the following procedure:
-           ●​ Team A bans one map
-           ●​ Team B bans one map
-           ●​ Team A picks map 1
-           ●​ Team B picks side for map 1
-           ●​ Team B picks map 2
-           ●​ Team A picks side for map 2
-           ●​ Team A bans one map
-           ●​ Team B bans one map
-           ●​ Map 3 is only map remaining
-           ●​ Team A picks side for map 3
-4.6.9.​ Map Selection Process for Best-of-Five Matches.
+4.6.8. Map Selection Process for Best-of-Three Matches.
 
 The better-seeded team will decide if they are either Team A or Team B. If the
 tournament in question has no predetermined seeding, the “better-seeded team”
@@ -735,41 +717,59 @@ for purposes of this Section will be determined at random. When instructed in th
 map selection process, the Team must ban a map and cannot choose to skip the
 map ban. Team A starts the process and the map for the Match will be selected
 according to the following procedure:
-           ●​ Team A bans one map
+           ● Team A bans one map
+           ● Team B bans one map
+           ● Team A picks map 1
+           ● Team B picks side for map 1
+           ● Team B picks map 2
+           ● Team A picks side for map 2
+           ● Team A bans one map
+           ● Team B bans one map
+           ● Map 3 is only map remaining
+           ● Team A picks side for map 3
+4.6.9. Map Selection Process for Best-of-Five Matches.
+
+The better-seeded team will decide if they are either Team A or Team B. If the
+tournament in question has no predetermined seeding, the “better-seeded team”
+for purposes of this Section will be determined at random. When instructed in the
+map selection process, the Team must ban a map and cannot choose to skip the
+map ban. Team A starts the process and the map for the Match will be selected
+according to the following procedure:
+           ● Team A bans one map
 
 
                                                                               17
 
 <!-- página 18 -->
-           ●​ Team B bans one map
-           ●​ Team A picks map 1
-           ●​ Team B picks side for map 1
-           ●​ Team B picks map 2
-           ●​ Team A picks side for map 2
-           ●​ Team A picks map 3
-           ●​ Team B picks side for map 3
-           ●​ Team B picks map 4
-           ●​ Team A picks side for map 4
-           ●​ Map 5 is only map remaining
-           ●​ Team B picks side for map 5
-4.6.10.​Map Selection Process for Double Elimination Grand-Finals.
+           ● Team B bans one map
+           ● Team A picks map 1
+           ● Team B picks side for map 1
+           ● Team B picks map 2
+           ● Team A picks side for map 2
+           ● Team A picks map 3
+           ● Team B picks side for map 3
+           ● Team B picks map 4
+           ● Team A picks side for map 4
+           ● Map 5 is only map remaining
+           ● Team B picks side for map 5
+4.6.10.Map Selection Process for Double Elimination Grand-Finals.
 
 The upper bracket team will decide if they are either Team A or Team B. When
 instructed in the map selection process, the Team must ban a map and cannot
 choose to skip the map ban. Map picks and bans for the Match will be selected
 according to the following procedure:
-           ●​ Upper bracket Team bans two maps
-           ●​ Team A picks map 1
-           ●​ Team B picks side for map 1
-           ●​ Team B picks map 2
-           ●​ Team A picks side for map 2
-           ●​ Team A picks map 3
-           ●​ Team B picks side for map 3
-           ●​ Team B picks map 4
-           ●​ Team A picks side for map 4
-           ●​ Map 5 is only map remaining
-           ●​ Team B picks side for map 5
-4.6.11.​Start of Agent Selection Process.
+           ● Upper bracket Team bans two maps
+           ● Team A picks map 1
+           ● Team B picks side for map 1
+           ● Team B picks map 2
+           ● Team A picks side for map 2
+           ● Team A picks map 3
+           ● Team B picks side for map 3
+           ● Team B picks map 4
+           ● Team A picks side for map 4
+           ● Map 5 is only map remaining
+           ● Team B picks side for map 5
+4.6.11.Start of Agent Selection Process.
 
 
 
@@ -785,30 +785,30 @@ process will be restarted with the same picks up until the mistake occurred, aft
 which the player must choose their intended agent. In the case the player notifies
 a League Official after the timer has expired, the Agent Select process will not be
 restarted and the player will be required to play through.
-4.6.12.​Match Start After Agent and Map Selection.
+4.6.12.Match Start After Agent and Map Selection.
 
 A Match will start immediately after the agent/map Selection process is
 complete, unless otherwise stated by a League Official. Players are not allowed
 to quit a map during the time between the completion of picks/bans and map
 launch, also known as “Free Time.”
-4.6.13.​Controlled Match Start.
+4.6.13.Controlled Match Start.
 
 In the event of an error in Match start or a decision by League Officials to
 separate the pick/ban process from Match start, a League Official may start the
 Match in a controlled manner and all maps will be selected in accordance with
 the previous valid completed pick/ban process.
-4.6.14.​Slow Client Load.
+4.6.14.Slow Client Load.
 
 If a Game crash, disconnect, or any other failure occurs which interrupts the
 loading process and prevents a player from joining a Match on Match start, the
 Match must be immediately paused until all ten players are connected to the
 Match.
-4.6.15.​Restrictions on Gameplay Elements.
+4.6.15.Restrictions on Gameplay Elements.
 
 Restrictions may be added at any time before or during a Match, if there are
 known or suspected bugs with any agents, skins or maps, or for any other reason
 as determined at the discretion of League Officials.
-4.6.16.​Substitutions during Tournament Play.
+4.6.16.Substitutions during Tournament Play.
 
 For Matches involving more than one map (i.e., a best-of-three or best-of-five
 Match), a Team may replace their then-current starters with substitutes from the
@@ -826,31 +826,31 @@ inform the opposing Team of any substitution once approved.
               Once a Team decides to use a substitution, the substitute player must
               immediately enter the Match Area and complete the setup process, as outlined in
               Section 4.5.3., within five (5) minutes.
-      4.7.​   ​Starting Roster Submission
+      4.7.   Starting Roster Submission
 
-              ​Starting Rosters will be considered public at the time of submission, as outlined
-              ​below.​
-              ​
-              ​Requests to modify a Team’s Starting Roster for a Match during a competition
-              ​week must be submitted to League Officials 24 hours prior to the first Match of
-              ​the Match day.
+              Starting Rosters will be considered public at the time of submission, as outlined
+              below.
+              
+              Requests to modify a Team’s Starting Roster for a Match during a competition
+              week must be submitted to League Officials 24 hours prior to the first Match of
+              the Match day.
 
-              ​In the event that a Team has a Match scheduled on consecutive days (e.g. during
-              ​Playoffs), Starting Rosters must be submitted to League Officials no later than 10
-              ​minutes following the conclusion of the last Match on the day prior to the Team’s
-              ​next Match.
+              In the event that a Team has a Match scheduled on consecutive days (e.g. during
+              Playoffs), Starting Rosters must be submitted to League Officials no later than 10
+              minutes following the conclusion of the last Match on the day prior to the Team’s
+              next Match.
 
 
-5.​   Post-Match Process
-      5.1.​   Post-Match Process
+5.   Post-Match Process
+      5.1.   Post-Match Process
 
-              5.1.1.​ Results.
+              5.1.1. Results.
 
               League Officials will conﬁrm and record the Match result.
-              5.1.2.​ Tech Notes.
+              5.1.2. Tech Notes.
 
               Players will identify any technical issues with League Officials.
-              5.1.3.​ Between Maps.
+              5.1.3. Between Maps.
 
               League Officials will inform players of the remaining amount of time before the
               next map in the Match, if applicable. The standard time for transition in between
@@ -863,7 +863,7 @@ inform the opposing Team of any substitution once approved.
               designated restroom. Players are not allowed to move to any other location that
               has not been specifically authorized by League Officials for use during the
               transition time.
-              5.1.4.​ Between Matches.
+              5.1.4. Between Matches.
 
 
                                                                                               20
@@ -875,20 +875,20 @@ inform the opposing Team of any substitution once approved.
               of the conclusion of the previous Match, and begin the setup process. The next
               Match will commence as soon as both Teams have confirmed to a League
               Official that all players are ready to play.
-              5.1.5.​ Post-Match Obligations.
+              5.1.5. Post-Match Obligations.
 
               Players will be informed of any post-Match obligations, including, but not
               limited to, media appearances, interviews, or further discussion of any Match
               matters. Players are required to perform these post-Match obligations.
-              5.1.6.​ Results of Forfeiture.
+              5.1.6. Results of Forfeiture.
 
               Matches won by forfeit will be reported by the minimum score it would take for
               one Team to win the Match (e.g., 1-0 for best-of-1 Matches, 2-0 for best-of-three
               Matches, 3-0 for best-of-ﬁve Matches). All forfeited map results will be reported
               as a 13-0. No other statistics will be recorded for forfeited Matches.
 
-6.​   Pauses
-      6.1.​   Timeouts
+6.   Pauses
+      6.1.   Timeouts
 
          Teams are allowed to call timeouts of sixty (60) seconds in duration (“Timeouts”)
          two times per map during the first 24 rounds of the map (“Regulation”), at any time
@@ -897,7 +897,7 @@ inform the opposing Team of any substitution once approved.
          overtime, each team will be granted one Timeout to use for overtime. Unused
          Timeouts from Regulation will not carry over to overtime.
 
-              6.1.1.​ Timeout Protocol
+              6.1.1. Timeout Protocol
 
               Communication will be limited to players and coaches. All Timeouts must be
               taken within the first twenty (20) seconds of a Buy Phase. Any Timeout taken
@@ -905,7 +905,7 @@ inform the opposing Team of any substitution once approved.
               after the end of the half or the end of regulation, in which case the Timeout will
               be spent with no additional time given.
               Players are not allowed to leave the Match Area at any time during a Timeout.
-              6.1.2.​ Timeout Agent Control
+              6.1.2. Timeout Agent Control
 
               During a Timeout, headsets have to stay on and players are prohibited from
               controlling their agent (i.e., players can not move or use utility during a
@@ -916,18 +916,18 @@ inform the opposing Team of any substitution once approved.
                                                                                                21
 
 <!-- página 22 -->
-6.2.​   Technical Pauses​
+6.2.   Technical Pauses
 
-        6.2.1.​ Technical Pauses Categories
+        6.2.1. Technical Pauses Categories
 
-        ●​ Suspension of Play (Expected delay: Greater than 10 minutes)
+        ● Suspension of Play (Expected delay: Greater than 10 minutes)
         Examples: player disconnected from game, monitor went black, computer froze
         for longer than 3 seconds (less time could classify as an equipment check), any
         programs crashed during gameplay, etc.
-        ●​ Equipment Check (Expected delay: 3-5 minutes)
+        ● Equipment Check (Expected delay: 3-5 minutes)
         Examples: mouse battery died, peripheral stopped working, audio became
         bugged, settings suddenly reset, etc.
-        6.2.2.​ Technical Pause Protocol
+        6.2.2. Technical Pause Protocol
         If a player has a problem that prevents the player from continuing play, the
         player must notify League Officials and request a technical pause. The player
         must announce the reason when requesting a technical pause, and the Head
@@ -950,7 +950,7 @@ inform the opposing Team of any substitution once approved.
         Team may be sanctioned for delay of game.
         Players are not allowed to leave the Match Area at any time during a technical
         pause.
-        6.2.3.​ Technical Pause Agent Control
+        6.2.3. Technical Pause Agent Control
 
         During a technical pause, headsets have to stay on and players are prohibited
         from controlling their agent (i.e., players can not move or use utility during a
@@ -962,15 +962,15 @@ inform the opposing Team of any substitution once approved.
 <!-- página 23 -->
         voice communication between players and coaches is forbidden during a
         technical pause, unless instructed to do so by a League Official.
-        6.2.4.​ Invalid Technical Pauses
+        6.2.4. Invalid Technical Pauses
         Technical pauses will not be granted for the following non-exhaustive reasons:
-        ●​ Accidentally hitting power button of monitor;
-        ●​ Minor audio adjustments; or
-        ●​ In-ear headphone adjustments.
+        ● Accidentally hitting power button of monitor;
+        ● Minor audio adjustments; or
+        ● In-ear headphone adjustments.
 
-6.3.​   Player Emergency Pause
+6.3.   Player Emergency Pause
 
-        6.3.1.​ Player Emergency Protocol.
+        6.3.1. Player Emergency Protocol.
 
         Teams may be granted one (1) pause for an emergency situation (“Player
         Emergency Pause”) per map in a Match, for an aggregate total of ten (10)
@@ -978,23 +978,23 @@ inform the opposing Team of any substitution once approved.
         allotted by League Officials, then the players using the Player Emergency Pause
         will become ineligible to continue play for the remainder of the match and must
         be substituted. League Officials, at their sole discretion, may authorize additional
-        pauses per map and/or additional time for Player Emergency Pauses.​
+        pauses per map and/or additional time for Player Emergency Pauses.
 
         If the Team is unable to field a full five (5) players, the team shall forfeit the
         Match unless a League Official, in their discretion, determines that victory in the
         Match shall be awarded to one of the Teams. Teams that misuse the Player
         Emergency Pause for non-emergencies will be sanctioned.
 
-        6.3.2.​ Determination of Emergency Situations.
+        6.3.2. Determination of Emergency Situations.
 
-        ​The classification of an incident as a Player Emergency will be at the sole
+        The classification of an incident as a Player Emergency will be at the sole
         discretion of Event Officials. Teams must provide sufficient information to Event
         Officials to support their claim of an emergency. Event Officials reserve the right
         to deny a Player Emergency Pause if the situation does not meet the criteria for
         an emergency as determined by their judgment. All decisions made by Event
-        Officials in this regard are final and not subject to appeal.​
+        Officials in this regard are final and not subject to appeal.
 
-        6.3.3.​ Illness, Injury, or Disability.
+        6.3.3. Illness, Injury, or Disability.
 
         Minor player illness, injury, or disability will not be considered a valid reason for
         a Player Emergency Pause. If a player has concerns about their ability to
@@ -1002,7 +1002,7 @@ inform the opposing Team of any substitution once approved.
         Match. During the Match, League Officials will assess any reported issues and
         determine whether the player can continue playing.
 
-        6.3.4.​ Bio Breaks
+        6.3.4. Bio Breaks
 
 
                                                                                           23
@@ -1013,18 +1013,18 @@ inform the opposing Team of any substitution once approved.
 
               During this time:
 
-                 ●​ Players will be escorted by League Officials to approved facilities.
-                 ●​ Coaches and other team staff may not communicate with players during
+                 ● Players will be escorted by League Officials to approved facilities.
+                 ● Coaches and other team staff may not communicate with players during
                     the bio break.
-                 ●​ Coaches must remain in the coach rooms unless otherwise instructed.
-                 ●​ Any unauthorized communication will be penalized.
-7.​   Bugs
-      7.1.​   Types of Bugs
+                 ● Coaches must remain in the coach rooms unless otherwise instructed.
+                 ● Any unauthorized communication will be penalized.
+7.   Bugs
+      7.1.   Types of Bugs
 
       A bug is an error, flaw, or fault in the Game that produces an incorrect, unintended, or
       unexpected result. Bug classification will be communicated via the Esports Bug List
       shared with each patch.
-              7.1.1.​ ​Play Through Bug
+              7.1.1. Play Through Bug
 
               A “Play Through Bug” is defined as a bug that does not significantly alter the
               competitive integrity of the game. This may mean that there are mitigation steps
@@ -1032,7 +1032,7 @@ inform the opposing Team of any substitution once approved.
               remake.
               All Play Through Bugs are not eligible to be challenged for evaluation according
               to the process in Section 9.
-              7.1.2.​ ​Major Bugs
+              7.1.2. Major Bugs
 
               A “Major Bug” is defined as a bug that has the potential to significantly impact
               a player’s ability to compete in the game, significantly alters game stats or
@@ -1040,7 +1040,7 @@ inform the opposing Team of any substitution once approved.
               of impact will be at the sole discretion of League Officials.
               Major Bugs are eligible to be challenged for evaluation according to the process
               in Section 9.
-              7.1.3.​ Unknown Bugs
+              7.1.3. Unknown Bugs
 
               An “Unknown Bug” is defined as a bug that is not on the Esports Bug List
               shared with the current patch.
@@ -1054,41 +1054,41 @@ inform the opposing Team of any substitution once approved.
                                                                                              24
 
 <!-- página 25 -->
-              7.1.4.​ Game Breaking Bugs
+              7.1.4. Game Breaking Bugs
 
               A “Game Breaking Bug” is defined as a bug whose occurrence undermines the
               competitive integrity of a round as a whole, and causes the outcome of the round
               to become undeterminable. Any bugs that fall within this category will be
               explicitly listed in the Esports Bug List shared with each patch.
-      7.2.​   League Official Initiated Round Rollback
+      7.2.   League Official Initiated Round Rollback
 
-              7.2.1.​ Pre-Damage
+              7.2.1. Pre-Damage
 
               If, at the time that a bug occurs in a round, no damage has been directly caused
               by any player to an opponent in the round, then League Officials may initiate a
               round rollback for bugs that impact a player’s ability to compete in the game for
               reasons outside of the player’s control.
-              7.2.2.​ Post-Damage
+              7.2.2. Post-Damage
 
               If, at the time that a bug occurs in a round, damage has already been directly
               caused by a player to an opponent in the round, then League Officials will not
               initiate a round rollback outside of the Challenge process defined in Section 9.
-              7.2.3.​ Round Rollback for Game Breaking Bugs
+              7.2.3. Round Rollback for Game Breaking Bugs
 
               If a Game Breaking Bug occurs at any time during a round, League Officials will
               initiate a round rollback to restore the game to the start of the round.
 
-8.​   ​Exploit Adjudication
+8.   Exploit Adjudication
       A player-caused bug that has the potential to significantly alter the competitive integrity
       of the game and provide an unintended competitive advantage. As a standard, regardless
       of impact, exploit usage is not permitted and if found will result in a penalty, as outlined
       below.
-      8.1.​   Agent Specific Exploits
+      8.1.   Agent Specific Exploits
 
       Non-limiting examples of “Agent Specific Exploits” are detailed in the Esports Bug
       List. Any use of a bug or exploit specifically listed in the Esports Bug List, or covered
       under a blanket prohibition will be considered a violation of these rules.
-              8.1.1.​ ​Cypher
+              8.1.1. Cypher
               All Cypher cam placements that afford an unfair competitive advantage via
               abusing map textures and/or geometry to prevent the Cypher cam from being
               destroyed or seen are considered banned exploits. All Cypher cam placements
@@ -1102,7 +1102,7 @@ inform the opposing Team of any substitution once approved.
 <!-- página 26 -->
         determined by a League Official to provide an unfair competitive advantage will
         also be considered banned exploits.
-        8.1.2.​ ​General Agent Utility Rule
+        8.1.2. General Agent Utility Rule
         All uses of agent utility that afford an unfair competitive advantage via abusing
         map textures and/or geometry to prevent the agent utility from being destroyed
         or seen are considered banned exploits. Agent utility cannot be used in areas that
@@ -1129,62 +1129,62 @@ inform the opposing Team of any substitution once approved.
         trajectories or end locations for KAYO's ZERO/POINT ability with League
         Officials prior to usage if the Team is unsure whether that usage complies with
         this special exception rule.
-        8.1.3.​ ​Agent Character Model Boosting
+        8.1.3. Agent Character Model Boosting
         Players are prohibited from using another agent's character model to boost to a
         location out of intended jumping range.
-8.2.​   Assessment of Penalties
+8.2.   Assessment of Penalties
 
 When assessing the appropriate penalty, League Officials shall take into account the past
 punishments for the same or similar situation, exploit classification, prior
 communication, impact, and intent. The following questions and assessments shall be
 considered by League Officials in each category to apply appropriate penalties.
-        8.2.1.​ ​Exploit Classification
+        8.2.1. Exploit Classification
 
 
                                                                                           26
 
 <!-- página 27 -->
-            ●​ Is the exploit on the Esports Bug List, and how is it classified?
-            ●​ If the exploit isn’t in the Esports Bug List, is it similar enough to another
+            ● Is the exploit on the Esports Bug List, and how is it classified?
+            ● If the exploit isn’t in the Esports Bug List, is it similar enough to another
                that a reasonable person would assume that the classification would be
                the same?
-            ●​ If the exploit isn’t in the Esports Bug List and isn’t similar to another
+            ● If the exploit isn’t in the Esports Bug List and isn’t similar to another
                known exploit, League Officials should use the other criteria to help
                inform any action.
 
-        8.2.2.​ ​Prior Communication
+        8.2.2. Prior Communication
 
-            ●​ Has the Esports Bug List been shared with the team and/or player?
-            ●​ Was the Esports Bug List for the patch version designated by the League
+            ● Has the Esports Bug List been shared with the team and/or player?
+            ● Was the Esports Bug List for the patch version designated by the League
                Officials for the event shared within a reasonable timeframe for them to
                inform themselves and make necessary adjustments?
-            ●​ If the Esports Bug List hasn’t been communicated at all or in a reasonable
+            ● If the Esports Bug List hasn’t been communicated at all or in a reasonable
                timeframe, this should be a mitigating factor.
 
-        8.2.3.​ Impact
+        8.2.3. Impact
 
-            ●​ What impact did the exploit have on the round and/or outcome of the
+            ● What impact did the exploit have on the round and/or outcome of the
                map - e.g., Damage dealt, info gained (vision, sound etc.), prevented
                opponents actions (bomb defusal/plant).
-            ●​ What impact could this exploit have on the perception of the sport? Could
+            ● What impact could this exploit have on the perception of the sport? Could
                it bring the sport into disrepute?
 
-        8.2.4.​ ​Intent
+        8.2.4. Intent
 
-            ●​ How hard is it to use the exploit accidentally? Does it require a specific
+            ● How hard is it to use the exploit accidentally? Does it require a specific
                set of actions that don’t occur in the normal course of play?
-            ●​ Has the player or Team received penalties for the same exploit in the
+            ● Has the player or Team received penalties for the same exploit in the
                past?
-            ●​ Did the player or Team discuss usage in voice comms?
-            ●​ Did the player or Team notify a referee immediately after the exploit had
+            ● Did the player or Team discuss usage in voice comms?
+            ● Did the player or Team notify a referee immediately after the exploit had
                occurred?
 
-8.3.​   Types of Penalties
+8.3.   Types of Penalties
 
 The following list of penalties is a non-exhaustive list. League Officials may, at their
 sole discretion, issue other types of Disciplinary Actions such as Fines or Suspensions
 on a case-by-case basis.
-        8.3.1.​ ​Warning
+        8.3.1. Warning
 
         League Officials may issue warnings for a low impact first offense in order to
         prevent widespread usage of low impact exploits.
@@ -1198,7 +1198,7 @@ on a case-by-case basis.
 Warnings may be issued for unintended bugs that did not give a competitive
 advantage, or bugs deemed small enough to not have a significant impact on the
 competitive integrity of the Match.
-8.3.2.​ ​Round Rollback
+8.3.2. Round Rollback
 
 League Officials may perform a round rollback when an exploit has had a
 significant impact on the outcome of the round, but the intent of the player that
@@ -1210,7 +1210,7 @@ after the unintended exploit occurs, then League Officials shall consider issuin
 round rollback.
 Round rollbacks may also be issued for a major exploit that impacts the integrity
 of the round, but is not the fault of any player or coach.
-8.3.3.​ ​Round Loss
+8.3.3. Round Loss
 
 League Officials may issue a round loss when an exploit has a significant impact
 on the outcome of the round, and League Officials have determined that the
@@ -1218,10 +1218,10 @@ player or team intended to perform the exploit. Round losses may also be issued
 if a round rollback threshold has been exceeded, as determined by League
 Officials.
 Round losses may be applied using the following methods:
-   ●​ Roll back to the round where the exploit was used and award the Team
+   ● Roll back to the round where the exploit was used and award the Team
       that did not perform the exploit the round win via elimination in round
       rollback settings.
-   ●​ If rolling back isn’t an option, round loss should be applied at the start of
+   ● If rolling back isn’t an option, round loss should be applied at the start of
       the next round. If the current round could result in the map ending, the
       loss should be applied to the current round.
 Round losses may be issued for intended exploits that give a competitive
@@ -1229,7 +1229,7 @@ advantage. Intent will be assessed by League Officials. If the exploit is listed
 the current Esports Bug List given to Teams in a reasonable timeframe, the
 exploit will automatically be classified as an intended exploit if considered
 egregious.
-8.3.4.​ ​Map Forfeit Loss
+8.3.4. Map Forfeit Loss
 
 League Officials may issue a forfeit loss for a map of the Match in the following
 scenarios:
@@ -1240,17 +1240,17 @@ scenarios:
                                                                                 28
 
 <!-- página 29 -->
-                 ●​ An exploit had a significant impact on the outcome of a map or provided
+                 ● An exploit had a significant impact on the outcome of a map or provided
                     a significant unintended competitive advantage, but the map has
                     concluded and round rollback and/or remake is not possible.
-                 ●​ Second offenses for low impact exploits where round rollback and/or
+                 ● Second offenses for low impact exploits where round rollback and/or
                     remake is not possible.
-                 ●​ Second offenses for high impact exploits while the map is still being
+                 ● Second offenses for high impact exploits while the map is still being
                     played, and a round loss has already been applied.
-                 ●​ Egregious cases that warrant an immediate escalated penalty, as
+                 ● Egregious cases that warrant an immediate escalated penalty, as
                     determined at the sole discretion of the League Officials.
 
-              8.3.5.​ ​Match Forfeit Loss
+              8.3.5. Match Forfeit Loss
 
               League Officials may issue a forfeit loss for a Match when the actions of the
               Team Personnel of one of the participating Teams has irreversibly undermined
@@ -1260,25 +1260,25 @@ scenarios:
               not caught until the Match had already concluded, and no reasonable mitigation
               steps are available.
 
-      8.4.​   Finality of Judgment on Bug and Exploit Adjudication
+      8.4.   Finality of Judgment on Bug and Exploit Adjudication
 
       League Officials have the right to assess and make final calls on all exploit decisions.
       All decisions regarding the interpretation of this Section 8 lie solely with the League
       Officials; such decisions are final, cannot be appealed, and shall not give rise to any
       claim for monetary damages or any other legal or equitable remedy.
 
-9.​   Challenge
+9.   Challenge
       A request for an official review (“Challenge”) for one of the following categories of
       issues that occurred during a round. A successful Challenge will result in action
       depending on the severity of the issue.
 
       The following categories of issues are eligible for challenge by a Team:
 
-          ●​ Major Bugs
-          ●​ Any unknown bugs that are not on the Esports Bug List
-          ●​ Exploits
+          ● Major Bugs
+          ● Any unknown bugs that are not on the Esports Bug List
+          ● Exploits
 
-      9.1.​   ​Requesting Challenge
+      9.1.   Requesting Challenge
 
       Only the Match Coach of a Team may request a Challenge. All Challenges must be
       taken within the first twenty (20) seconds of a Buy Phase of the round immediately
@@ -1296,12 +1296,12 @@ scenarios:
     Challenge will not be granted and the Team may be subject to sanction if a delay of
     game is caused.
 
-    9.2.​   Challenges Per Map
+    9.2.   Challenges Per Map
 
     Teams are given one (1) Challenge per map of a Match. Challenges do not carry over to
     subsequent maps in a Match.
 
-    9.3.​   Official Review
+    9.3.   Official Review
 
     League Officials will review the preceding round to determine whether any event in the
     round falls into one of the Challenge eligible issues. During the official review, League
@@ -1309,7 +1309,7 @@ scenarios:
     review. League Official decisions with respect to the official review of an issue cannot
     be appealed.
 
-    9.4.​   Successful Challenge
+    9.4.   Successful Challenge
 
     A Challenge is successful if the issue is determined to be a Challenge eligible issue. If
     the Challenge is successful, League Officials will take action depending on the severity
@@ -1317,13 +1317,13 @@ scenarios:
     round forfeit, and a map forfeit. The Team will retain their Challenge and the staked
     Timeout.
 
-    9.5.​   Unsuccessful Challenge
+    9.5.   Unsuccessful Challenge
 
     A Challenge is unsuccessful if the issue is determined to not be a Challenge eligible
     issue. If the Challenge is unsuccessful, the Team’s one Challenge for the map and one of
     the Team’s remaining Timeouts for the map are consumed.
 
-    9.6.​   Game Pause for Challenge
+    9.6.   Game Pause for Challenge
 
     During a Challenge the game will be paused. Headsets have to stay on and players are
     prohibited from controlling their agent (i.e., players can not move or use utility during a
@@ -1331,8 +1331,8 @@ scenarios:
     voice communication between players and coaches is forbidden during a Challenge
     pause, unless instructed to do so by a League Official.
 
-10.​ Crashes and Interruptions of Gameplay
-    10.1.​ Discontinuity of Gameplay
+10. Crashes and Interruptions of Gameplay
+    10.1. Discontinuity of Gameplay
 
 
 
@@ -1344,13 +1344,13 @@ If a Match is interrupted for reasons beyond the control of the players (e.g., s
 internet outage, power outage, DDOS, etc.), the League Official will restore the round
 using the in-game round restore feature to the beginning of the most recent round.
 
-10.2.​ Individual Player Gameplay Interruptions
+10.2. Individual Player Gameplay Interruptions
 
 Matches will not be stopped and rounds will not be restored or replayed in cases where
 the issue is clearly a player’s fault (e.g., mis-buying a weapon, alt-tabbing, turning off
 monitor, etc.).
 
-       10.2.1.​Transient Interruptions
+       10.2.1.Transient Interruptions
 
        Rounds will not be replayed due to issues that cause a short-term interruption in
        gameplay that does not persist for the remainder of the round (e.g., alt-tab, client
@@ -1359,7 +1359,7 @@ monitor, etc.).
        reasons beyond their control, League Officials may, at their discretion, determine
        that a discontinuity of gameplay has occurred.
 
-       10.2.2.​Multiple Player Crash/Interruption of Gameplay
+       10.2.2.Multiple Player Crash/Interruption of Gameplay
 
        If two or more players in a round of a Match have an issue that causes an
        interruption to the gameplay that prevents those players from playing out the
@@ -1370,7 +1370,7 @@ monitor, etc.).
        Interruptions to gameplay that occur after a player’s agent has been eliminated
        will not count.
 
-       10.2.3.​Single Player Crash/Interruption of Gameplay
+       10.2.3.Single Player Crash/Interruption of Gameplay
 
        If only a single player in a round of a Match has an issue that causes an
        interruption to the gameplay that prevents the player from playing out the round
@@ -1378,7 +1378,7 @@ monitor, etc.).
        Officials may restore the round using the in-game round restore feature to the
        beginning of the most recent round in the following scenario:
 
-           ●​ “Start of Round Crash” All of the following conditions are met: (a)
+           ● “Start of Round Crash” All of the following conditions are met: (a)
               issue occurred during the first minute of the round, (b) issue occurred
               before any damage was caused to any player’s agent by the opposing
               Team, and (c) the referee was immediately notified.
@@ -1404,8 +1404,8 @@ monitor, etc.).
            the Team had already undisputedly won at the time of the interruption, as
            determined by League Officials at their sole discretion.
 
-11.​ Player and Team Conduct During Matches
-    11.1.​ Delay of Game
+11. Player and Team Conduct During Matches
+    11.1. Delay of Game
 
            Teams that fail to adhere to the schedules and/or match process timelines
            provided by League Officials may be sanctioned for delay of game or tardiness.
@@ -1424,7 +1424,7 @@ monitor, etc.).
 
 
 
-    11.2.​ Non-Compliance
+    11.2. Non-Compliance
 
            Players, coaches, and other Team Personnel must cooperate with League
            Officials and comply with instructions in a prompt and timely manner. Failure to
@@ -1432,7 +1432,7 @@ monitor, etc.).
            Match may be sanctioned with delay of game in addition to other Disciplinary
            Actions.
 
-    11.3.​ Unprofessional or Hostile Behavior.
+    11.3. Unprofessional or Hostile Behavior.
 
            Any unprofessional or hostile behavior from players, coaches, or other Team
            Personnel toward League Officials will be considered a breach of this
@@ -1444,16 +1444,16 @@ monitor, etc.).
                                                                                             32
 
 <!-- página 33 -->
-               ●​ Unprofessional Behavior: Any behavior that impedes the smooth running
+               ● Unprofessional Behavior: Any behavior that impedes the smooth running
                   of the competition, or impedes competition staff from performing in their
-                  official capacity at the competition.​
+                  official capacity at the competition.
 
-               ●​ Hostile Behavior: Any behavior that is considered or can be considered
+               ● Hostile Behavior: Any behavior that is considered or can be considered
                   as aggressive or rude. For example, such behavior includes, but is not
                   limited to, yelling at competition staff, being belligerent with competition
-                  staff, or refusing to cooperate with competition staff.​
+                  staff, or refusing to cooperate with competition staff.
 
-12.​ Travel and Expenses
+12. Travel and Expenses
     For the required five (5) starters, one (1) substitute or assistant coach, one (1) Head
     Coach, and one (1) team manager per Team who have earned the right to participate in
     International Competitions held as part of the VCT, the League Entity will provide (a)
@@ -1471,8 +1471,8 @@ monitor, etc.).
     the VCT.
 
 
-13.​ Construction, Amendments and Other General Provisions
-    13.1.​ Priority and Conflicts.
+13. Construction, Amendments and Other General Provisions
+    13.1. Priority and Conflicts.
     In the event of a conflict between (a) any term of this Competition Ruleset and the terms
     of a Team Participation Agreement, or (b) any term of this Competition Ruleset and the
     terms of a Guidance Document, the League Entity, in its sole discretion, shall determine
@@ -1480,7 +1480,7 @@ monitor, etc.).
     Ruleset or a Guidance Document shall be in addition to, and shall not supersede, any
     remedies set forth a Team Participation Agreement.
 
-    13.2.​ Amendments to the Competition Ruleset.
+    13.2. Amendments to the Competition Ruleset.
     Pursuant to terms of the Team Participation Agreement, this Competition Ruleset may
     be amended, modified, updated or supplemented by the League Entity from time to time,
     provided that no such amendment, modification, update or supplement will have the
@@ -1496,7 +1496,7 @@ Teams, it being understood that the League Entity retains the authority to amend
 modify, update or supplement this Competition Ruleset without engaging in any such
 discussions.
 
-13.3.​ Consents and Approvals.
+13.3. Consents and Approvals.
 Whenever this Competition Ruleset grants, confers or reserves to the League Entity the
 right to take action, refrain from taking action, grant or withhold its consent or grant or
 withhold its approval or make any other determination, unless the provision specifically
@@ -1508,7 +1508,7 @@ decisions are supported by the League Entity’s business judgment, then a court
 tribunal or arbitrator reviewing those activities or decisions will not substitute its/his/her
 own judgment for the League Entity’s judgment.
 
-13.4.​ Construction.
+13.4. Construction.
 For purposes of this Competition Ruleset, (a) the words “include,” “includes” and
 “including” shall be deemed to be followed by the words “without limitation”; and (b)
 the words “herein,” “hereof,” “hereby,” “hereto” and “hereunder” refer to this
@@ -1525,7 +1525,7 @@ phrase “and/or”.
 
 
 
-                                  *​      *​      *
+                                  *      *      *
 
 
 
@@ -1547,62 +1547,62 @@ International events - Masters 1 Santiago, Masters 2 London and Champions Shangh
 
 KICK//OFF
 
- 1.​   KICK//OFF Draw Procedure
-       1.1.​ Teams will be split into two pools based on performance in the 2025 season, with
+ 1.   KICK//OFF Draw Procedure
+       1.1. Teams will be split into two pools based on performance in the 2025 season, with
              the four (4) VCT Champions teams in Pool 1, and the remaining eight (8) teams
-             in Pool 2.​
-             ​
-             Teams in Pool 1 will receive a bye in the opening round.​
+             in Pool 2.
+             
+             Teams in Pool 1 will receive a bye in the opening round.
 
-       1.2.​   Teams will be drawn into the bracket starting with Pool 1, determining the
+       1.2.   Teams will be drawn into the bracket starting with Pool 1, determining the
                placement of teams in round 2, followed by Pool 1 to determine opening round
                matchups.
 
-               Pool 1​
+               Pool 1
                Teams will be drawn at random and placed in the bracket in the following order:
 
-                  ●​ Draw 1 - Slot 1 (M5)
-                  ●​ Draw 2 - Slot 2 (M6)
-                  ●​ Draw 3 - Slot 3 (M7)
-                  ●​ Draw 4 - Slot 4 (M8)
+                  ● Draw 1 - Slot 1 (M5)
+                  ● Draw 2 - Slot 2 (M6)
+                  ● Draw 3 - Slot 3 (M7)
+                  ● Draw 4 - Slot 4 (M8)
 
-               Pool 2:​
+               Pool 2:
                Teams will be drawn at random and placed in the bracket in the following order:
 
-                  ●​ Draw 1 - Slot 5 (M1)
-                  ●​ Draw 2 - Slot 6 (M2)
-                  ●​ Draw 3 - Slot 7 (M3)
-                  ●​ Draw 4 - Slot 8 (M4)
-                  ●​ Draw 5 - Slot 9 (M1)
+                  ● Draw 1 - Slot 5 (M1)
+                  ● Draw 2 - Slot 6 (M2)
+                  ● Draw 3 - Slot 7 (M3)
+                  ● Draw 4 - Slot 8 (M4)
+                  ● Draw 5 - Slot 9 (M1)
 
 
                                                                                                 35
 
 <!-- página 36 -->
-                ●​ Draw 6 - Slot 10 (M2)
-                ●​ Draw 7 - Slot 11 (M3)
-                ●​ Draw 8 - Slot 12 (M4)​
+                ● Draw 6 - Slot 10 (M2)
+                ● Draw 7 - Slot 11 (M3)
+                ● Draw 8 - Slot 12 (M4)
 
 
 
 
-2.​   KICK//OFF Format
-      2.1.​ Teams will play in a triple elimination bracket. The four teams that qualified to
+2.   KICK//OFF Format
+      2.1. Teams will play in a triple elimination bracket. The four teams that qualified to
              VCT Champions in the 2025 season will receive a first round bye, with the
              remaining eight teams facing off in the opening round.
-      2.2.​ All Matches will be best-of-three (“Bo3”), except the Upper Bracket Final,
+      2.2. All Matches will be best-of-three (“Bo3”), except the Upper Bracket Final,
              Middle Bracket Final and Lower Bracket Final which will be best-of-five
              (“Bo5”).
-      2.3.​ Seeding for map selection purposes will be as follows:
-           2.3.1.​ Matches 5/6/7/8 - teams receiving a bye are considered the higher seeds.
-           2.3.2.​ Matches 9/10/11/12 - the losing teams from Matches 5/6/7/8 are
+      2.3. Seeding for map selection purposes will be as follows:
+           2.3.1. Matches 5/6/7/8 - teams receiving a bye are considered the higher seeds.
+           2.3.2. Matches 9/10/11/12 - the losing teams from Matches 5/6/7/8 are
                     considered the higher seeds.
-           2.3.3.​ All other Middle and Lower bracket matches, where one team is coming
+           2.3.3. All other Middle and Lower bracket matches, where one team is coming
                     from the upper bracket, the team dropping from the upper bracket will be
                     considered the higher seed.
-           2.3.4.​ In all other matches, a Skirmish match will be used to determine the
+           2.3.4. In all other matches, a Skirmish match will be used to determine the
                     higher seed. See section x.x for details on Skirmish match procedures.
-      2.4.​ The top three (3) teams from VCT KICK//OFF will qualify for Masters Santiago.
+      2.4. The top three (3) teams from VCT KICK//OFF will qualify for Masters Santiago.
 
 
 
@@ -1612,39 +1612,39 @@ KICK//OFF
 <!-- página 37 -->
 Masters 1 - Santiago
 
- 3.​   Masters Santiago Swiss Draw Procedure
-       3.1.​ The Masters Santiago Swiss Stage will consist of three rounds, with three
+ 3.   Masters Santiago Swiss Draw Procedure
+       3.1. The Masters Santiago Swiss Stage will consist of three rounds, with three
               separate draws conducted to determine the matchups in each. The Round 1 draw
               will take place prior to the event, while the Round 2 and Round 3 draws will take
-              place following the conclusion of the previous rounds.​
+              place following the conclusion of the previous rounds.
 
-       3.2.​     Round 1 Draw
-               3.2.1.​ The #2 and #3 seeds from each of the four regional Kickoff events will be
-                       split into two pools as follows:​
-                       Pool 1: EMEA #2, Americas #2, Pacific #2, CN #2​
+       3.2.     Round 1 Draw
+               3.2.1. The #2 and #3 seeds from each of the four regional Kickoff events will be
+                       split into two pools as follows:
+                       Pool 1: EMEA #2, Americas #2, Pacific #2, CN #2
                        Pool 2: EMEA #3, Americas #3, Pacific #3, CN #3
-               3.2.2.​ The draw will start with Pool 1, followed by Pool 2, with teams randomly
+               3.2.2. The draw will start with Pool 1, followed by Pool 2, with teams randomly
                        drawn one at a time and placed into matchups in the following order:
 
 
 
 
-               3.2.3.​   Teams from the same region cannot face each other in Round 1. If a team
+               3.2.3.   Teams from the same region cannot face each other in Round 1. If a team
                          is drawn into a matchup with another team from their region, this will be
                          considered an invalid draw and they will be placed into the next valid
-                         matchup slot.​
-                         ​
+                         matchup slot.
+                         
                          E.g. If Pacific #2 is drawn into Slot 1 and Pacific #3 is drawn into Slot 5,
                          this would be considered an invalid draw. Pacific #3 would then be
-                         placed into the next valid slot, in this case Slot 6.​
+                         placed into the next valid slot, in this case Slot 6.
 
-               3.2.4.​   If an invalid draw scenario remains with two teams left to be drawn, the
-                         teams will be immediately placed into the valid matchups.​
+               3.2.4.   If an invalid draw scenario remains with two teams left to be drawn, the
+                         teams will be immediately placed into the valid matchups.
 
-       3.3.​     Round 2 Draw​
-               3.3.1.​ Following the conclusion of Round 1, teams will be split into two pools
-                       based on their win/loss record:​
-                       Pool 1: 1-0 Team 1, 1-0 Team 2, 1-0 Team 3, 1-0 Team 4​
+       3.3.     Round 2 Draw
+               3.3.1. Following the conclusion of Round 1, teams will be split into two pools
+                       based on their win/loss record:
+                       Pool 1: 1-0 Team 1, 1-0 Team 2, 1-0 Team 3, 1-0 Team 4
                        Pool 2: 0-1 Team 1, 0-1 Team 2, 0-1 Team 3, 0-1 Team 4
 
 
@@ -1652,41 +1652,41 @@ Masters 1 - Santiago
                                                                                                    37
 
 <!-- página 38 -->
-              3.3.2.​   The draw will start with Pool 1, followed by Pool 2, with teams randomly
+              3.3.2.   The draw will start with Pool 1, followed by Pool 2, with teams randomly
                         drawn one at a time and placed into matchups in the following order:
 
 
 
 
-              3.3.3.​   Same region matchups are permitted in Round 2.​
+              3.3.3.   Same region matchups are permitted in Round 2.
 
-      3.4.​     Round 3 Draw
-              3.4.1.​ Following the conclusion of Round 2, the remaining four teams will be
-                      grouped into a single pool based on their win/loss record:​
+      3.4.     Round 3 Draw
+              3.4.1. Following the conclusion of Round 2, the remaining four teams will be
+                      grouped into a single pool based on their win/loss record:
                       Pool 1: 1-1 Team 1, 1-1 Team 2, 1-1 Team 3, 1-1 Team 4
-              3.4.2.​ Teams will be randomly drawn from the pool one at a time and placed
+              3.4.2. Teams will be randomly drawn from the pool one at a time and placed
                       into matchups in the following order:
 
 
 
 
-              3.4.3.​   Same region matchups are permitted in Round 3. However, repeat
+              3.4.3.   Same region matchups are permitted in Round 3. However, repeat
                         matchups from previous rounds are not allowed. If a team is drawn into a
                         repeat matchup, this will be considered an invalid draw and they will be
                         placed into the next valid matchup slot.
-              3.4.4.​   If an invalid draw scenario remains with two teams left to be drawn, the
-                        teams will be immediately placed into the valid matchups. ​
+              3.4.4.   If an invalid draw scenario remains with two teams left to be drawn, the
+                        teams will be immediately placed into the valid matchups. 
 
-4.​   Masters Santiago Swiss Stage Format
-      4.1.​ The #2 and #3 seeds from each of the four regional Kickoff events, eight (8)
+4.   Masters Santiago Swiss Stage Format
+      4.1. The #2 and #3 seeds from each of the four regional Kickoff events, eight (8)
              teams total, will compete in a three round Swiss format.
-      4.2.​ The four (4) #1 seeds from each region advance directly to the Playoff Stage
-      4.3.​ In each round, teams will be drawn into a single best-of-three (“Bo3”) match.
+      4.2. The four (4) #1 seeds from each region advance directly to the Playoff Stage
+      4.3. In each round, teams will be drawn into a single best-of-three (“Bo3”) match.
              Teams that win two (2) matches advance to the Playoff Stage. Teams that lose
              two (2) matches are eliminated.
-      4.4.​ Seeding for map selection purposes will be as follows:
-           4.4.1.​ Matches 1/2/3/4 - Regional #2 seeds will be considered the higher seeds.
-           4.4.2.​ Matches 5/6/7/8 - Teams drawn into slot 1, 2, 5 and 6 will be considered
+      4.4. Seeding for map selection purposes will be as follows:
+           4.4.1. Matches 1/2/3/4 - Regional #2 seeds will be considered the higher seeds.
+           4.4.2. Matches 5/6/7/8 - Teams drawn into slot 1, 2, 5 and 6 will be considered
                     the higher seeds.
 
 
@@ -1695,35 +1695,35 @@ Masters 1 - Santiago
                                                                                               38
 
 <!-- página 39 -->
-              4.4.3.​   Matches 9/10 - Teams drawn into slot 1 and 2 will be considered the
-                        higher seed.​
+              4.4.3.   Matches 9/10 - Teams drawn into slot 1 and 2 will be considered the
+                        higher seed.
 
-5.​   Masters Santiago Playoff Draw
-      5.1.​ The eight (8) Playoff teams will be split into two pools, with the four (4) regional
+5.   Masters Santiago Playoff Draw
+      5.1. The eight (8) Playoff teams will be split into two pools, with the four (4) regional
              #1 seeds in Pool 1, and the four (4) teams advancing from the Swiss stage in
-             Pool 2.​
-             Pool 1: EMEA #1, Americas #1, Pacific #1, CN #1​
+             Pool 2.
+             Pool 1: EMEA #1, Americas #1, Pacific #1, CN #1
              Pool 2: 2-0 Team 1, 2-0 Team 2, 2-1 Team 3, 2-1 Team 4
-      5.2.​ Teams in Pool 1 will be randomly drawn, one at a time. After each draw, the
+      5.2. Teams in Pool 1 will be randomly drawn, one at a time. After each draw, the
              team will then choose their opponent from the remaining teams in Pool 2 and be
              placed into the bracket in the following order:
 
 
 
 
-      5.3.​     Teams are permitted to choose opponents from the same region.​
+      5.3.     Teams are permitted to choose opponents from the same region.
 
-6.​   Masters Santiago Playoff Format
-      6.1.​ The eight (8) Playoff teams will compete in a double elimination bracket.
-      6.2.​ Opening round matchups will be determined by the Playoff draw.
-      6.3.​ All Matches will be best-of-three (“Bo3”), except the Lower Final and Grand
+6.   Masters Santiago Playoff Format
+      6.1. The eight (8) Playoff teams will compete in a double elimination bracket.
+      6.2. Opening round matchups will be determined by the Playoff draw.
+      6.3. All Matches will be best-of-three (“Bo3”), except the Lower Final and Grand
              Final which will be best-of-five (“Bo5”).
-      6.4.​ Seeding for map selection purposes will be as follows:
-           6.4.1.​ Matches 11/12/13/14 - Regional #1 seeds are considered the higher seed.
-           6.4.2.​ All lower bracket matches, where one team is coming from the upper
+      6.4. Seeding for map selection purposes will be as follows:
+           6.4.1. Matches 11/12/13/14 - Regional #1 seeds are considered the higher seed.
+           6.4.2. All lower bracket matches, where one team is coming from the upper
                     bracket, the team dropping from the upper bracket will be considered the
                     higher seed.
-           6.4.3.​ In all other matches, a coin toss will be used to determine the higher seed.
+           6.4.3. In all other matches, a coin toss will be used to determine the higher seed.
 
 
 
@@ -1733,42 +1733,42 @@ Masters 1 - Santiago
 <!-- página 40 -->
 Stage 1
 
- 7.​   Stage 1 Draw Procedure
-       7.1.​ For the purposes of the draw, teams will be seeded based on final standings from
-              the VCT KICK//OFF event and split into six pools as follows:​
+ 7.   Stage 1 Draw Procedure
+       7.1. For the purposes of the draw, teams will be seeded based on final standings from
+              the VCT KICK//OFF event and split into six pools as follows:
               Pool 1
-                  ●​ KICK//OFF - 11th/12th place (2 teams)
+                  ● KICK//OFF - 11th/12th place (2 teams)
               Pool 2
-                  ●​ KICK//OFF - 9th/10th place (2 teams)
+                  ● KICK//OFF - 9th/10th place (2 teams)
               Pool 3
-                  ●​ KICK//OFF - 7th/8th place (2 teams)
+                  ● KICK//OFF - 7th/8th place (2 teams)
               Pool 4
-                  ●​ KICK//OFF - 5th & 6th place (2 teams)
+                  ● KICK//OFF - 5th & 6th place (2 teams)
               Pool 5
-                  ●​ KICK//OFF - 3rd & 4th place (2 teams)
+                  ● KICK//OFF - 3rd & 4th place (2 teams)
               Pool 6
-                  ●​ KICK//OFF - 1st & 2nd place (2 teams)​
+                  ● KICK//OFF - 1st & 2nd place (2 teams)
 
-       7.2.​   The draw will start with Pool 1, with one team randomly selected and placed in
+       7.2.   The draw will start with Pool 1, with one team randomly selected and placed in
                Group Alpha, and the remaining team placed in Group Omega. The process will
-               then be repeated for each of the remaining Pools in ascending order.​
+               then be repeated for each of the remaining Pools in ascending order.
 
- 8.​   Stage 1 Regular Season Format
-       8.1.​ The stage 1 regular season will see teams split into two, six-team groups (Alpha
+ 8.   Stage 1 Regular Season Format
+       8.1. The stage 1 regular season will see teams split into two, six-team groups (Alpha
               & Omega).
-       8.2.​ Each group will play a single round-robin, with each team playing all other
+       8.2. Each group will play a single round-robin, with each team playing all other
               teams from their group in a single best-of-three (“Bo3”) match. For the
               avoidance of doubt, there will be no “cross-group” play during the regular
               season.
-       8.3.​ Seeding for map selection purposes will be determined by a coin toss.
-       8.4.​ The top four (4) teams from each group at the end of the regular season will
+       8.3. Seeding for map selection purposes will be determined by a coin toss.
+       8.4. The top four (4) teams from each group at the end of the regular season will
               qualify for the Playoffs, with standings used to determine seeding in the Playoff
-              bracket.​
-
- 9.​   Stage 1 Playoff Format
-       9.1.​ The eight (8) playoff teams will compete in a modified double elimination
               bracket.
-       9.2.​ The #1 seed from each group will receive a bye in the opening round, advancing
+
+ 9.   Stage 1 Playoff Format
+       9.1. The eight (8) playoff teams will compete in a modified double elimination
+              bracket.
+       9.2. The #1 seed from each group will receive a bye in the opening round, advancing
               directly to round 2 in the Upper Bracket.
 
 
@@ -1783,18 +1783,18 @@ Stage 1
                 The #4 seeds from each group will start in the lower bracket, playing against the
                 losers of the opening round matches.
 
-        9.3.​   All Matches will be best-of-three (“Bo3”), except the Lower Final and Grand
-                Final which will be best-of-five (“Bo5”).​
+        9.3.   All Matches will be best-of-three (“Bo3”), except the Lower Final and Grand
+                Final which will be best-of-five (“Bo5”).
 
-        9.4.​  Seeding for map selection purposes will be as follows:
-             9.4.1.​ Matches 1/2 - Alpha & Omega #2 seeds are considered the higher seed
-             9.4.2.​ Matches 3/4 - Alpha & Omega #1 seeds are considered the higher seed.
-             9.4.3.​ Match 12 - The upper bracket team will be considered the higher seed.
-             9.4.4.​ All lower bracket matches, where one team is coming from the upper
+        9.4.  Seeding for map selection purposes will be as follows:
+             9.4.1. Matches 1/2 - Alpha & Omega #2 seeds are considered the higher seed
+             9.4.2. Matches 3/4 - Alpha & Omega #1 seeds are considered the higher seed.
+             9.4.3. Match 12 - The upper bracket team will be considered the higher seed.
+             9.4.4. All lower bracket matches, where one team is coming from the upper
                        bracket, the team dropping from the upper bracket will be considered the
                        higher seed.
-        9.5.​ In all other matches, a coin toss will be used to determine the higher seed.
-        9.6.​ The top three (3) teams from the Stage 1 Playoff will qualify for Masters
+        9.5. In all other matches, a coin toss will be used to determine the higher seed.
+        9.6. The top three (3) teams from the Stage 1 Playoff will qualify for Masters
                London.
 
 
@@ -1802,8 +1802,8 @@ Stage 1
 
 Masters 2 - London
 
-10.​    Masters London Swiss Draw Procedure
-       10.1.​ The Masters London Swiss Stage will consist of three rounds, with three separate
+10.    Masters London Swiss Draw Procedure
+       10.1. The Masters London Swiss Stage will consist of three rounds, with three separate
                draws conducted to determine the matchups in each. The Round 1 draw will take
                place prior to the event, while the Round 2 and Round 3 draws will take place
 
@@ -1811,37 +1811,37 @@ Masters 2 - London
                                                                                                41
 
 <!-- página 42 -->
-         following the conclusion of the previous rounds.​
+         following the conclusion of the previous rounds.
 
-10.2.​   Round 1 Draw
-      10.2.1.​ The #2 and #3 seeds from each of the four Stage 1 Playoffs will be split
-               into two pools as follows:​
-               Pool 1: EMEA #2, Americas #2, Pacific #2, CN #2​
+10.2.   Round 1 Draw
+      10.2.1. The #2 and #3 seeds from each of the four Stage 1 Playoffs will be split
+               into two pools as follows:
+               Pool 1: EMEA #2, Americas #2, Pacific #2, CN #2
                Pool 2: EMEA #3, Americas #3, Pacific #3, CN #3
-      10.2.2.​ The draw will start with Pool 1, followed by Pool 2, with teams randomly
+      10.2.2. The draw will start with Pool 1, followed by Pool 2, with teams randomly
                drawn one at a time and placed into matchups in the following order:
 
 
 
 
-      10.2.3.​   Teams from the same region cannot face each other in Round 1. If a team
+      10.2.3.   Teams from the same region cannot face each other in Round 1. If a team
                  is drawn into a matchup with another team from their region, this will be
                  considered an invalid draw and they will be placed into the next valid
-                 matchup slot.​
-                 ​
+                 matchup slot.
+                 
                  E.g. If Pacific #2 is drawn into Slot 1 and Pacific #3 is drawn into Slot 5,
                  this would be considered an invalid draw. Pacific #3 would then be
-                 placed into the next valid slot, in this case Slot 6.​
+                 placed into the next valid slot, in this case Slot 6.
 
-      10.2.4.​   If an invalid draw scenario remains with two teams left to be drawn, the
-                 teams will be immediately placed into the valid matchups.​
+      10.2.4.   If an invalid draw scenario remains with two teams left to be drawn, the
+                 teams will be immediately placed into the valid matchups.
 
-10.3.​   Round 2 Draw​
-      10.3.1.​ Following the conclusion of Round 1, teams will be split into two pools
-               based on their win/loss record:​
-               Pool 1: 1-0 Team 1, 1-0 Team 2, 1-0 Team 3, 1-0 Team 4​
+10.3.   Round 2 Draw
+      10.3.1. Following the conclusion of Round 1, teams will be split into two pools
+               based on their win/loss record:
+               Pool 1: 1-0 Team 1, 1-0 Team 2, 1-0 Team 3, 1-0 Team 4
                Pool 2: 0-1 Team 1, 0-1 Team 2, 0-1 Team 3, 0-1 Team 4
-      10.3.2.​ The draw will start with Pool 1, followed by Pool 2, with teams randomly
+      10.3.2. The draw will start with Pool 1, followed by Pool 2, with teams randomly
                drawn one at a time and placed into matchups in the following order:
 
 
@@ -1850,44 +1850,44 @@ Masters 2 - London
                                                                                            42
 
 <!-- página 43 -->
-             10.3.3.​   Same region matchups are permitted in Round 2.​
+             10.3.3.   Same region matchups are permitted in Round 2.
 
-       10.4.​   Round 3 Draw
-             10.4.1.​ Following the conclusion of Round 2, the remaining four teams will be
-                      grouped into a single pool based on their win/loss record:​
+       10.4.   Round 3 Draw
+             10.4.1. Following the conclusion of Round 2, the remaining four teams will be
+                      grouped into a single pool based on their win/loss record:
                       Pool 1: 1-1 Team 1, 1-1 Team 2, 1-1 Team 3, 1-1 Team 4
-             10.4.2.​ Teams will be randomly drawn from the pool one at a time and placed
+             10.4.2. Teams will be randomly drawn from the pool one at a time and placed
                       into matchups in the following order:
 
 
 
 
-             10.4.3.​   Same region matchups are permitted in Round 3. However, repeat
+             10.4.3.   Same region matchups are permitted in Round 3. However, repeat
                         matchups from previous rounds are not allowed. If a team is drawn into a
                         repeat matchup, this will be considered an invalid draw and they will be
                         placed into the next valid matchup slot.
-             10.4.4.​   If an invalid draw scenario remains with two teams left to be drawn, the
-                        teams will be immediately placed into the valid matchups. ​
+             10.4.4.   If an invalid draw scenario remains with two teams left to be drawn, the
+                        teams will be immediately placed into the valid matchups. 
 
-11.​    Masters London Swiss Stage Format
-       11.1.​ The #2 and #3 seeds from each of the four Stage 1 Playoffs, eight (8) teams total,
+11.    Masters London Swiss Stage Format
+       11.1. The #2 and #3 seeds from each of the four Stage 1 Playoffs, eight (8) teams total,
                 will compete in a three round Swiss format.
-       11.2.​ The four (4) #1 seeds from each region advance directly to the Playoff Stage
-       11.3.​ In each round, teams will be drawn into a single best-of-three (“Bo3”) match.
+       11.2. The four (4) #1 seeds from each region advance directly to the Playoff Stage
+       11.3. In each round, teams will be drawn into a single best-of-three (“Bo3”) match.
                 Teams that win two (2) matches advance to the Playoff Stage. Teams that lose
                 two (2) matches are eliminated.
-       11.4.​ Seeding for map selection purposes will be as follows:
-             11.4.1.​ Matches 1/2/3/4 - Regional #2 seeds will be considered the higher seeds.
-             11.4.2.​ Matches 5/6/7/8 - Teams drawn into slot 1, 2, 5 and 6 will be considered
+       11.4. Seeding for map selection purposes will be as follows:
+             11.4.1. Matches 1/2/3/4 - Regional #2 seeds will be considered the higher seeds.
+             11.4.2. Matches 5/6/7/8 - Teams drawn into slot 1, 2, 5 and 6 will be considered
                        the higher seeds.
-             11.4.3.​ Matches 9/10 - Teams drawn into slot 1 and 2 will be considered the
-                       higher seed.​
+             11.4.3. Matches 9/10 - Teams drawn into slot 1 and 2 will be considered the
+                       higher seed.
 
-12.​    Masters London Playoff Draw
-       12.1.​ The eight (8) Playoff teams will be split into two pools, with the four (4) regional
+12.    Masters London Playoff Draw
+       12.1. The eight (8) Playoff teams will be split into two pools, with the four (4) regional
                #1 seeds in Pool 1, and the four (4) teams advancing from the Swiss stage in
-               Pool 2.​
-               Pool 1: EMEA #1, Americas #1, Pacific #1, CN #1​
+               Pool 2.
+               Pool 1: EMEA #1, Americas #1, Pacific #1, CN #1
                Pool 2: 2-0 Team 1, 2-0 Team 2, 2-1 Team 3, 2-1 Team 4
 
 
@@ -1896,35 +1896,35 @@ Masters 2 - London
                                                                                                43
 
 <!-- página 44 -->
-       12.2.​   Teams in Pool 1 will be randomly drawn, one at a time. After each draw, the
+       12.2.   Teams in Pool 1 will be randomly drawn, one at a time. After each draw, the
                 team will then choose their opponent from the remaining teams in Pool 2 and be
                 placed into the bracket in the following order:
 
 
 
 
-       12.3.​   Teams are permitted to choose opponents from the same region.​
+       12.3.   Teams are permitted to choose opponents from the same region.
 
-13.​    Masters London Playoff Format
-       13.1.​ The eight (8) Playoff teams will compete in a double elimination bracket.
-       13.2.​ Opening round matchups will be determined by the Playoff draw.
-       13.3.​ All Matches will be best-of-three (“Bo3”), except the Lower Final and Grand
+13.    Masters London Playoff Format
+       13.1. The eight (8) Playoff teams will compete in a double elimination bracket.
+       13.2. Opening round matchups will be determined by the Playoff draw.
+       13.3. All Matches will be best-of-three (“Bo3”), except the Lower Final and Grand
                 Final which will be best-of-five (“Bo5”).
-       13.4.​ Seeding for map selection purposes will be as follows:
-             13.4.1.​ Matches 11/12/13/14 - Regional #1 seeds are considered the higher seed.
-             13.4.2.​ All lower bracket matches, where one team is coming from the upper
+       13.4. Seeding for map selection purposes will be as follows:
+             13.4.1. Matches 11/12/13/14 - Regional #1 seeds are considered the higher seed.
+             13.4.2. All lower bracket matches, where one team is coming from the upper
                        bracket, the team dropping from the upper bracket will be considered the
                        higher seed.
-             13.4.3.​ In all other matches, a coin toss will be used to determine the higher seed.
+             13.4.3. In all other matches, a coin toss will be used to determine the higher seed.
 
 Stage 2
 
-14.​    Stage 2 Draw Procedure
-       14.1.​ For the purposes of the draw, teams will be seeded within their respective group
+14.    Stage 2 Draw Procedure
+       14.1. For the purposes of the draw, teams will be seeded within their respective group
                according to the final standings from the VCT Stage 1 Playoffs. If a team’s
                placement cannot be determined within the Playoffs (e.g., teams eliminated in
                the same round and sharing the same placement), or if a team did not participate
-               in the Playoffs, the team will be seeded based on its Regular Season results.​
+               in the Playoffs, the team will be seeded based on its Regular Season results.
 
 
 
@@ -1932,44 +1932,44 @@ Stage 2
                                                                                                44
 
 <!-- página 45 -->
-       14.2.​   Teams will then be grouped by seed and a representative draw slip (i.e. draw slip
-                with “#1 Seeds” written) will be placed into three pools as follows:​
+       14.2.   Teams will then be grouped by seed and a representative draw slip (i.e. draw slip
+                with “#1 Seeds” written) will be placed into three pools as follows:
                 Pool 1:
-                   ●​ #6 Seeds
-                   ●​ #5 Seeds
+                   ● #6 Seeds
+                   ● #5 Seeds
                 Pool 2:
-                   ●​ #4 Seeds
-                   ●​ #3 Seeds
+                   ● #4 Seeds
+                   ● #3 Seeds
                 Pool 3:
-                   ●​ #2 Seeds
-                   ●​ #1 Seeds
+                   ● #2 Seeds
+                   ● #1 Seeds
 
-       14.3.​   Starting with Pool 1, a single draw slip will be selected, with the chosen seeds
-                swapping groups for Stage 2. ​
-                ​
+       14.3.   Starting with Pool 1, a single draw slip will be selected, with the chosen seeds
+                swapping groups for Stage 2. 
+                
                 Example: In Pool 1, if “#1 Seeds” is drawn, the two #1 seeds will swap groups in
                 Stage 2. I.e., Alpha #1 will play in Group Omega, and Omega #1 will play in
-                Group Alpha. The “#2 Seeds” will remain in the same groups for Stage 2.​
+                Group Alpha. The “#2 Seeds” will remain in the same groups for Stage 2.
 
-       14.4.​   This process will then be repeated for Pools 2 and 3, until all teams have been
-                assigned to a group for Stage 2. ​
+       14.4.   This process will then be repeated for Pools 2 and 3, until all teams have been
+                assigned to a group for Stage 2. 
 
-15.​    Stage 2 Regular Season Format
-       15.1.​ The stage 2 regular season format mirrors Stage 1, with teams split into two,
+15.    Stage 2 Regular Season Format
+       15.1. The stage 2 regular season format mirrors Stage 1, with teams split into two,
                six-team groups (Alpha & Omega).
-       15.2.​ Each group will play a single round-robin, with each team playing all other
+       15.2. Each group will play a single round-robin, with each team playing all other
                teams from their group in a single best-of-three (“Bo3”) match. For the
                avoidance of doubt, there will be no “cross-group” play during the regular
                season.
-       15.3.​ Seeding for map selection purposes will be determined by a coin toss.
-       15.4.​ The top two (2) teams from each group at the end of the regular season will
+       15.3. Seeding for map selection purposes will be determined by a coin toss.
+       15.4. The top two (2) teams from each group at the end of the regular season will
                qualify for the Playoffs, with the remaining four (4) teams from each group
-               advancing to the Play-Ins.​
-               ​
-               Note: Standings and match records do not carry over from Stage 1. ​
+               advancing to the Play-Ins.
+               
+               Note: Standings and match records do not carry over from Stage 1. 
 
-16.​    Stage 2 Play-In Draw Procedure
-       16.1.​ The eight (8) IL teams participating in the Play-In will be automatically placed in
+16.    Stage 2 Play-In Draw Procedure
+       16.1. The eight (8) IL teams participating in the Play-In will be automatically placed in
                the bracket based on the Stage 2 regular season standings, as displayed in the
                bracket below.
 
@@ -1978,32 +1978,32 @@ Stage 2
                                                                                                   45
 
 <!-- página 46 -->
-       16.2.​   The four (4) Challengers teams will be randomly drawn into the Opening Round
+       16.2.   The four (4) Challengers teams will be randomly drawn into the Opening Round
                 matches, beginning with Match 1 (M1), followed by Match 2 (M2), Match 3
-                (M3) and the remaining team in Match 4 (M4).​
+                (M3) and the remaining team in Match 4 (M4).
 
-17.​    Stage 2 Play-In Format
-       17.1.​ The stage 2 Play-In will see the bottom four (4) teams per group from the Stage 2
+17.    Stage 2 Play-In Format
+       17.1. The stage 2 Play-In will see the bottom four (4) teams per group from the Stage 2
                Regular Season compete alongside the top four (4) Challengers teams in a
                modified double elimination bracket.
-       17.2.​ The #3 and #4 seeds from each group will receive a bye in the opening round,
-               advancing directly to round 2 in the Upper Bracket.​
-               ​
+       17.2. The #3 and #4 seeds from each group will receive a bye in the opening round,
+               advancing directly to round 2 in the Upper Bracket.
+               
                The #5 and #6 seeds from each group will be paired against the four (4)
-               Challengers teams in the opening round.​
+               Challengers teams in the opening round.
 
-       17.3.​   All Matches will be best-of-three (“Bo3”).
-       17.4.​   Seeding for map selection purposes will be as follows:
-             17.4.1.​ Matches 1/2/3/4 - A coin toss will be used to determine the higher seed in
+       17.3.   All Matches will be best-of-three (“Bo3”).
+       17.4.   Seeding for map selection purposes will be as follows:
+             17.4.1. Matches 1/2/3/4 - A coin toss will be used to determine the higher seed in
                        the opening round matches.
-             17.4.2.​ Matches 5/6/7/8 - #3 & #4 seeds are considered the higher seed.
-             17.4.3.​ Matches 9/10/11/12 - the losing teams from Matches 5/6/7/8 are
+             17.4.2. Matches 5/6/7/8 - #3 & #4 seeds are considered the higher seed.
+             17.4.3. Matches 9/10/11/12 - the losing teams from Matches 5/6/7/8 are
                        considered the higher seeds.
-             17.4.4.​ All other Lower and Elimination bracket matches, where one team is
+             17.4.4. All other Lower and Elimination bracket matches, where one team is
                        coming from the upper bracket, the team dropping from the upper bracket
                        will be considered the higher seed.
-       17.5.​ In all other matches, a coin toss will be used to determine the higher seed.
-       17.6.​ The top four (4) teams from the Stage 2 Play-In will qualify for the Stage 2
+       17.5. In all other matches, a coin toss will be used to determine the higher seed.
+       17.6. The top four (4) teams from the Stage 2 Play-In will qualify for the Stage 2
                 Playoffs.
 
 
@@ -2012,18 +2012,18 @@ Stage 2
                                                                                              46
 
 <!-- página 47 -->
-18.​    Stage 2 Playoff Draw
-       18.1.​ The top two (2) teams advancing from the Play-In will be randomly drawn into
+18.    Stage 2 Playoff Draw
+       18.1. The top two (2) teams advancing from the Play-In will be randomly drawn into
                the Opening Round, beginning with Match 1 (M1 vs Omega #2), followed by
                Match 2 (M2 vs Alpha #2).
-       18.2.​ The 3rd/4th placed teams advancing from the Play-In will start in the lower
+       18.2. The 3rd/4th placed teams advancing from the Play-In will start in the lower
                bracket, and will be randomly drawn into the bracket beginning with Match 5
-               (M5), followed by Match 6 (M6).​
+               (M5), followed by Match 6 (M6).
 
-19.​    Stage 2 Playoff Format
-       19.1.​ The eight (8) playoff teams will compete in a modified double elimination
+19.    Stage 2 Playoff Format
+       19.1. The eight (8) playoff teams will compete in a modified double elimination
                bracket.
-       19.2.​ The #1 seeds from the Stage 2 Regular Season will receive a bye in the opening
+       19.2. The #1 seeds from the Stage 2 Regular Season will receive a bye in the opening
                round, advancing directly to round 2 in the Upper Bracket.
 
                The #2 seeds from the Stage 2 Regular Season will play against the top two (2)
@@ -2041,17 +2041,17 @@ Stage 2
                 round and the two (2) 3rd/4th-placed Play-In teams in the Lower Bracket will be
                 determined by a random draw.
 
-       19.3.​   All Matches will be best-of-three (“Bo3”), except the Lower Final and Grand
+       19.3.   All Matches will be best-of-three (“Bo3”), except the Lower Final and Grand
                 Final which will be best-of-five (“Bo5”).
-       19.4.​ Seeding for map selection purposes will be as follows:
-             19.4.1.​ Matches 1/2 - Alpha & Omega #2 seeds are considered the higher seed
-             19.4.2.​ Matches 3/4 - Alpha & Omega #1 seeds are considered the higher seed.
-             19.4.3.​ Match 12 - The upper bracket team will be considered the higher seed.
-             19.4.4.​ All lower bracket matches, where one team is coming from the upper
+       19.4. Seeding for map selection purposes will be as follows:
+             19.4.1. Matches 1/2 - Alpha & Omega #2 seeds are considered the higher seed
+             19.4.2. Matches 3/4 - Alpha & Omega #1 seeds are considered the higher seed.
+             19.4.3. Match 12 - The upper bracket team will be considered the higher seed.
+             19.4.4. All lower bracket matches, where one team is coming from the upper
                        bracket, the team dropping from the upper bracket will be considered the
                        higher seed.
-       19.5.​ In all other matches, a coin toss will be used to determine the higher seed.
-       19.6.​ The top two (2) teams from the Stage 2 Playoff will qualify for Champions
+       19.5. In all other matches, a coin toss will be used to determine the higher seed.
+       19.6. The top two (2) teams from the Stage 2 Playoff will qualify for Champions
                 Shanghai as the top regional seeds. Additionally, the two (2) teams with the most
                 Championship points, that are not already qualified, will also qualify for the
                 event as the lower regions seeds.
@@ -2061,30 +2061,30 @@ Stage 2
 
 Champions - Shanghai
 
-20.​    Champions Shanghai Group Draw Procedure
+20.    Champions Shanghai Group Draw Procedure
 
 
                                                                                                48
 
 <!-- página 49 -->
-20.1.​   The Champions Shanghai Group Draw will include all sixteen qualified teams,
+20.1.   The Champions Shanghai Group Draw will include all sixteen qualified teams,
          four from each IL region. Teams will be split into four pools based on their final
          placement in the respective Stage 2 Playoffs or Championship Points
-         leaderboard, as follows:​
-         Pool 1: EMEA #1, Americas #1, Pacific #1, CN #1​
-         Pool 2: EMEA #2, Americas #2, Pacific #2, CN #2​
-         Pool 3: EMEA #3, Americas #3, Pacific #3, CN #3​
-         Pool 4: EMEA #4, Americas #4, Pacific #4, CN #4​
+         leaderboard, as follows:
+         Pool 1: EMEA #1, Americas #1, Pacific #1, CN #1
+         Pool 2: EMEA #2, Americas #2, Pacific #2, CN #2
+         Pool 3: EMEA #3, Americas #3, Pacific #3, CN #3
+         Pool 4: EMEA #4, Americas #4, Pacific #4, CN #4
 
-20.2.​   Teams will be drawn into groups starting with Pool 1, followed by Pool 2, Pool 3
+20.2.   Teams will be drawn into groups starting with Pool 1, followed by Pool 2, Pool 3
          and lastly Pool 4.
-20.3.​   Teams from the same region cannot be drawn into the same group. If a team is
+20.3.   Teams from the same region cannot be drawn into the same group. If a team is
          drawn into a group with another team from their region, this will be considered
-         an invalid draw and they will be placed into the next valid group slot.​
-         ​
+         an invalid draw and they will be placed into the next valid group slot.
+         
          E.g. If Pacific #1 is drawn into Slot 1 and Pacific #2 is drawn into Slot 5, this
          would be considered an invalid draw. Pacific #2 would then be placed into the
-         next valid slot, in this case Slot 6.​
+         next valid slot, in this case Slot 6.
 
 
 
@@ -2092,46 +2092,46 @@ Champions - Shanghai
                                                                                          49
 
 <!-- página 50 -->
-       20.4.​   If they were drawn into the last slot (i.e. Group D, slot 16), they will swap with
-                the team immediately before them until a valid draw is complete.​
+       20.4.   If they were drawn into the last slot (i.e. Group D, slot 16), they will swap with
+                the team immediately before them until a valid draw is complete.
 
 
 
 
-21.​    Champions Shanghai Group Stage Format
-       21.1.​ The sixteen Champions teams will be split into four (4) GSL-Style groups, with
+21.    Champions Shanghai Group Stage Format
+       21.1. The sixteen Champions teams will be split into four (4) GSL-Style groups, with
                 four (4) teams in each group.
-       21.2.​ The top two (2) teams in each group will advance to the Playoffs.
-       21.3.​ All Matches will be best-of-three (“Bo3”).
-       21.4.​ Seeding for map selection purposes will be as follows:
-             21.4.1.​ With the exception of Group Lower Final matches (A5/B5/C5/D5), the
+       21.2. The top two (2) teams in each group will advance to the Playoffs.
+       21.3. All Matches will be best-of-three (“Bo3”).
+       21.4. Seeding for map selection purposes will be as follows:
+             21.4.1. With the exception of Group Lower Final matches (A5/B5/C5/D5), the
                         team with the higher regional seed will be considered the higher seed for
                         the match. E.g. EMEA #1 would be the higher seed vs Americas #2.
-             21.4.2.​ For matches A5/B5/C5/D5, the team coming from the Upper Bracket will
-                        be considered the higher seed.​
+             21.4.2. For matches A5/B5/C5/D5, the team coming from the Upper Bracket will
+                        be considered the higher seed.
 
-22.​    Champions Shanghai Playoff Draw
+22.    Champions Shanghai Playoff Draw
 
 
 
                                                                                                  50
 
 <!-- página 51 -->
-      22.1.​    The eight (8) Playoff teams will be split into two pools based on performance in
-                the Group Stage.​
-                Pool 1: Group A #1, Group B #1, Group C #1, Group D #1​
-                Pool 2: Group A #2, Group B #2, Group C #2, Group D #2​
+      22.1.    The eight (8) Playoff teams will be split into two pools based on performance in
+                the Group Stage.
+                Pool 1: Group A #1, Group B #1, Group C #1, Group D #1
+                Pool 2: Group A #2, Group B #2, Group C #2, Group D #2
 
-      22.2.​    Teams will be randomly drawn into the bracket starting with Pool 1, followed by
+      22.2.    Teams will be randomly drawn into the bracket starting with Pool 1, followed by
                 Pool 2, in the following order:
 
 
 
 
-      22.3.​    Teams from the same group cannot be drawn into the same side of the bracket. In
+      22.3.    Teams from the same group cannot be drawn into the same side of the bracket. In
                 this scenario, the team will be placed into the next available slot on the opposite
                 side of the bracket.
-      22.4.​    Teams can be drawn into same-region matchups.​
+      22.4.    Teams can be drawn into same-region matchups.
 
 
 Championship Points
@@ -2182,55 +2182,55 @@ competition. The distribution of points per phase is as follows:
                                       4th place - 4 pts
 
 
-23.​    Championship Point Tiebreakers​
+23.    Championship Point Tiebreakers
         Championship point tie-breakers will primarily consider each Team’s full-season
         performance in their respective region’s VCT League, including results from
         International Competitions. The following tie-breaker process will be used to determine
-        which Team holds the higher position in championship points.​
+        which Team holds the higher position in championship points.
 
-       23.1.​   Championship Point Tie-Breaker Process
+       23.1.   Championship Point Tie-Breaker Process
 
                 Note: Criteria 9–11 do not apply to ties involving three or more Teams.
 
-                (1) Final standings from Stage 2​
-                (2) Final standings from Masters 2​
-                (3) Final standings from Stage 1​
-                (4) Final standings from Masters 1​
-                (5) Final standings from KICK//OFF​
+                (1) Final standings from Stage 2
+                (2) Final standings from Masters 2
+                (3) Final standings from Stage 1
+                (4) Final standings from Masters 1
+                (5) Final standings from KICK//OFF
                 (6) Total year/season Match Wins (excluding Global Events, Play-In, Playoffs
-                and KICK//OFF)​
+                and KICK//OFF)
                 (7) Total year/season Map Diff (excluding Global Events, Play-In, Playoffs and
-                KICK//OFF)​
+                KICK//OFF)
 
 
                                                                                              52
 
 <!-- página 53 -->
                (8) Total year/season Round Diff (excluding Global Events, Play-In, Playoffs and
-               KICK//OFF)​
-               (9) Head-to-head Match score​
-               (10) Head-to-head map differential​
+               KICK//OFF)
+               (9) Head-to-head Match score
+               (10) Head-to-head map differential
                (11) Head-to-head round differential
 
-      23.2.​   Head-to-head match score, map differential, and round differential are weighted
+      23.2.   Head-to-head match score, map differential, and round differential are weighted
                equally, regardless of match stage (including Playoffs, Play-In) or format
                (Bo3/Bo5). If no head-to-head data exists, the next tiebreaker criteria apply.
 
-      23.3.​   Playoff/Play-In performance and qualification takes precedence in VCT League
+      23.3.   Playoff/Play-In performance and qualification takes precedence in VCT League
                final standings. Among non-playoff/play-in Teams (including teams that have the
-               same standing from the Playoffs/Play-In):​
-               ​
+               same standing from the Playoffs/Play-In):
+               
                (a) If all non-playoff/play-in Teams are in the same group, group standings apply
-               (with tiebreakers if needed).​
-               ​
+               (with tiebreakers if needed).
+               
                (b) Otherwise, the non-playoff/play-in Teams are considered tied, and further
                criteria apply.
 
-      23.4.​   The general tiebreaker rules set forth in section 8.1 shall apply accordingly.
+      23.4.   The general tiebreaker rules set forth in section 8.1 shall apply accordingly.
 
-      23.5.​   If a tie still remains after applying all procedures, a Bo1 match may be
+      23.5.   If a tie still remains after applying all procedures, a Bo1 match may be
                implemented at the discretion of League Officials. An alternative process may be
-               implemented on a case-by-case basis.​
+               implemented on a case-by-case basis.
 
 
 VCT International League Prize Money
@@ -2249,7 +2249,7 @@ be as follows:
         4th                              $25,000
 
         5th/6th                     $10,000 each
-​
+
 Note: Prize money will not be awarded for any other phase of VCT regional competition.
 
                                                                                                 53
@@ -2325,31 +2325,31 @@ Champions Shanghai
          13th-16th                     $20,000 each
 
 
-24.​    Tie-Breakers - VCT EMEA
-       24.1.​ General Tie-Breaker Rules
-             24.1.1.​ All tie-breaker games will be played as a best-of-one (“Bo1”).
-             24.1.2.​ Scheduling of tie-breaker games will be at the sole discretion of League
+24.    Tie-Breakers - VCT EMEA
+       24.1. General Tie-Breaker Rules
+             24.1.1. All tie-breaker games will be played as a best-of-one (“Bo1”).
+             24.1.2. Scheduling of tie-breaker games will be at the sole discretion of League
                       Officials.
-             24.1.3.​ Tie-breaker games will only be played if they have competitive
+             24.1.3. Tie-breaker games will only be played if they have competitive
                       implications, such as playoff or event qualification.
-             24.1.4.​ In cases where there is no clear higher seed for the tie-breaker game, the
+             24.1.4. In cases where there is no clear higher seed for the tie-breaker game, the
                       “higher seed” for the purposes of map selection will be determined by a
                       coin toss.
-             24.1.5.​ If any Team(s) can be clearly ranked based on a single applicable
+             24.1.5. If any Team(s) can be clearly ranked based on a single applicable
                       tiebreaker criterion (e.g., head-to-head match score), those Team(s) will
                       confirm their standing and be removed from the tie.
-             24.1.6.​ For any remaining Teams that are still tied under the same criterion, the
+             24.1.6. For any remaining Teams that are still tied under the same criterion, the
                       tiebreaker process will be reapplied from the beginning among the tied
-                      Teams.​
-                      ​
+                      Teams.
+                      
                       Example: In a 4-way tie, if Team A (3–0) and Team D (0–3) can be
                       clearly ranked as first and fourth respectively while Team B and Team C
                       remain tied (1–1), Team A and Team D confirm their standings and are
                       removed from the tie. The tiebreaker process is reapplied from the
                       beginning between Team B and Team C to determine their final
-                      placements.​
+                      placements.
 
-               24.1.7.​   In the event that multiple ties occur simultaneously, each tie shall be
+               24.1.7.   In the event that multiple ties occur simultaneously, each tie shall be
                           resolved independently within its respective subgroup. For each
 
 
@@ -2362,39 +2362,39 @@ Champions Shanghai
                  hierarchy: the highest-ranked team within a lower-ranked subgroup may
                  not be placed above any team in a higher-ranked subgroup, regardless of
                  subsequent tiebreaker outcomes within the subgroup.
-      24.1.8.​   This process will continue until all teams are fully ranked.​
+      24.1.8.   This process will continue until all teams are fully ranked.
 
-24.2.​   Tie-Breaking Criteria​
+24.2.   Tie-Breaking Criteria
          The following criteria will be used, in the given order, to determine which
-         team(s) advance in the event of a tie.​
-         ​
-         (1) Head-to-head Match score​
-         (2) Head-to-head map differential.​
-         (3) Head-to-head round differential.​
-         (4) Stage/event map differential.​
-         (5) Stage/event round differential.​
+         team(s) advance in the event of a tie.
+         
+         (1) Head-to-head Match score
+         (2) Head-to-head map differential.
+         (3) Head-to-head round differential.
+         (4) Stage/event map differential.
+         (5) Stage/event round differential.
 
-24.3.​   Seeding Criteria​
+24.3.   Seeding Criteria
          If a tie cannot be broken using the “Tie-Breaking Criteria” (24.2), the following
          seeding criteria will be used, in the given order, to determine which team(s) get
-         which seed(s) in the respective tie-breaker scenario.​
-         ​
-         (1) Maps won on opponent map selection (in the respective Stage/Event)​
-         (2) Round differential on opponent map selection (in the respective Stage/Event)​
+         which seed(s) in the respective tie-breaker scenario.
+         
+         (1) Maps won on opponent map selection (in the respective Stage/Event)
+         (2) Round differential on opponent map selection (in the respective Stage/Event)
 
-24.4.​   Tie-Breaker Scenarios
-      24.4.1.​ Two-Way Ties
-             ●​ All two-way tie-breaker scenarios will be broken using Head-to-head
-                Match score.​
+24.4.   Tie-Breaker Scenarios
+      24.4.1. Two-Way Ties
+             ● All two-way tie-breaker scenarios will be broken using Head-to-head
+                Match score.
 
-      24.4.2.​ Three-Way Ties
-             ●​ If three teams are tied at the end of the regular season, and the
+      24.4.2. Three-Way Ties
+             ● If three teams are tied at the end of the regular season, and the
                 tie-breaking criteria has not broken or reduced the tie, then the teams will
                 be seeded into a single-elimination bracket, using the seeding criteria
                 (24.3).
-             ●​ If teams are still tied after applying the seeding criteria, the seeding will
+             ● If teams are still tied after applying the seeding criteria, the seeding will
                 be determined randomly by the VCT officials.
-             ●​ The team with the highest seed will be granted a bye into the second
+             ● The team with the highest seed will be granted a bye into the second
                 round, with the remaining teams playing in the opening round.
 
 
@@ -2402,26 +2402,26 @@ Champions Shanghai
                                                                                            56
 
 <!-- página 57 -->
-24.4.3.​ Four-Way-Ties
-       ●​ If four teams are tied at the end of the regular season, and the tie-breaking
+24.4.3. Four-Way-Ties
+       ● If four teams are tied at the end of the regular season, and the tie-breaking
           criteria has not broken or reduced the tie, then teams will be drawn into a
           single-elimination bracket, using the seeding criteria.
-       ●​ If teams are still tied after applying the seeding criteria, the seeding will
+       ● If teams are still tied after applying the seeding criteria, the seeding will
           be determined randomly by the VCT officials.
-       ●​ Initial matchups (game 1 & game 2) will be determined based on the
+       ● Initial matchups (game 1 & game 2) will be determined based on the
           seeding. The team with the highest seed will play against the team with
           the lowest seed in game 1. The remaining two teams will play in game 2.
 
 
 
 
-24.4.4.​ Five-Way-Ties
-       ●​ If five teams are tied at the end of the regular season, and the tie-breaker
+24.4.4. Five-Way-Ties
+       ● If five teams are tied at the end of the regular season, and the tie-breaker
           criteria has not broken or reduced the tie, then teams will be drawn into a
           single-elimination bracket, using the seeding criteria.
-       ●​ If teams are still tied after applying the seeding criteria, the seeding will
+       ● If teams are still tied after applying the seeding criteria, the seeding will
           be determined randomly by the VCT officials.
-       ●​ The two teams with the lowest seed will play in a preliminary round, with
+       ● The two teams with the lowest seed will play in a preliminary round, with
           the losing team being eliminated. The bracket will then continue,
           following the process outlined in 24.4.3.
 
@@ -2431,16 +2431,16 @@ Champions Shanghai
                                                                                     57
 
 <!-- página 58 -->
-                                                                                          ​
+                                                                                          
 
 
-24.4.5.​ Six-Way-Ties
-       ●​ If six teams are tied at the end of the regular season, and the tie-breaker
+24.4.5. Six-Way-Ties
+       ● If six teams are tied at the end of the regular season, and the tie-breaker
           criteria has not broken or reduced the tie, then teams will be drawn into a
           single-elimination bracket, using the seeding criteria.
-       ●​ If teams are still tied after applying the seeding criteria, the seeding will
+       ● If teams are still tied after applying the seeding criteria, the seeding will
           be determined randomly by the VCT officials.
-       ●​ The two teams with the highest seed will receive a bye into the second
+       ● The two teams with the highest seed will receive a bye into the second
           round, with the remaining teams playing against each other in the opening
           round. The bracket will then continue, following the process outlined in
           24.4.3.
@@ -2649,45 +2649,45 @@ consideration of all mitigating and aggravating factors. If circumstances justif
 
 <!-- página 63 -->
                      Exhibit 3 - Skirmish Side Selection
-1.​ Skirmish Side Selection
-      1.1.​   In matches where there is no clear higher seed, a 1v1 Skirmish match will be
+1. Skirmish Side Selection
+      1.1.   In matches where there is no clear higher seed, a 1v1 Skirmish match will be
               played to determine the higher seeded team for map selection purposes. At their
               sole discretion, League Officials may choose to utilize Skirmish matches to
               determine seeding in any other official match.
 
-      1.2.​    Each team will be required to submit a participating player/head coach for the
+      1.2.    Each team will be required to submit a participating player/head coach for the
                Skirmish alongside starting rosters(including head coaches) prior to each match. This
                player or head coach must be part of the starting roster for the match.
 
-      1.3.​    Skirmishes will be played from a designated location and at a specified time
+      1.3.    Skirmishes will be played from a designated location and at a specified time
                communicated by League officials.
 
-      1.4.​    League officials will outline areas that content teams and other team personnel may
+      1.4.    League officials will outline areas that content teams and other team personnel may
                be during the execution of the Skirmish Match.
 
-      1.5.​    Participating players will be given a small time window to set up gear and check
+      1.5.    Participating players will be given a small time window to set up gear and check
                settings. League officials will instruct players on time allocated and when the
                skirmish is starting. These areas may differ in configuration to “Match Areas”
                outlined in the VCT Ruleset.
 
-      1.6.​    Map layout selection will be predetermined by League officials.
+      1.6.    Map layout selection will be predetermined by League officials.
 
-      1.7.​    Winners of the skirmish are defined as the first participant to reach a score of 5
+      1.7.    Winners of the skirmish are defined as the first participant to reach a score of 5
                rounds.
 
-      1.8.​    There are no restrictions on weapon or agent selection. Abilities are disabled by
+      1.8.    There are no restrictions on weapon or agent selection. Abilities are disabled by
                default.
 
-      1.9.​    League officials have the right at any point to impose gameplay restrictions including
+      1.9.    League officials have the right at any point to impose gameplay restrictions including
                but not limited to the use of certain agents, weapons, tactics.
 
-      1.10.​   League officials have the right at any point to assign victory based on new point win
+      1.10.   League officials have the right at any point to assign victory based on new point win
                thresholds communicated to teams prior to match day.
 
-      1.11.​   League officials have the right to utilize a coinflip in the event of a technical or
+      1.11.   League officials have the right to utilize a coinflip in the event of a technical or
                network failure that prevents the skirmish from being played.
 
-      1.12.​   Failure to arrive by specified timings for skirmishes outlined by league officials may
+      1.12.   Failure to arrive by specified timings for skirmishes outlined by league officials may
                result in penalties including but not limited to fines and forfeiture of draft choice.
 
 

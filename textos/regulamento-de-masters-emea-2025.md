@@ -11,11 +11,11 @@ url: "https://cdn.sanity.io/files/dsfx7636/news/29cfda2ba883be697b5ebc7e5f360ccc
 sha256: "0a7c931b987cbeff4796261ba909b89518f838af1214a6b9e28e92dfa1b20fae"
 paginas: "49"
 idioma: "en"
-baixado_em: "2026-10-24T20:32:14Z"
+baixado_em: "2026-10-24T20:57:44Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
-2025 EMEA Masters ​
+2025 EMEA Masters 
    Official Rules
 
 <!-- página 2 -->
@@ -111,7 +111,7 @@ Version 3.0; 20th February 2025
                                                                                                                                     3
 
 <!-- página 4 -->
-Introduction and Purpose​
+Introduction and Purpose
 These official rules of the EMEA Masters apply to each of the Teams who have qualified to play in the
 EMEA Masters tournament. These rules also apply to the Teams’ Team Managers & Team Members and
 other employees, but apply only to official League play and not to other competitions, tournaments or
@@ -141,52 +141,52 @@ Version 3.0; 20th February 2025
                                                                                                      4
 
 <!-- página 5 -->
-      1.​     Eligibility Requirements
+      1.     Eligibility Requirements
 
-                    1.1.1.​   To be eligible to compete in the ERL and/or EM, each Player must satisfy all of
-                              the following requirements outlined in this section. ​
+                    1.1.1.   To be eligible to compete in the ERL and/or EM, each Player must satisfy all of
+                              the following requirements outlined in this section. 
 
-            1.2.​     Player Age
-                    1.2.1.​ No Player shall be considered eligible to participate in any ERL or EM Match
+            1.2.     Player Age
+                    1.2.1. No Player shall be considered eligible to participate in any ERL or EM Match
                             before having lived 16 full years. This shall not prevent Teams from signing Free
                             Agents who have lived 15 full years, granted that they may not participate in an
-                            ERL and EM Match until they have lived 16 full years.​
+                            ERL and EM Match until they have lived 16 full years.
 
-                    1.2.2.​   Additionally, players younger than the age of majority in their country of residence
-                              must receive parental permission to participate in any ERL or EM Match.​
+                    1.2.2.   Additionally, players younger than the age of majority in their country of residence
+                              must receive parental permission to participate in any ERL or EM Match.
 
-            1.3.​     Residency & Representation
-                    1.3.1.​ A Player can be an EMEA Resident (IMP) and an LTR simultaneously. ​
+            1.3.     Residency & Representation
+                    1.3.1. A Player can be an EMEA Resident (IMP) and an LTR simultaneously. 
 
-                    1.3.2.​   LTRs are defined as players who have fulfilled one or more of the following
+                    1.3.2.   LTRs are defined as players who have fulfilled one or more of the following
                               criteria:
-                                        ●​ The Player has legally resided and been primarily present in the
+                                        ● The Player has legally resided and been primarily present in the
                                             competitive area of the ERL for no less than 36 out of the last 60
                                             months immediately prior to their participation in the first Game
-                                            of the applicable competition.​
+                                            of the applicable competition.
 
-                                          ●​ The Player who has been on an ERL Team Roster for the
+                                          ● The Player who has been on an ERL Team Roster for the
                                              majority of applicable Matches in an ERL in no less than three of
                                              the last five ERL Splits immediately prior to their participation in
                                              the first Game of the applicable competition.
 
-                                          ●​ For LEC players, if the LEC organisation operates an ERL Team
+                                          ● For LEC players, if the LEC organisation operates an ERL Team
                                              Roster: The player was on the Team Roster of an LEC Team for
                                              the majority of Competition Weeks in no less than three of the
                                              last five LEC Splits immediately prior to their participation in the
-                                             first Game of the applicable competition. ​
-                                             ​
+                                             first Game of the applicable competition. 
+                                             
                                              Additionally, a split will count towards the LTR requirement for a
                                              Player who has been on an ERL Team Roster for the majority of
                                              the Split, even if the Player has not been actively participating in
                                              the respective ERL, as long as they have not been participating
-                                             in any other ERL.​
+                                             in any other ERL.
 
-                                          ●​ The Player has legally resided and been primarily present in the
+                                          ● The Player has legally resided and been primarily present in the
                                              competitive area of the ERL for at least 36 months after their
-                                             13th birthday, defined as having lived 13 full years.​
+                                             13th birthday, defined as having lived 13 full years.
 
-                    1.3.3.​   Temporary grandfathering of LTR Status for 2025 Season:
+                    1.3.3.   Temporary grandfathering of LTR Status for 2025 Season:
 
 
 
@@ -195,53 +195,53 @@ Version 3.0; 20th February 2025
                                                                                                          5
 
 <!-- página 6 -->
-                                    ●​ A Player who meets the LTR criteria at the end of 2024 Season
+                                    ● A Player who meets the LTR criteria at the end of 2024 Season
                                        shall retain their LTR status for the 2025 Winter Split under the
                                        2024 season criteria as follows:
-                                        ○​ The Player who has been on an ERL Team Roster for the
+                                        ○ The Player who has been on an ERL Team Roster for the
                                             majority of applicable matches in an ERL in no less than
                                             two of the last three ERL Splits immediately prior to their
-                                            participation in the first Game of the applicable competition. ​
+                                            participation in the first Game of the applicable competition. 
 
-                                         ○​ For LEC players, if the LEC organisation operates an ERL
+                                         ○ For LEC players, if the LEC organisation operates an ERL
                                             Team Roster: The player was on the Team Roster of an
                                             LEC Team for the majority of Competition Weeks in no less
                                             than two of the last three LEC Competitive Half-Seasons
                                             prior to their participation in the first game of the applicable
-                                            competition. ​
+                                            competition. 
 
-                                    ●​ A player who was on an ERL Team Roster for the majority of
+                                    ● A player who was on an ERL Team Roster for the majority of
                                        applicable Matches in any single Split during the 2024 Season
                                        shall be eligible to claim LTR status if they subsequently appear
                                        on an ERL Team Roster for the majority of applicable Matches in
                                        at least one of the two ERL Splits immediately following the Split
                                        in which they initially participated. For example:
-                                        ○​ If a Player was on an ERL Team Roster for the majority of
+                                        ○ If a Player was on an ERL Team Roster for the majority of
                                              applicable Matches in the Spring Split of the 2024 Season,
                                              they would need to be on an ERL Team Roster for the
                                              majority of applicable Matches in the Winter Split of the
-                                             2025 Season to meet the eligibility requirement.​
+                                             2025 Season to meet the eligibility requirement.
 
-                                         ○​ If a Player was on an ERL Team Roster for the majority of
+                                         ○ If a Player was on an ERL Team Roster for the majority of
                                             applicable Matches in the Summer Split of the 2024
                                             Season, they would need to be on an ERL Team Roster for
                                             the majority of applicable Matches in either the Winter Split
                                             or Spring Split of the 2025 Season to meet the eligibility
-                                            requirement.​
+                                            requirement.
 
-                                    ●​ These provisions apply solely to the 2025 Winter and Spring
+                                    ● These provisions apply solely to the 2025 Winter and Spring
                                        Split, after which standard LTR criteria as outlined in Section
-                                       1.3.2 will resume.​
+                                       1.3.2 will resume.
 
-              1.3.4.​   A player may acquire LTR status by participating in any regional ERL 1st division
+              1.3.4.   A player may acquire LTR status by participating in any regional ERL 1st division
                         split that qualifies for EMEA Masters. Additionally, LTR status may also be
                         obtained by competing in a lower-tier league, provided that the league serves as
                         a qualifying pathway to the 1st division of an ERL and takes place across each of
-                        the three splits during the competitive season.​
+                        the three splits during the competitive season.
 
-              1.3.5.​   If a Player can prove they have not claimed LTR status in any ERL in the past
+              1.3.5.   If a Player can prove they have not claimed LTR status in any ERL in the past
                         and cannot currently claim LTR status for any ERL using the clauses above, the
-                        League may grant LTR status to the Player at their sole discretion.​
+                        League may grant LTR status to the Player at their sole discretion.
 
 
 
@@ -249,29 +249,29 @@ Version 3.0; 20th February 2025
                                                                                                    6
 
 <!-- página 7 -->
-              1.3.6.​   A Player may only claim LTR status for the ERL region in which they are currently
+              1.3.6.   A Player may only claim LTR status for the ERL region in which they are currently
                         participating. Upon joining another ERL, the Player will have to prove their LTR
                         status for the respective ERL or become a Non-Representative.
 
-              1.3.7.​   A Player may only be an LTR of a single ERL at any point in time. A player will
+              1.3.7.   A Player may only be an LTR of a single ERL at any point in time. A player will
                         not be considered a representative until they have declared themselves as an
-                        LTR to the respective ERL.​
+                        LTR to the respective ERL.
 
-              1.3.8.​   Players are not required to claim LTR status and may choose to remain a
-                        Non-Representative despite being eligible.​
+              1.3.8.   Players are not required to claim LTR status and may choose to remain a
+                        Non-Representative despite being eligible.
 
-              1.3.9.​   In order to be deemed a Resident, a Player must qualify under two possible
+              1.3.9.   In order to be deemed a Resident, a Player must qualify under two possible
                         scenarios:
-                                    ●​ Provisional Non-Residents:​
+                                    ● Provisional Non-Residents:
                                        A Provisional Non-Resident is a current Non-Resident who has
                                        begun accruing time towards becoming a Resident. A
                                        Provisional Non-Resident can become a Resident if the Player
                                        has legally resided and been primarily present in the region for
                                        no less than 48 months out of the last 72 months immediately
                                        prior to such Player’s participation in the first Game of the
-                                       applicable competition.​
+                                       applicable competition.
 
-                                    ●​ New Non-Residents:​
+                                    ● New Non-Residents:
                                        A New Non-Resident is a Player who was not on the Team
                                        Roster of a Team in the Professional or Accredited League nor
                                        relocated to that region for the goal of training in those Leagues
@@ -281,9 +281,9 @@ Version 3.0; 20th February 2025
                                        last 12 Splits.
 
                                          A New Non-Resident Player must obtain lawful permanent
-                                         resident status in the region the Player participates in.​
+                                         resident status in the region the Player participates in.
 
-             1.3.10.​   A Player may only be a Resident of one single region at any point in time. Upon
+             1.3.10.   A Player may only be a Resident of one single region at any point in time. Upon
                         joining a Team's Roster, a Player will be considered a Non-Resident until and
                         unless they declare themselves a Resident and meet the standards set forth in
                         this rule. A Player who has lawful permanent resident status in multiple regions
@@ -292,7 +292,7 @@ Version 3.0; 20th February 2025
                         residency to the other region, they must have participated in at least 50% of
                         Regular Season Matches of their Team within that region in its most recent Split.
 
-             1.3.11.​   Players may prove Residency and LTR eligibility by submitting documentary
+             1.3.11.   Players may prove Residency and LTR eligibility by submitting documentary
                         evidence of eligibility. There are two general categories of evidence:
                         government-issued documentation (e.g., government benefits records,
                         military/draft registration papers) and private documentation (e.g., school records,
@@ -303,34 +303,34 @@ Version 3.0; 20th February 2025
                                                                                                    7
 
 <!-- página 8 -->
-                            employment records). ​
-                            ​
+                            employment records). 
+                            
                             Minors may also have a parent or guardian prove Residency or LTR status on
                             their behalf by first, providing documentary evidence of the parent-
                             /guardian-child relationship (e.g., a birth certificate) and second, submitting
-                            documentary evidence belonging to the parent/guardian, as outlined above.​
+                            documentary evidence belonging to the parent/guardian, as outlined above.
 
-          1.4.​     Team Member Services Agreement
-                  1.4.1.​ For any contractual agreement signed between a Team Member and an ERL
-                          Team, the contract needs to adhere to and be governed by applicable local laws.​
+          1.4.     Team Member Services Agreement
+                  1.4.1. For any contractual agreement signed between a Team Member and an ERL
+                          Team, the contract needs to adhere to and be governed by applicable local laws.
 
-                  1.4.2.​   For Accredited ERLs: Team Members are required to have a Team Member
-                            Service Agreement with their respective Teams.​
+                  1.4.2.   For Accredited ERLs: Team Members are required to have a Team Member
+                            Service Agreement with their respective Teams.
 
-          1.5.​     Player Eligibility
-                  1.5.1.​ A Player who has participated in more than 50% of the Matches in the current
+          1.5.     Player Eligibility
+                  1.5.1. A Player who has participated in more than 50% of the Matches in the current
                           LEC Split is ineligible to participate in any ERL Regular Season, Play-Offs and
-                          the EM event for the current Split.​
+                          the EM event for the current Split.
 
-                  1.5.2.​   A Player contracted to a non-LEC organisation in any Professional League, as
+                  1.5.2.   A Player contracted to a non-LEC organisation in any Professional League, as
                             defined by their ability to qualify for the World Championship Event (LTA, LCK,
-                            LPL, LCP etc.), is strictly forbidden from engaging in the EMEA Masters.​
+                            LPL, LCP etc.), is strictly forbidden from engaging in the EMEA Masters.
 
-                  1.5.3.​   Team Members who are not part of GCD (for Accredited ERLs) are ineligible to
-                            participate in any competitions within the ERL scope, and EM.​
+                  1.5.3.   Team Members who are not part of GCD (for Accredited ERLs) are ineligible to
+                            participate in any competitions within the ERL scope, and EM.
 
-          1.6.​     No Riot Employees
-                  1.6.1.​ Team Owners and Team employees may not be employees of Riot Games Inc.,
+          1.6.     No Riot Employees
+                  1.6.1. Team Owners and Team employees may not be employees of Riot Games Inc.,
                           Riot Games Limited, League of Legends European Championship Limited, or
                           their affiliates (“Riot Entities”); or employees of the Tournament Organiser or its
                           respective affiliates. “Affiliate” is defined as any person or other entity which owns
@@ -338,17 +338,17 @@ Version 3.0; 20th February 2025
                           or control, with the named Riot Entities or Tournament Organiser. “Control” shall
                           mean the power, through any means, to determine the policies or management of
                           an entity, whether through the power to elect, appoint or approve, directly or
-                          indirectly, the directors, officers, managers or trustees of such entity or otherwise.​
+                          indirectly, the directors, officers, managers or trustees of such entity or otherwise.
 
-          1.7.​     Passport Requirement
-                  1.7.1.​ Team Members who qualify to compete in any offline events held as part of an
+          1.7.     Passport Requirement
+                  1.7.1. Team Members who qualify to compete in any offline events held as part of an
                           EM event must have all necessary visas, passports or other travel documents for
                           travel to the cities where the offline events are held. Team Members under the
                           age of majority under applicable law may be required to travel with a parent or
                           legal guardian. The passport has to be valid for 6 months after the intended
                           departure date for the event. Exceptions to this rule will be granted at the sole
                           discretion of EM Officials.
-                          1.7.1.1.​   The exemption from this rule may be applicable to Team Members of
+                          1.7.1.1.   The exemption from this rule may be applicable to Team Members of
                                       the ERL Team who are citizens of the European Union member
                                       states, provided that they possess valid identification documentation
 
@@ -357,10 +357,10 @@ Version 3.0; 20th February 2025
                                                                                                         8
 
 <!-- página 9 -->
-                                     for travel.​
+                                     for travel.
 
-          1.8.​     Eligibility & Release Forms
-                  1.8.1.​ Team Members will be sent a player eligibility and Release Form by EM Officials.
+          1.8.     Eligibility & Release Forms
+                  1.8.1. Team Members will be sent a player eligibility and Release Form by EM Officials.
                           This form will inform the Team Member of what information, including personal
                           information, that the League will collect and process for use on broadcast, social
                           media and player movements.
@@ -372,10 +372,10 @@ Version 3.0; 20th February 2025
                                                                                                    9
 
 <!-- página 10 -->
-      2.​     Ownership​
+      2.     Ownership
 
-            2.1.​     Ownership Restrictions
-                    2.1.1.​ In order to preserve the integrity of official League play, the Team Managers, or
+            2.1.     Ownership Restrictions
+                    2.1.1. In order to preserve the integrity of official League play, the Team Managers, or
                             affiliates thereof, shall not have an interest in more than one ERL Team
                             participating in a ERL or/and EM, as defined below:
 
@@ -399,11 +399,11 @@ Version 3.0; 20th February 2025
                               representative, agent, consultant ,or advisor, etc.) with, and otherwise has no
                               ability to control or exercise influence over such Common Undertaking, and (iii)
                               such Team Manager has provided written notice to the League of such ownership
-                              in a Common Undertaking five business days in advance of such investment.​
+                              in a Common Undertaking five business days in advance of such investment.
 
-                    2.1.2.​   An Organisation or Team may only own one ERL Team across all ERLs.​
+                    2.1.2.   An Organisation or Team may only own one ERL Team across all ERLs.
 
-                    2.1.3.​   Organisations or Teams are only allowed to participate in one ERL per Season.
+                    2.1.3.   Organisations or Teams are only allowed to participate in one ERL per Season.
                               Any changes can only take effect between Seasons and must follow the
                               procedures and timeline outlined by the ERL Officials. An Organisation or Team
                               must receive approval from both the future ERL Officials and League Officials for
@@ -413,7 +413,7 @@ Version 3.0; 20th February 2025
                               exceptional prior written approval from ERL Officials and League Officials is
                               obtained.
 
-                    2.1.4.​   Unless otherwise permitted in writing by LEC Officials, from the Organisations or
+                    2.1.4.   Unless otherwise permitted in writing by LEC Officials, from the Organisations or
                               Teams belonging to the Professional Esports Leagues (cf. section 11 below,
                               Glossary & Exhibits), LEC Organisations or Teams are the only Organisations or
                               Teams permitted to own and operate an ERL Team. Unless permitted in writing
@@ -426,8 +426,8 @@ Version 3.0; 20th February 2025
                                                                                                            10
 
 <!-- página 11 -->
-          2.2.​     Recognition of Ownership
-                  2.2.1.​ The League shall have the right to make final and binding determinations
+          2.2.     Recognition of Ownership
+                  2.2.1. The League shall have the right to make final and binding determinations
                           regarding Team ownership, issues relating to the multiple Team restriction and
                           other relationships that may otherwise have an adverse impact on the competitive
                           integrity of the ERL. Any person that petitions for ownership into the ERL can be
@@ -435,12 +435,12 @@ Version 3.0; 20th February 2025
                           they will not contest any final determination of the League in connection
                           therewith.
 
-                  2.2.2.​   If an Owner is found to have any financial interest or benefit or any level of
+                  2.2.2.   If an Owner is found to have any financial interest or benefit or any level of
                             influence in another Team, the Owner will be required to immediately divest said
                             interest in one of the two Teams and may be subject to punishment by the
-                            League.​
+                            League.
 
-                  2.2.3.​   Ownership of a Team competing in an ERL or EM should be clearly indicated by
+                  2.2.3.   Ownership of a Team competing in an ERL or EM should be clearly indicated by
                             the Starting Line-up or Organisation to ERL officials.
 
 
@@ -450,50 +450,50 @@ Version 3.0; 20th February 2025
                                                                                                     11
 
 <!-- página 12 -->
-      3.​     Team Rosters​
+      3.     Team Rosters
 
-            3.1.​     Team Roster Requirements
-                    3.1.1.​ Teams are required to maintain at least five Players in their Team Roster during
+            3.1.     Team Roster Requirements
+                    3.1.1. Teams are required to maintain at least five Players in their Team Roster during
                             the entirety of the EM event. Additionally, Teams may register up to two
-                            Substitutes in their Team Roster.​
+                            Substitutes in their Team Roster.
 
-                    3.1.2.​   Team Rosters declared by Teams for their respective ERL Playoffs will be the
+                    3.1.2.   Team Rosters declared by Teams for their respective ERL Playoffs will be the
                               Team Rosters eligible for the EMEA Masters event. Teams will not be able to add
-                              any new Players & Coaches past the regional ERL Playoffs roster lock. ​
+                              any new Players & Coaches past the regional ERL Playoffs roster lock. 
 
-                    3.1.3.​   Teams are required to have a minimum of two LTRs and three EMEA Residents
+                    3.1.3.   Teams are required to have a minimum of two LTRs and three EMEA Residents
                               in the Starting Line-up at all times. If the Team has at least one substitute, they
                               will be required to have a minimum of three LTRs and four EMEA Residents
                               (IMP) in their Team Roster at all times.
-                              3.1.3.1.​   For cases where ERL regions require three LTRs in the Starting
+                              3.1.3.1.   For cases where ERL regions require three LTRs in the Starting
                                           Line-up, Teams must comply with the LTR requirements specific to
-                                          their respective ERL, as defined in the applicable ERL Rulebook.​
+                                          their respective ERL, as defined in the applicable ERL Rulebook.
 
-                    3.1.4.​   An EM Starting Line-up cannot include more than two Veterans at a time.​
+                    3.1.4.   An EM Starting Line-up cannot include more than two Veterans at a time.
 
-                    3.1.5.​   In the event of an emergency, a Team may be granted the ability to sign a new
+                    3.1.5.   In the event of an emergency, a Team may be granted the ability to sign a new
                               player, provided that all conditions outlined in the Substitutions section are met.
                               The decision to allow such an emergency substitution will be at the sole
                               discretion of the EM Officials.
 
-            3.2.​     Team Roster Modification
-                    3.2.1.​ Teams will be required to finalize and submit their Team Roster (Starting Line-up,
+            3.2.     Team Roster Modification
+                    3.2.1. Teams will be required to finalize and submit their Team Roster (Starting Line-up,
                             Substitutes, Coaches) for their regional ERL Playoffs Roster Lock to their regional
                             ERL TO, no later than the ERL Playoffs Roster Lock deadline indicated by their
                             ERL TO. The Team Roster submitted or known to regional ERL Officials at this
                             time will be considered the eligible Team Roster for the upcoming EM event.
                             Teams will not be able to add any new Players & Coaches past the regional ERL
-                            Playoffs Roster Lock.​
+                            Playoffs Roster Lock.
 
-                    3.2.2.​   Each Team must appoint a single point of contact who is responsible for the
+                    3.2.2.   Each Team must appoint a single point of contact who is responsible for the
                               communication between the EM Officials and the Team, and is available in the
-                              respective Team channel during the course of their Matches.​
+                              respective Team channel during the course of their Matches.
 
-                    3.2.3.​   For each Game during the course of the EMEA Masters, Teams must designate
-                              five players as their Starting Line-up. ​
+                    3.2.3.   For each Game during the course of the EMEA Masters, Teams must designate
+                              five players as their Starting Line-up. 
 
-            3.3.​     Team Roster Modification - EM Winter
-                    3.3.1.​ Requests to modify a Starting Line-up for the Team’s first Match on the first day of
+            3.3.     Team Roster Modification - EM Winter
+                    3.3.1. Requests to modify a Starting Line-up for the Team’s first Match on the first day of
                             the GSL Group Stage must be submitted no later than five minutes after the
                             conclusion of the GSL Group Stage Draw. Requests to modify a Starting Lineup
                             for a Team's first Match on any other day of that stage must be submitted no later
@@ -504,53 +504,53 @@ Version 3.0; 20th February 2025
                                                                                                         12
 
 <!-- página 13 -->
-                            Team’s Match.​
+                            Team’s Match.
 
-                  3.3.2.​   Requests to modify a Starting Line-up for the Team’s Match of the Quarterfinals
+                  3.3.2.   Requests to modify a Starting Line-up for the Team’s Match of the Quarterfinals
                             of the Playoffs Stage must be submitted no later than five minutes after the
-                            conclusion of the Playoffs Draw.​
+                            conclusion of the Playoffs Draw.
 
-                  3.3.3.​   Requests to modify a Starting Line-up for the Team’s Match of the Semifinals,
+                  3.3.3.   Requests to modify a Starting Line-up for the Team’s Match of the Semifinals,
                             and Finals of the Playoffs Stage must be submitted no later than five minutes
                             after the conclusion of the coinflip which will take place immediately after the final
                             Game which determined the second participant of the respective Semifinals, and
-                            Finals matchups.​
+                            Finals matchups.
 
-                  3.3.4.​   Requests to modify a Starting Line-up for subsequent Games must be submitted
-                            no later than 5 minutes after the conclusion of the previous Game.​
+                  3.3.4.   Requests to modify a Starting Line-up for subsequent Games must be submitted
+                            no later than 5 minutes after the conclusion of the previous Game.
 
-                  3.3.5.​   EM Officials can shift this deadline at their discretion by informing affected Teams.
+                  3.3.5.   EM Officials can shift this deadline at their discretion by informing affected Teams.
                             If no decision is submitted in time, the Starting Line-up will default to the Starting
                             Line-up used in the Team’s last official Game or Match.
 
-          3.4.​     Substitutions
-                  3.4.1.​ Player Substitutions have to result in Teams having eligible Team Rosters. To
-                          clarify, a suspended player cannot be a Substitute.​
+          3.4.     Substitutions
+                  3.4.1. Player Substitutions have to result in Teams having eligible Team Rosters. To
+                          clarify, a suspended player cannot be a Substitute.
 
-                  3.4.2.​   If a Team wishes to substitute Players after the Team's first Match on a given day,
+                  3.4.2.   If a Team wishes to substitute Players after the Team's first Match on a given day,
                             those substitutions must be declared to EM Officials before the start of the next
                             scheduled Game, as defined as the start of the Pick-&-Ban Phase. To be clear,
                             the next scheduled Game means the next game scheduled to be broadcasted,
-                            not the next Game scheduled for the Team wishing to make the change. ​
+                            not the next Game scheduled for the Team wishing to make the change. 
 
-                  3.4.3.​   A Team may substitute a Player between Games of a Match (i.e. between Games
+                  3.4.3.   A Team may substitute a Player between Games of a Match (i.e. between Games
                             of a best-of-three or best-of-five) or between Games in the best-of-one rounds
                             given any of the Teams participating is playing back to back Games. The Team
                             must notify an EM official and have the Substitution approved, no later than 5
                             minutes after the conclusion of the previous Game.
 
-                  3.4.4.​   In the event of an emergency on the day of the Match, a Team will be given up to
+                  3.4.4.   In the event of an emergency on the day of the Match, a Team will be given up to
                             one hour to find an immediate Substitute from their Team Roster for a Game. If a
                             replacement cannot be found, the Team will forfeit. EM Officials will determine if
-                            an event qualifies as an emergency.​
+                            an event qualifies as an emergency.
 
-                  3.4.5.​   In the event of an emergency prior to the day of the Match, a Team may be given
+                  3.4.5.   In the event of an emergency prior to the day of the Match, a Team may be given
                             up to 48 hours to sign a new Player to their Team Roster. The exact time given to
                             the Team will be decided based on the proximity to the Team's Match and will be
                             at the sole discretion of the EM Officials. Teams will be required to abide by the
                             following restrictions in order to sign new Players:
-                            3.4.5.1.​   Must not have been declared as a Team Member on the regional ERL
-                                        Roster Lock for the preceding ERL Playoffs.​
+                            3.4.5.1.   Must not have been declared as a Team Member on the regional ERL
+                                        Roster Lock for the preceding ERL Playoffs.
 
 
 
@@ -558,43 +558,43 @@ Version 3.0; 20th February 2025
                                                                                                          13
 
 <!-- página 14 -->
-                            3.4.5.2.​   Must not have played professionally in the current LEC Split.​
+                            3.4.5.2.   Must not have played professionally in the current LEC Split.
 
-                            3.4.5.3.​   The signed contract with the new Player must end before the
-                                        upcoming Free Agency Opening.​
+                            3.4.5.3.   The signed contract with the new Player must end before the
+                                        upcoming Free Agency Opening.
 
-                            3.4.5.4.​   The newly signed Player will be allowed to participate for the duration
+                            3.4.5.4.   The newly signed Player will be allowed to participate for the duration
                                         of the emergency. The signing Team will be required to provide
-                                        necessary evidence to the EM officials. ​
+                                        necessary evidence to the EM officials. 
 
-                  3.4.6.​   For any offline stages, Teams must have at least one Substitute physically
+                  3.4.6.   For any offline stages, Teams must have at least one Substitute physically
                             present at all times.
 
-          3.5.​     Coaches
-                  3.5.1.​ Teams may register a Head Coach in their Team Roster. In addition, Teams may
+          3.5.     Coaches
+                  3.5.1. Teams may register a Head Coach in their Team Roster. In addition, Teams may
                           register up to three other Coaches as either Strategic Coaches, Assistant
-                          Coaches or Performance Coaches. ​
+                          Coaches or Performance Coaches. 
 
-                  3.5.2.​   Up to two of Team's registered Coaches or Substitutes are eligible to participate
-                            in the Pick-&-Ban Phase of the Team's official Games.​
+                  3.5.2.   Up to two of Team's registered Coaches or Substitutes are eligible to participate
+                            in the Pick-&-Ban Phase of the Team's official Games.
 
-                  3.5.3.​   Online
-                            3.5.3.1.​   Teams may have two Coaches in Team’s voice channel for every
+                  3.5.3.   Online
+                            3.5.3.1.   Teams may have two Coaches in Team’s voice channel for every
                                         Game that the Team participates in. Once the Pick-&-Ban process has
                                         been completed all present Coaches need to mute themselves in
-                                        order to stay in the voice channel.​
+                                        order to stay in the voice channel.
 
-                  3.5.4.​   Offline
-                            3.5.4.1.​   Teams are required to have a Head Coach, and may have an
+                  3.5.4.   Offline
+                            3.5.4.1.   Teams are required to have a Head Coach, and may have an
                                         additional Coach on-stage during the Pick-&-Ban Phase for every
-                                        Game that the Team participates at the EM venue. ​
+                                        Game that the Team participates at the EM venue. 
 
-                  3.5.5.​   In the event of a verified emergency, the Team can designate an interim Coach.
+                  3.5.5.   In the event of a verified emergency, the Team can designate an interim Coach.
                             Whether or not an event qualifies as an emergency is determined at the sole
-                            discretion of the EM Officials.​
+                            discretion of the EM Officials.
 
-          3.6.​     ERL Team Roster Eligibility
-                  3.6.1.​ If there are multiple claims for a single slot in the EM, the slot is held by the Team
+          3.6.     ERL Team Roster Eligibility
+                  3.6.1. If there are multiple claims for a single slot in the EM, the slot is held by the Team
                           which can field the higher number of Starters from the qualifying Team Roster. If
                           the number of Starters is equal between those Teams, the Team with the higher
                           number of Substitutes from the qualifying Team Roster will be granted the slot. If
@@ -608,15 +608,15 @@ Version 3.0; 20th February 2025
                                                                                                          14
 
 <!-- página 15 -->
-      4.​     Tournament Information​
+      4.     Tournament Information
 
-            4.1.​     Tournament Format - EM Winter
-                    4.1.1.​GSL Group Stage
-                           4.1.1.1.​ Sixteen Teams will be drawn into four GSL Group Stage of four
+            4.1.     Tournament Format - EM Winter
+                    4.1.1.GSL Group Stage
+                           4.1.1.1. Sixteen Teams will be drawn into four GSL Group Stage of four
                                      Teams. Each group will consist of three rounds. Each round will be
-                                     best-of-three Matches.​
+                                     best-of-three Matches.
 
-                              4.1.1.2.​   The Team from the highest draw pool (Pool 1) in each Group will
+                              4.1.1.2.   The Team from the highest draw pool (Pool 1) in each Group will
                                           choose their first opponent from among the two lowest draw pools
                                           (Pool 3, or Pool 4) in their Group. The second draw pool (Pool 2) will
                                           play against the remaining (Pool 3, or Pool 4). The Team’s choice of
@@ -624,35 +624,35 @@ Version 3.0; 20th February 2025
                                           conclusion of the GSL Group Stage draw. If a team from Pool 1 does
                                           not submit their choice within five minutes after the conclusion of the
                                           GSL Group Stage draw, they will automatically be matched against a
-                                          team from Pool 4.​
+                                          team from Pool 4.
 
-                              4.1.1.3.​   Teams must win two best-of-three Matches to advance from the GSL
+                              4.1.1.3.   Teams must win two best-of-three Matches to advance from the GSL
                                           Group Stage. Teams losing two best-of-three Matches will be
-                                          eliminated from the tournament.​
+                                          eliminated from the tournament.
 
-                              4.1.1.4.​   Each GSL Group will qualify two Teams to the next stage. Teams with
+                              4.1.1.4.   Each GSL Group will qualify two Teams to the next stage. Teams with
                                           the score 2:0 will be ranked 1st in their Group, while Teams with the
                                           score 2:1 will qualify as 2nd in their Group. Teams with the score 1:2
                                           will be ranked 3rd, and Teams with the score 0:2 will be ranked 4th in
                                           their Group.
 
-                              4.1.1.5.​   All Matches will feature Fearless Draft (see 8.9).​
+                              4.1.1.5.   All Matches will feature Fearless Draft (see 8.9).
 
-                              4.1.1.6.​   Right for side selection for Game 1 of the first round will be granted to
+                              4.1.1.6.   Right for side selection for Game 1 of the first round will be granted to
                                           the Team from the higher draw pool. The higher pool will be required
                                           to submit their decision for side selection for Game 1 no later than ten
-                                          minutes after the conclusion of the GSL Group Stage Draw.​
+                                          minutes after the conclusion of the GSL Group Stage Draw.
 
-                              4.1.1.7.​   Right for side selection for Game 1 of the second and third rounds will
+                              4.1.1.7.   Right for side selection for Game 1 of the second and third rounds will
                                           be granted to the Team from the higher draw pool. The higher seed
                                           will be required to submit their decision for side selection for Game 1
                                           no later than fifteen minutes after the conclusion of the final Game of
                                           the day, the day prior to the Team’s Match.
 
-                              4.1.1.8.​   Within any given Match, for all Games after the first, the losing Team
+                              4.1.1.8.   Within any given Match, for all Games after the first, the losing Team
                                           of the previous Game will have the right for side selection, and their
                                           side selection will be due within 5 minutes of the end of the previous
-                                          Game.​
+                                          Game.
 
 
 
@@ -661,107 +661,107 @@ Version 3.0; 20th February 2025
                                                                                                           15
 
 <!-- página 16 -->
-                            4.1.1.9.​   EM Officials can shift these deadlines at their discretion by informing
+                            4.1.1.9.   EM Officials can shift these deadlines at their discretion by informing
                                         affected Teams. If no decision is submitted in time, selection will
                                         default to the blue side.
 
-                  4.1.2.​   Playoffs Stage
-                            4.1.2.1.​  The eight remaining Teams will be drawn into an eight Team,
+                  4.1.2.   Playoffs Stage
+                            4.1.2.1.  The eight remaining Teams will be drawn into an eight Team,
                                        best-of-five, single elimination bracket with three rounds:
                                        Quarterfinals, Semifinals, and Finals.
 
-                            4.1.2.2.​   Teams that win their Matches in the Quarterfinals will advance to the
+                            4.1.2.2.   Teams that win their Matches in the Quarterfinals will advance to the
                                         Semifinals. Teams that lose their Matches will be eliminated from the
-                                        EMEA Masters as 5th-8th place finishers.​
+                                        EMEA Masters as 5th-8th place finishers.
 
-                            4.1.2.3.​   Teams that win their Matches in the Semifinals will advance to the
+                            4.1.2.3.   Teams that win their Matches in the Semifinals will advance to the
                                         Finals. Teams that lose their Matches will be eliminated from the
-                                        EMEA Masters as 3rd/4th place finishers.​
+                                        EMEA Masters as 3rd/4th place finishers.
 
-                            4.1.2.4.​   The Team that wins the Finals will be the 2025 EMEA Masters Winter
+                            4.1.2.4.   The Team that wins the Finals will be the 2025 EMEA Masters Winter
                                         Champion. The Team that loses the Finals will be eliminated from the
-                                        EMEA Masters as the 2nd place finisher. ​
+                                        EMEA Masters as the 2nd place finisher. 
 
-                            4.1.2.5.​   All Matches will feature Fearless Draft (see 8.9).​
+                            4.1.2.5.   All Matches will feature Fearless Draft (see 8.9).
 
-                            4.1.2.6.​   Right for side selection for Game 1 of the Quarterfinals will be granted
-                                        to the 1st placed Team coming from the GSL Group Stage.​
+                            4.1.2.6.   Right for side selection for Game 1 of the Quarterfinals will be granted
+                                        to the 1st placed Team coming from the GSL Group Stage.
 
-                            4.1.2.7.​   Right for side selection for Game 1 of the Semifinals and Finals will be
+                            4.1.2.7.   Right for side selection for Game 1 of the Semifinals and Finals will be
                                         determined by coinflip, which will take place immediately after the final
                                         Game which determined the second participant of the respective
                                         Semifinals, and Finals matchups. Side selection will be due five
                                         minutes after the conclusion of the coinflip.
 
-                            4.1.2.8.​   Within any given Match, for all Games after the first, the losing Team
+                            4.1.2.8.   Within any given Match, for all Games after the first, the losing Team
                                         of the previous Game will have the right for side selection, and their
                                         side selection will be due within 5 minutes of the end of the previous
-                                        Game.​
+                                        Game.
 
-                            4.1.2.9.​   EM Officials can shift these deadlines at their discretion by informing
+                            4.1.2.9.   EM Officials can shift these deadlines at their discretion by informing
                                         affected Teams. If no decision is submitted in time, selection will
                                         default to the blue side.
 
-          4.2.​     Tournament Seeding
-                  4.2.1.​ All Teams have been seeded into the tournament to start in the GSL Group
-                          Stage.​
+          4.2.     Tournament Seeding
+                  4.2.1. All Teams have been seeded into the tournament to start in the GSL Group
+                          Stage.
 
-                  4.2.2.​   EM Winter Seeding:
-                            4.2.2.1.​ Teams starting in the GSL Group Stage:
-                                       -​ 1st, 2nd seed from the LFL
-                                       -​ 1st, 2nd seed from the PRM
+                  4.2.2.   EM Winter Seeding:
+                            4.2.2.1. Teams starting in the GSL Group Stage:
+                                       - 1st, 2nd seed from the LFL
+                                       - 1st, 2nd seed from the PRM
 
 Version 3.0; 20th February 2025
                                                                                                         16
 
 <!-- página 17 -->
-                                         -​   1st, 2nd seed from the SL
-                                         -​   1st seed from the TCL
-                                         -​   1st seed from the LIT
-                                         -​   1st seed from the AL
-                                         -​   1st seed from the HLL
-                                         -​   1st seed from the HM
-                                         -​   1st seed from the NLC
-                                         -​   1st seed from the RL
-                                         -​   1st seed from the LPLOL
-                                         -​   1st seed from the EBL
-                                         -​   1st seed from the RLOL
+                                         -   1st, 2nd seed from the SL
+                                         -   1st seed from the TCL
+                                         -   1st seed from the LIT
+                                         -   1st seed from the AL
+                                         -   1st seed from the HLL
+                                         -   1st seed from the HM
+                                         -   1st seed from the NLC
+                                         -   1st seed from the RL
+                                         -   1st seed from the LPLOL
+                                         -   1st seed from the EBL
+                                         -   1st seed from the RLOL
 
-          4.3.​     Tournament Draws
-                  4.3.1.​GSL Group Stage Draw
-                         4.3.1.1.​ Teams have been split into four draw pools, based on their regions’
+          4.3.     Tournament Draws
+                  4.3.1.GSL Group Stage Draw
+                         4.3.1.1. Teams have been split into four draw pools, based on their regions’
                                    previous EMEA Masters performance, for the purpose of the GSL
                                    Group Stage.
-                                    -​ Pool 1: LFL #1, PRM #1, SL #1, TCL #1;
-                                    -​ Pool 2: LIT #1, AL #1, HLL #1, HM #1;
-                                    -​ Pool 3: NLC #1, RL #1, LPLOL #1, EBL #1;
-                                    -​ Pool 4: ROL #1, LFL #2, PRM #2, SL #2;​
+                                    - Pool 1: LFL #1, PRM #1, SL #1, TCL #1;
+                                    - Pool 2: LIT #1, AL #1, HLL #1, HM #1;
+                                    - Pool 3: NLC #1, RL #1, LPLOL #1, EBL #1;
+                                    - Pool 4: ROL #1, LFL #2, PRM #2, SL #2;
 
-                            4.3.1.2.​   Teams within each pool will be assigned a number from 1 to 4, then
-                                        these numbers will be drawn using a randomiser.​
+                            4.3.1.2.   Teams within each pool will be assigned a number from 1 to 4, then
+                                        these numbers will be drawn using a randomiser.
 
-                            4.3.1.3.​   Teams will be placed into groups from A to D in the order they are
-                                        drawn, one pool at a time. Pools will be drawn in 1>2>3>4 order.​
+                            4.3.1.3.   Teams will be placed into groups from A to D in the order they are
+                                        drawn, one pool at a time. Pools will be drawn in 1>2>3>4 order.
 
-                            4.3.1.4.​   Teams from the same region cannot be placed into the same Group.
+                            4.3.1.4.   Teams from the same region cannot be placed into the same Group.
                                         In case they are drawn in the same Group, they will be moved to the
                                         next eligible Group (A>B>C>D). In a case where no Group is eligible,
-                                        a Team will be placed in the first Group they were drawn in initially.​
+                                        a Team will be placed in the first Group they were drawn in initially.
 
                                         To avoid invalid draws, a Team may be placed in a Group other than
                                         the first valid Group for them, to avoid an invalid draw for the
                                         remaining Teams. In this situation, the Team will be placed into the
                                         next valid Group in alphabetical order. This rule shall only be utilised if
                                         placing a Team in the first valid group has the possibility of causing an
-                                        invalid draw later on.​
+                                        invalid draw later on.
 
-                  4.3.2.​   Playoffs Stage Draw
-                            4.3.2.1.​  Teams have been split into two draw pools, based on their GSL Group
+                  4.3.2.   Playoffs Stage Draw
+                            4.3.2.1.  Teams have been split into two draw pools, based on their GSL Group
                                        Stage performance, for the purpose of the Playoffs Stage draw.
-                                        -​ Pool 1: #1 seeds from Groups A - D
-                                        -​ Pool 2: #2 seeds from Groups A - D​
+                                        - Pool 1: #1 seeds from Groups A - D
+                                        - Pool 2: #2 seeds from Groups A - D
 
-                            4.3.2.2.​   Teams within each pool will be assigned a number from 1 to 4, these
+                            4.3.2.2.   Teams within each pool will be assigned a number from 1 to 4, these
                                         numbers will be drawn using a randomiser.
 
 
@@ -769,38 +769,38 @@ Version 3.0; 20th February 2025
                                                                                                           17
 
 <!-- página 18 -->
-                            4.3.2.3.​   Teams will be placed into the bracket in the order they are drawn, one
-                                        pool at a time. Pools will be drawn in 1>2 order.​
+                            4.3.2.3.   Teams will be placed into the bracket in the order they are drawn, one
+                                        pool at a time. Pools will be drawn in 1>2 order.
 
-                            4.3.2.4.​   Teams from the same Group from the GSL Group Stage, cannot meet
+                            4.3.2.4.   Teams from the same Group from the GSL Group Stage, cannot meet
                                         in the Playoffs Stage before the finals
-                                                  ○​ For example, #2 seed from Group A gets placed into a
+                                                  ○ For example, #2 seed from Group A gets placed into a
                                                       matchup with the #1 seed from Group A resulting in an
                                                       ineligible draw. Thus, #2 seed from Group A moves over
                                                       to the next eligible matchup to ensure they don't face #1
                                                       seed from Group A until the Finals. The next draw would
                                                       be placed into the original matchup, in this case vs #1
-                                                      seed from group A.​
+                                                      seed from group A.
 
-                            4.3.2.5.​   Draw Restrictions. There are no additional restrictions for the Playoffs
-                                        Stage draw. ​
+                            4.3.2.5.   Draw Restrictions. There are no additional restrictions for the Playoffs
+                                        Stage draw. 
 
-                            4.3.2.6.​   The remainder of the tournament will progress as a single elimination
-                                        bracket, no more draws will take place.​
+                            4.3.2.6.   The remainder of the tournament will progress as a single elimination
+                                        bracket, no more draws will take place.
 
-                  4.3.3.​   Tournament Draw Schedule
-                            4.3.3.1.​ GSL Group Stage Draw:
-                                              ○​ 16th March 2025 - The exact hour will be communicated
+                  4.3.3.   Tournament Draw Schedule
+                            4.3.3.1. GSL Group Stage Draw:
+                                              ○ 16th March 2025 - The exact hour will be communicated
                                                  by EM officials closer to the date.
-                                              ○​ Playoffs Draw - Immediately following completion of
-                                                 Matches on 19 March 2025. ​
+                                              ○ Playoffs Draw - Immediately following completion of
+                                                 Matches on 19 March 2025. 
 
-          4.4.​     Tournament Schedule
-                  4.4.1.​Dates of Tournament Stages
-                         4.4.1.1.​  GSL Group Stage: 17 March - 19 March 2025
-                         4.4.1.2.​  Playoffs Stage - Quarterfinals: 20 March 2025
-                         4.4.1.3.​  Playoffs Stage - Semifinals: 21 - 22 March 2025
-                         4.4.1.4.​  Playoffs Stage - Finals: 23 March 2025
+          4.4.     Tournament Schedule
+                  4.4.1.Dates of Tournament Stages
+                         4.4.1.1.  GSL Group Stage: 17 March - 19 March 2025
+                         4.4.1.2.  Playoffs Stage - Quarterfinals: 20 March 2025
+                         4.4.1.3.  Playoffs Stage - Semifinals: 21 - 22 March 2025
+                         4.4.1.4.  Playoffs Stage - Finals: 23 March 2025
 
 
 
@@ -809,10 +809,10 @@ Version 3.0; 20th February 2025
                                                                                                        18
 
 <!-- página 19 -->
-       5.​     Finances
+       5.     Finances
 
-             5.1.​     Sponsors
-                     5.1.1.​ A Team has the ability to acquire sponsors. Restrictions on sponsorship
+             5.1.     Sponsors
+                     5.1.1. A Team has the ability to acquire sponsors. Restrictions on sponsorship
                              acquisition are defined by the applicable ERL & EM rules. The Team is obligated
                              to notify the League of the intended acquisition of a new sponsor before the
                              acquisition is finalised. If the sponsorship is classified as a Prohibited
@@ -821,24 +821,24 @@ Version 3.0; 20th February 2025
                              material, the LEC, ERL, EM, or any other Riot-affiliated event. If the sponsorship
                              is classified as a Conditional Sponsorship, then the Team must follow the rules
                              and regulations regarding receiving approval from League Officials (ERL
-                             Rulebook). ​
+                             Rulebook). 
 
-                     5.1.2.​   The Team may only sell or manage sponsorships or brand elements for the Team
+                     5.1.2.   The Team may only sell or manage sponsorships or brand elements for the Team
                                which they are affiliated with.
 
-                     5.1.3.​   No person or entity may hold the naming rights to more than one ERL Team at a
+                     5.1.3.   No person or entity may hold the naming rights to more than one ERL Team at a
                                time. A sponsor which holds naming rights to a Team may not sponsor other
                                Teams in the League in any capacity. No person or entity acting as an owner,
                                partial or total, or as a corporate officer for one Organisation may sponsor a Team
                                of a different Organisation through themselves, a direct connection, another
-                               Organisation they represent, or a proxy.​
+                               Organisation they represent, or a proxy.
 
-                     5.1.4.​   Teams cannot have multiple brand names in their Team name unless they comply
+                     5.1.4.   Teams cannot have multiple brand names in their Team name unless they comply
                                with the naming restrictions set forth in the Team Name Sponsor Integration
-                               Policy.​
+                               Policy.
 
-             5.2.​     Prize distribution
-                     5.2.1.​ The total prize pool for the EM Winter event is €40,000. The distribution is as
+             5.2.     Prize distribution
+                     5.2.1. The total prize pool for the EM Winter event is €40,000. The distribution is as
                              follows (per Team):
 
 
@@ -853,27 +853,27 @@ Version 3.0; 20th February 2025
                                                                                                          19
 
 <!-- página 20 -->
-      6.​     Additional Provisions​
+      6.     Additional Provisions
 
-            6.1.​     Publishing
-                    6.1.1.​ The League shall have the right to publish a declaration stating that a Team
+            6.1.     Publishing
+                    6.1.1. The League shall have the right to publish a declaration stating that a Team
                             Manager, Team Member and/or Team has been penalised. Any Team Manager,
                             Team Member and/or Team that may be referenced in such declaration hereby
                             waive any right of legal action against the ERL, EM, League of Legends
                             European Championship Limited, and/or any of their parents, subsidiaries,
                             affiliates, employees, agents, or contractors for publishing such a declaration.
 
-            6.2.​     IP Usage
-                    6.2.1.​ Refer to your Team Participation Agreement with your ERL TO for general usage
+            6.2.     IP Usage
+                    6.2.1. Refer to your Team Participation Agreement with your ERL TO for general usage
                             guidelines.
 
-            6.3.​     Finality of decisions
-                    6.3.1.​ All decisions regarding the interpretation of these rules, Team Member eligibility,
+            6.3.     Finality of decisions
+                    6.3.1. All decisions regarding the interpretation of these rules, Team Member eligibility,
                              scheduling and staging of the ERL & EM and penalties for misconduct, lie solely
-                             with the League, the decisions of which are final.​
+                             with the League, the decisions of which are final.
 
-            6.4.​     Right of modification
-                    6.4.1.​ These rules may be amended, modified or supplemented by the League, in order
+            6.4.     Right of modification
+                    6.4.1. These rules may be amended, modified or supplemented by the League, in order
                             to ensure fair play and the integrity of official League play.
 
 
@@ -883,51 +883,51 @@ Version 3.0; 20th February 2025
                                                                                                       20
 
 <!-- página 21 -->
-      7.​     EM Streaming Regulations​
+      7.     EM Streaming Regulations
 
-            7.1.​     Team Member Streaming
-                    7.1.1.​ Team Members are prohibited from streaming on any platform during the EM
+            7.1.     Team Member Streaming
+                    7.1.1. Team Members are prohibited from streaming on any platform during the EM
                             Broadcast - defined as starting with the expiration of the EM countdown and
                             ending with the conclusion of the broadcast. This includes publicly participating in
                             any other company's or individual's platform, unless approved by the EM Officials
-                            in writing at its sole discretion.​
+                            in writing at its sole discretion.
 
-            7.2.​     Streaming Rights
-                    7.2.1.​ ERL TO shall have the right to provide streaming rights for 1st Division and 2nd
+            7.2.     Streaming Rights
+                    7.2.1. ERL TO shall have the right to provide streaming rights for 1st Division and 2nd
                             division Teams to broadcast the EMEA Masters competition, subject to EM
                             Officials’ approval, using the following regulations:
-                                 ●​ Teams shall be able to stream on any Team Member or Team channel.
+                                 ● Teams shall be able to stream on any Team Member or Team channel.
                                       ERL TO shall submit their Teams’ streaming channels for approval to EM
                                       Officials, and can be changed by the Team provided that they inform the
-                                      ERL TO and the ERL TO approves it. ​
+                                      ERL TO and the ERL TO approves it. 
 
-                                 ●​ Teams can only stream Matches that they are playing in and from EM
-                                    Teams qualified from their respective ERL. ​
+                                 ● Teams can only stream Matches that they are playing in and from EM
+                                    Teams qualified from their respective ERL. 
 
-                                 ●​ Teams shall not monetize outside of the streaming platform (e.g.,
-                                    Pre-rolls, ads, etc.). ​
+                                 ● Teams shall not monetize outside of the streaming platform (e.g.,
+                                    Pre-rolls, ads, etc.). 
 
-                                 ●​ Teams shall not alter,        blur or cover EMEA Masters sponsor
-                                    logos/placements. ​
+                                 ● Teams shall not alter,        blur or cover EMEA Masters sponsor
+                                    logos/placements. 
 
-                                 ●​ Teams can start streaming once the previous Match is finished or 15
+                                 ● Teams can start streaming once the previous Match is finished or 15
                                     minutes before the Match if it is the first Match of the day; Teams can
                                     stream for 15 minutes postgame (defined as being 15 minutes from the
-                                    nexus explosion). ​
+                                    nexus explosion). 
 
-                                 ●​ ERL TO shall have the right to define any hosting/raiding rules. ​
+                                 ● ERL TO shall have the right to define any hosting/raiding rules. 
 
-                                 ●​ ERL TO shall have the right to define reporting structures and intervals. ​
+                                 ● ERL TO shall have the right to define reporting structures and intervals. 
 
-                                 ●​ Teams shall have the right to invite guests. Co-streaming guests need to
-                                    be approved by the ERL TO. ​
+                                 ● Teams shall have the right to invite guests. Co-streaming guests need to
+                                    be approved by the ERL TO. 
 
-                                 ●​ ERL TO can allow Teams to show Teams Sponsors during the 15 minute
+                                 ● ERL TO can allow Teams to show Teams Sponsors during the 15 minute
                                     pre- and post-game portion if they choose so. These sponsors must be
                                     vetted (i.e. Permitted or Conditional Category). Teams cannot show their
-                                    Team Sponsors during the match itself. ​
+                                    Team Sponsors during the match itself. 
 
-                                 ●​ All portions of the broadcast from the Team, both live and archived, must
+                                 ● All portions of the broadcast from the Team, both live and archived, must
                                     be readily available to non-paying viewers.
 
 
@@ -937,51 +937,51 @@ Version 3.0; 20th February 2025
                                                                                                          21
 
 <!-- página 22 -->
-      8.​     Match Process
+      8.     Match Process
 
-            8.1.​     Tournament Realm and Live Accounts
-                    8.1.1.​ Players will use accounts previously provided to them by the ERL Officials for
+            8.1.     Tournament Realm and Live Accounts
+                    8.1.1. Players will use accounts previously provided to them by the ERL Officials for
                             ERL Matches and fall under the regulations defined in the ERL Rulebook. It is the
-                            Players' responsibility to configure their account to their preferences.​
+                            Players' responsibility to configure their account to their preferences.
 
-                    8.1.2.​   The use of ward skins and emotes on Tournament Realms is allowed, unless
-                              usage has been restricted by EM Officials.​
+                    8.1.2.   The use of ward skins and emotes on Tournament Realms is allowed, unless
+                              usage has been restricted by EM Officials.
 
-            8.2.​     Patch
-                    8.2.1.​ The Tournament Realm patch will be communicated by EM Officials to
-                            participating EM Teams before the tournament starts.​
+            8.2.     Patch
+                    8.2.1. The Tournament Realm patch will be communicated by EM Officials to
+                            participating EM Teams before the tournament starts.
 
-                    8.2.2.​   Champions will be automatically restricted from play for their release patch.
+                    8.2.2.   Champions will be automatically restricted from play for their release patch.
                               Champions that have undergone reworks will be enabled at the sole discretion of
-                              the League.​
+                              the League.
 
-            8.3.​     Scheduling
-                    8.3.1.​ EM Officials may, at their sole discretion, modify the schedule of Matches. In the
+            8.3.     Scheduling
+                    8.3.1. EM Officials may, at their sole discretion, modify the schedule of Matches. In the
                             event of a schedule modification the EM Officials will notify all Teams at the
-                            earliest convenience.​
+                            earliest convenience.
 
-                    8.3.2.​   For Offline events: Players participating in the EM event must arrive on-site and
-                              on-stage no later than the time specified by the EM Officials.​
+                    8.3.2.   For Offline events: Players participating in the EM event must arrive on-site and
+                              on-stage no later than the time specified by the EM Officials.
 
-            8.4.​     Referees
-                    8.4.1.​ Referees will oversee the EM matches, including the following:
-                             ●​ Checking the Team’s Starting Line-up before the Match.
-                             ●​ Checking and monitoring Player peripherals and Match Areas.
-                             ●​ Announcing the beginning of a Game.
-                             ●​ Ordering pause/resume during a Game.
-                             ●​ Issuing penalties in response to rule violations during the Match.
-                             ●​ Confirming the end of a Match and its results.​
+            8.4.     Referees
+                    8.4.1. Referees will oversee the EM matches, including the following:
+                             ● Checking the Team’s Starting Line-up before the Match.
+                             ● Checking and monitoring Player peripherals and Match Areas.
+                             ● Announcing the beginning of a Game.
+                             ● Ordering pause/resume during a Game.
+                             ● Issuing penalties in response to rule violations during the Match.
+                             ● Confirming the end of a Match and its results.
 
-                    8.4.2.​   At all times, Referees shall conduct themselves in a professional and impartial
+                    8.4.2.   At all times, Referees shall conduct themselves in a professional and impartial
                               manner. No passion or prejudice shall be shown towards any Player, Team, Team
-                              Manager, Coach or other individual. ​
+                              Manager, Coach or other individual. 
 
-                    8.4.3.​   If a Referee makes an incorrect judgement, the judgement can be subject to
+                    8.4.3.   If a Referee makes an incorrect judgement, the judgement can be subject to
                               reversal. EM Officials, at their discretion, may evaluate the decision during or
                               after the Match to determine if the proper procedure was implemented. If the
                               proper procedure was not followed, EM Officials reserve the right to invalidate the
                               Referee’s decision. EM Officials will always maintain a final say in all decisions
-                              set forth throughout the EM competition.​
+                              set forth throughout the EM competition.
 
 
 
@@ -990,43 +990,43 @@ Version 3.0; 20th February 2025
                                                                                                         22
 
 <!-- página 23 -->
-          8.5.​     Readiness
-                  8.5.1.​ All Players will be expected to be ready to join the game-lobby at the time
+          8.5.     Readiness
+                  8.5.1. All Players will be expected to be ready to join the game-lobby at the time
                           specified by the EM Officials. Readiness includes but is not limited to, all five
                           Players on the Starting Line-up having completed client patching and the
-                          configuration of in-game settings. ​
+                          configuration of in-game settings. 
 
-                  8.5.2.​   Tournaments held on a rolling schedule will have estimated Match start times.
+                  8.5.2.   Tournaments held on a rolling schedule will have estimated Match start times.
                             Teams are required to be available to play their Match up to 90 minutes in
-                            advance of their estimated time, or as otherwise directed by EM Officials.​
+                            advance of their estimated time, or as otherwise directed by EM Officials.
 
-          8.6.​     Punctuality
-                  8.6.1.​ Players participating in the EM event must arrive at the designated Match area no
-                          later than the time specified by the EM Officials.​
+          8.6.     Punctuality
+                  8.6.1. Players participating in the EM event must arrive at the designated Match area no
+                          later than the time specified by the EM Officials.
 
-                  8.6.2.​   All Teams are required to be fully ready for their Matches in the respective Game
-                            Lobby at least 5 minutes before the official Game Time.​
+                  8.6.2.   All Teams are required to be fully ready for their Matches in the respective Game
+                            Lobby at least 5 minutes before the official Game Time.
 
-                  8.6.3.​   During the Play-Offs all Teams are required to be fully ready for their Matches in
+                  8.6.3.   During the Play-Offs all Teams are required to be fully ready for their Matches in
                             the respective Game Lobby at least 5 minutes before the official Game Time for
                             Game 1 of each Match. For all following Games within one Match Teams are
-                            required to be fully ready at least 2 minutes before the official Game Time.​
+                            required to be fully ready at least 2 minutes before the official Game Time.
 
-                  8.6.4.​   If a Team is not fully ready at the aforementioned times, the EM Officials may
-                            issue a penalty at their own discretion. ​
+                  8.6.4.   If a Team is not fully ready at the aforementioned times, the EM Officials may
+                            issue a penalty at their own discretion. 
 
-                  8.6.5.​   If a Team or any of their Players does not show up in time for any of their
+                  8.6.5.   If a Team or any of their Players does not show up in time for any of their
                             Matches, as defined by the aforementioned rule, due to a force majeure, Teams
                             must inform EM Officials immediately. EM Officials may postpone, suspend or
                             cancel the Game or Match at their sole discretion.
 
-                  8.6.6.​   If a Match is postponed, it will be rescheduled to a date within the same or the
+                  8.6.6.   If a Match is postponed, it will be rescheduled to a date within the same or the
                              following week, unless another agreement can be found among Teams and EM
                              Officials. The exact Match date will be communicated by EM Officials at the
-                             earliest convenience.​
+                             earliest convenience.
 
-          8.7.​     Lateness Penalties
-                  8.7.1.​ Teams that are not ready at the 10 minute mark of the preceding game (or 30
+          8.7.     Lateness Penalties
+                  8.7.1. Teams that are not ready at the 10 minute mark of the preceding game (or 30
                           minutes before the start of the first Match of the day) are subject to late penalties.
                           A Team will lose their first ban after 5 minutes have elapsed from the 10 minute
                           mark. A Team will lose another ban after 10 minutes have elapsed. A Team will
@@ -1034,10 +1034,10 @@ Version 3.0; 20th February 2025
                           forfeiture if 25 minutes have elapsed since the 10 minute mark was reached or
                           when the preceding Game has completed - whichever is longer. Intentionally
                           delaying the game-lobby or Game start will still subject the Team to the rules set
-                          forth in this section.​
+                          forth in this section.
 
-          8.8.​     Pick-&-Ban Phase
-                  8.8.1.​ Once all ten Players report to the official game lobby, an EM Official will request
+          8.8.     Pick-&-Ban Phase
+                  8.8.1. Once all ten Players report to the official game lobby, an EM Official will request
                           confirmation that both Teams are ready for the Pick-&-Ban Phase. Once both
 
 Version 3.0; 20th February 2025
@@ -1046,50 +1046,50 @@ Version 3.0; 20th February 2025
 <!-- página 24 -->
                         Teams confirm readiness, an EM Official will instruct the game-lobby owner to
                         start the Game.
-                         ●​ For Offline events: Coaches will be granted on-stage access and will be
+                         ● For Offline events: Coaches will be granted on-stage access and will be
                                allowed to communicate with the Players during the Pick-&-Ban Phase.
                                Coaches will exit the stage to a designated position once the countdown
                                timer has reached five seconds during the trading phase and if applicable,
-                               will be muted once the timer has reached zero seconds.​
+                               will be muted once the timer has reached zero seconds.
 
-              8.8.2.​   If a Player disconnects during the Pick-&-Ban Phase, punctuality rules will apply.
+              8.8.2.   If a Player disconnects during the Pick-&-Ban Phase, punctuality rules will apply.
                         If the Player reconnects to the lobby in time, the Pick-&-Ban Phase will continue
                         from the state where the latest pick or ban is locked.
 
-              8.8.3.​   The Pick-&-Ban Phase will be executed through the Client’s Tournament Draft
+              8.8.3.   The Pick-&-Ban Phase will be executed through the Client’s Tournament Draft
                         feature. At the discretion of EM Officials, the Pick-&-Ban Phase may be recorded
-                        and the Game’s start aborted.​
+                        and the Game’s start aborted.
 
-              8.8.4.​   Game Settings:
-                         ●​ Map: Summoner’s Rift
-                         ●​ Team Size: 5
-                         ●​ Allow Spectators: Lobby Only
-                         ●​ Game Type: Tournament Draft
+              8.8.4.   Game Settings:
+                         ● Map: Summoner’s Rift
+                         ● Team Size: 5
+                         ● Allow Spectators: Lobby Only
+                         ● Game Type: Tournament Draft
 
-              8.8.5.​   EM Officials may choose to employ either the Tournament Draft feature or a
+              8.8.5.   EM Officials may choose to employ either the Tournament Draft feature or a
                         manual draft at their discretion.
 
-              8.8.6.​   Restrictions may be added at any time before or during a Match if there are
+              8.8.6.   Restrictions may be added at any time before or during a Match if there are
                         known bugs with any Gameplay Elements or for any reason as determined at the
                         discretion of EM Officials.
 
-              8.8.7.​   Draft mode proceeds in a snake draft as follows:
-                         ●​ Blue Team = A; Red Team = B
-                         ●​ Bans: ABABAB
-                         ●​ Picks: ABBAAB
-                         ●​ Bans: BABA
-                         ●​ Picks: BAAB
+              8.8.7.   Draft mode proceeds in a snake draft as follows:
+                         ● Blue Team = A; Red Team = B
+                         ● Bans: ABABAB
+                         ● Picks: ABBAAB
+                         ● Bans: BABA
+                         ● Picks: BAAB
 
-              8.8.8.​   If a Player picks or bans a Champion by mistake in the Pick-&-Ban Phase, the
+              8.8.8.   If a Player picks or bans a Champion by mistake in the Pick-&-Ban Phase, the
                         Player must notify an EM Official of their intended selections (if applicable), and
                         disband the lobby immediately before the next selection has locked. In this case,
                         the Pick-&-Ban Phase will be restarted with the same Picks and Bans up until the
                         mistake occurred and the Player may correct the mistake. In the case the other
                         Team has locked in their next selection, before the Player notifies an EM Official,
                         the Pick-&-Ban Phase will not be restarted and the mistakenly selected
-                        Champion stays locked in. ​
+                        Champion stays locked in. 
 
-              8.8.9.​   Teams must complete all Champion trades before the 20-second mark during the
+              8.8.9.   Teams must complete all Champion trades before the 20-second mark during the
                         Trading Phase or will be subject to penalties.
 
 
@@ -1098,45 +1098,45 @@ Version 3.0; 20th February 2025
                                                                                                   24
 
 <!-- página 25 -->
-          8.9.​     Fearless Draft
-                  8.9.1.​ Games that are played with Fearless Draft will follow the rules outlined below for
+          8.9.     Fearless Draft
+                  8.9.1. Games that are played with Fearless Draft will follow the rules outlined below for
                           their Champion Select process:
-                          8.9.1.1.​ Champions that get selected to be played in any Game of a Match
+                          8.9.1.1. Champions that get selected to be played in any Game of a Match
                                     become restricted from being selected again by any Player for the
-                                    remainder of a Match, regardless of which side selected it.​
+                                    remainder of a Match, regardless of which side selected it.
 
-                             8.9.1.2.​   For clarity, if a Champion gets picked by Team A in Game 1, it will not
-                                         be eligible to be picked by either team until the Match concludes.​
+                             8.9.1.2.   For clarity, if a Champion gets picked by Team A in Game 1, it will not
+                                         be eligible to be picked by either team until the Match concludes.
 
-        8.10.​ Game Start
-             8.10.1.​ A Game will start immediately after the Pick-&-Ban Phase is complete, unless
+        8.10. Game Start
+             8.10.1. A Game will start immediately after the Pick-&-Ban Phase is complete, unless
                       otherwise stated by an EM Official. Players are not allowed to quit a Game after
                       the completion of the Pick-&-Ban Phase.
-                        ●​ EM Officials will remove any printed materials from the Match Area,
+                        ● EM Officials will remove any printed materials from the Match Area,
                            including any notes written by Team Members.
 
-              8.10.2.​       If there is an error in the Game Start, or an EM Official decides to separate the
+              8.10.2.       If there is an error in the Game Start, or an EM Official decides to separate the
                              Pick-&-Ban Phase and the Game starts, the Blind Pick feature may be used at
                              the discretion of the EM Officials. All Players will select Champions in accordance
-                             with the valid completed Champion selections.​
+                             with the valid completed Champion selections.
 
-              8.10.3.​       If a Bugsplat, disconnect or any other failure occurs which interrupts the loading
+              8.10.3.       If a Bugsplat, disconnect or any other failure occurs which interrupts the loading
                              process and prevents a Player from joining a Game, the Game must be
-                             immediately paused until all Players are connected.​
+                             immediately paused until all Players are connected.
 
-        8.11.​       Pause
-                  8.11.1.​If a Player intentionally disconnects without notifying an EM Official or pausing,
+        8.11.       Pause
+                  8.11.1.If a Player intentionally disconnects without notifying an EM Official or pausing,
                           the EM Official is not required to enforce a pause.
-                            ●​ During any pause, Players may not leave the Match Area unless authorized
+                            ● During any pause, Players may not leave the Match Area unless authorized
                                 and accompanied by an EM Official or a Referee.
 
-              8.11.2.​       EM Officials may order to execute a pause of a Game at their sole discretion.
+              8.11.2.       EM Officials may order to execute a pause of a Game at their sole discretion.
 
-              8.11.3.​       Players may only pause a Game immediately following an Unintentional
+              8.11.3.       Players may only pause a Game immediately following an Unintentional
                              Disconnect, hardware/software malfunction or physical interference and must
                              notify an EM Official immediately and identify the reason.
 
-              8.11.4.​       Minor Player illness, injury, or disability is not an acceptable reason for a Player
+              8.11.4.       Minor Player illness, injury, or disability is not an acceptable reason for a Player
                              pause. In the case of an underlying and/or pre-declared medical condition the
                              Player may however inform an EM Official prior to the Match, who may then grant
                              a pause during the Match in order to evaluate the issue and to determine whether
@@ -1145,14 +1145,14 @@ Version 3.0; 20th February 2025
                              If the EM Official determines that the Player is not able to continue playing within
                              such a reasonable period of time, then the Player's Team shall forfeit the Game
                              unless an EM Official determines that the Game is subject to an Awarded Game
-                             Victory at the EM Officials's discretion.​
+                             Victory at the EM Officials's discretion.
 
 
 Version 3.0; 20th February 2025
                                                                                                         25
 
 <!-- página 26 -->
-             8.11.5.​   If applicable - If an EM Official observes a condition or behaviour, is notified by a
+             8.11.5.   If applicable - If an EM Official observes a condition or behaviour, is notified by a
                         Team or otherwise has a good faith belief that leads the official to believe that a
                         Player is medically unfit to play or continue play, the EM Official may, in his/her
                         sole discretion, grant a pause, not to exceed ten minutes, in order to evaluate the
@@ -1169,72 +1169,72 @@ Version 3.0; 20th February 2025
                         these Rules, the Team shall forfeit the Game unless an EM Official, at their sole
                         discretion, determines that the Game is subject to an Awarded Game Victory.
 
-             8.11.6.​   Players are not permitted to resume the Game after a pause. After clearance
+             8.11.6.   Players are not permitted to resume the Game after a pause. After clearance
                         from an EM Official is issued and all Players are notified and ready, which will be
                         contingent on confirming through in-game chat, the in-client spectators will
                         unpause the Game.
 
-             8.11.7.​   If a Player pauses a Game without a valid reason as outlined above, or
+             8.11.7.   If a Player pauses a Game without a valid reason as outlined above, or
                         un-pauses a Game without permission from an EM Official, it will be considered
-                        unfair play and penalties will be applied at the discretion of the League.​
+                        unfair play and penalties will be applied at the discretion of the League.
 
-             8.11.8.​   For Offline events: For the fairness of all competing Teams, Players are not
+             8.11.8.   For Offline events: For the fairness of all competing Teams, Players are not
                         allowed to communicate with each other during a pause. For the avoidance of
                         doubt, Players may communicate to the Referee, but only in order to identify and
                         remedy the cause for the pause. If a pause extends long enough, Referees may,
-                        at their discretion, allow Teams to talk before the Game is unpaused.​
+                        at their discretion, allow Teams to talk before the Game is unpaused.
 
-        8.12.​ Pause Allowance & 5v5 Play
-             8.12.1.​ Teams may pause the Game for a maximum of 10 minutes over the course of a
+        8.12. Pause Allowance & 5v5 Play
+             8.12.1. Teams may pause the Game for a maximum of 10 minutes over the course of a
                       single Game, or 20 minutes over the course of a best-of-three Match, or 30
                       minutes over the course of best-of-five Match to resolve issues affecting their
                       gameplay. These issues include but are not limited to: FPS drops, connection
                       issues, peripherals or other hardware not working properly, possible in-game
-                      bugs that critically affect gameplay or put the Team at a significant disadvantage. ​
-                      ​
+                      bugs that critically affect gameplay or put the Team at a significant disadvantage. 
+                      
                       Pausing beyond allowance time will be considered unfair play and penalties will
                       be applied at the discretion of EM Officials. EM Officials may ask the Team to
                       immediately resume the Game if there has been a minor issue and after
                       reasonable steps are taken to remedy the situation or if the impact on the Game
                       is deemed minimal. EM Officials will also ask the Team to immediately resume
-                      the Game if the pause is deemed unauthorized.​
+                      the Game if the pause is deemed unauthorized.
 
-             8.12.2.​   Teams are required to field a full team of five Players to start a Match. If a Player
+             8.12.2.   Teams are required to field a full team of five Players to start a Match. If a Player
                         disconnects during a Game, a Team may continue to play after the pause
 
 Version 3.0; 20th February 2025
                                                                                                     26
 
 <!-- página 27 -->
-                        allowance is exhausted to attempt to complete the Game.​
+                        allowance is exhausted to attempt to complete the Game.
 
-        8.13.​ Post-Game Process
-             8.13.1.​ EM officials will confirm and record the Game's result.
+        8.13. Post-Game Process
+             8.13.1. EM officials will confirm and record the Game's result.
 
-             8.13.2.​   Players will inform EM Officials of any tech issues.​
+             8.13.2.   Players will inform EM Officials of any tech issues.
 
-             8.13.3.​   Referees may log into Player Accounts to join the next Game's lobby.​
+             8.13.3.   Referees may log into Player Accounts to join the next Game's lobby.
 
-             8.13.4.​   EM officials will inform Players of the remaining time before the next Game's
+             8.13.4.   EM officials will inform Players of the remaining time before the next Game's
                         Pick-&-Ban Phase. Pick-&-Ban Phase will commence as scheduled even if a
                         Team is not fully present in the Match Area. If only a single Player of a Team is
                         present when the Pick-&-Ban Phase begins, this Player may determine all Picks
                         and Bans for the Team. If no Player from a Team is present in the Match Area
                         when the Pick-&-Ban Phase begins that Team shall be deemed to have forfeited
-                        the Game.​
+                        the Game.
 
-             8.13.5.​   Results of Forfeiture. Matches won by forfeit will be reported by the minimum
+             8.13.5.   Results of Forfeiture. Matches won by forfeit will be reported by the minimum
                         score it would take for one team to win the Match (e.g. 1-0 for best-of-1 Matches,
                         2-0 for best-of-three Matches, 3-0 for best-of-five Matches). No other statistics will
-                        be recorded for forfeited Matches.​
+                        be recorded for forfeited Matches.
 
-        8.14.​ Post-Match Process
-             8.14.1.​ EM officials will confirm and record the match result.​
+        8.14. Post-Match Process
+             8.14.1. EM officials will confirm and record the match result.
 
-             8.14.2.​   Players will be informed of their current standing in the competition, including
-                        their next scheduled match.​
+             8.14.2.   Players will be informed of their current standing in the competition, including
+                        their next scheduled match.
 
-             8.14.3.​   Players will be informed of any post-match obligations, including, but not limited
+             8.14.3.   Players will be informed of any post-match obligations, including, but not limited
                         to, media appearances, interviews, or further discussion of any Match matters.
                         Teams will be required to make available to the media for a minimum of 20
                         minutes at least two Players that started any Game that day, regardless of Team
@@ -1247,43 +1247,43 @@ Version 3.0; 20th February 2025
                                                                                                      27
 
 <!-- página 28 -->
-      9.​     Online Match Process​
+      9.     Online Match Process
 
-            9.1.​     Equipment
-                    9.1.1.​ Players will be expected to provide all of their own equipment. This includes, but
+            9.1.     Equipment
+                    9.1.1. Players will be expected to provide all of their own equipment. This includes, but
                             is not limited to: computers, keyboards, mice, and voice programs. As the
                             Matches will not be played on an offline server, Players will also need to account
                             for their own DDOS and other computer protection. Exclusive responsibility for
                             protection will fall upon the Players and Teams. Additionally, the stability of the
                             Player’s hardware and internet connection are the responsibility of the Player. In
                             the event that a Game is played on the live server and not the Tournament Realm
-                            both Teams will be required to use the default skins for their selected Champions.​
+                            both Teams will be required to use the default skins for their selected Champions.
 
-                    9.1.2.​   A problem with player equipment is not an acceptable reason for lateness or
+                    9.1.2.   A problem with player equipment is not an acceptable reason for lateness or
                               pausing beyond a team’s allowance, regardless of the root cause of the problem.
                               Only five players per team are allowed in the game lobby. No additional
                               spectators are permitted for any reason.
 
-            9.2.​     Team or Player Video Feed
-                    9.2.1.​ Team or Player video feed will be required for the latter stages of the competition.
+            9.2.     Team or Player Video Feed
+                    9.2.1. Team or Player video feed will be required for the latter stages of the competition.
                             The live feed of the Team or Players will be used by EM Officials to ensure fair
-                            play at all times during the competition.​
+                            play at all times during the competition.
 
-                    9.2.2.​   The regulations around Team or Player video feed will be adjusted based on the
+                    9.2.2.   The regulations around Team or Player video feed will be adjusted based on the
                               stage of the competition. See the EMEA Masters Competition Guide for more
                               information.
-                              9.2.2.1.​  Playoffs
-                                           ●​ All Teams or Players are required to stream their live video feed
+                              9.2.2.1.  Playoffs
+                                           ● All Teams or Players are required to stream their live video feed
                                               to referees and the EMEA Masters Broadcast team.
-                                           ●​ These video feeds will be used for broadcasting purposes and
+                                           ● These video feeds will be used for broadcasting purposes and
                                               competitive integrity.
-                                           ●​ For an in-depth setup guide and quality check, please refer to
-                                              the EMEA Masters Competition Guide. ​
+                                           ● For an in-depth setup guide and quality check, please refer to
+                                              the EMEA Masters Competition Guide. 
 
-                    9.2.3.​   EM Officials will evaluate and approve all live video feeds.
+                    9.2.3.   EM Officials will evaluate and approve all live video feeds.
 
-            9.3.​     Clothing & Apparel
-                    9.3.1.​ Regulations which refer to clothing & apparel are covered in the respective
+            9.3.     Clothing & Apparel
+                    9.3.1. Regulations which refer to clothing & apparel are covered in the respective
                             section of the ERL Rulebook.
 
 
@@ -1293,53 +1293,53 @@ Version 3.0; 20th February 2025
                                                                                                        28
 
 <!-- página 29 -->
-    10.​    Offline Match Process​
+    10.    Offline Match Process
 
-        10.1.​ Clothing & Apparel
-             10.1.1.​ If applicable, Players must wear official approved Team jerseys during all EM
+        10.1. Clothing & Apparel
+             10.1.1. If applicable, Players must wear official approved Team jerseys during all EM
                       Matches and approved Team branded apparel during all pre-/post-match
-                      interviews. ​
+                      interviews. 
 
-             10.1.2.​   Coaches must wear, at a minimum, business casual attire while at the venue.
+             10.1.2.   Coaches must wear, at a minimum, business casual attire while at the venue.
                         Business casual is defined as clothing suitable for the environment. Examples of
                         this include simple polo t-shirts with Team logo, buttoned shirts, suit jackets,
                         jeans, trousers. Business casual does not include athletic wear and Team- and
                         sponsor-branded apparel, beyond what is specifically mentioned above.
 
-             10.1.3.​   All Players on the Starting Line-up must wear closed-toe shoes and matching
-                        jerseys & long pants. The attire will require approval from the League.​
+             10.1.3.   All Players on the Starting Line-up must wear closed-toe shoes and matching
+                        jerseys & long pants. The attire will require approval from the League.
 
-             10.1.4.​   Regulations which refer to clothing & apparel are covered in the respective
-                        section in the ERL Rulebook.​
+             10.1.4.   Regulations which refer to clothing & apparel are covered in the respective
+                        section in the ERL Rulebook.
 
-        10.2.​ Equipment
-             10.2.1.​ EM Officials will provide and Players will exclusively use the following equipment:
+        10.2. Equipment
+             10.2.1. EM Officials will provide and Players will exclusively use the following equipment:
                       (1) PC & monitor; (2) headsets and/or earbuds and/or microphones; (3) table &
                       chair.
 
-             10.2.2.​   Players should provide the following equipment and use it during on-site
-                        Matches: (1) PC keyboards; (2) PC mice; (3) PC mouse pads.​
+             10.2.2.   Players should provide the following equipment and use it during on-site
+                        Matches: (1) PC keyboards; (2) PC mice; (3) PC mouse pads.
 
-             10.2.3.​   The following equipment can be provided at the discretion of EM Officials if
+             10.2.3.   The following equipment can be provided at the discretion of EM Officials if
                         requested by a Player: (1) PC, hand warmers; and in case where Players do not
                         have their own equipment, they may request: (1) PC mice; (2) PC mouse pads.
 
-             10.2.4.​   Checking of Player Equipment is at sole discretion of EM Officials.​
+             10.2.4.   Checking of Player Equipment is at sole discretion of EM Officials.
 
-             10.2.5.​   EM Officials may disallow use of specific equipment at their sole discretion for
+             10.2.5.   EM Officials may disallow use of specific equipment at their sole discretion for
                         reasons       relating   to    tournament    security,   safety,    operational
                         efficiency/effectiveness or if the equipment features a company or brand
                         competing with Riot Games, the EM event or League of Legends.
 
-             10.2.6.​   If there are technical problems with the equipment, Players or EM Officials may
+             10.2.6.   If there are technical problems with the equipment, Players or EM Officials may
                         request a technical review. EM Officials will diagnose and troubleshoot problems.
                         EM Officials may request for equipment to be replaced at their discretion. All
                         player-provided replacements have to be approved by EM Officials otherwise the
                         EM Officials will provide replacement equipment.
 
-             10.2.7.​   Players are prohibited from installing their own programs and must use only the
+             10.2.7.   Players are prohibited from installing their own programs and must use only the
                         programs provided by the League on-site, unless explicitly allowed by an EM
-                        Official.​
+                        Official.
 
 
 
@@ -1347,80 +1347,80 @@ Version 3.0; 20th February 2025
                                                                                                 29
 
 <!-- página 30 -->
-             10.2.8.​   Voice chat will be provided only via the native system used in League-provided
+             10.2.8.   Voice chat will be provided only via the native system used in League-provided
                         headsets. The League may monitor the Teams' audio.
 
-             10.2.9.​   It is prohibited to use League-provided computers to view or post on any social
+             10.2.9.   It is prohibited to use League-provided computers to view or post on any social
                         media or other communication sites.
 
-            10.2.10.​   It is prohibited to connect equipment not listed above to League-provided
-                        computers unless explicitly allowed by an EM Official.​
+            10.2.10.   It is prohibited to connect equipment not listed above to League-provided
+                        computers unless explicitly allowed by an EM Official.
 
-        10.3.​ Match Area
-             10.3.1.​ If applicable, the foregoing regulations shall apply to any Match venue a Team
-                      participates from.​
+        10.3. Match Area
+             10.3.1. If applicable, the foregoing regulations shall apply to any Match venue a Team
+                      participates from.
 
-             10.3.2.​   Access for Teams to the restricted areas of venues for Matches is restricted to the
+             10.3.2.   Access for Teams to the restricted areas of venues for Matches is restricted to the
                         Team only unless otherwise approved by the EM Officials. Permission to attend
                         EM Matches is solely at the discretion of the EM Officials.
 
-             10.3.3.​   Team Managers are not allowed in the Match Area during the Match. They may
+             10.3.3.   Team Managers are not allowed in the Match Area during the Match. They may
                         be in the Match Area during the Match preparation process but must leave prior
                         to the Pick-&-Ban Phase.
 
-             10.3.4.​   Players are not allowed to have wireless devices except PC peripherals in the
+             10.3.4.   Players are not allowed to have wireless devices except PC peripherals in the
                         Match Area. The EM Officials will collect such devices in the Match Area and
-                        return them at the end of the Match.​
+                        return them at the end of the Match.
 
-             10.3.5.​   Players must sit in the order in which they will join the game lobby: Top, Jungle,
+             10.3.5.   Players must sit in the order in which they will join the game lobby: Top, Jungle,
                         Mid, Bot, Support. This order should be considered from the vantage point of a
                         viewer facing the Players, and read from left to right.
 
-             10.3.6.​   No food is allowed in the Match Area. Drinks are permitted in EM-provided
+             10.3.6.   No food is allowed in the Match Area. Drinks are permitted in EM-provided
                         re-sealable containers.
 
-             10.3.7.​   Access to other areas within the venue may be granted by the EM Officials.
+             10.3.7.   Access to other areas within the venue may be granted by the EM Officials.
                         Access to these areas is also restricted to Teams and at the EM Officials’
-                        discretion.​
+                        discretion.
 
-        10.4.​ Setup Time
-             10.4.1.​ Players will have a designated time frame prior to their Match to ensure they are
+        10.4. Setup Time
+             10.4.1. Players will have a designated time frame prior to their Match to ensure they are
                       properly prepared. EM Officials will inform Players and Teams of their scheduled
                       preparation time frame as part of their Match schedule. EM Officials may change
                       the schedule at any time. Setup time is considered to have begun once Players
                       enter the Match Area, at which point they are not allowed to leave without
                       permission of the on-site EM Official or referee and accompanied by another EM
                       Official or referee. Setup is comprised of the following:
-                        ●​ Ensuring the quality of all equipment
-                        ●​ Connecting and calibrating peripherals
-                        ●​ Ensuring the proper function of the voice chat system
-                        ●​ Setting up rune pages
-                        ●​ Adjusting in-game settings
+                        ● Ensuring the quality of all equipment
+                        ● Connecting and calibrating peripherals
+                        ● Ensuring the proper function of the voice chat system
+                        ● Setting up rune pages
+                        ● Adjusting in-game settings
 
 Version 3.0; 20th February 2025
                                                                                                   30
 
 <!-- página 31 -->
-                         ●​ Limited in-game warm-up
+                         ● Limited in-game warm-up
 
-             10.4.2.​   If a Player encounters any equipment issues during Setup Time, the Player must
+             10.4.2.   If a Player encounters any equipment issues during Setup Time, the Player must
                         notify an EM Official immediately.
 
-             10.4.3.​   EM Officials will be available to assist with the setup process during the
+             10.4.3.   EM Officials will be available to assist with the setup process during the
                         pre-Match setup period.
 
-             10.4.4.​   It is expected that Players will resolve any issues with the setup process within
+             10.4.4.   It is expected that Players will resolve any issues with the setup process within
                         the allotted time and that Match will begin at the scheduled time. Delays due to
                         setup issues may be permitted, at the sole discretion of EM officials. Penalties for
                         tardiness may be assessed at the discretion of the EM Officials.
 
-             10.4.5.​   No fewer than two minutes before the match is scheduled to begin, an EM Official
-                        will confirm with each Player that their setup is complete. ​
+             10.4.5.   No fewer than two minutes before the match is scheduled to begin, an EM Official
+                        will confirm with each Player that their setup is complete. 
 
-             10.4.6.​   Once all ten Players in a Match have confirmed completion of setup and have
+             10.4.6.   Once all ten Players in a Match have confirmed completion of setup and have
                         joined the Game lobby, Players may not enter a warm-up game.
 
-             10.4.7.​   EM Officials will decide how the official game lobby will be created. Players will be
+             10.4.7.   EM Officials will decide how the official game lobby will be created. Players will be
                         directed by EM Officials to join a game lobby, as soon as Setup Time has ended,
                         in the following order of positions: Top, Jungle, Mid, Bot, Support.
 
@@ -1431,53 +1431,53 @@ Version 3.0; 20th February 2025
                                                                                                     31
 
 <!-- página 32 -->
-    11.​    Chronobreak & Remakes​
+    11.    Chronobreak & Remakes
 
-         11.1.​ Chronobreak
-              11.1.1.​ Chronobreak. The Deterministic Disaster Recovery Tool.​
+         11.1. Chronobreak
+              11.1.1. Chronobreak. The Deterministic Disaster Recovery Tool.
 
-             11.1.2.​   Bug. An error, flaw, failure or fault that produces an incorrect or unexpected
-                        result, or causes a game or hardware device to behave in unintended ways.​
+             11.1.2.   Bug. An error, flaw, failure or fault that produces an incorrect or unexpected
+                        result, or causes a game or hardware device to behave in unintended ways.
 
-             11.1.3.​   Minor Bug. A bug (including a hardware failure) that is, at worst, inconvenient to
+             11.1.3.   Minor Bug. A bug (including a hardware failure) that is, at worst, inconvenient to
                         Players. This may include bugs that alter game stats or gameplay mechanics in a
                         manner that, while not optimal, can be played through if necessary. For the
                         absence of doubt, in a case where Chronobreak is not available, these bugs
-                        would not result in a remade Game.​
+                        would not result in a remade Game.
 
-             11.1.4.​   Play Through Bug. A bug that does not significantly alter the competitive integrity
+             11.1.4.   Play Through Bug. A bug that does not significantly alter the competitive integrity
                         of the game. This may mean that there are mitigation steps available for an
                         otherwise difficult to play around bug (like restarting the game client or computer).
                         Alternatively, this may include situations where the impact of the bug can be
-                        mitigated through other in-game functions. ​
-                        ​
+                        mitigated through other in-game functions. 
+                        
                         This category also includes bugs provided under the “inform designation” - i.e.
                         those bugs that are provided to teams in advance of games (usually champion,
                         item or environment interactions and persistent effects) for which no Chronobreak
                         or remake will be offered. These effects or interactions cannot be avoided or
                         mitigated through any means other than disabling of the offending champions,
                         skins or items and thus remakes are not available for these bugs, which must be
-                        played through. ​
+                        played through. 
 
-             11.1.5.​   Unintentional Hardware Failure. The failure of any piece of hardware, including
+             11.1.5.   Unintentional Hardware Failure. The failure of any piece of hardware, including
                         server failure, monitor or PC failure or player peripheral failure. This does not
                         include any hardware failure that is player induced, including the intentional
                         damage to, or destruction of, a player peripheral, damage to the monitor or a
                         player interfering with a PC. The determination of whether a hardware failure is
-                        unintentional is up to the sole discretion of EM officials.​
+                        unintentional is up to the sole discretion of EM officials.
 
-             11.1.6.​   Critical Bug. A bug (including an Unintentional Hardware Failure) that significantly
+             11.1.6.   Critical Bug. A bug (including an Unintentional Hardware Failure) that significantly
                         damages a player’s ability to compete in the game situation, significantly alters
                         game stats or gameplay mechanics, or a situation in which the external
                         environmental conditions become untenable. The determination of whether the
                         bug has significantly damaged a player’s ability to compete is up to the sole
-                        discretion of EM officials.​
+                        discretion of EM officials.
 
-             11.1.7.​   Verifiable Bug. A bug or critical bug that is conclusively present and not
+             11.1.7.   Verifiable Bug. A bug or critical bug that is conclusively present and not
                         attributable to player error. The spectator must be able to replay the instance in
-                        question and verify the bug or critical bug.​
+                        question and verify the bug or critical bug.
 
-             11.1.8.​   Terminal Situation. A bug or other circumstance that requires that a game be
+             11.1.8.   Terminal Situation. A bug or other circumstance that requires that a game be
                         remade. These circumstances include (i) instances of critical bugs where
 
 
@@ -1490,25 +1490,25 @@ Version 3.0; 20th February 2025
                         skin bugs that may require that such champion or skin be disabled; or (iii) any
                         other instance in the discretion of EM officials where the continuation of the game
                         is untenable (including environmental concerns and catastrophic hardware
-                        failure).​
+                        failure).
 
-             11.1.9.​   “Dead-Ball” State. A point in a game when neither team is heavily engaged with
+             11.1.9.   “Dead-Ball” State. A point in a game when neither team is heavily engaged with
                         one another, although some minor engagement may still constitute a dead-ball
-                        state. ​
-                        ​
+                        state. 
+                        
                         In establishing a dead-ball state, every effort should be made to identify a time as
                         close to the bug instance as possible while providing an approximate 2 second
                         window before a potential engagement in situations where the game was wound
                         back from a point where the teams were engaged. The goal is to locate a point in
-                        time where an engagement remains possible, but not inevitable. ​
-                        ​
+                        time where an engagement remains possible, but not inevitable. 
+                        
                         A perfect dead-ball state may not exist, and in those situations, the overarching
                         goal of identifying a state in which there is no major engagement as close as
                         possible to the bug instance should be prioritised (for example, going too far back
                         could potentially remove setup a team has done, including wards, lane pressure
-                        and flanking).​
+                        and flanking).
 
-            11.1.10.​   Cost. Any (i) player deaths; (ii) objectives (tower, inhibitor, dragon, herald or
+            11.1.10.   Cost. Any (i) player deaths; (ii) objectives (tower, inhibitor, dragon, herald or
                         baron) taken that were not otherwise in progress at the dead-ball state (i.e.
                         dragon was pulled or three players on the tower with a minion wave and no
                         opposition); or (iii) ultimate, item or Summoner spell usage where such ultimate
@@ -1519,16 +1519,16 @@ Version 3.0; 20th February 2025
                         patterns for the purpose of triggering a cost under this rule shall not constitute a
                         cost. Other factors such as vision (placed or destroyed wards), minions farmed,
                         etc, while all carrying some value in the game, do not rise to the level of
-                        consideration in whether to use Chronobreak.​
+                        consideration in whether to use Chronobreak.
 
-            11.1.11.​   Prompt Reporting. Once a player is aware of a bug (which, as defined, includes
+            11.1.11.   Prompt Reporting. Once a player is aware of a bug (which, as defined, includes
                         presumed hardware failures), the player is required to pause the game as soon
                         as is practical through one of the methods listed below and alert EM Officials as
-                        to the bug. These methods are:​
+                        to the bug. These methods are:
 
-                                    ●​ Pausing the game through the /pause command
-                                    ●​ Asking a teammate to pause over audible voice communications
-                                    ●​ Requesting that a referee pause the game.​
+                                    ● Pausing the game through the /pause command
+                                    ● Asking a teammate to pause over audible voice communications
+                                    ● Requesting that a referee pause the game.
 
                         For the avoidance of doubt, if a player audibly requests that a referee pause the
                         game, even if the game is not immediately paused, the player will be considered
@@ -1541,105 +1541,105 @@ Version 3.0; 20th February 2025
 <!-- página 34 -->
                          the two teams are engaged with each other. In such cases, EM Officials may
                          determine that it was not practical to pause the game until the engagement
-                         ended.​
+                         ended.
 
-            11.1.12.​    Game of Record. A game where all ten players have loaded and which has
+            11.1.12.    Game of Record. A game where all ten players have loaded and which has
                          progressed to a point of meaningful interaction between opposing teams. Once a
                          game attains Game of Record (“GOR”) status, the period ends in which incidental
                          restarts may be permitted and a game will be considered as “official” from that
-                         point onward. Examples of conditions which establish GOR:​
-                         ​
-                         ● Establishing line-of-sight between players on opposing teams. ​
-                         ​
+                         point onward. Examples of conditions which establish GOR:
+                         
+                         ● Establishing line-of-sight between players on opposing teams. 
+                         
                          ● Any attack or ability is landed on minions, jungle creeps, structures, or enemy
-                         Champions. ​
-                         ​
+                         Champions. 
+                         
                          ● Setting foot, establishing vision or targeting skillshot ability in opponent’s jungle
                          by either team, which includes either leaving the river or entering brush
-                         connected to enemy jungle. ​
-                         ​
+                         connected to enemy jungle. 
+                         
                          ● Game timer reaches two minutes (00:02:00).
 
-         11.2.​ Chronobreak Availability and Use
-              11.2.1.​ If a game experiences a bug at any point during the match, EM officials must first
+         11.2. Chronobreak Availability and Use
+              11.2.1. If a game experiences a bug at any point during the match, EM officials must first
                        determine whether the player followed the pause protocol (see Prompt
                        Reporting). If the game was timely paused, EM officials must next determine
                        whether the bug is a verifiable bug. If it is a verifiable bug, ERL officials must next
-                       determine whether the bug is a minor bug, critical bug or terminal situation.​
+                       determine whether the bug is a minor bug, critical bug or terminal situation.
 
-         11.3.​ Minor Bug
-              11.3.1.​ If the bug is a minor bug and is not a Play Through Bug, EM officials must
+         11.3. Minor Bug
+              11.3.1. If the bug is a minor bug and is not a Play Through Bug, EM officials must
                        determine what the appropriate dead-ball state would be and whether there is a
                        cost associated with the use of Chronobreak to revert to that dead-ball state. If
                        there is a cost associated with the minor bug, Chronobreak is not available and
-                       players should be instructed to play through the bug.​
+                       players should be instructed to play through the bug.
 
-              11.3.2.​   In the case of a minor bug with no cost, EM officials must determine (i) whether
+              11.3.2.   In the case of a minor bug with no cost, EM officials must determine (i) whether
                          Chronobreak can restore the game; and (ii) whether reverting the game to an
                          earlier state will fix the bug or avoid the trigger condition for the bug. If
                          Chronobreak cannot restore the game or reverting the game to an earlier state
                          will not fix or avoid the bug, or in the case of any play through bug, Chronobreak
-                         shall not be used and the players will be instructed to play through the bug.​
+                         shall not be used and the players will be instructed to play through the bug.
 
-              11.3.3.​   If EM officials determine to the use of Chronobreak is appropriate, EM officials
+              11.3.3.   If EM officials determine to the use of Chronobreak is appropriate, EM officials
                          shall determine whether either or both teams were significantly disadvantaged by
                          the minor bug, and any significantly disadvantaged team will be offered the
                          opportunity to Chronobreak the game, although such team will not be told what
                          dead-ball state will be utilised. If both teams are significantly disadvantaged,
-                         either team requesting a Chronobreak will trigger the use of Chronobreak. ​
+                         either team requesting a Chronobreak will trigger the use of Chronobreak. 
 
 
 Version 3.0; 20th February 2025
                                                                                                        34
 
 <!-- página 35 -->
-             11.3.4.​   If any significantly disadvantaged team requests a Chronobreak, EM officials will
+             11.3.4.   If any significantly disadvantaged team requests a Chronobreak, EM officials will
                         utilise Chronobreak to restore the game to the appropriate dead-ball state. If an
                         appropriate dead-ball state does not exist, players may still be placed back to a
-                        recovered spot prior to the bug occurring at the discretion of EM officials.​
+                        recovered spot prior to the bug occurring at the discretion of EM officials.
 
-         11.4.​ Critical Bug
-              11.4.1.​ In the case of a critical bug (where such critical bug is not a play through bug),
+         11.4. Critical Bug
+              11.4.1. In the case of a critical bug (where such critical bug is not a play through bug),
                        EM officials must determine (i) whether Chronobreak can restore the game; and
                        (ii) whether reverting the game to an earlier state will fix the bug or avoid the
-                       trigger condition for the bug. ​
+                       trigger condition for the bug. 
 
-             11.4.2.​   If Chronobreak cannot restore the game, or reverting the game to an earlier state
-                        will not fix or avoid the bug, then the bug constitutes a Terminal Situation. ​
+             11.4.2.   If Chronobreak cannot restore the game, or reverting the game to an earlier state
+                        will not fix or avoid the bug, then the bug constitutes a Terminal Situation. 
 
-             11.4.3.​   In the case of a critical bug, EM officials will determine whether either or both
+             11.4.3.   In the case of a critical bug, EM officials will determine whether either or both
                         teams were significantly disadvantaged by the critical bug, and any significantly
                         disadvantaged team will be offered the opportunity to Chronobreak the game,
                         although such Team will not be told what dead-ball state will be utilized. If any
                         significantly disadvantaged team requests a Chronobreak, EM officials will
                         attempt to find an appropriate dead-ball state prior to the bug occurring. If an
                         appropriate dead-ball state does not exist, players may still be placed back to a
-                        recovered spot prior to the bug occurring at the discretion of EM officials.​
+                        recovered spot prior to the bug occurring at the discretion of EM officials.
 
-         11.5.​ Terminal Situation
-              11.5.1.​ In the case of a Terminal Situation, EM officials shall follow the remake procedure
-                       (below).​
+         11.5. Terminal Situation
+              11.5.1. In the case of a Terminal Situation, EM officials shall follow the remake procedure
+                       (below).
 
-         11.6.​ Remakes Before GOR
-              11.6.1.​ The following are examples of situations in which a game may be remade if GOR
-                       has not been established: ​
+         11.6. Remakes Before GOR
+              11.6.1. The following are examples of situations in which a game may be remade if GOR
+                       has not been established: 
 
-             11.6.2.​   If a player notices that a player’s rune, Summoner Spell or GUI settings have not
+             11.6.2.   If a player notices that a player’s rune, Summoner Spell or GUI settings have not
                         applied correctly due to a bug between the game lobby and match, the player can
                         pause the game to adjust these settings. If the settings cannot be correctly
                         adjusted, then the game may be restarted. The Game will not be restarted if the
                         settings have not applied correctly for game elements that have no significant
-                        competitive effect (e.g. ward skins, emotes, etc.).​
+                        competitive effect (e.g. ward skins, emotes, etc.).
 
-             11.6.3.​   If EM officials determine that technical difficulties will not allow for the game to
+             11.6.3.   If EM officials determine that technical difficulties will not allow for the game to
                         resume as normal (including a team’s ability to be in proper position for certain
-                        game events, such as minion spawn). ​
+                        game events, such as minion spawn). 
 
-             11.6.4.​   Any circumstance which would permit a restart after GOR.​
+             11.6.4.   Any circumstance which would permit a restart after GOR.
 
-         11.7.​ Remakes After GOR
-              11.7.1.​ The following are examples of situations in which a game may be restarted after
-                       GOR has been established.​
+         11.7. Remakes After GOR
+              11.7.1. The following are examples of situations in which a game may be restarted after
+                       GOR has been established.
 
 
 
@@ -1647,35 +1647,35 @@ Version 3.0; 20th February 2025
                                                                                                    35
 
 <!-- página 36 -->
-             11.7.2.​   If a game experiences a Terminal Situation at any point during the match. ​
+             11.7.2.   If a game experiences a Terminal Situation at any point during the match. 
 
-             11.7.3.​   If EM officials determine that there are environmental conditions which are unfair
-                        (e.g. excessive noise, hostile weather, unacceptable safety risks).​
+             11.7.3.   If EM officials determine that there are environmental conditions which are unfair
+                        (e.g. excessive noise, hostile weather, unacceptable safety risks).
 
-         11.8.​ Remake Procedure
-              11.8.1.​ Terminal Situation. EM officials will determine whether either or both teams were
+         11.8. Remake Procedure
+              11.8.1. Terminal Situation. EM officials will determine whether either or both teams were
                        significantly disadvantaged by the bug, and any significantly disadvantaged team
                        will be offered the opportunity to remake the game. If any significantly
                        disadvantaged team accepts a remake, the game will immediately be restarted as
-                       per this section. Significant disadvantage is a prerequisite to a remake offer.​
+                       per this section. Significant disadvantage is a prerequisite to a remake offer.
 
-             11.8.2.​   Controlled Environment. Certain conditions may be preserved in the event of a
+             11.8.2.   Controlled Environment. Certain conditions may be preserved in the event of a
                         remade game that has not reached GOR, including, without limitation, picks/bans,
                         runes or Summoner spells. If, however, a match has reached GOR then EM
-                        officials shall not retain any settings.​
+                        officials shall not retain any settings.
 
-             11.8.3.​   Champion and Skin Disables. If the remake occurred due to a champion bug,
+             11.8.3.   Champion and Skin Disables. If the remake occurred due to a champion bug,
                         then settings no longer will be retained (including picks and bans) regardless of
                         Game of Record status and the champion may be made ineligible for at least the
                         remainder of the day’s matches unless the bug can be conclusively tied to a
                         specific game element that can be fully removed (i.e. a skin that can be disabled).
                         For clarity, settings may be retained in situations where Game of Record has not
                         been established and the bug can be conclusively tied to a specific game element
-                        that can be fully removed.​
+                        that can be fully removed.
 
-         11.9.​ Hardware Malfunction
-              11.9.1.​ Online:
-                                ●​ In the case of any hardware malfunctions, player/team affected
+         11.9. Hardware Malfunction
+              11.9.1. Online:
+                                ● In the case of any hardware malfunctions, player/team affected
                                     by hardware malfunctions shall provide demonstrable evidence
                                     and EM officials shall determine whether the hardware
                                     malfunction constitutes a minor bug (i.e. a monitor loses
@@ -1684,8 +1684,8 @@ Version 3.0; 20th February 2025
                                     death) or a terminal situation (i.e the game server crashes) and
                                     follow the appropriate standard above.
 
-             11.9.2.​   Offline:
-                                    ●​ In the case of any hardware malfunctions, EM officials shall
+             11.9.2.   Offline:
+                                    ● In the case of any hardware malfunctions, EM officials shall
                                        determine whether the hardware malfunction constitutes a minor
                                        bug (i.e. a monitor loses connectivity and a player walks directly
                                        into an enemy turret), a critical bug (i.e. a keyboard stops
@@ -1693,8 +1693,8 @@ Version 3.0; 20th February 2025
                                        game server crashes) and follow the appropriate standard
                                        above.
 
-       11.10.​ EM Discretion
-            11.10.1.​ EM officials may utilise Chronobreak at any time or restart any game if EM
+       11.10. EM Discretion
+            11.10.1. EM officials may utilise Chronobreak at any time or restart any game if EM
                       officials, in their sole and absolute discretion, believe that such an action is
 
 Version 3.0; 20th February 2025
@@ -1702,36 +1702,36 @@ Version 3.0; 20th February 2025
 
 <!-- página 37 -->
                         necessary to preserve the best interests of the ERL. This power is not
-                        constrained by the lack of any specific language in this document.​
+                        constrained by the lack of any specific language in this document.
 
-       11.11.​ Awarded Game Victory
-            11.11.1.​ In the event of a technical difficulty which leads EM officials to declare a restart,
+       11.11. Awarded Game Victory
+            11.11.1. In the event of a technical difficulty which leads EM officials to declare a restart,
                       EM officials may instead award a game victory to a Team. EM officials, at their
                       sole discretion, may determine that a team cannot avoid defeat to a degree of
                       reasonable certainty. The following criteria may be used (but are not required to
-                      be used) in the determination of reasonable certainty.​
+                      be used) in the determination of reasonable certainty.
 
-            11.11.2.​   Game Time. If a game has been played for more than 15 minutes on the game
-                        clock (00:15:00).​
+            11.11.2.   Game Time. If a game has been played for more than 15 minutes on the game
+                        clock (00:15:00).
 
-            11.11.3.​   Gold Differential. Of the total gold earned in the game, one Team has earned
+            11.11.3.   Gold Differential. Of the total gold earned in the game, one Team has earned
                         57.5% or more of that gold. For example, if 10,000 gold has been earned in the
-                        game, the leading Team has earned at least 5,750 gold as a team.​
+                        game, the leading Team has earned at least 5,750 gold as a team.
 
-            11.11.4.​   Remaining Turret Differential. The difference in the number of remaining turrets
-                        between the teams is more than seven (7).​
+            11.11.4.   Remaining Turret Differential. The difference in the number of remaining turrets
+                        between the teams is more than seven (7).
 
-            11.11.5.​   Remaining Inhibitor Differential. The difference in the number of standing
-                        inhibitors between the teams is more than two (2).​
+            11.11.5.   Remaining Inhibitor Differential. The difference in the number of standing
+                        inhibitors between the teams is more than two (2).
 
-            11.11.6.​   Remaining Nexus Turret Differential. The difference in the number of remaining
-                        nexus turrets between Teams is two (2).​
+            11.11.6.   Remaining Nexus Turret Differential. The difference in the number of remaining
+                        nexus turrets between Teams is two (2).
 
-            11.11.7.​   Champion Differential. The difference in alive champions between Teams is at
+            11.11.7.   Champion Differential. The difference in alive champions between Teams is at
                         least four (4) with the remaining death timers on all dead champions being at
-                        least 40 seconds or higher.​
+                        least 40 seconds or higher.
 
-            11.11.8.​   Straight Up GG. At the time of technical difficulty there is no scenario that in the
+            11.11.8.   Straight Up GG. At the time of technical difficulty there is no scenario that in the
                         opinion of ERL Officials could result in anything other than the victory of one
                         Team.
 
@@ -1742,9 +1742,9 @@ Version 3.0; 20th February 2025
                                                                                                    37
 
 <!-- página 38 -->
-    12.​    Code of Conduct​
+    12.    Code of Conduct
 
-        12.1.​   Code of Conduct
+        12.1.   Code of Conduct
                        Each Team Entity shall comply with and ensure that all players, coaches,
                        trainers, team managers, team owners, other team representatives, and any
                        other esports professional registered with Riot (the foregoing collectively,
@@ -1753,9 +1753,9 @@ Version 3.0; 20th February 2025
                        breach of, or failure to comply with the Riot Games Esports Global Code of
                        Conduct by any Esports Professional shall be deemed a breach of, or failure to
                        comply with the Riot Games Esports Global Code of Conduct by the Team Entity,
-                       in each instance even in cases where the Team Entity was not, itself, at fault. ​
+                       in each instance even in cases where the Team Entity was not, itself, at fault. 
 
-        12.2.​   Disciplinary Action
+        12.2.   Disciplinary Action
                         The League shall be entitled to undertake such disciplinary procedures as it
                         determines in relation to any breach of, or failure to comply with, these
                         regulations, the Riot Games Esports Global Code of Conduct and any other
@@ -1769,7 +1769,7 @@ Version 3.0; 20th February 2025
                         compliance with the Riot Games Esports Global Code of Conduct and all
                         relevant Rules.
 
-        12.3.​   Team Continuity Protection
+        12.3.   Team Continuity Protection
                       No Team Manager/Member or Affiliate of a Team may solicit, lure, or make an
                       offer of employment to any official Coach or Player, whose contracts are on the
                       Global Contract Database and, signed to any League Team, nor encourage any
@@ -1785,7 +1785,7 @@ Version 3.0; 20th February 2025
                       with. The inquiring Team must provide visibility to League Officials before being
                       able to discuss the contract with a Player.
 
-                                             *​       *​       *
+                                             *       *       *
 
 
 
@@ -1794,9 +1794,9 @@ Version 3.0; 20th February 2025
                                                                                                 38
 
 <!-- página 39 -->
-    13.​    Changelog
+    13.    Changelog
 
-        13.1.​   The complete list of changes can be found here.
+        13.1.   The complete list of changes can be found here.
 
 
 
@@ -1805,14 +1805,14 @@ Version 3.0; 20th February 2025
                                                                    39
 
 <!-- página 40 -->
-    14.​    Glossary
+    14.    Glossary
 
                               Official Riot-recognized competitions which adhere to the necessary global
                               policies and standards of professionalism and qualify into EM.
                               Accredited ERLs are: LFL 1st division, SL 1st division, Prime 1st division, TCL
    Accredited ERLs            1st division.
    Amateur Competitions       Riot licensed competitions which do not qualify to EMEA Masters.
-                              Official Riot-recognized competitions which qualify into EMEA Masters.​
+                              Official Riot-recognized competitions which qualify into EMEA Masters.
                               Non-Accredited ERLs are: NLC 1st division, EBL 1st division, ROL 1st
                               division, HLL 1st division, HM 1st division, AL 1st division, LPLOL 1st division,
    Non-Accredited ERLs        LIT 1st division and RL 1st division.
@@ -1823,21 +1823,21 @@ Version 3.0; 20th February 2025
                               weeks where the LEC starts on Friday, this timeframe is between Friday 5:00
                               PM of that week and Friday 4:59 PM of the next week. League Officials may,
                               at their sole discretion, define a different time frame for any given competitive
-                              week due to special circumstances. ​
+                              week due to special circumstances. 
 
                               For ERLs: ERL TOs shall define the Competition Week schedule and
    Competition Week           communicate it via region specific ERL TO Rulebook.
    EM                         Stands for EMEA Masters, the championship for top ERL teams.
-                              EMEA Regional Leagues, including the following Leagues:​
+                              EMEA Regional Leagues, including the following Leagues:
                               EBL - Esports Balkan League (Albania, Bosnia and Herzegovina, Bulgaria,
                               Croatia, Hungary, Moldova, Montenegro, North Macedonia, Romania, Serbia,
                               Slovenia, Kosovo)
                               ROL - Road of Legends (Belgium, Luxembourg, Netherlands)
                               HLL - Hellenic LoL Championship (Cyprus, Greece)
-                              HM - Hitpoint Masters (Czechia, Slovakia)​
+                              HM - Hitpoint Masters (Czechia, Slovakia)
                               AL - Arabian League (Algeria, Bahrain, Egypt, Iraq, Jordan, Kuwait, Lebanon,
                               Libya, Morocco, Oman, Pakistan, Palestine, Qatar, Saudi Arabia, Tunisia,
-                              United Arab Emirates)​
+                              United Arab Emirates)
                               LCL - LoL Continental League (Armenia, Belarus, Kazakhstan, Kyrgyzstan,
                               Russia)
                               LFL - La Ligue Française (France, Monaco)
@@ -1849,7 +1849,7 @@ Version 3.0; 20th February 2025
                               PRM - Prime League (Austria, Germany, Liechtenstein, Switzerland)
                               SL - Superliga (Spain, Andora)
                               RL - Rift Legends: Polish Championship (Estonia, Georgia, Latvia, Lithuania,
-                              Poland, Ukraine, Israel)​
+                              Poland, Ukraine, Israel)
                               TCL - Turkish Championship League (Azerbaijan, Mongolia, Tajikistan,
    ERL                        Türkiye, Turkmenistan, Uzbekistan)
                               A secondary team of the ERL under the same Organization that competes in
@@ -1897,7 +1897,7 @@ Version 3.0; 20th February 2025
                                following dates:
 
                                2024: Tuesday, 19 November at 00:00 UTC
-                               2025: Monday, 18 November at 00:00 UTC​
+                               2025: Monday, 18 November at 00:00 UTC
                                2026: Tuesday, 17 November at 00:00 UTC
    Global Contract Window
    Global Penalty Index        Link.
@@ -1910,7 +1910,7 @@ Version 3.0; 20th February 2025
    LEC Secondary Team          An LEC team’s respective ERL team.
    League                      The governing body of the LEC, ERL & EM.
                                Locally Trained Representative. A status that can be acquired by players as
-                               outlined in the section Residency & Representation.​
+                               outlined in the section Residency & Representation.
    LTR
 
 
@@ -1929,33 +1929,33 @@ Version 3.0; 20th February 2025
    Organization               The entity owning the Team.
                               A person of authority within the competition (referee, admin, or someone else
                               appointed by the respective competition organizer)
-                                 ●​ LEC Official - responsible for LEC operations
-                                 ●​ EM - responsible for EM operations
-                                 ●​ ERL - responsible for ERL operations (appointed by ERL TO)
-   Official                      ●​ League - Riot Games competitive operations team
+                                 ● LEC Official - responsible for LEC operations
+                                 ● EM - responsible for EM operations
+                                 ● ERL - responsible for ERL operations (appointed by ERL TO)
+   Official                      ● League - Riot Games competitive operations team
                               Categories that have been pre-authorised and permitted in writing by the ERL
                               Officials:
-                                   ●​ Airline
-                                   ●​ Automotive
-                                   ●​ Beverages - Non-alcoholic
-                                   ●​ Building & Construction
-                                   ●​ Consumer Care
-                                   ●​ Consumer Electronic
-                                   ●​ Fashion & Jewellery
-                                   ●​ Financial Services & Insurance
-                                   ●​ Food & Snacks
-                                   ●​ Household Goods
-                                   ●​ Industrial Equipment & Systems
-                                   ●​ IT&I - Information Telecommunications & Internet
-                                   ●​ LO - Logistics
-                                   ●​ M - Media
-                                   ●​ PC - Personal Care
-                                   ●​ PS - Professional Services
-                                   ●​ RE - Retail
-                                   ●​ SA&S - Sports Apparel & Supplier
-                                   ●​ TT&L - Travel, Tourism & Leisure
-                                   ●​ TY - Tyres
-   Permitted Sponsorship           ●​ U&E - Utilities & Energy
+                                   ● Airline
+                                   ● Automotive
+                                   ● Beverages - Non-alcoholic
+                                   ● Building & Construction
+                                   ● Consumer Care
+                                   ● Consumer Electronic
+                                   ● Fashion & Jewellery
+                                   ● Financial Services & Insurance
+                                   ● Food & Snacks
+                                   ● Household Goods
+                                   ● Industrial Equipment & Systems
+                                   ● IT&I - Information Telecommunications & Internet
+                                   ● LO - Logistics
+                                   ● M - Media
+                                   ● PC - Personal Care
+                                   ● PS - Professional Services
+                                   ● RE - Retail
+                                   ● SA&S - Sports Apparel & Supplier
+                                   ● TT&L - Travel, Tourism & Leisure
+                                   ● TY - Tyres
+   Permitted Sponsorship           ● U&E - Utilities & Energy
    Player Agreement           The contract between an Organization and their Player.
                               A Tournament (including any qualifiers) organized by an ERL TO, taking place
                               after the Summer Split, and scheduled within the specified Pro-Am
@@ -1976,33 +1976,33 @@ Version 3.0; 20th February 2025
                                                                                                 42
 
 <!-- página 43 -->
-                                  ●​   Any other video game, other video game developer, or publisher
-                                  ●​   Any video game consoles
-                                  ●​   Any esport or other video game tournament, league, or event
-                                  ●​   Any other esports team, owner, or affiliate thereof
-                                  ●​   Any prescription drugs
-                                  ●​   Firearms, ammunition or firearm accessories
-                                  ●​   Pornography or pornographic products
-                                  ●​   Tobacco products or paraphernalia
-                                  ●​   Betting or gambling providers (bookmakers and betting sites)
-                                  ●​   Alcohol products (except alcoholic beverages included in the
+                                  ●   Any other video game, other video game developer, or publisher
+                                  ●   Any video game consoles
+                                  ●   Any esport or other video game tournament, league, or event
+                                  ●   Any other esports team, owner, or affiliate thereof
+                                  ●   Any prescription drugs
+                                  ●   Firearms, ammunition or firearm accessories
+                                  ●   Pornography or pornographic products
+                                  ●   Tobacco products or paraphernalia
+                                  ●   Betting or gambling providers (bookmakers and betting sites)
+                                  ●   Alcohol products (except alcoholic beverages included in the
                                        Conditional Category) or other intoxicants the sale or use of which is
                                        regulated by applicable law
-                                  ●​   Sellers of or marketplaces for virtual items known to be counterfeit or
+                                  ●   Sellers of or marketplaces for virtual items known to be counterfeit or
                                        illegal
-                                  ●​   Seller of or marketplaces for goods or services that violate the LoL
+                                  ●   Seller of or marketplaces for goods or services that violate the LoL
                                        Game Terms of Use
-                                  ●​   Fantasy esports operators (including daily fantasy)
-                                  ●​   Political campaigns or political action committees
-                                  ●​   Charities that endorse particular religious or political positions, or are
+                                  ●   Fantasy esports operators (including daily fantasy)
+                                  ●   Political campaigns or political action committees
+                                  ●   Charities that endorse particular religious or political positions, or are
                                        not reputable (by way of example, Red Cross, Stand-Up to Cancer
                                        and other similar mainstream charities would be considered
                                        reputable)
-                                  ●​   Cryptocurrencies, or any other unregulated financial instruments or
+                                  ●   Cryptocurrencies, or any other unregulated financial instruments or
                                        markets
-                                  ●​   Businesses & platforms engaged in offering Contracts for Difference
+                                  ●   Businesses & platforms engaged in offering Contracts for Difference
                                        (CFD) trading, or similar trading on margin products
-                                  ●​   Beer and wine products
+                                  ●   Beer and wine products
                               Referees are Officials who are responsible for making judgments on every
                               match-related issue, question and situation which occurs before, during, and
    Referee                    immediately following a Match.
@@ -2070,7 +2070,7 @@ Version 3.0; 20th February 2025
 
                                                  EM Penalty Index
 
-               The EM Penalty Index shall be used as a non-exhaustive penalty guideline for EM Officials.​
+               The EM Penalty Index shall be used as a non-exhaustive penalty guideline for EM Officials.
 
 
 General Penalties
@@ -2306,3 +2306,11 @@ Accredited Leagues)
 
       Version 3.0; 20th February 2025
                                         49
+
+## Links presentes no documento
+
+- https://www.emea-competitiveops.com/
+- mailto:erl-team@riotgames.com
+- https://riot.eurcommunitycompetition.com/
+- https://docs.google.com/spreadsheets/d/1Y7k5kQ2AegbuyiGwEPsa62e883FYVtHqr6UVut9RC4o/pubhtml#
+- https://esports-assets.s3.amazonaws.com/production/files/rules/Esports_Global_Penalty_Index.pdf

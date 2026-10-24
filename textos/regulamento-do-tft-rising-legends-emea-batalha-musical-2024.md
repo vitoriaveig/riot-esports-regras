@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news/9f0ef7e485766f96491a8f74d50f81b6
 sha256: "d3d0dadc2a19304cfb2ebfd6478de2a479324f8c11b57dc7f620af0ad9fda002"
 paginas: "33"
 idioma: "pt"
-baixado_em: "2026-10-24T20:32:41Z"
+baixado_em: "2026-10-24T20:58:15Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -817,9 +817,9 @@ i[\j]^[ÿ Eÿ
                        Tÿÿ?O?ÿ;=BE<IÿAG3ÿ]XU[2_ÿ
                        ÿ
 
-                                   ÿ  ¡ÿ¢£¤¥¥¦ÿ§ÿ̈©¢©ª«ÿ¬­¬®ÿ
+                                   ÿ  ¡ÿ¢£¤¥¥¦ÿ§ÿ̈©¢©ª«ÿ¬¬®ÿ
                                    ÿ
-                                           ÿ̄©°±²³ÿ̄©´³´µÿ¶ ³ÿ·­ÿ
+                                           ÿ̄©°±²³ÿ̄©´³´µÿ¶ ³ÿ·ÿ
                                                                                                   ÿ̧ÿ
 
 <!-- página 9 -->
@@ -925,7 +925,7 @@ i[\j]^[ÿ Eÿ
 
                                    ÿÿ ¡¢££¤ÿ¥ÿ¦§ §¨©ÿª«ª¬ÿ
                                    ÿ
-                                           ­§®¯°±ÿ­§²±²³ÿ́±ÿµ«ÿ
+                                           §®¯°±ÿ§²±²³ÿ́±ÿµ«ÿ
                                            ÿ
                                                                                                      ÿ¶ÿ
 

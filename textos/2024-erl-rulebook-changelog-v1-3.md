@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news/3ad7779b08875709b1dc2e17cbe3e404
 sha256: "6cde8a2aaf52866d2d960a12f9256bb3e20b843248a11801b8e7a67fd6f4d545"
 paginas: "47"
 idioma: "en"
-baixado_em: "2026-10-24T20:33:59Z"
+baixado_em: "2026-10-24T21:01:12Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -2476,3 +2476,11 @@ before being able to discuss the
 contract with a Player. Contracts for
 Players can be found in the Global
 Contract Database.
+
+## Links presentes no documento
+
+- https://assets.contentstack.io/v3/assets/blt6b44d0e0eb15833b/blt1398ca90bf4d67b6/6571f68f9c568179e1785f79/EMEA_LOL_Player_Loan_Policy_07.12.23.pdf
+- https://assets.contentstack.io/v3/assets/blt6b44d0e0eb15833b/blte879871fb9e3740b/65688e33ca38f0ab3fd31590/ENG_-_Riot_Games_Esports_-_Global_Code_of_Conduct_-_2023.11.27.pdf
+- http://lec.gg/rules
+- https://www.competitiveops.eu/
+- mailto:erl-team@riotgames.com

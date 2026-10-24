@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news_live/9fd52830922d39d5f1eb9751870
 sha256: "834ae8337fd8e9392941ccdbe535eb89c10f1ea0966bbec6fa6eff3fd777c698"
 paginas: "6"
 idioma: "en"
-baixado_em: "2026-10-24T20:31:19Z"
+baixado_em: "2026-10-24T20:56:43Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -19,8 +19,8 @@ fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.ri
 Champions Paris Event-Specific Ruleset
 
 <!-- página 2 -->
-1.​   Introduction and Purpose
-      1.1.​ Background
+1.   Introduction and Purpose
+      1.1. Background
       VALORANT Champions Tour LLC, a Delaware limited liability company (“League
       Entity”), along with its affiliates (collectively, “Riot”), organizes a series of regional,
       cross-regional, and international esports tournaments and related media events under the
@@ -36,40 +36,40 @@ Champions Paris Event-Specific Ruleset
       The 2025 Champions Paris event is an international esports tournament (“International
       Competition”) held as part of the VCT.
 
-      1.2.​ Purpose
+      1.2. Purpose
       The League Entity has created this Champions Paris Event-Specific Ruleset (the
       “Event-Specific Ruleset”) to set forth certain policies, rules, and procedures that will
       apply to all Teams participating in the Champions Paris event. This Event-Specific
       Ruleset is in addition to, and not in lieu of, the VALORANT Official Competition
       Ruleset (the “Competition Ruleset”) and the VCT25 Roster Construction Rules (the
       “RCR”).
-         ●​ Link to Competition Ruleset
-         ●​ Link to RCR
+         ● Link to Competition Ruleset
+         ● Link to RCR
 
 <!-- página 3 -->
-2.​   VCT Champions Paris Event Structure
-      2.1.​ Competitive Format
-         ●​ 16 teams.
+2.   VCT Champions Paris Event Structure
+      2.1. Competitive Format
+         ● 16 teams.
 
-         ●​ Four groups in a double-elimination format similar to a GSL-style format
+         ● Four groups in a double-elimination format similar to a GSL-style format
             (“Group Stage”).
 
-         ●​ The top two teams from each group qualify for an eight-team double elimination
+         ● The top two teams from each group qualify for an eight-team double elimination
             bracket (“Playoff Stage”).
 
-         ●​ All matches are best-of-three; Lower Finals and Grand Finals are best-of-five.
+         ● All matches are best-of-three; Lower Finals and Grand Finals are best-of-five.
 
-      2.2.​ Seeding and Groups
+      2.2. Seeding and Groups
       The Group Stage draw will include all sixteen teams who qualified for Champions from
       the 2025 VCT Season. Teams will be sorted into four GSL-style groups with the
       objective of making competitive matchups from international teams.
       Seeding Methodology
       Teams are first sorted into four seeding pools based on their placement performance for
       the 2025 VCT Season. The four pools are as follows:
-      Pool 1 - VCT Americas#1, VCT EMEA#1, VCT Pacific#1, VCT China#1​​                    ​
-      Pool 2 - VCT Americas#2, VCT EMEA#2, VCT Pacific#2, VCT China#2​​                    ​
-      Pool 3 - VCT Americas#3, VCT EMEA#3, VCT Pacific#3, VCT China#3​​                    ​
-      Pool 4 - VCT Americas#4, VCT EMEA#4, VCT Pacific#4, VCT China#4​
+      Pool 1 - VCT Americas#1, VCT EMEA#1, VCT Pacific#1, VCT China#1                    
+      Pool 2 - VCT Americas#2, VCT EMEA#2, VCT Pacific#2, VCT China#2                    
+      Pool 3 - VCT Americas#3, VCT EMEA#3, VCT Pacific#3, VCT China#3                    
+      Pool 4 - VCT Americas#4, VCT EMEA#4, VCT Pacific#4, VCT China#4
       Group Stage Draw
       Teams from the same VCT League cannot be placed in the same group. If a team from
       the same VCT League is drawn into the same group as another team from their VCT
@@ -93,8 +93,8 @@ Champions Paris Event-Specific Ruleset
       respective groups.
 
 
-3.​   Roster Rules
-      3.1.​ Starting Rosters
+3.   Roster Rules
+      3.1. Starting Rosters
       For each match of the International Competition, the Team must designate ﬁve (5)
       starters from the Team’s Active Roster (as defined in the VCT25 Roster Construction
       Rules), which shall constitute the Team’s “Starting Roster”. Rosters are considered
@@ -104,7 +104,7 @@ Champions Paris Event-Specific Ruleset
       game of the day, whichever is the latest, the day prior to the team’s match.
 
 <!-- página 5 -->
-         3.2.​ Substitutions during Tournament Play
+         3.2. Substitutions during Tournament Play
          For Matches involving more than one map (i.e., a best-of-three or best-of-five Match), a
          Team may replace their then-current starters with substitutes from the Team’s Active
          Roster (as defined in the VCT25 Roster Construction Rules) in between maps, provided
@@ -115,7 +115,7 @@ Champions Paris Event-Specific Ruleset
          the Match Area and will be given seven (7) minutes to complete the setup process.
 
 
-4.​      Accommodations and Player Practice Rooms
+4.      Accommodations and Player Practice Rooms
          All twelve Teams will be provided with accommodations and player practice rooms for
          the required five (5) starters, up to one (1) substitute, one (1) Head Coach, and one (1)
          team manager who have earned the right to participate in International Competitions held
@@ -126,13 +126,13 @@ Champions Paris Event-Specific Ruleset
          the League, Teams are prohibited from using other accommodations or player practice
          rooms during the course of the event.
 
-5.​      Competitive Patch
+5.      Competitive Patch
          All matches will be played on patch version 11.05.
 
-6.​      Map Pool
+6.      Map Pool
          The map pool consists of Abyss, Ascent, Bind, Corrode, Haven, Lotus, Sunset.
 
-7.​      Prize Money
+7.      Prize Money
       Placement         Prize
          1st         $1,000,000.00
         2nd            $400,000.00
@@ -156,7 +156,7 @@ Champions Paris Event-Specific Ruleset
 
 
 
-8.​   Travel and Expenses
+8.   Travel and Expenses
       For the required five (5) starters, up to one (1) substitute, one (1) Head Coach, and one
       (1) team manager per Team who have earned the right to participate in International
       Competitions held as part of the VCT, the League Entity will provide reasonable travel,
@@ -172,7 +172,7 @@ Champions Paris Event-Specific Ruleset
       reasonable travel, accommodation and meals or reimbursement for the foregoing while
       such player competes at the International Competition held as part of the VCT.
 
-9.​   Priority and Conflicts.
+9.   Priority and Conflicts.
       In the event of a conflict between (a) any term of this Event-Specific Ruleset, the
       Competition Ruleset, and the terms of a Team Participation Agreement, or (b) any term
       of this Event-Specific Ruleset and the terms of a Guidance Document, the League Entity,
@@ -180,3 +180,8 @@ Champions Paris Event-Specific Ruleset
       remedies set forth in this Event-Specific Ruleset or a Guidance Document shall be in
       addition to, and shall not supersede, any remedies set forth a Team Participation
       Agreement.
+
+## Links presentes no documento
+
+- https://cdn.sanity.io/files/dsfx7636/news_live/44a706b07e5139b380aff8d2883ce62d4739979c.pdf
+- https://cdn.sanity.io/files/dsfx7636/news/fd836048e4e3eb6131400d51cd9b4a04475be38c.pdf

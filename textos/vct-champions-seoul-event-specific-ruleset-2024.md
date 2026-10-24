@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news/ecf0c2a456ac39779282b3ce00e40605
 sha256: "b8de18d499410a7a6c560ebf7d346aad99b4b2eb9e26b17502843044778c8263"
 paginas: "6"
 idioma: "en"
-baixado_em: "2026-10-24T20:33:25Z"
+baixado_em: "2026-10-24T20:59:16Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -180,3 +180,8 @@ Champions Seoul Event-Specific Ruleset
      remedies set forth in this Event-Specific Ruleset or a Guidance Document shall be in
      addition to, and shall not supersede, any remedies set forth a Team Participation
      Agreement.
+
+## Links presentes no documento
+
+- https://www.dropbox.com/scl/fi/is42320gf5kubuawfq25v/Valorant-Official-Competition-Ruleset.pdf?rlkey=2skgpilbktm3hb1nwj7vr75qc&dl=0
+- https://www.dropbox.com/scl/fi/y4q214jvo49hc52fu239o/VCT24-Roster-Construction-Rules.docx.pdf?rlkey=n7iwp22jofcnkqf9kir3wcikr&dl=0

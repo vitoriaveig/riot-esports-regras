@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news/75c1276b07b47d5e7b21012afa103fb2
 sha256: "ecaac11a0646a3626ac810f02a2144bd7a532147e5ae8ab767e9f05636f01fb6"
 paginas: "74"
 idioma: "en"
-baixado_em: "2026-10-24T20:30:02Z"
+baixado_em: "2026-10-24T20:55:07Z"
 tambem_listado_como: "regulamento-da-erl-2024-v1-3"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
@@ -3387,3 +3387,12 @@ Version 1.3; 27th May 2024
 
 Version 1.3; 27th May 2024
                                                                                                     74
+
+## Links presentes no documento
+
+- mailto:erl-team@riotgames.com
+- https://assets.contentstack.io/v3/assets/blt6b44d0e0eb15833b/blt1398ca90bf4d67b6/6571f68f9c568179e1785f79/EMEA_LOL_Player_Loan_Policy_07.12.23.pdf
+- https://www.emea-competitiveops.com/
+- https://docs.google.com/spreadsheets/d/e/2PACX-1vSO1Hn7Pu61_T-giLGTpbuuFJXY-sNV-bShtualAJ12QU2O_cJVSQOAdWGuS3q47DYR3CBndNF-6QxL/pubhtml#
+- https://docs.google.com/spreadsheets/d/1Y7k5kQ2AegbuyiGwEPsa62e883FYVtHqr6UVut9RC4o/pubhtml#
+- https://esports-assets.s3.amazonaws.com/production/files/rules/Esports_Global_Penalty_Index.pdf

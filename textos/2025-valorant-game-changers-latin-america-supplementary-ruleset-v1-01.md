@@ -11,11 +11,11 @@ url: "https://cdn.sanity.io/files/dsfx7636/news_live/fdee3d550991c61771d126a625c
 sha256: "fdf2858ae6e99418c3b33c1d12f663faf7c8b8dca488b23ae8ee429f399babfa"
 paginas: "87"
 idioma: "pt"
-baixado_em: "2026-10-24T20:31:39Z"
+baixado_em: "2026-10-24T20:57:07Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
-​
+
 
 
 
@@ -27,54 +27,54 @@ fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.ri
                                                                           LVP, Liga de Videojuegos Profesional
 
 
-1. Introducción y propósito​                                                                                7
-     1.1. Antecedentes.​                                                                                    7
-     1.2. Propósito.​                                                                                       7
-     1.3. Aplicación del reglamento.​                                                                       7
-     1.4. Contacto oficial.​                                                                                7
-2. Elegibilidad.​                                                                                           7
-     2.1. Edad de la jugadora.​                                                                             7
-     2.2. Género.​                                                                                          8
-     2.3. Comprobación de elegibilidad.​                                                                    8
-     2.4. Nacionalidad y representación.​                                                                   8
-         2.4.1. Representación regional.​                                                                   8
-         2.4.2. Definición de Nacionalidad; Certificación y Prueba de Nacionalidad.​                        8
-         2.4.3. Estatus de nacionalidad individual.​                                                        9
-         2.4.4. Doble ciudadanía/nacionalidad.​                                                             9
-              2.4.4.1. Definición de Jugadora con Doble Ciudadanía​                                         9
-              2.4.4.2. Regla General sobre la Residencia​                                                   9
-              2.4.4.3. Solicitud de Cambio de País de Residencia Declarado​                                 9
-              2.4.4.4. Proceso de Solicitud y Aprobación​                                                  10
-         2.4.5. Violación a los Requisitos de Nacionalidad.​                                               10
-     2.5. Ubicación física.​                                                                               10
-     2.6. Prueba de identidad y nacionalidad.​                                                             10
-     2.7. Verificación NTH.​                                                                               10
-     2.8. Ficha de equipos.​                                                                               11
-     2.9. Servidores.​                                                                                     11
-     2.10. Revisión de cuentas del Juego de las jugadoras.​                                                11
-     2.11. Equipos de una misma organización.​                                                             11
-     2.12. Patrocinios.​                                                                                   12
-         2.12.1. Categorías de Patrocinios Prohibidos.​                                                    13
-         2.12.2. Categorías de Patrocinios Prohibidos Internacionalmente​                                  13
-         2.12.3. Cumplimiento de las pautas de la marca.​                                                  13
-         2.12.4. Decisiones relacionadas a la lista de Categorías de Patrocinios Prohibidos.​              14
-         2.12.5. Uso no autorizado de marcas registradas.​                                                 14
-     2.13. Propiedad de equipos.​                                                                          14
-         2.13.1. Reconocimiento de propiedad.​                                                             14
-     2.14. Contrato de jugadoras.​                                                                         15
-     2.15. Ficha de confirmación de contrato.​                                                             15
-     2.16. Eventos de Medios y Patrocinadores.​                                                            15
-     2.17. Exclusión de empleados.​                                                                        16
-3. Registro y participación.​                                                                              16
-     3.1. Reglas de alineaciones.​                                                                         16
-         3.1.1. Titulares y suplentes.​                                                                    16
-         3.1.2. Requisitos mínimos de alineación.​                                                         16
-              3.1.2.1. Tamaño de la alineación.​                                                           16
-              3.1.2.2. Derecho a avanzar: Stage II​                                                        17
-              3.1.2.3. Derecho a avanzar: Main Event.​                                                     17
-         3.1.3. Exclusividad de un solo equipo.​                                                           17
-              3.1.3.1. Movilidad entre Game Changers y Challengers.​                                       17
-         3.1.4. Excepción de Creadora de Contenido.​                                                       17
+1. Introducción y propósito                                                                                7
+     1.1. Antecedentes.                                                                                    7
+     1.2. Propósito.                                                                                       7
+     1.3. Aplicación del reglamento.                                                                       7
+     1.4. Contacto oficial.                                                                                7
+2. Elegibilidad.                                                                                           7
+     2.1. Edad de la jugadora.                                                                             7
+     2.2. Género.                                                                                          8
+     2.3. Comprobación de elegibilidad.                                                                    8
+     2.4. Nacionalidad y representación.                                                                   8
+         2.4.1. Representación regional.                                                                   8
+         2.4.2. Definición de Nacionalidad; Certificación y Prueba de Nacionalidad.                        8
+         2.4.3. Estatus de nacionalidad individual.                                                        9
+         2.4.4. Doble ciudadanía/nacionalidad.                                                             9
+              2.4.4.1. Definición de Jugadora con Doble Ciudadanía                                         9
+              2.4.4.2. Regla General sobre la Residencia                                                   9
+              2.4.4.3. Solicitud de Cambio de País de Residencia Declarado                                 9
+              2.4.4.4. Proceso de Solicitud y Aprobación                                                  10
+         2.4.5. Violación a los Requisitos de Nacionalidad.                                               10
+     2.5. Ubicación física.                                                                               10
+     2.6. Prueba de identidad y nacionalidad.                                                             10
+     2.7. Verificación NTH.                                                                               10
+     2.8. Ficha de equipos.                                                                               11
+     2.9. Servidores.                                                                                     11
+     2.10. Revisión de cuentas del Juego de las jugadoras.                                                11
+     2.11. Equipos de una misma organización.                                                             11
+     2.12. Patrocinios.                                                                                   12
+         2.12.1. Categorías de Patrocinios Prohibidos.                                                    13
+         2.12.2. Categorías de Patrocinios Prohibidos Internacionalmente                                  13
+         2.12.3. Cumplimiento de las pautas de la marca.                                                  13
+         2.12.4. Decisiones relacionadas a la lista de Categorías de Patrocinios Prohibidos.              14
+         2.12.5. Uso no autorizado de marcas registradas.                                                 14
+     2.13. Propiedad de equipos.                                                                          14
+         2.13.1. Reconocimiento de propiedad.                                                             14
+     2.14. Contrato de jugadoras.                                                                         15
+     2.15. Ficha de confirmación de contrato.                                                             15
+     2.16. Eventos de Medios y Patrocinadores.                                                            15
+     2.17. Exclusión de empleados.                                                                        16
+3. Registro y participación.                                                                              16
+     3.1. Reglas de alineaciones.                                                                         16
+         3.1.1. Titulares y suplentes.                                                                    16
+         3.1.2. Requisitos mínimos de alineación.                                                         16
+              3.1.2.1. Tamaño de la alineación.                                                           16
+              3.1.2.2. Derecho a avanzar: Stage II                                                        17
+              3.1.2.3. Derecho a avanzar: Main Event.                                                     17
+         3.1.3. Exclusividad de un solo equipo.                                                           17
+              3.1.3.1. Movilidad entre Game Changers y Challengers.                                       17
+         3.1.4. Excepción de Creadora de Contenido.                                                       17
 
 
                                                                                                             1
@@ -84,54 +84,54 @@ fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.ri
                                                                          LVP, Liga de Videojuegos Profesional
 
 
-             3.1.4.1. Criterio de elegibilidad de Creador de Contenido.​                                  18
-             3.1.4.2. Restricción de Creadoras de Contenido en alineación.​                               18
-             3.1.4.3. Restricciones de patrocinios.​                                                      18
-        3.1.5. Registro de jugadoras.​                                                                    19
-             3.1.5.1. Periodos de registro.​                                                              19
-        3.1.6. Envío de la Alineación y Registro del Equipo.​                                             20
-        3.1.7. Sesiones fotográficas.​                                                                    20
-        3.1.8. Cambios en la Alineación.​                                                                 21
-             3.1.8.1. Cambios de Jugadoras: Stage I y II​                                                 21
-             3.1.8.2. Requisitos para el Registro de Jugadora​                                            21
-             3.1.8.3. Cambios de Entrenadores​                                                            21
-             3.1.8.4. Requisitos para el Registro de Entrenador​                                          22
-        3.1.9. Bloqueo de alineaciones: Main Event.​                                                      22
-        3.1.10. Excepciones al bloqueo de alineaciones.​                                                  22
-        3.1.11. Sustituciones.​                                                                           23
-        3.1.12. Excepciones en el Proceso de Sustitución.​                                                23
-        3.1.13. Manager del Equipo.​                                                                      24
-        3.1.14. Capitana del Equipo.​                                                                     24
-        3.1.15. Entrenador(a).​                                                                           24
-    3.2. Nombres de jugadoras.​                                                                           25
-    3.3. Derecho a rechazar nombres.​                                                                     25
-    3.4. Etiquetas de equipo (Tricodes).​                                                                 25
-    3.5. Disponibilidad de viaje.​                                                                        26
-    3.6. Propiedad de cuentas.​                                                                           26
-    3.7. Formulario de elegibilidad y consentimiento.​                                                    26
-    3.8. Verificación de identidad.​                                                                      27
-4. Equipamiento y software.​                                                                              27
-    4.1. Responsabilidad de la jugadora.​                                                                 27
-    4.2. Programas de computadora para partidas en línea.​                                                27
-        4.2.1. Clientes de Valorant.​                                                                     27
-        4.2.2. Discord (videoconferencia).​                                                               27
-        4.2.3. Discord (chat de voz).​                                                                    27
-        4.2.4. Programa para grabar pantalla (opcional).​                                                 27
-    4.3. Sanciones de Riot Games.​                                                                        28
-    4.4. Área de Combate.​                                                                                28
-        4.4.1. Managers de los equipos.​                                                                  28
-        4.4.2. Entrenadores(as) de los equipos.​                                                          28
-        4.4.3. Dispositivos inalámbricos.​                                                                29
-        4.4.4. Notas y blocs de notas.​                                                                   29
-        4.4.5. Restricciones de consumibles.​                                                             29
-             4.4.5.1. Consumibles permitidos.​                                                            29
-             4.4.5.2. Consumibles no permitidos.​                                                         29
-5. Estructura Circuito Game Changers.​                                                                    29
-    5.1. Definición de Términos.​                                                                         29
-    5.2. Stage I y II.​                                                                                   30
-        5.2.1. Fase de grupos​                                                                            30
-    5.2.2. Playoffs.​                                                                                     30
-    5.2.2.1. Gran Final​                                                                                  31
+             3.1.4.1. Criterio de elegibilidad de Creador de Contenido.                                  18
+             3.1.4.2. Restricción de Creadoras de Contenido en alineación.                               18
+             3.1.4.3. Restricciones de patrocinios.                                                      18
+        3.1.5. Registro de jugadoras.                                                                    19
+             3.1.5.1. Periodos de registro.                                                              19
+        3.1.6. Envío de la Alineación y Registro del Equipo.                                             20
+        3.1.7. Sesiones fotográficas.                                                                    20
+        3.1.8. Cambios en la Alineación.                                                                 21
+             3.1.8.1. Cambios de Jugadoras: Stage I y II                                                 21
+             3.1.8.2. Requisitos para el Registro de Jugadora                                            21
+             3.1.8.3. Cambios de Entrenadores                                                            21
+             3.1.8.4. Requisitos para el Registro de Entrenador                                          22
+        3.1.9. Bloqueo de alineaciones: Main Event.                                                      22
+        3.1.10. Excepciones al bloqueo de alineaciones.                                                  22
+        3.1.11. Sustituciones.                                                                           23
+        3.1.12. Excepciones en el Proceso de Sustitución.                                                23
+        3.1.13. Manager del Equipo.                                                                      24
+        3.1.14. Capitana del Equipo.                                                                     24
+        3.1.15. Entrenador(a).                                                                           24
+    3.2. Nombres de jugadoras.                                                                           25
+    3.3. Derecho a rechazar nombres.                                                                     25
+    3.4. Etiquetas de equipo (Tricodes).                                                                 25
+    3.5. Disponibilidad de viaje.                                                                        26
+    3.6. Propiedad de cuentas.                                                                           26
+    3.7. Formulario de elegibilidad y consentimiento.                                                    26
+    3.8. Verificación de identidad.                                                                      27
+4. Equipamiento y software.                                                                              27
+    4.1. Responsabilidad de la jugadora.                                                                 27
+    4.2. Programas de computadora para partidas en línea.                                                27
+        4.2.1. Clientes de Valorant.                                                                     27
+        4.2.2. Discord (videoconferencia).                                                               27
+        4.2.3. Discord (chat de voz).                                                                    27
+        4.2.4. Programa para grabar pantalla (opcional).                                                 27
+    4.3. Sanciones de Riot Games.                                                                        28
+    4.4. Área de Combate.                                                                                28
+        4.4.1. Managers de los equipos.                                                                  28
+        4.4.2. Entrenadores(as) de los equipos.                                                          28
+        4.4.3. Dispositivos inalámbricos.                                                                29
+        4.4.4. Notas y blocs de notas.                                                                   29
+        4.4.5. Restricciones de consumibles.                                                             29
+             4.4.5.1. Consumibles permitidos.                                                            29
+             4.4.5.2. Consumibles no permitidos.                                                         29
+5. Estructura Circuito Game Changers.                                                                    29
+    5.1. Definición de Términos.                                                                         29
+    5.2. Stage I y II.                                                                                   30
+        5.2.1. Fase de grupos                                                                            30
+    5.2.2. Playoffs.                                                                                     30
+    5.2.2.1. Gran Final                                                                                  31
 
 
                                                                                                            2
@@ -141,54 +141,54 @@ fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.ri
                                                                         LVP, Liga de Videojuegos Profesional
 
 
-   5.2.3. Tabla de puntajes.​                                                                            32
-   5.3. Closed Qualifier​                                                                                32
-   5.4. Main Event.​                                                                                     34
-   5.4.1.1. Gran Final​                                                                                  35
-   5.5. Final Regional LATAM​                                                                            35
-   5.6. Valorant Game Changers 2026​                                                                    36
-    5.7. Fechas y horarios.​                                                                             36
-6. Proceso de enfrentamientos.​                                                                          41
-    6.1. Cambio de horarios y calendarios.​                                                              41
-    6.2. Verificaciones de identidad.​                                                                   41
-    6.3. Fixture.​                                                                                       41
-    6.4. Verificación de alineación y baneo de mapas.​                                                   41
-    6.5. Calendario.​                                                                                    42
-    6.6. Puntualidad.​                                                                                   42
-        6.6.1. Horario de llegada.​                                                                      42
-        6.6.2. Amonestaciones por retardos.​                                                             42
-    6.7. Parche de juego.​                                                                               42
-        6.7.1. Agentes nuevos.​                                                                          42
-        6.7.2. Mapas nuevos.​                                                                            43
-        6.7.3. Restricciones adicionales.​                                                               43
-    6.8. Cuentas de juego.​                                                                              43
-    6.9. Configuraciones del juego.​                                                                     44
-    6.10. Configuración previa al partido.​                                                              44
-    6.11. Estatus de jugadora lista y creación de la sala de juego.​                                     44
-    6.12. Soporte técnico.​                                                                              45
-    6.13. Obligaciones con medios de comunicación y transmisión de la LVP.​                              45
-    6.14. Configuración de la sala de juego.​                                                            45
-    6.15. Servidor de juego.​                                                                            45
-    6.16. Selección de Agentes e inicio de partida.​                                                     46
-    6.17. Inicio controlado del partido.​                                                                46
-    6.18. Carga lenta del cliente.​                                                                      46
-    6.19. Restricciones en elementos del juego.​                                                         46
-    6.20. Comunicación.​                                                                                 47
-    6.21. Comunicación por voz durante el partido.​                                                      47
-    6.22. Penalización por cambio de alineación presentada a la LVP.​                                    47
-    6.23. Transmisión.​                                                                                  47
-    6.24. Fallo de servidor.​                                                                            47
-7. Proceso posterior al partido.​                                                                        47
-    7.1. Resultados.​                                                                                    47
-    7.2. Entre mapas.​                                                                                   47
-    7.3. Entre Series​                                                                                   48
-    7.4. Obligaciones posteriores al partido.​                                                           48
-    7.5. Resultados por abandono.​                                                                       48
-    7.6. Desempates para Stage I y II.​                                                                  48
-        7.6.1. Proceso de desempate.​                                                                    48
-        7.6.2. Proceso de desempate entre 3 o más equipos.​                                              49
-    7.7. Criterios de Posicionamiento: Tabla general​                                                    49
-        7.8. Desempates clasificación a Main Event​                                                      49
+   5.2.3. Tabla de puntajes.                                                                            32
+   5.3. Closed Qualifier                                                                                32
+   5.4. Main Event.                                                                                     34
+   5.4.1.1. Gran Final                                                                                  35
+   5.5. Final Regional LATAM                                                                            35
+   5.6. Valorant Game Changers 2026                                                                    36
+    5.7. Fechas y horarios.                                                                             36
+6. Proceso de enfrentamientos.                                                                          41
+    6.1. Cambio de horarios y calendarios.                                                              41
+    6.2. Verificaciones de identidad.                                                                   41
+    6.3. Fixture.                                                                                       41
+    6.4. Verificación de alineación y baneo de mapas.                                                   41
+    6.5. Calendario.                                                                                    42
+    6.6. Puntualidad.                                                                                   42
+        6.6.1. Horario de llegada.                                                                      42
+        6.6.2. Amonestaciones por retardos.                                                             42
+    6.7. Parche de juego.                                                                               42
+        6.7.1. Agentes nuevos.                                                                          42
+        6.7.2. Mapas nuevos.                                                                            43
+        6.7.3. Restricciones adicionales.                                                               43
+    6.8. Cuentas de juego.                                                                              43
+    6.9. Configuraciones del juego.                                                                     44
+    6.10. Configuración previa al partido.                                                              44
+    6.11. Estatus de jugadora lista y creación de la sala de juego.                                     44
+    6.12. Soporte técnico.                                                                              45
+    6.13. Obligaciones con medios de comunicación y transmisión de la LVP.                              45
+    6.14. Configuración de la sala de juego.                                                            45
+    6.15. Servidor de juego.                                                                            45
+    6.16. Selección de Agentes e inicio de partida.                                                     46
+    6.17. Inicio controlado del partido.                                                                46
+    6.18. Carga lenta del cliente.                                                                      46
+    6.19. Restricciones en elementos del juego.                                                         46
+    6.20. Comunicación.                                                                                 47
+    6.21. Comunicación por voz durante el partido.                                                      47
+    6.22. Penalización por cambio de alineación presentada a la LVP.                                    47
+    6.23. Transmisión.                                                                                  47
+    6.24. Fallo de servidor.                                                                            47
+7. Proceso posterior al partido.                                                                        47
+    7.1. Resultados.                                                                                    47
+    7.2. Entre mapas.                                                                                   47
+    7.3. Entre Series                                                                                   48
+    7.4. Obligaciones posteriores al partido.                                                           48
+    7.5. Resultados por abandono.                                                                       48
+    7.6. Desempates para Stage I y II.                                                                  48
+        7.6.1. Proceso de desempate.                                                                    48
+        7.6.2. Proceso de desempate entre 3 o más equipos.                                              49
+    7.7. Criterios de Posicionamiento: Tabla general                                                    49
+        7.8. Desempates clasificación a Main Event                                                      49
 
 
                                                                                                           3
@@ -198,54 +198,54 @@ fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.ri
                                                                         LVP, Liga de Videojuegos Profesional
 
 
-    7.9. Reportes de incumplimientos de reglas.​                                                         50
-8. Pausas.​                                                                                              50
-    8.1. Pausa técnica.​                                                                                 50
-        8.1.1. Solicitud de Pausa Técnica​                                                               50
-        8.1.2. Restricciones Durante la Pausa Técnica​                                                   50
-        8.1.3. Duración de la Pausa Técnica​                                                             50
-    8.2. Procedimiento en caso de agotamiento del tiempo de Pausa Técnica.​                              51
-    8.3. Pausa táctica / tiempos fuera.​                                                                 51
-        8.3.1. Entre tiempo.​                                                                            52
-    8.4. Pausa de emergencia.​                                                                           52
-9. Reglas adicionales para eventos en línea.​                                                            52
-    9.1. Slot de Entrenador(a) en el cliente de VALORANT.​                                               52
-    9.2. Comunicaciones del partido.​                                                                    52
-        9.2.1. Comunicaciones permitidas.​                                                               53
-        9.2.2. Comunicaciones no permitidas.​                                                            53
-        9.2.3. Autorización de comunicación en partidos.​                                                53
-        9.2.4. Comunicación en partidos no autorizada.​                                                  53
-    9.3. Puntos de vista (POV) de partidos en curso.​                                                    54
-        9.3.1. Puntos de vista permitidos.​                                                              54
-        9.3.2. Puntos de vista no permitidos.​                                                           54
-    9.4. Monitoreo de Jugadoras y Entrenador(a).​                                                        54
-        9.4.1. Auditoría de comunicación en el cliente.​                                                 54
-        9.4.2. Sistemas de comunicación por voz.​                                                        55
-        9.4.3. Monitoreo de captura y grabación de pantalla.​                                            55
-        9.4.4. Monitoreo de captura de cámara.​                                                          55
-        9.4.5. Requisito de almacenamiento de capturas y grabaciones de pantalla y cámara.​              55
-        9.4.6. Auditoría de almacenamiento de capturas y grabaciones de pantalla y cámara.​              55
-10. Crashes e interrupciones del juego.​                                                                 56
-    10.1. Discontinuidad del juego.​                                                                     56
-    10.2. Interrupciones de juego de jugadoras individuales.​                                            56
-        10.2.1. Desconexiones.​                                                                          56
-    10.3. Interrupciones Transitorias.​                                                                  56
-    10.4. Crash/Interrupción del juego.​                                                                 56
-    10.5. Remakes.​                                                                                      57
-    10.6. Reprogramación de partidos por causa mayor.​                                                   57
-11. Equipos.​                                                                                            57
-    11.1. Cambio de logos o grafismos.​                                                                  57
-    11.2. Abandono de jugadoras.​                                                                        57
-    11.3. Expulsión de un equipo.​                                                                       57
-    11.4. Buzón anónimo.​                                                                                57
-12. Premios.​                                                                                            57
-    12.1. Entrega de premios​                                                                            59
-    12.2. Plazo de reclamo de premios​                                                                   60
-13. Reglas adicionales para eventos presenciales.​                                                       60
-    13.1. Protocolo de uniforme.​                                                                        60
-    13.2. Uniformes e indumentaria​                                                                      61
-        13.2.1. Definiciones.​                                                                           61
-             13.2.1.1. Indumentaria del equipo.​                                                         61
+    7.9. Reportes de incumplimientos de reglas.                                                         50
+8. Pausas.                                                                                              50
+    8.1. Pausa técnica.                                                                                 50
+        8.1.1. Solicitud de Pausa Técnica                                                               50
+        8.1.2. Restricciones Durante la Pausa Técnica                                                   50
+        8.1.3. Duración de la Pausa Técnica                                                             50
+    8.2. Procedimiento en caso de agotamiento del tiempo de Pausa Técnica.                              51
+    8.3. Pausa táctica / tiempos fuera.                                                                 51
+        8.3.1. Entre tiempo.                                                                            52
+    8.4. Pausa de emergencia.                                                                           52
+9. Reglas adicionales para eventos en línea.                                                            52
+    9.1. Slot de Entrenador(a) en el cliente de VALORANT.                                               52
+    9.2. Comunicaciones del partido.                                                                    52
+        9.2.1. Comunicaciones permitidas.                                                               53
+        9.2.2. Comunicaciones no permitidas.                                                            53
+        9.2.3. Autorización de comunicación en partidos.                                                53
+        9.2.4. Comunicación en partidos no autorizada.                                                  53
+    9.3. Puntos de vista (POV) de partidos en curso.                                                    54
+        9.3.1. Puntos de vista permitidos.                                                              54
+        9.3.2. Puntos de vista no permitidos.                                                           54
+    9.4. Monitoreo de Jugadoras y Entrenador(a).                                                        54
+        9.4.1. Auditoría de comunicación en el cliente.                                                 54
+        9.4.2. Sistemas de comunicación por voz.                                                        55
+        9.4.3. Monitoreo de captura y grabación de pantalla.                                            55
+        9.4.4. Monitoreo de captura de cámara.                                                          55
+        9.4.5. Requisito de almacenamiento de capturas y grabaciones de pantalla y cámara.              55
+        9.4.6. Auditoría de almacenamiento de capturas y grabaciones de pantalla y cámara.              55
+10. Crashes e interrupciones del juego.                                                                 56
+    10.1. Discontinuidad del juego.                                                                     56
+    10.2. Interrupciones de juego de jugadoras individuales.                                            56
+        10.2.1. Desconexiones.                                                                          56
+    10.3. Interrupciones Transitorias.                                                                  56
+    10.4. Crash/Interrupción del juego.                                                                 56
+    10.5. Remakes.                                                                                      57
+    10.6. Reprogramación de partidos por causa mayor.                                                   57
+11. Equipos.                                                                                            57
+    11.1. Cambio de logos o grafismos.                                                                  57
+    11.2. Abandono de jugadoras.                                                                        57
+    11.3. Expulsión de un equipo.                                                                       57
+    11.4. Buzón anónimo.                                                                                57
+12. Premios.                                                                                            57
+    12.1. Entrega de premios                                                                            59
+    12.2. Plazo de reclamo de premios                                                                   60
+13. Reglas adicionales para eventos presenciales.                                                       60
+    13.1. Protocolo de uniforme.                                                                        60
+    13.2. Uniformes e indumentaria                                                                      61
+        13.2.1. Definiciones.                                                                           61
+             13.2.1.1. Indumentaria del equipo.                                                         61
 
 
                                                                                                           4
@@ -255,54 +255,54 @@ fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.ri
                                                                          LVP, Liga de Videojuegos Profesional
 
 
-             13.2.1.2. Indumentaria oficial del torneo.​                                                  61
-         13.2.2. Uniforme de equipo.​                                                                     61
-         13.2.2.1. Jersey del equipo.​                                                                    62
-         13.2.3. Indumentaria en piernas.​                                                                62
-         13.2.4. Logotipos de indumentaria en piernas del equipo.​                                        63
-         13.2.5. Zapatos.​                                                                                63
-         13.2.6. Banderas nacionales.​                                                                    63
-         13.2.7. Indumentaria​                                                                            63
-             13.2.7.1. Indumentaria para cabeza.​                                                         63
-             13.2.7.2. Ropa debajo de la Camiseta.​                                                       64
-             13.2.7.3. Ropa sobre la Camiseta​                                                            64
-             13.2.7.4. Accesorios.​                                                                       64
-             13.2.7.5. Relojes.​                                                                          64
-         13.2.8. Indumentaria​                                                                            65
-             13.2.8.1. Ropa de marca.​                                                                    65
-             13.2.8.2. Dispositivos electrónicos.​                                                        65
-             13.2.8.3. Gafas opacas.​                                                                     65
-         13.2.9. Ropa aprobada.​                                                                          65
-         13.2.10. Contenido de la liga.​                                                                  65
-         13.2.11. Ropa de entrenador(a).​                                                                 65
-    13.3. Área de combate.​                                                                               66
-         13.3.1. Entrenadores.​                                                                           66
-         13.3.2. Managers de los equipos.​                                                                66
-    13.4. Desconexión durante la partida.​                                                                66
-    13.5. White noise.​                                                                                   67
-    13.6. Periféricos y Hardware.​                                                                        67
-    13.7. Descargas.​                                                                                     67
-    13.8. Media Days.​                                                                                    68
-14. Árbitros.​                                                                                            68
-    14.1. Comportamiento del Árbitro.​                                                                    68
-    14.2. Irrevocabilidad del juicio.​                                                                    68
-    14.3. Interferencia externa en presenciales.​                                                         68
-15. Bugs.​                                                                                                69
-    15.1. Tipos de bug.​                                                                                  69
-    15.2. Uso de Round Rollback para errores.​                                                            69
-         15.2.1. Pre-daño.​                                                                               69
-         15.2.2. Post-Daño.​                                                                              69
-         15.2.3. Retroceso redondo para errores de ruptura de juegos.​                                    70
-16. Adjudicación de Exploits.​                                                                            70
-    16.1. Exploits específicos de agentes.​                                                               70
-         16.1.1. Cypher.​                                                                                 70
-         16.1.2. Regla general de las utilidades de los agentes.​                                         70
-         16.1.3. Potenciador de salto con agentes.​                                                       70
-    16.2. Valoración de Sanciones.​                                                                       70
-         16.2.1. Clasificación del Exploit.​                                                              71
-         16.2.2. Comunicación Previa.​                                                                    71
-         16.2.3. Impacto.​                                                                                71
-         16.2.4. Intención.​                                                                              71
+             13.2.1.2. Indumentaria oficial del torneo.                                                  61
+         13.2.2. Uniforme de equipo.                                                                     61
+         13.2.2.1. Jersey del equipo.                                                                    62
+         13.2.3. Indumentaria en piernas.                                                                62
+         13.2.4. Logotipos de indumentaria en piernas del equipo.                                        63
+         13.2.5. Zapatos.                                                                                63
+         13.2.6. Banderas nacionales.                                                                    63
+         13.2.7. Indumentaria                                                                            63
+             13.2.7.1. Indumentaria para cabeza.                                                         63
+             13.2.7.2. Ropa debajo de la Camiseta.                                                       64
+             13.2.7.3. Ropa sobre la Camiseta                                                            64
+             13.2.7.4. Accesorios.                                                                       64
+             13.2.7.5. Relojes.                                                                          64
+         13.2.8. Indumentaria                                                                            65
+             13.2.8.1. Ropa de marca.                                                                    65
+             13.2.8.2. Dispositivos electrónicos.                                                        65
+             13.2.8.3. Gafas opacas.                                                                     65
+         13.2.9. Ropa aprobada.                                                                          65
+         13.2.10. Contenido de la liga.                                                                  65
+         13.2.11. Ropa de entrenador(a).                                                                 65
+    13.3. Área de combate.                                                                               66
+         13.3.1. Entrenadores.                                                                           66
+         13.3.2. Managers de los equipos.                                                                66
+    13.4. Desconexión durante la partida.                                                                66
+    13.5. White noise.                                                                                   67
+    13.6. Periféricos y Hardware.                                                                        67
+    13.7. Descargas.                                                                                     67
+    13.8. Media Days.                                                                                    68
+14. Árbitros.                                                                                            68
+    14.1. Comportamiento del Árbitro.                                                                    68
+    14.2. Irrevocabilidad del juicio.                                                                    68
+    14.3. Interferencia externa en presenciales.                                                         68
+15. Bugs.                                                                                                69
+    15.1. Tipos de bug.                                                                                  69
+    15.2. Uso de Round Rollback para errores.                                                            69
+         15.2.1. Pre-daño.                                                                               69
+         15.2.2. Post-Daño.                                                                              69
+         15.2.3. Retroceso redondo para errores de ruptura de juegos.                                    70
+16. Adjudicación de Exploits.                                                                            70
+    16.1. Exploits específicos de agentes.                                                               70
+         16.1.1. Cypher.                                                                                 70
+         16.1.2. Regla general de las utilidades de los agentes.                                         70
+         16.1.3. Potenciador de salto con agentes.                                                       70
+    16.2. Valoración de Sanciones.                                                                       70
+         16.2.1. Clasificación del Exploit.                                                              71
+         16.2.2. Comunicación Previa.                                                                    71
+         16.2.3. Impacto.                                                                                71
+         16.2.4. Intención.                                                                              71
 
 
                                                                                                            5
@@ -312,52 +312,52 @@ fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.ri
                                                                     LVP, Liga de Videojuegos Profesional
 
 
-    16.3. Tipo de penalizaciones.​                                                                   71
-        16.3.1. Advertencia.​                                                                        71
-        16.3.2. Retroceso de ronda.​                                                                 72
-        16.3.3. Ronda perdida.​                                                                      72
-        16.3.4. Pérdida de mapa.​                                                                    72
-        16.3.5. Pérdida por pérdida de partido.​                                                     72
-    16.4. Reglas de equipo sobre la revisión de exploits.​                                           73
-    16.5. Decisiones finales bugs y exploits.​                                                       73
-17. Código de conducta.​                                                                             73
-    17.1. Código de conducta en general.​                                                            74
-        17.1.1. Acciones Disciplinarias y Sanciones.​                                                74
-    17.2. Integridad Competitiva.​                                                                   74
-        17.2.1. Ringing.​                                                                            74
-        17.2.2. Incumplimiento.​                                                                     74
-    17.3. Comportamiento no profesional o actos ilegales.​                                           74
-        17.3.1. Violencia.​                                                                          74
-18. Confidencialidad.​                                                                               74
-    18.1. Términos de Uso.​                                                                          75
-    18.2. Infracciones.​                                                                             75
-    18.3. Derecho a publicar.​                                                                       75
-19. Reglamento Disciplinario.​                                                                       75
-    19.1. Acciones disciplinarias.​                                                                  75
-    20.1. Ámbito de aplicación.​                                                                     76
-    20.2. Retraso del juego.​                                                                        77
-    20.3. Incumplimiento.​                                                                           77
-21. Reglamento de Comportamiento del Personal del Equipo.​                                           77
-    21.1. Ámbito de aplicación.​                                                                     77
-    21.2. Comportamiento poco profesional u hostil.​                                                 78
-    21.3. Comportamiento excluido.​                                                                  78
-    21.4. Investigación por parte del Operador del Torneo.​                                          78
-22. Limitaciones de responsabilidad.​                                                                79
-    22.1. Sin daños punitivos.​                                                                      79
-    22.2. Límite de responsabilidad.​                                                                79
-23. Uso de imagen.​                                                                                  79
-24. Resolución de conflictos.​                                                                       80
-    24.1. Finalidad de ciertas decisiones​                                                           80
-    24.2. Recursos​                                                                                  80
-25. Construcción, Reformas y Otras Disposiciones Generales.​                                         80
-    25.1. Prioridad y Conflictos.​                                                                   80
-    25.2. Enmiendas al Reglamento de Competición de Game Changers.​                                  81
-    25.3. Consentimientos y aprobaciones.​                                                           81
-    25.4. Construcción.​                                                                             81
-    25.5. Idioma.​                                                                                   82
-26. Registro de cambios.​                                                                           82
-APPENDIX​                                                                                           83
-    PENALTY INDEX 2025​                                                                             83
+    16.3. Tipo de penalizaciones.                                                                   71
+        16.3.1. Advertencia.                                                                        71
+        16.3.2. Retroceso de ronda.                                                                 72
+        16.3.3. Ronda perdida.                                                                      72
+        16.3.4. Pérdida de mapa.                                                                    72
+        16.3.5. Pérdida por pérdida de partido.                                                     72
+    16.4. Reglas de equipo sobre la revisión de exploits.                                           73
+    16.5. Decisiones finales bugs y exploits.                                                       73
+17. Código de conducta.                                                                             73
+    17.1. Código de conducta en general.                                                            74
+        17.1.1. Acciones Disciplinarias y Sanciones.                                                74
+    17.2. Integridad Competitiva.                                                                   74
+        17.2.1. Ringing.                                                                            74
+        17.2.2. Incumplimiento.                                                                     74
+    17.3. Comportamiento no profesional o actos ilegales.                                           74
+        17.3.1. Violencia.                                                                          74
+18. Confidencialidad.                                                                               74
+    18.1. Términos de Uso.                                                                          75
+    18.2. Infracciones.                                                                             75
+    18.3. Derecho a publicar.                                                                       75
+19. Reglamento Disciplinario.                                                                       75
+    19.1. Acciones disciplinarias.                                                                  75
+    20.1. Ámbito de aplicación.                                                                     76
+    20.2. Retraso del juego.                                                                        77
+    20.3. Incumplimiento.                                                                           77
+21. Reglamento de Comportamiento del Personal del Equipo.                                           77
+    21.1. Ámbito de aplicación.                                                                     77
+    21.2. Comportamiento poco profesional u hostil.                                                 78
+    21.3. Comportamiento excluido.                                                                  78
+    21.4. Investigación por parte del Operador del Torneo.                                          78
+22. Limitaciones de responsabilidad.                                                                79
+    22.1. Sin daños punitivos.                                                                      79
+    22.2. Límite de responsabilidad.                                                                79
+23. Uso de imagen.                                                                                  79
+24. Resolución de conflictos.                                                                       80
+    24.1. Finalidad de ciertas decisiones                                                           80
+    24.2. Recursos                                                                                  80
+25. Construcción, Reformas y Otras Disposiciones Generales.                                         80
+    25.1. Prioridad y Conflictos.                                                                   80
+    25.2. Enmiendas al Reglamento de Competición de Game Changers.                                  81
+    25.3. Consentimientos y aprobaciones.                                                           81
+    25.4. Construcción.                                                                             81
+    25.5. Idioma.                                                                                   82
+26. Registro de cambios.                                                                           82
+APPENDIX                                                                                           83
+    PENALTY INDEX 2025                                                                             83
 
 
 
@@ -371,9 +371,9 @@ APPENDIX​                                                                     
 
 
 
-1.​   Introducción y propósito
+1.   Introducción y propósito
 
-      1.1.​   Antecedentes.
+      1.1.   Antecedentes.
 
               [Riot Games, Inc./Riot Games Limited/Riot Games Korea Ltd./Riot Games LLC/Riot
               Games Services PTE. LTD.] y/o sus compañías afiliadas (colectivamente, "Riot" o las
@@ -387,7 +387,7 @@ APPENDIX​                                                                     
               Las Ligas Game Changers son parte del segundo nivel más alto de competencia de
               VALORANT debajo del VALORANT Champions Tour (el "VCT").
 
-      1.2.​   Propósito.
+      1.2.   Propósito.
 
               El presente documento tiene como finalidad, regir la competencia titulada VCT Game
               Changers LATAM 2025 (el torneo), que se desarrollará principalmente en los países
@@ -399,7 +399,7 @@ APPENDIX​                                                                     
               la comunidad de VALORANT y el Código de Conducta Global de Esports de Riot
               Games.
 
-      1.3.​   Aplicación del reglamento.
+      1.3.   Aplicación del reglamento.
 
               Lo aquí estipulado será lo denominado reglas oficiales (“Reglas”) las cuales aplican
               a todos los equipos participantes en la Liga Game Changers LATAM 2024, así como
@@ -408,16 +408,16 @@ APPENDIX​                                                                     
               demás empleados. Será aplicado por el equipo deportivo de la LVP (“Oficiales de
               Torneo”) y Riot (si corresponde).
 
-      1.4.​   Contacto oficial.
+      1.4.   Contacto oficial.
 
               Toda la comunicación oficial de temas relacionados con la Liga Game Changers será
               a través del siguiente correo electrónico: esports.val@lvp.global y del servidor de
               Discord oficial que les será compartido por privado.
 
 
-2.​   Elegibilidad.
+2.   Elegibilidad.
 
-      2.1.​   Edad de la jugadora.
+      2.1.   Edad de la jugadora.
 
               La edad mínima para participar es de 16 años (“Requisito de edad mínima”). Las
               jugadoras podrán registrarse a la competencia teniendo 15 años pero no podrán
@@ -445,12 +445,12 @@ APPENDIX​                                                                     
          jugadora, y da su consentimiento para la participación de la jugadora en la
          Competencia utilizando un formulario de consentimiento proporcionado por la LVP.
 
-2.2.​    Género.
+2.2.    Género.
 
          Todas las jugadoras de un equipo deberán ser personas que se identifiquen como
          mujer.
 
-2.3.​    Comprobación de elegibilidad.
+2.3.    Comprobación de elegibilidad.
 
          A menos que la LVP lo permita caso por caso, la alineación inicial del Equipo debe
          haber jugado junta durante al menos una (1) semana antes de la fecha límite de
@@ -468,9 +468,9 @@ APPENDIX​                                                                     
          podrá ir desde la descalificación de la jugadora o del equipo en la competencia,
          hasta la suspensión indefinida de toda competencia oficial en curso o futura.
 
-2.4.​    Nacionalidad y representación.
+2.4.    Nacionalidad y representación.
 
-        2.4.1.​   Representación regional.
+        2.4.1.   Representación regional.
 
                   Para que un equipo pueda participar deberá contar con al menos tres (3)
                   jugadoras con Nacionalidad (definido abajo) o naturalización de un país de
@@ -481,7 +481,7 @@ APPENDIX​                                                                     
                   más de dos jugadoras extranjeras en la Alineación Titular al momento de
                   jugar.
 
-        2.4.2.​   Definición de Nacionalidad; Certificación y Prueba de Nacionalidad.
+        2.4.2.   Definición de Nacionalidad; Certificación y Prueba de Nacionalidad.
 
                   Una jugadora se considera con "Nacionalidad" de un país dentro del
                   Territorio elegible para la Liga Game Changers (especificados en la sección
@@ -505,21 +505,21 @@ APPENDIX​                                                                     
           mediante el proceso descrito en la sección 2.6 Prueba de identidad y
           nacionalidad.
 
-2.4.3.​   Estatus de nacionalidad individual.
+2.4.3.   Estatus de nacionalidad individual.
 
           A efectos de determinar la nacionalidad y el cumplimiento de este
           reglamento, una jugadora solo puede tener nacionalidad de un país a la vez.
 
-2.4.4.​   Doble ciudadanía/nacionalidad.
+2.4.4.   Doble ciudadanía/nacionalidad.
 
 
-      2.4.4.1.​   Definición de Jugadora con Doble Ciudadanía
+      2.4.4.1.   Definición de Jugadora con Doble Ciudadanía
 
                   Se considerará "Doble Ciudadana" a una jugadora que posea doble
                   ciudadanía o que cumpla con los requisitos para ser considerada
                   residente de más de un país.
 
-      2.4.4.2.​   Regla General sobre la Residencia
+      2.4.4.2.   Regla General sobre la Residencia
 
                   Una jugadora Doble Ciudadana no podrá ser residente ni tener la
                   nacionalidad de más de un país simultáneamente. Una vez que la
@@ -528,22 +528,22 @@ APPENDIX​                                                                     
                   considerada residente únicamente del país de nacionalidad
                   declarado (denominado "País de Residencia Declarado").
 
-      2.4.4.3.​   Solicitud de Cambio de País de Residencia Declarado
+      2.4.4.3.   Solicitud de Cambio de País de Residencia Declarado
                   Solo durante los períodos de ventana de transferencia, una jugadora
                   Doble Ciudadana podrá solicitar cambiar su País de Residencia
                   Declarado, bajo las siguientes condiciones:
 
-                       A.​ Cumplimiento de Requisitos de Nacionalidad o Residencia:
+                       A. Cumplimiento de Requisitos de Nacionalidad o Residencia:
                            La jugadora debe calificar para ser considerada residente o
                            tener nacionalidad del país al que desea cambiar su
                            residencia, conforme a los requisitos establecidos en la
                            Sección 2.4.2 de este reglamento.
 
-                       B.​ Condiciones para el Cambio de Residencia: El cambio de
+                       B. Condiciones para el Cambio de Residencia: El cambio de
                            país de residencia declarado podrá ser solicitado si se
                            cumple con al menos uno de los siguientes puntos:
 
-                              i.​   Cambio dentro del mismo Territorio Elegible: El país
+                              i.   Cambio dentro del mismo Territorio Elegible: El país
                                     al que la jugadora desea cambiar su residencia debe
                                     pertenecer al mismo Territorio elegible del Circuito
 
@@ -560,7 +560,7 @@ APPENDIX​                                                                     
                                            Game Changers que el país de residencia declarado
                                            original.
 
-                                    ii.​   Alineación en el mismo Territorio: La jugadora debe
+                                    ii.   Alineación en el mismo Territorio: La jugadora debe
                                            haber sido parte de la Alineación Inicial de un equipo
                                            que pertenezca al mismo Territorio elegible del
                                            Circuito Game Changers que el país de residencia al
@@ -572,14 +572,14 @@ APPENDIX​                                                                     
 
 
 
-              2.4.4.4.​   Proceso de Solicitud y Aprobación
+              2.4.4.4.   Proceso de Solicitud y Aprobación
                           Las solicitudes de cambio de país de residencia declarado deberán
                           ser enviadas a los Oficiales del Circuito Game Changers para su
                           revisión. La aprobación de dichas solicitudes quedará a discreción
                           del Operador del torneo y de Riot.
 
 
-        2.4.5.​   Violación a los Requisitos de Nacionalidad.
+        2.4.5.   Violación a los Requisitos de Nacionalidad.
 
                   Cada equipo es responsable de garantizar que sus jugadoras cumplan con
                   estos requisitos de nacionalidad. Será una violación de este Conjunto de
@@ -589,7 +589,7 @@ APPENDIX​                                                                     
                   residencia/nacionalidad de dicha jugadora. Tal violación someterá al Equipo
                   y/o jugadora a Acciones Disciplinarias.
 
-2.5.​    Ubicación física.
+2.5.    Ubicación física.
 
          No se tomará en cuenta la ubicación desde donde compite la jugadora mientras
          cumpla con el resto de las reglas de elegibilidad especificadas en este Reglamento y
@@ -597,7 +597,7 @@ APPENDIX​                                                                     
          problemas de ping que puedan tener las jugadoras con residencia alejada a los
          servidores de Valorant.
 
-2.6.​    Prueba de identidad y nacionalidad.
+2.6.    Prueba de identidad y nacionalidad.
 
          Al momento del registro, se solicitará de manera obligatoria una imagen que
          contenga un documento de identidad con fotografía por ambos lados que podría ser
@@ -619,7 +619,7 @@ APPENDIX​                                                                     
                                                                   LVP, Liga de Videojuegos Profesional
 
 
- 2.7.​   Verificación NTH.
+ 2.7.   Verificación NTH.
 
          En ciertos casos, la LVP podrá requerir que las jugadoras realicen un proceso de
          verificación a través de la comunidad de NTH, con el fin de aprobar su
@@ -628,29 +628,29 @@ APPENDIX​                                                                     
          responsabilidades establecidas en las secciones 2.3. Comprobación de Elegibilidad y
          2.6. Prueba de identidad y nacionalidad.
 
- 2.8.​   Ficha de equipos.
+ 2.8.   Ficha de equipos.
 
          Se le compartirá a los equipos un documento llamado “Ficha de Equipos” que deberá
          ser llenado con los datos del equipo, jugadoras y staff, así como logotipo del equipo.
          Esta ficha de equipos y la información que contenga será eliminada de la base de
          datos de la Liga al finalizar el contrato del Equipo con la LVP.
 
- 2.9.​   Servidores.
+ 2.9.   Servidores.
 
          De forma obligatoria se requerirá tener una cuenta en el servidor al que pertenece el
          país de la Región en la que se desea participar:
 
-             ●​ LAN (Latinoamérica Norte) abarca los siguientes países: Colombia,
+             ● LAN (Latinoamérica Norte) abarca los siguientes países: Colombia,
                 Ecuador, México, Venezuela, Guatemala, Belice, Honduras, El Salvador,
                 Nicaragua, Costa Rica, Panamá, Antigua y Barbuda, Aruba, Curazao,
                 Bahamas, Barbados, Bonaire, Dominica, Granada, Guadalupe, Guyana,
                 Haití, Islas Caimán, Islas Turcas y Caicos, Islas Vírgenes, Jamaica,
                 Martinica, Puerto Rico, República Dominicana, San Cristóbal y Nieves, San
                 Vicente y las Granadinas, Santa Lucía y Trinidad y Tobago.
-             ●​ LAS (Latinoamérica Sur) abarca los siguientes países: Argentina,
+             ● LAS (Latinoamérica Sur) abarca los siguientes países: Argentina,
                 Bolivia, Chile, Paraguay, Perú y Uruguay.
 
-2.10.​   Revisión de cuentas del Juego de las jugadoras.
+2.10.   Revisión de cuentas del Juego de las jugadoras.
 
          Como parte del proceso de registro de jugadoras, los equipos deben enviar el
          nombre de usuario y el Riot ID de su cuenta VALORANT principal y hasta una
@@ -683,12 +683,12 @@ APPENDIX​                                                                     
 
 
 
-2.11.​   Equipos de una misma organización.
+2.11.   Equipos de una misma organización.
 
          Solo se permitirá competir a un solo equipo de una misma organización, ya sea en la
          región LAN o LAS.
-         ​
-2.12.​   Patrocinios.
+         
+2.12.   Patrocinios.
 
          Se alienta a los equipos, jugadoras y entrenadores(as) a desarrollar relaciones con
          patrocinadores y anunciantes, sujeto a las restricciones establecidas en el acuerdo
@@ -750,54 +750,54 @@ APPENDIX​                                                                     
    puede patrocinar un Equipo de una Organización diferente a través de ellos mismos,
    una conexión directa, otra Organización a la que representen o un apoderado.
 
-2.12.1.​   Categorías de Patrocinios Prohibidos.
+2.12.1.   Categorías de Patrocinios Prohibidos.
 
-              A.​ Videojuegos distintos de VALORANT.
-              B.​ Desarrolladores o editores de videojuegos distintos de Riot Games.
-              C.​ Juegos de consolas.
-              D.​ Esports o competiciones, ligas o eventos para videojuegos distintos
+              A. Videojuegos distintos de VALORANT.
+              B. Desarrolladores o editores de videojuegos distintos de Riot Games.
+              C. Juegos de consolas.
+              D. Esports o competiciones, ligas o eventos para videojuegos distintos
                   de VALORANT.
-              E.​ Otros equipos de esports o cualquier propietario o afiliado de los
+              E. Otros equipos de esports o cualquier propietario o afiliado de los
                   mismos.
-              F.​ Medicamentos.
-              G.​ Armas de fuego, municiones o accesorios de armas.
-              H.​ Pornografía o productos pornográficos.
-              I.​ Productos de tabaco y parafernalia relacionada.
-              J.​ Empresas relacionadas con apuestas y juegos de azar (incluidas
+              F. Medicamentos.
+              G. Armas de fuego, municiones o accesorios de armas.
+              H. Pornografía o productos pornográficos.
+              I. Productos de tabaco y parafernalia relacionada.
+              J. Empresas relacionadas con apuestas y juegos de azar (incluidas
                   casas de apuestas y sitios de apuestas).
-              K.​ Productos     alcohólicos (incluidas bebidas no alcohólicas
+              K. Productos     alcohólicos (incluidas bebidas no alcohólicas
                   comercializadas por empresas de bebidas alcohólicas).
-              L.​ Intoxicantes cuya venta o uso esté regulado.
-              M.​ Vendedores o mercados de bienes virtuales falsificados o ilegales
-              N.​ Operadores de ligas de esports de fantasía.
-              O.​ Campañas políticas o comités de acción política
-              P.​ Organizaciones benéficas que respaldan posiciones religiosas o
+              L. Intoxicantes cuya venta o uso esté regulado.
+              M. Vendedores o mercados de bienes virtuales falsificados o ilegales
+              N. Operadores de ligas de esports de fantasía.
+              O. Campañas políticas o comités de acción política
+              P. Organizaciones benéficas que respaldan posiciones religiosas o
                   políticas.
-              Q.​ Organizaciones benéficas de mala reputación (a modo de ejemplo,
+              Q. Organizaciones benéficas de mala reputación (a modo de ejemplo,
                   las organizaciones benéficas de buena reputación incluyen a la Cruz
                   Roja, Stand-Up to Cancer y otras organizaciones benéficas
                   convencionales similares)
-              R.​ Criptomonedas u otros instrumentos o mercados financieros no
+              R. Criptomonedas u otros instrumentos o mercados financieros no
                   regulados.
-              S.​ Organizaciones que promuevan la discriminación, el odio, la
+              S. Organizaciones que promuevan la discriminación, el odio, la
                   violencia, sexismo, etcétera.
 
-2.12.2.​   Categorías de Patrocinios Prohibidos Internacionalmente
+2.12.2.   Categorías de Patrocinios Prohibidos Internacionalmente
 
-              A.​ Intercambios de criptomonedas
-              B.​ Productos de cerveza y vino
-              C.​ Productos que contienen compuestos derivados del cannabis no
+              A. Intercambios de criptomonedas
+              B. Productos de cerveza y vino
+              C. Productos que contienen compuestos derivados del cannabis no
                   psicoactivos, incluido el cannabidiol (CBD)
 
-2.12.3.​   Cumplimiento de las pautas de la marca.
+2.12.3.   Cumplimiento de las pautas de la marca.
 
            Todo patrocinio, respaldo, publicidad o acuerdos relacionados que celebre un
            Equipo, jugadora o entrenador(a), y todas las transacciones o acciones
            subyacentes realizadas de conformidad con esos acuerdos deberán:
 
-              ●​ Cumplir con los términos de la guía de estilo y marca de VALORANT
+              ● Cumplir con los términos de la guía de estilo y marca de VALORANT
                  vigente en ese momento.
-              ●​ No tener ninguna exclusividad u otra disposición que sea vinculante
+              ● No tener ninguna exclusividad u otra disposición que sea vinculante
                  para Riot, el Circuito Game Changers o cualquier otra persona o
 
 
@@ -811,7 +811,7 @@ APPENDIX​                                                                     
                             entidad (que no sea el Equipo, jugadora o entrenador(a) que celebra
                             el acuerdo).
 
-         2.12.4.​   Decisiones relacionadas a la lista de Categorías de Patrocinios
+         2.12.4.   Decisiones relacionadas a la lista de Categorías de Patrocinios
 
                     Prohibidos.
 
@@ -825,25 +825,25 @@ APPENDIX​                                                                     
                     cualquiera de las categorías de la Lista de Categorías de Patrocinios
                     Prohibidos.
 
-         2.12.5.​   Uso no autorizado de marcas registradas.
+         2.12.5.   Uso no autorizado de marcas registradas.
 
                     Nada en este Conjunto de Reglas de la competencia Game Changers
                     otorga, por implicación, renuncia, impedimento legal o de otro modo, a un
                     equipo, jugadora o entrenador(a) ningún derecho o licencia para usar el
                     nombre VALORANT, o cualquier otra marca comercial, nombre comercial o
-                    logotipo propiedad de o con licencia para Riot o sus afiliados.​
+                    logotipo propiedad de o con licencia para Riot o sus afiliados.
 
                     Cualquier uso no autorizado por parte de un Equipo, jugador o entrenador de
                     una marca comercial, nombre comercial o logotipo propiedad de Riot o sus
                     afiliados o con licencia para ellos está prohibido y se considerará una
-                    infracción de esta regla.​
+                    infracción de esta regla.
 
                     Un Equipo, jugadora o entrenador(a) no puede respaldar ni patrocinar ningún
                     producto o servicio de una manera que pueda hacer creer a las personas
                     que el producto o servicio ha sido respaldado o aprobado por Riot, la LVP o
                     cualquiera de sus respectivos afiliados.
 
-2.13.​      Propiedad de equipos.
+2.13.      Propiedad de equipos.
 
             Se prohíbe que un propietario u operador de un equipo de VALORANT tenga la
             propiedad, el control, o una influencia indebida, sobre más de un equipo que
@@ -854,7 +854,7 @@ APPENDIX​                                                                     
             Equipo Game Changers además de otro segundo Equipo que compita en las Ligas
             VCT o Challengers.
 
-         2.13.1.​   Reconocimiento de propiedad.​
+         2.13.1.   Reconocimiento de propiedad.
 
                     La competencia Circuito Game Changers tendrá derecho a tomar decisiones
                     definitivas y vinculantes con respecto a la propiedad del equipo, cuestiones
@@ -885,7 +885,7 @@ APPENDIX​                                                                     
                  ser claramente indicada por el equipo a los oficiales del Circuito Game
                  Changers y la LVP.
 
-2.14.​   Contrato de jugadoras.
+2.14.   Contrato de jugadoras.
 
          Todas las jugadoras que integran el equipo deberán tener un contrato de manera
          individual por escrito y firmado por ambas partes con el Titular del equipo, en el
@@ -893,16 +893,16 @@ APPENDIX​                                                                     
          equipo y cada una de las jugadoras debe contener como mínimo los siguientes
          puntos:
 
-             ●​ Fecha de inicio y fin del acuerdo.
-             ●​ Cláusula(s) de rescisión de contrato, clara y concisa, así como terminación
+             ● Fecha de inicio y fin del acuerdo.
+             ● Cláusula(s) de rescisión de contrato, clara y concisa, así como terminación
                 anticipada unilateral.
-             ●​ Obligaciones y derechos de las jugadoras de acuerdo con la legislación
+             ● Obligaciones y derechos de las jugadoras de acuerdo con la legislación
                 vigente y naturaleza aplicable.
-             ●​ Nombre y firma del representante Legal del equipo (que haya firmado el
+             ● Nombre y firma del representante Legal del equipo (que haya firmado el
                 Acuerdo de Asociación para participar en el Circuito Game Changers) y
                 jugadora.
 
-2.15.​   Ficha de confirmación de contrato.
+2.15.   Ficha de confirmación de contrato.
 
          Para verificar que las jugadoras están contratadas, el equipo deberá presentar una
          Ficha de Confirmación de Contrato (documento proporcionado por la LVP) por cada
@@ -914,7 +914,7 @@ APPENDIX​                                                                     
          de ningúna jugadora sin la entrega de este documento debidamente lleno y firmado
          por las dos partes.
 
-2.16.​   Eventos de Medios y Patrocinadores.
+2.16.   Eventos de Medios y Patrocinadores.
 
          Cada jugadora acepta participar en entrevistas con los medios, ruedas de prensa,
          sesiones de transmisión, eventos de patrocinadores, sesiones de fotos o videos,
@@ -938,7 +938,7 @@ APPENDIX​                                                                     
                 cualquier jugadora o Equipo que no asista y participe plenamente en cualquier
                 Evento de Medios programado.
 
-      2.17.​    Exclusión de empleados.
+      2.17.    Exclusión de empleados.
 
                 Empleados de LVP o Riot Games no son elegibles para competir, tampoco podrán
                 estar afiliados o ser parte de los equipos participantes. "Afiliado" se define como
@@ -950,11 +950,11 @@ APPENDIX​                                                                     
                 dicha entidad o de otra manera.
 
 
-3.​    Registro y participación.
+3.    Registro y participación.
 
-       3.1.​    Reglas de alineaciones.
+       3.1.    Reglas de alineaciones.
 
-               3.1.1.​   Titulares y suplentes.
+               3.1.1.   Titulares y suplentes.
 
                          Cada equipo debe mantener, en todo momento durante la temporada de
                          Game Changers, un mínimo de cinco jugadoras (“Titulares”) y una suplente
@@ -973,16 +973,16 @@ APPENDIX​                                                                     
                          Game Changers de Latinoamérica con 7 días de anticipación antes del inicio
                          de dicha competencia para que pueda ser aprobado.
 
-               3.1.2.​   Requisitos mínimos de alineación.
+               3.1.2.   Requisitos mínimos de alineación.
 
-                     3.1.2.1.​   Tamaño de la alineación.
+                     3.1.2.1.   Tamaño de la alineación.
 
                                  Se requiere que el equipo mantenga, durante la temporada
                                  competitiva del Circuito Game Changers, una alineación competitiva
                                  total de no menos de seis (6) jugadoras ("Alineación Mínima") (5)
                                  titulares y (1) suplente, y no más de ocho (8) jugadoras, máximo (3)
                                  suplentes (la "Alineación Máxima").
-                                 ​
+                                 
                                  Todas las Titulares, y cualquier Suplente que reemplace a una
                                  Titular, deben ser elegibles para participar en una competición del
                                  Circuito Game Changers. Los equipos deben cumplir con el requisito
@@ -1003,7 +1003,7 @@ APPENDIX​                                                                     
                   que la LVP le dé permiso para caer por debajo del requisito de
                   Alineación Mínima, a su exclusivo criterio.
 
-      3.1.2.2.​   Derecho a avanzar: Stage II
+      3.1.2.2.   Derecho a avanzar: Stage II
 
                   Si un equipo gana el derecho de avanzar al Stage II del Circuito
                   Game Changers, el derecho depende que el equipo retenga al
@@ -1012,7 +1012,7 @@ APPENDIX​                                                                     
 
 
 
-      3.1.2.3.​   Derecho a avanzar: Main Event.
+      3.1.2.3.   Derecho a avanzar: Main Event.
                   Si un equipo gana el derecho de avanzar al Main Event, el derecho
                   depende de que el equipo retenga al menos 3 jugadoras que hayan
                   participado en al menos dos partidos durante el Stage II, excepto en
@@ -1023,7 +1023,7 @@ APPENDIX​                                                                     
                   Event.
 
 
-3.1.3.​   Exclusividad de un solo equipo.
+3.1.3.   Exclusividad de un solo equipo.
 
           No se permitirá que una jugadora o entrenador/a compita para más de un
           equipo al mismo tiempo, y no puede figurar en la alineación de más de un
@@ -1032,7 +1032,7 @@ APPENDIX​                                                                     
           la Excepción de Creadora de Contenido (CC) (definido debajo). Infringir esta
           regla podría resultar en la descalificación de la jugadora y/o equipo.
 
-      3.1.3.1.​   Movilidad entre Game Changers y Challengers.
+      3.1.3.1.   Movilidad entre Game Changers y Challengers.
 
                   Los equipos con alineaciones inclusivas que compiten tanto en el
                   Circuito Game Changers como en la Liga Challengers pueden
@@ -1042,7 +1042,7 @@ APPENDIX​                                                                     
                   no haya conflictos de programación ni de asistencia entre ambas
                   ligas.
 
-3.1.4.​   Excepción de Creadora de Contenido.
+3.1.4.   Excepción de Creadora de Contenido.
 
           Esta excepción a la regla de exclusividad de un solo equipo ("Excepción de
           Creadora de Contenido") tiene como objetivo proporcionar una vía para las
@@ -1070,9 +1070,9 @@ APPENDIX​                                                                     
    pseudo-academia) en las Ligas Game Changers, o permitir que las personas
    compitan en más de un Equipo en las Ligas VCT o Game Changers.
 
-3.1.4.1.​   Criterio de elegibilidad de Creador de Contenido.
+3.1.4.1.   Criterio de elegibilidad de Creador de Contenido.
 
-                ●​ Personas no elegibles.
+                ● Personas no elegibles.
                    Las personas que participen como jugadora, entrenador/a,
                    manager de equipo o analista ("Rol no elegible para
                    excepción") en un equipo en el VCT, Challengers Leagues o
@@ -1082,7 +1082,7 @@ APPENDIX​                                                                     
                    VCT, Ligas Challengers o Ligas Game Changers no son
                    elegibles para la Excepción de Creador de Contenido.
 
-                ●​ Personas elegibles.
+                ● Personas elegibles.
                    Las personas que están afiliadas a una Organización de
                    creadores de contenido en un rol que cumple con todos los
                    siguientes criterios son elegibles para participar en un
@@ -1090,17 +1090,17 @@ APPENDIX​                                                                     
                    VALORANT o sus clasificatorios directos bajo la Excepción
                    de Creadora de Contenido a la regla de Exclusividad de un
                    solo equipo:
-                       ○​ (1) La persona no está afiliada a ninguna
+                       ○ (1) La persona no está afiliada a ninguna
                            organización en un Rol no elegible para excepción
 
-                        ○​ (2) La Organización de creadores de contenido en la
+                        ○ (2) La Organización de creadores de contenido en la
                            que la persona tiene un Rol elegible para excepción
                            no tiene un Equipo en la misma Liga Game
                            Changers de VALORANT que el Equipo de la
                            competencia de la persona.
 
 
-3.1.4.2.​   Restricción de Creadoras de Contenido en alineación.
+3.1.4.2.   Restricción de Creadoras de Contenido en alineación.
 
             Los equipos que compiten en las Ligas Game Changers o sus
             clasificatorios directos pueden incluir cualquier número de jugadoras
@@ -1109,7 +1109,7 @@ APPENDIX​                                                                     
             incluir hasta dos (2) jugadoras y/o entrenadores/as de la misma
             Organización de creadores de contenido dada.
 
-3.1.4.3.​   Restricciones de patrocinios.
+3.1.4.3.   Restricciones de patrocinios.
 
             Mientras participen en una Liga Game Changers o sus clasificatorios
             directos bajo esta excepción, las personas no pueden:
@@ -1124,11 +1124,11 @@ APPENDIX​                                                                     
                                                             LVP, Liga de Videojuegos Profesional
 
 
-                      (1)​ Representar o promover su Organización de creadores de
+                      (1) Representar o promover su Organización de creadores de
                            contenido durante una transmisión del Circuito Game
                            Changers o cualquiera de sus clasificatorios directos, incluso
                            a través del nombre en el juego, vestimenta y/o menciones;
-                      (2)​ Representar o promover a los patrocinadores de la
+                      (2) Representar o promover a los patrocinadores de la
                            Organización de creadores de contenido durante una
                            transmisión del Circuito Game Changers o cualquiera de sus
                            clasificatorios directos.
@@ -1137,31 +1137,31 @@ APPENDIX​                                                                     
                   sus clasificatorios directos bajo esta excepción, las personas tienen
                   expresamente permitido:
 
-                      (1)​ Representar a su Organización creadora de contenido a
+                      (1) Representar a su Organización creadora de contenido a
                            través de las cuentas de redes sociales propias de la
                            persona.
-                      (2)​ Representar a su Organización de creadores de contenido
+                      (2) Representar a su Organización de creadores de contenido
                            fuera de las transmisiones o eventos de medios oficiales de
                            las Ligas Game Changers.
 
-3.1.5.​   Registro de jugadoras.
+3.1.5.   Registro de jugadoras.
 
           Para un registro exitoso, todas las jugadoras del Equipo deberán presentar
           sus respectivos documentos de nacionalidad e identidad y ficha de equipos,
           tal como se menciona en la sección 2.0. Elegibilidad.
 
-              1.​ Formato de elegibilidad firmado en digital.
-              2.​ Ficha de contrato con hoja de firmas.
-              3.​ Identificación oficial con fotografía.
-              4.​ Fotografía tipo selfie sosteniendo el documento de identidad.
-              5.​ Ficha de cuentas.
-              6.​ Ficha de equipo con los datos de la jugadora.
-              7.​ Fotografía de la jugadora según las indicaciones de diseño (deberá
+              1. Formato de elegibilidad firmado en digital.
+              2. Ficha de contrato con hoja de firmas.
+              3. Identificación oficial con fotografía.
+              4. Fotografía tipo selfie sosteniendo el documento de identidad.
+              5. Ficha de cuentas.
+              6. Ficha de equipo con los datos de la jugadora.
+              7. Fotografía de la jugadora según las indicaciones de diseño (deberá
                   ser aprobada por la LVP). (3.1.7. Sesiones fotográficas.)
 
 
 
-      3.1.5.1.​   Periodos de registro.
+      3.1.5.1.   Periodos de registro.
                   Cada equipo contará con un período específico para registrar a sus
                   jugadoras en cada competencia del circuito Game Changers.
                   Durante este período, los equipos deberán confirmar que todas las
@@ -1174,7 +1174,7 @@ APPENDIX​                                                                     
 
                   Fechas de Registro:
 
-                      ●​ Stage I: A partir el sábado 8 de febrero hasta el martes 18
+                      ● Stage I: A partir el sábado 8 de febrero hasta el martes 18
                          de febrero, a las 11:00 PM (hora de México, MX).
 
 
@@ -1187,14 +1187,14 @@ APPENDIX​                                                                     
                                                           LVP, Liga de Videojuegos Profesional
 
 
-                     ●​ Stage II: A partir el sábado 25 de mayo hasta el martes 3 de
+                     ● Stage II: A partir el sábado 25 de mayo hasta el martes 3 de
                         junio, a las 11:00 PM (hora de México, MX).
 
                  Es fundamental que los equipos respeten los plazos de registro para
                  asegurar su participación en las competiciones correspondientes.
 
 
-3.1.6.​   Envío de la Alineación y Registro del Equipo.
+3.1.6.   Envío de la Alineación y Registro del Equipo.
 
           Antes del inicio del Circuito Game Changers cada Equipo debe registrar su
           alineación (incluidas todas las Titulares, las Suplentes, los entrenadores o
@@ -1209,16 +1209,16 @@ APPENDIX​                                                                     
           fotografía tipo selfie sosteniendo el documento de identidad y nacionalidad
           con foto, png del logotipo del equipo).
 
-3.1.7.​   Sesiones fotográficas.
+3.1.7.   Sesiones fotográficas.
 
-             ●​ Fechas: La sesión fotográfica se llevará a cabo entre el 28 de julio y
+             ● Fechas: La sesión fotográfica se llevará a cabo entre el 28 de julio y
                 el 11 de agosto de 2025.
-             ●​ Jugadoras aplicables: Solo podrán participar en la sesión las
+             ● Jugadoras aplicables: Solo podrán participar en la sesión las
                 jugadoras que residan en territorios de LAN o LAS y que estén
                 registradas en el equipo como parte de la Alineación Titular del Main
                 Event.
-             ●​ Número de jugadoras: Se limitará a un máximo de 5 jugadoras.
-             ●​ Condiciones: Si la jugadora no asiste a la sesión fotográfica
+             ● Número de jugadoras: Se limitará a un máximo de 5 jugadoras.
+             ● Condiciones: Si la jugadora no asiste a la sesión fotográfica
                 programada por LVP o reside en el extranjero, el equipo deberá
                 tomar las fotografías correspondientes. Si no se realiza la sesión, la
                 jugadora no podrá ser registrada.
@@ -1248,9 +1248,9 @@ APPENDIX​                                                                     
                                                           LVP, Liga de Videojuegos Profesional
 
 
-3.1.8.​   Cambios en la Alineación.
+3.1.8.   Cambios en la Alineación.
 
-      3.1.8.1.​   Cambios de Jugadoras: Stage I y II
+      3.1.8.1.   Cambios de Jugadoras: Stage I y II
 
                   Durante la temporada, los equipos tendrán la opción de realizar
                   intercambios de jugadoras con otros equipos, firmar nuevas
@@ -1259,12 +1259,12 @@ APPENDIX​                                                                     
                   realizarse utilizando las herramientas y formularios proporcionados
                   por la LVP.
 
-                     ●​ Número de cambios: Cada equipo podrá realizar un
+                     ● Número de cambios: Cada equipo podrá realizar un
                         máximo de tres (3) cambios por cada stage. Es importante
                         destacar que los cambios no son acumulables entre los
                         distintos stages.
 
-                     ●​ Jugadoras obligatorias: Para conservar la puntuación
+                     ● Jugadoras obligatorias: Para conservar la puntuación
                         obtenida, el equipo deberá mantener al menos tres (3)
                         jugadoras que hayan participado en al menos dos (2)
                         partidos oficiales durante la competencia correspondiente.
@@ -1273,26 +1273,26 @@ APPENDIX​                                                                     
                   considerará un cambio, por lo que no será contado dentro del límite
                   de modificaciones permitidas.
 
-      3.1.8.2.​   Requisitos para el Registro de Jugadora
+      3.1.8.2.   Requisitos para el Registro de Jugadora
 
                   Para completar el registro de una jugadora, el equipo deberá
                   presentar la siguiente documentación al menos 48 horas antes del
                   inicio de la hora programada para la siguiente jornada:
 
-                     1.​ Formato de elegibilidad firmado en digital
-                     2.​ Ficha de contrato con hoja de firmas
-                     3.​ Identificación oficial con fotografía
-                     4.​ Fotografía tipo selfie sosteniendo el documento de identidad
-                     5.​ Ficha de cuentas
-                     6.​ Ficha de equipo actualizada con la nueva jugadora
-                     7.​ Fotografía de la jugadora según las indicaciones de diseño
+                     1. Formato de elegibilidad firmado en digital
+                     2. Ficha de contrato con hoja de firmas
+                     3. Identificación oficial con fotografía
+                     4. Fotografía tipo selfie sosteniendo el documento de identidad
+                     5. Ficha de cuentas
+                     6. Ficha de equipo actualizada con la nueva jugadora
+                     7. Fotografía de la jugadora según las indicaciones de diseño
                          (deberá ser aprobada por la LVP). (3.1.7. Sesiones
                          fotográficas.)
 
                   La LVP se reserva el derecho de rechazar cualquier cambio por
                   documentación incompleta o si su fotografía no fue aceptada.
 
-      3.1.8.3.​   Cambios de Entrenadores
+      3.1.8.3.   Cambios de Entrenadores
 
                   Los equipos podrán realizar cambios de entrenadores en cualquier
                   momento durante la competencia, siempre y cuando presenten la
@@ -1309,32 +1309,32 @@ APPENDIX​                                                                     
                                                             LVP, Liga de Videojuegos Profesional
 
 
-       3.1.8.4.​   Requisitos para el Registro de Entrenador
+       3.1.8.4.   Requisitos para el Registro de Entrenador
 
                    Para completar el registro de un entrenador, el equipo deberá
                    presentar la siguiente documentación al menos 48 horas antes del
                    inicio de la hora programada para la siguiente jornada:
 
-                       1.​ Formato de elegibilidad firmado digitalmente
-                       2.​ Ficha de contrato con hoja de firmas
-                       3.​ Identificación oficial con fotografía
-                       4.​ Fotografía tipo selfie sosteniendo el documento de identidad
-                       5.​ Ficha de equipo actualizada con el nuevo entrenador/a
+                       1. Formato de elegibilidad firmado digitalmente
+                       2. Ficha de contrato con hoja de firmas
+                       3. Identificación oficial con fotografía
+                       4. Fotografía tipo selfie sosteniendo el documento de identidad
+                       5. Ficha de equipo actualizada con el nuevo entrenador/a
 
 
- 3.1.9.​   Bloqueo de alineaciones: Main Event.
+ 3.1.9.   Bloqueo de alineaciones: Main Event.
 
-               ●​ La alineación final del Stage I será la misma que deberán mantener
+               ● La alineación final del Stage I será la misma que deberán mantener
                   los equipos que participen en el Closed Qualifier.
 
-               ●​ La alineación final del Stage II (roster lock) será la misma que los
+               ● La alineación final del Stage II (roster lock) será la misma que los
                   equipos clasificados deberán mantener durante el Main Event.
 
-               ●​ La alineación final del Main Event será la misma que deberá
+               ● La alineación final del Main Event será la misma que deberá
                   conservar el equipo clasificado para el Campeonato de Game
                   Changers.
 
-3.1.10.​   Excepciones al bloqueo de alineaciones.
+3.1.10.   Excepciones al bloqueo de alineaciones.
 
            En el caso de una emergencia que provoque que un Equipo no pueda
            presentar a cinco (5) Titulares y (1) Suplente en la alineación del Equipo
@@ -1350,7 +1350,7 @@ APPENDIX​                                                                     
            Cualquier jugadora que compitió como Titular en un Equipo en alguna fase
            del circuito, no es elegible para agregarse a la alineación de un equipo, bajo
            la regla de Excepciones al bloqueo de alineaciones. Esta regla aplica
-           también para entrenadores. ​
+           también para entrenadores. 
 
            En el caso de circunstancias atenuantes, como problemas de visa temporal,
            una suspensión competitiva o una emergencia médica, los requisitos de
@@ -1372,7 +1372,7 @@ APPENDIX​                                                                     
                                                             LVP, Liga de Videojuegos Profesional
 
 
-3.1.11.​   Sustituciones.
+3.1.11.   Sustituciones.
 
            Cualquier sustitución deberá ser entre las jugadoras registradas en la
            alineación del equipo y deberá resultar en el Equipo teniendo una alineación
@@ -1401,7 +1401,7 @@ APPENDIX​                                                                     
            Siempre se deberán mantener en la plantilla 3 jugadoras locales al
            momento de jugar.
 
-3.1.12.​   Excepciones en el Proceso de Sustitución.
+3.1.12.   Excepciones en el Proceso de Sustitución.
 
            En caso de una emergencia durante la partida, si una de las jugadoras
            titulares presenta un problema que califique como una emergencia (según lo
@@ -1411,17 +1411,17 @@ APPENDIX​                                                                     
            solicitar una sustitución de emergencia al oficial del torneo. Dicha solicitud
            será evaluada por la LVP en colaboración con Riot, tomando en
            consideración los siguientes criterios para su aprobación:
-                1.​ El equipo que realiza la solicitud proporciona evidencia que
+                1. El equipo que realiza la solicitud proporciona evidencia que
                     comprueba las situaciones de emergencia que impiden a sus
                     jugadoras ingresar al juego.
-                2.​ La jugadora sustituta cumple con todos los requisitos de elegibilidad
+                2. La jugadora sustituta cumple con todos los requisitos de elegibilidad
                     de la competencia.
-                3.​ La jugadora sustituta ha participado anteriormente con el equipo en
+                3. La jugadora sustituta ha participado anteriormente con el equipo en
                     algún torneo de Valorant Game Changers durante el año en curso.
-                4.​ La jugadora sustituta no se encuentra en la alineación oficial de un
+                4. La jugadora sustituta no se encuentra en la alineación oficial de un
                     equipo del circuito que haya participado en la fase anterior o la
                     misma fase.
-                5.​ La jugadora se encuentra disponible para jugar en ese momento y
+                5. La jugadora se encuentra disponible para jugar en ese momento y
                     posee el Tournament Client correspondiente instalado.
 
 
@@ -1445,7 +1445,7 @@ APPENDIX​                                                                     
            Siempre se deberán mantener en la plantilla tres jugadoras locales al
            momento de jugar.
 
-3.1.13.​   Manager del Equipo.
+3.1.13.   Manager del Equipo.
 
            Cada equipo debe mantener durante toda la competencia, una persona que
            actuará como Manager del equipo. El Manager deberá ser designado
@@ -1460,7 +1460,7 @@ APPENDIX​                                                                     
            El equipo no puede cambiar su Team Manager sin proporcionar un aviso
            previo por escrito a Riot y LVP.
 
-3.1.14.​   Capitana del Equipo.
+3.1.14.   Capitana del Equipo.
 
            Cada equipo debe designar a una jugadora como su capitana al completar el
            proceso de registro ("Capitana del equipo"). En caso de que el Manager del
@@ -1470,12 +1470,12 @@ APPENDIX​                                                                     
            todas las jugadoras del equipo. Deberá ser en todo momento una jugadora
            registrada en la alineación del equipo. Para evitar dudas, la Manager o
            cualquier Propietaria es elegible para servir como la Capitana del Equipo,
-           siempre que ella también sea una jugadora en el Equipo. ​
+           siempre que ella también sea una jugadora en el Equipo. 
 
            Un equipo no puede cambiar a su Capitana de Equipo durante la
            Competencia sin la aprobación previa por escrito de la LVP.
 
-3.1.15.​   Entrenador(a).
+3.1.15.   Entrenador(a).
 
            Si un Equipo tiene más de un entrenador o entrenadora, los Equipos deben
            designar sólo uno de (1) ellos(as) como el o la "Entrenador(a) del partido"
@@ -1497,14 +1497,14 @@ APPENDIX​                                                                     
 
 
                 El o la entrenador(a) del partido puede estar presente en cada partida que
-                participe el Equipo.​
+                participe el Equipo.
 
                 En caso de emergencia, el Equipo puede designar un(a) entrenador(a) de
                 partido interino(a). Si un evento califica o no como una emergencia se
                 determina a la sola discreción de la LVP. El o la entrenador(a) de partido
                 interino(a) puede ser un manager del equipo.
 
-3.2.​   Nombres de jugadoras.
+3.2.   Nombres de jugadoras.
 
         El apodo oficial de una jugadora (Tournament Handle) o Riot ID se seleccionará en el
         momento del registro y no podrá cambiarse en ningún momento sin la aprobación
@@ -1514,13 +1514,13 @@ APPENDIX​                                                                     
 
         Los Riot ID no pueden exceder los 11 caracteres, incluidos los espacios, y pueden
         usar letras mayúsculas, letras minúsculas, dígitos, guiones bajos o espacios simples
-        entre palabras únicamente.​
+        entre palabras únicamente.
 
         Los Riot ID deben ser únicos a nivel mundial. En caso de conflicto, la LVP notificará a
-        los Equipos y solicitará el envío de un nuevo Riot ID.​
+        los Equipos y solicitará el envío de un nuevo Riot ID.
 
         El Riot ID de jugadora no puede incluir ninguna palabra o frase en ningún idioma que
-        sea ofensiva, tóxica o hiriente.​
+        sea ofensiva, tóxica o hiriente.
 
         Un Riot ID no puede incluir la totalidad o parte de un nombre corporativo o hacer uso
         de las marcas registradas u otra propiedad intelectual de Riot, VALORANT o
@@ -1533,7 +1533,7 @@ APPENDIX​                                                                     
         un nombre corporativo o la propiedad intelectual de un tercero en o como parte del
         nombre de una jugadora o Riot ID recaerá sobre la jugadora.
 
-3.3.​   Derecho a rechazar nombres.
+3.3.   Derecho a rechazar nombres.
 
         La LVP se reserva el derecho de rechazar un nombre de equipo o jugadora por
         cualquier motivo y de requerir que la jugadora o equipo seleccione un nombre
@@ -1541,7 +1541,7 @@ APPENDIX​                                                                     
         un equipo o jugadora infractora no cambia su nombre cuando se le solicite, será
         descalificado.
 
-3.4.​   Etiquetas de equipo (Tricodes).
+3.4.   Etiquetas de equipo (Tricodes).
 
         A los equipos se les permitirá agregar una etiqueta de equipo de 2 a 4 caracteres al
         frente del Riot ID de cada jugadora en el Tournament Realm/Servidor de Torneos.
@@ -1558,7 +1558,7 @@ APPENDIX​                                                                     
                                                                   LVP, Liga de Videojuegos Profesional
 
 
-3.5.​   Disponibilidad de viaje.
+3.5.   Disponibilidad de viaje.
 
         Para hasta cinco (5) Titulares, hasta una (1) Suplente, un (1) Entrenador o
         Entrenadora y/o Manager de equipo por Equipo que se haya ganado el derecho a
@@ -1574,35 +1574,35 @@ APPENDIX​                                                                     
         viajes para eventos oficiales de LVP serán cubiertos por la Game Changers bajo
         condiciones específicas:
 
-            ●​ El vuelo de ida y vuelta es desde y hacia la misma ciudad.
-            ●​ Si la jugadora se encuentra en territorio fuera de los límites de
+            ● El vuelo de ida y vuelta es desde y hacia la misma ciudad.
+            ● Si la jugadora se encuentra en territorio fuera de los límites de
                Latinoamérica, el equipo deberá hacerse cargo de los gastos excedentes de
                transporte.
-            ●​ Los vuelos serán comprados en las fechas que LVP decida y no serán
+            ● Los vuelos serán comprados en las fechas que LVP decida y no serán
                negociables.
-            ●​ Los boletos de viaje serán comprados a nombre de las personas registradas
+            ● Los boletos de viaje serán comprados a nombre de las personas registradas
                en la ficha de información del equipo, esto incluye como mínimo a las 5
                Titulares, 1 Suplente y 1 Entrenador, y como máximo se podrá agregar 1
                Manager si la LVP lo requiere. Si el equipo desea llevar más integrantes, los
                gastos correrán por su cuenta.
-            ●​ Una vez comprados los boletos no habrá cambios.
-            ●​ Los equipos que viajan deberán seguir cualquier indicación o medida
+            ● Una vez comprados los boletos no habrá cambios.
+            ● Los equipos que viajan deberán seguir cualquier indicación o medida
                necesaria para cumplir con los protocolos de prevención de COVID-19 que
                indique la LVP.
-            ●​ Los casos de menores de edad que deban viajar serán revisados uno por
+            ● Los casos de menores de edad que deban viajar serán revisados uno por
                uno.
-            ●​ El equipo tiene la responsabilidad de proporcionar puntualmente la
+            ● El equipo tiene la responsabilidad de proporcionar puntualmente la
                información y documentación necesarias para realizar las reservas de
                vuelos, garantizando al mismo tiempo la exactitud de los detalles
                consignados en la ficha de equipo correspondiente.
 
-3.6.​   Propiedad de cuentas.
+3.6.   Propiedad de cuentas.
 
         Las jugadoras deben usar sus propias cuentas de Valorant. Si se descubre que una
         participante está participando en la cuenta de otro jugador o jugadora, la participante
         y/o el equipo podrán ser descalificados inmediatamente.
 
-3.7.​   Formulario de elegibilidad y consentimiento.
+3.7.   Formulario de elegibilidad y consentimiento.
 
         Todas las jugadoras participantes deberán presentar el Formulario Elegibilidad y
         Consentimiento firmado. Cualquier jugadora que no firme este formulario no será
@@ -1619,35 +1619,35 @@ APPENDIX​                                                                     
                                                                          LVP, Liga de Videojuegos Profesional
 
 
-      3.8.​    Verificación de identidad.
+      3.8.    Verificación de identidad.
 
                Antes de cada partida, se pedirá por parte de los árbitros que las jugadoras
                compartan su cámara y su pantalla de ser necesario. Los entrenadores deberán
                compartir su cámara en todo momento, desde la preparación de la partida hasta que
-               termine la serie o mapa. ​
+               termine la serie o mapa. 
 
                En caso de que alguna jugadora Titular no cumpla exitosamente la verificación, no
                podrá jugar la partida y tendrá que ser sustituida por una Suplente que cumpla
                exitosamente la verificación.
 
 
-4.​   Equipamiento y software.
+4.   Equipamiento y software.
 
-      4.1.​    Responsabilidad de la jugadora.
+      4.1.    Responsabilidad de la jugadora.
 
                Se espera que las jugadoras se hagan responsables de su propio equipamiento que,
                se compone pero no se limita a:
-                   A.​ La protección y funcionamiento de su PC.
-                   B.​ Estabilidad de la conexión a Internet.
-                   C.​ Tener instalados los clientes TR y actualizados.
-                   D.​ Rendimiento del juego en su PC.
+                   A. La protección y funcionamiento de su PC.
+                   B. Estabilidad de la conexión a Internet.
+                   C. Tener instalados los clientes TR y actualizados.
+                   D. Rendimiento del juego en su PC.
 
-      4.2.​    Programas de computadora para partidas en línea.
+      4.2.    Programas de computadora para partidas en línea.
 
                Todas las jugadoras deberán tener instalados los siguientes programas ya que serán
                de uso obligatorio.
 
-              4.2.1.​   Clientes de Valorant.
+              4.2.1.   Clientes de Valorant.
 
                         Se utilizarán cuentas TR para la competencia, estas cuentas se entregarán
                         por parte de la LVP a los equipos después de la fecha límite para presentar
@@ -1655,20 +1655,20 @@ APPENDIX​                                                                     
                         Tournament Realm, que serán proporcionados por LVP. Consultar el anexo
                         Descarga e instalación de Tournament Realm/Servidor de Torneos.
 
-              4.2.2.​   Discord (videoconferencia).
+              4.2.2.   Discord (videoconferencia).
 
                         Como método oficial de verificación de identidad por medio de cámara web
                         se usará el sitio web y/o programa (de escritorio o móvil) de Discord para
                         hacer videoconferencia o compartir pantalla.
 
-              4.2.3.​   Discord (chat de voz).
+              4.2.3.   Discord (chat de voz).
 
                         Se les proporcionará un servidor de Discord que será de uso obligatorio
                         durante las partidas oficiales. Los Árbitros pueden escuchar y grabar el audio
                         del equipo a discreción. Será posible contar con otro método de
                         comunicación a conveniencia de la liga.
 
-              4.2.4.​   Programa para grabar pantalla (opcional).
+              4.2.4.   Programa para grabar pantalla (opcional).
 
                         En caso de disputa se requerirá que el equipo proporcione las pruebas
                         necesarias, para esto se recomienda que las jugadoras graben el contenido
@@ -1687,13 +1687,13 @@ APPENDIX​                                                                     
                   pruebas, se tomarán las decisiones basadas únicamente en los elementos
                   que la Liga tenga a su disposición.
 
-4.3.​    Sanciones de Riot Games.
+4.3.    Sanciones de Riot Games.
 
          Aquellas jugadoras que tengan su cuenta de VALORANT baneada o posean alguna
          sanción por parte de Riot Games que les impida participar en torneos de VALORANT
          no podrán participar en la Liga hasta que acabe su sanción.
 
-4.4.​    Área de Combate.
+4.4.    Área de Combate.
 
          El "Área de Combate" es el área que rodea inmediatamente a cualquier PC utilizada
          durante un partido oficial en un evento LAN o en línea de la competencia. En las
@@ -1702,13 +1702,13 @@ APPENDIX​                                                                     
          el Área de Combate está restringida únicamente a las jugadoras de los Equipos que
          participan en el Partido.
 
-        4.4.1.​   Managers de los equipos.
+        4.4.1.   Managers de los equipos.
 
                   Los Managers pueden estar en el Área de Combate durante el proceso de
                   preparación de la partida, pero deben abandonar el área antes de la fase de
                   Selección de agentes y no podrán regresar hasta que finalice.
 
-        4.4.2.​   Entrenadores(as) de los equipos.
+        4.4.2.   Entrenadores(as) de los equipos.
 
                   Para las partidas en línea ("Eventos en línea"), el o la Entrenador(a) del
                   partido del equipo puede estar en el Área de Combate durante el baneo de
@@ -1745,7 +1745,7 @@ APPENDIX​                                                                     
                                                                          LVP, Liga de Videojuegos Profesional
 
 
-              4.4.3.​   Dispositivos inalámbricos.
+              4.4.3.   Dispositivos inalámbricos.
 
                         Los dispositivos inalámbricos, incluidos los teléfonos móviles, las tabletas y
                         los relojes inteligentes, no están permitidos en el Área de Combate mientras
@@ -1759,46 +1759,46 @@ APPENDIX​                                                                     
                         dispositivos fuera del Área de Combate. Esta regla también se aplica a las
                         notas y blocs de notas.
 
-              4.4.4.​   Notas y blocs de notas.
+              4.4.4.   Notas y blocs de notas.
 
                         No se permite a las jugadoras traer ningún material escrito o impreso al Área
                         de Combate durante un Partido. Cualquier material escrito o impreso debe
                         retirarse del Área de Combate antes del comienzo del Partido.
 
-              4.4.5.​   Restricciones de consumibles.
+              4.4.5.   Restricciones de consumibles.
 
-                    4.4.5.1.​   Consumibles permitidos.
+                    4.4.5.1.   Consumibles permitidos.
 
-                                    ●​ Las bebidas están permitidas en el Área de Combate.
+                                    ● Las bebidas están permitidas en el Área de Combate.
                                        Durante los Eventos LAN, las bebidas solo están permitidas
                                        en recipientes resellables aprobados por la LVP. La LVP
                                        proporcionará dichos contenedores a las jugadoras que lo
                                        soliciten o en su defecto, revisará y aprobará o negará el uso
                                        de un contenedor propio de las jugadoras.
-                                    ●​ Se permite mascar chicle en el Área de Combate.
+                                    ● Se permite mascar chicle en el Área de Combate.
 
 
 
-                    4.4.5.2.​   Consumibles no permitidos.
+                    4.4.5.2.   Consumibles no permitidos.
 
-                                    ●​ La comida está prohibida en el Área de Combate.
-                                    ●​ El tabaco y otros productos de nicotina están prohibidos en
+                                    ● La comida está prohibida en el Área de Combate.
+                                    ● El tabaco y otros productos de nicotina están prohibidos en
                                        el Área de Combate.Los equipos no pueden dejar basura ni
                                        chicles dentro del Área de Combate después de la
                                        finalización del Partido.
 
 
 
-5.​   Estructura Circuito Game Changers.
+5.   Estructura Circuito Game Changers.
 
-      5.1.​    Definición de Términos. ​
+      5.1.    Definición de Términos. 
 
-                    A.​ Partida. Una instancia de la competición que se juega hasta que se
+                    A. Partida. Una instancia de la competición que se juega hasta que se
                         determine un ganador por medio de uno de los siguientes métodos, lo que
                         ocurra primero: (a) terminación del objetivo final (ganar 13 rondas o en
                         overtime una diferencia de 2 rondas), (b) rendición de un equipo, (c)
                         abandono de un equipo, o (d) victoria de partida otorgada.
-                    B.​ Serie. Un conjunto de partidas que se juegan hasta que un equipo gana la
+                    B. Serie. Un conjunto de partidas que se juegan hasta que un equipo gana la
                         mayoría del total de las partidas (por ejemplo, ganar dos de tres partidas o
                         ''mejor de tres'').
 
@@ -1811,7 +1811,7 @@ APPENDIX​                                                                     
 
 
 
-5.2.​    Stage I y II.
+5.2.    Stage I y II.
 
          Circuito cerrado contará con la participación de dieciséis equipos, distribuidos por
          regiones: ocho equipos en el grupo Norte y ocho equipos en el grupo Sur.
@@ -1830,7 +1830,7 @@ APPENDIX​                                                                     
          Event.
 
 
-        5.2.1.​   Fase de grupos
+        5.2.1.   Fase de grupos
 
 
                   Esta fase constara de un grupo conformado por ocho equipos. Cada equipo
@@ -1839,25 +1839,25 @@ APPENDIX​                                                                     
                   puntos), los cuatro mejores equipos de cada hemisferio (norte y sur)
                   avanzarán a la etapa de Playoffs.
 
-                         ●​ Modo de juego: Partida personalizada.
-                         ●​ Lado de mapa: El equipo local elegirá cara o cruz antes de hacer
+                         ● Modo de juego: Partida personalizada.
+                         ● Lado de mapa: El equipo local elegirá cara o cruz antes de hacer
                             el conflip, el ganador del coinflip podrá elegir ser equipo A o B.
-                                ○​ Equipo A - banea un mapa
-                                ○​ Equipo B - banea un mapa
-                                ○​ Equipo A - elige mapa 1
-                                ○​ Equipo B - elige lado de mapa 1
-                                ○​ Equipo B - elige mapa 2
-                                ○​ Equipo A - elige lado de mapa 2
-                                ○​ Equipo A - banea un mapa
-                                ○​ Equipo B - banea un mapa
-                                ○​ Mapa 3 - el mapa restante
-                                ○​ Equipo A - elige lado de mapa
-                         ●​ Formato de torneo: Round Robin.
-                         ●​ Formato de series: Al mejor de 3 (Bo3).
-                         ●​ Jugadoras en partida: 5v5
+                                ○ Equipo A - banea un mapa
+                                ○ Equipo B - banea un mapa
+                                ○ Equipo A - elige mapa 1
+                                ○ Equipo B - elige lado de mapa 1
+                                ○ Equipo B - elige mapa 2
+                                ○ Equipo A - elige lado de mapa 2
+                                ○ Equipo A - banea un mapa
+                                ○ Equipo B - banea un mapa
+                                ○ Mapa 3 - el mapa restante
+                                ○ Equipo A - elige lado de mapa
+                         ● Formato de torneo: Round Robin.
+                         ● Formato de series: Al mejor de 3 (Bo3).
+                         ● Jugadoras en partida: 5v5
 
 
-        5.2.2.​   Playoffs.
+        5.2.2.   Playoffs.
 
 
                   Tanto en el Norte como en el Sur, los cuatro mejores equipos de la Fase de
@@ -1877,23 +1877,23 @@ APPENDIX​                                                                     
    final Bo5 entre los mejores equipos.
 
 
-        ●​ Modo de juego: Partida personalizada.
-        ●​ Lado de mapa: El equipo con mejor sembrado o de la parte
+        ● Modo de juego: Partida personalizada.
+        ● Lado de mapa: El equipo con mejor sembrado o de la parte
            superior de la llave elegirá ser Equipo A o B.
-               ○​ Equipo A - banea un mapa
-               ○​ Equipo B - banea un mapa
-               ○​ Equipo A - elige mapa 1
-               ○​ Equipo B - elige lado de mapa 1
-               ○​ Equipo B - elige mapa 2
-               ○​ Equipo A - elige lado de mapa 2
-               ○​ Equipo A - banea un mapa
-               ○​ Equipo B - banea un mapa
-               ○​ Mapa 3 - el mapa restante
-               ○​ Equipo A - elige lado de mapa
-        ●​ Formato de torneo: Doble eliminación.
-        ●​ Formato de series: Al mejor de 3 (Bo3)
-        ●​ Jugadoras en partida: 5v5
-        ●​ Sembrado: Se les otorgará a los equipos el número de sembrado a
+               ○ Equipo A - banea un mapa
+               ○ Equipo B - banea un mapa
+               ○ Equipo A - elige mapa 1
+               ○ Equipo B - elige lado de mapa 1
+               ○ Equipo B - elige mapa 2
+               ○ Equipo A - elige lado de mapa 2
+               ○ Equipo A - banea un mapa
+               ○ Equipo B - banea un mapa
+               ○ Mapa 3 - el mapa restante
+               ○ Equipo A - elige lado de mapa
+        ● Formato de torneo: Doble eliminación.
+        ● Formato de series: Al mejor de 3 (Bo3)
+        ● Jugadoras en partida: 5v5
+        ● Sembrado: Se les otorgará a los equipos el número de sembrado a
            partir de los resultados que hayan tenido en la fase de grupos
            (cantidad de puntos).
 
@@ -1902,7 +1902,7 @@ APPENDIX​                                                                     
 
 
 
-5.2.2.1.​   Gran Final
+5.2.2.1.   Gran Final
 
 
             En cada una de las regiones (Norte y Sur), el equipo que resulte
@@ -1911,11 +1911,11 @@ APPENDIX​                                                                     
             de cinco partidas (Bo5). El equipo que obtenga la victoria en esta
             serie será coronado como campeón del Stage correspondiente.
 
-               ●​ Modo de juego: Partida personalizada.
-               ●​ Lado de mapa: El equipo con mejor sembrado o de la parte
+               ● Modo de juego: Partida personalizada.
+               ● Lado de mapa: El equipo con mejor sembrado o de la parte
                   superior de la llave elegirá ser Equipo A o B.
-                     ○​ El equipo con mejor sembrado banea dos mapas
-                     ○​ El equipo A - elige el Mapa 1
+                     ○ El equipo con mejor sembrado banea dos mapas
+                     ○ El equipo A - elige el Mapa 1
 
 
                                                                                      31
@@ -1925,24 +1925,24 @@ APPENDIX​                                                                     
                                                                       LVP, Liga de Videojuegos Profesional
 
 
-                                         ○​ El equipo B - elige lado para el Mapa 1
-                                         ○​ El equipo B - elige el Mapa 2
-                                         ○​ El equipo A - elige lado para el Mapa 2
-                                         ○​ El equipo A - elige el Mapa 3
-                                         ○​ El equipo B - elige lado para el Mapa 3
-                                         ○​ El equipo B - elige el Mapa 4
-                                         ○​ El equipo A - elige lado para el mapa 4
-                                         ○​ El mapa 5 es el único mapa que queda
-                                         ○​ El equipo B - elige lado para el Mapa 5
-                                ●​    Formato de torneo: Doble eliminación.
-                                ●​    Formato de series: Al mejor de 5 (Bo5).
-                                ●​    Jugadoras en partida: 5v5
-                                ●​    Sembrado: El sembrado será prioritario para el equipo del
+                                         ○ El equipo B - elige lado para el Mapa 1
+                                         ○ El equipo B - elige el Mapa 2
+                                         ○ El equipo A - elige lado para el Mapa 2
+                                         ○ El equipo A - elige el Mapa 3
+                                         ○ El equipo B - elige lado para el Mapa 3
+                                         ○ El equipo B - elige el Mapa 4
+                                         ○ El equipo A - elige lado para el mapa 4
+                                         ○ El mapa 5 es el único mapa que queda
+                                         ○ El equipo B - elige lado para el Mapa 5
+                                ●    Formato de torneo: Doble eliminación.
+                                ●    Formato de series: Al mejor de 5 (Bo5).
+                                ●    Jugadoras en partida: 5v5
+                                ●    Sembrado: El sembrado será prioritario para el equipo del
                                       upper bracket.
 
 
 
-        5.2.3.​     Tabla de puntajes.
+        5.2.3.     Tabla de puntajes.
 
                     Dependiendo de la posición, cada Stage otorgará puntos que serán usados
                     para medir el desempeño, distribuidos de la siguiente manera:
@@ -1969,7 +1969,7 @@ APPENDIX​                                                                     
 
                     Nota: Revisar criterios de desempate para la definición del posicionamiento.
 
-5.3.​    Closed Qualifier
+5.3.    Closed Qualifier
 
          Los equipos que ocupen las posiciones 7 y 8 en la tabla general del Stage I deberán
          enfrentarse a los cuatro (4) equipos provenientes del Open Qualifier II en un torneo
@@ -2011,23 +2011,23 @@ plaza en el Circuito Game Changers 2025 - Stage II. Revisar el punto 5.2.1.2.
 Derecho a avanzar.
 
 
-    ●​ Modo de juego: Partida personalizada.
-    ●​ Lado del mapa: El equipo con mejor sembrado o de la parte superior de la
+    ● Modo de juego: Partida personalizada.
+    ● Lado del mapa: El equipo con mejor sembrado o de la parte superior de la
        llave elegirá ser Equipo A o B.
-            ○​ Equipo A - banea un mapa
-            ○​ Equipo B - banea un mapa
-            ○​ Equipo A - elige mapa 1
-            ○​ Equipo B - elige lado de mapa 1
-            ○​ Equipo B - elige mapa 2
-            ○​ Equipo A - elige lado de mapa 2
-            ○​ Equipo A - banea un mapa
-            ○​ Equipo B - banea un mapa
-            ○​ Mapa 3 - el mapa restante
-            ○​ Equipo A - elige lado de mapa
-    ●​ Formato de torneo: Doble eliminación.
-    ●​ Formato de series: Al mejor de 3 (Bo3).
-    ●​ Jugadoras en Partida: 5v5
-    ●​ Sembrado: Se otorgará número de sembrado según su clasificación en el
+            ○ Equipo A - banea un mapa
+            ○ Equipo B - banea un mapa
+            ○ Equipo A - elige mapa 1
+            ○ Equipo B - elige lado de mapa 1
+            ○ Equipo B - elige mapa 2
+            ○ Equipo A - elige lado de mapa 2
+            ○ Equipo A - banea un mapa
+            ○ Equipo B - banea un mapa
+            ○ Mapa 3 - el mapa restante
+            ○ Equipo A - elige lado de mapa
+    ● Formato de torneo: Doble eliminación.
+    ● Formato de series: Al mejor de 3 (Bo3).
+    ● Jugadoras en Partida: 5v5
+    ● Sembrado: Se otorgará número de sembrado según su clasificación en el
        circuito de participación previa.
 
 
@@ -2045,7 +2045,7 @@ LLAVE CLOSED QUALIFIER
 
 
 
-5.4.​   Main Event.
+5.4.   Main Event.
 
         Los seis (6) equipos con la mayor cantidad de puntos acumulados al finalizar los
         Stage I y II del circuito en cada región, clasificarán al torneo final del año. Estos
@@ -2078,23 +2078,23 @@ LLAVE CLOSED QUALIFIER
         El equipo ganador asegurará su clasificación a la Final Regional, donde competirá
         por un lugar en el Game Changers Championship 2025.
 
-            ●​ Modo de juego: Partida personalizada.
-            ●​ Lado de mapa: El equipo con mejor sembrado o de la parte superior de la
+            ● Modo de juego: Partida personalizada.
+            ● Lado de mapa: El equipo con mejor sembrado o de la parte superior de la
                llave elegirá ser Equipo A o B.
-                    ○​ Equipo A - banea un mapa
-                    ○​ Equipo B - banea un mapa
-                    ○​ Equipo A - elige mapa 1
-                    ○​ Equipo B - elige lado de mapa 1
-                    ○​ Equipo B - elige mapa 2
-                    ○​ Equipo A - elige lado de mapa 2
-                    ○​ Equipo A - banea un mapa
-                    ○​ Equipo B - banea un mapa
-                    ○​ Mapa 3 - el mapa restante
-                    ○​ Equipo A - elige lado de mapa
-            ●​ Formato de torneo: Doble eliminación.
-            ●​ Formato de series: Al mejor de 3 (Bo3).
-            ●​ Jugadoras en partida: 5v5
-            ●​ Sembrado: Se les otorgará a los equipos el número de sembrado de
+                    ○ Equipo A - banea un mapa
+                    ○ Equipo B - banea un mapa
+                    ○ Equipo A - elige mapa 1
+                    ○ Equipo B - elige lado de mapa 1
+                    ○ Equipo B - elige mapa 2
+                    ○ Equipo A - elige lado de mapa 2
+                    ○ Equipo A - banea un mapa
+                    ○ Equipo B - banea un mapa
+                    ○ Mapa 3 - el mapa restante
+                    ○ Equipo A - elige lado de mapa
+            ● Formato de torneo: Doble eliminación.
+            ● Formato de series: Al mejor de 3 (Bo3).
+            ● Jugadoras en partida: 5v5
+            ● Sembrado: Se les otorgará a los equipos el número de sembrado de
                acuerdo a su clasificación
 
         LLAVE MAIN EVENT
@@ -2111,7 +2111,7 @@ LLAVE CLOSED QUALIFIER
 
 
 
-            5.4.1.1.​   Gran Final
+            5.4.1.1.   Gran Final
 
                         En Latinoamérica Norte y Latinoamérica Sur, el equipo ganador del
                         winner bracket y el equipo ganador del loser bracket del Main Event
@@ -2119,27 +2119,27 @@ LLAVE CLOSED QUALIFIER
                         campeones serán los representantes de su región en la Final
                         Regional LATAM 2025.
 
-                           ●​ Modo de juego: Partida personalizada.
-                           ●​ Lado de mapa: El equipo con mejor sembrado o de la parte
+                           ● Modo de juego: Partida personalizada.
+                           ● Lado de mapa: El equipo con mejor sembrado o de la parte
                               superior de la llave elegirá ser Equipo A o B.
-                                 ○​ El equipo con mejor sembrado banea dos mapas
-                                 ○​ El equipo A - elige el Mapa 1
-                                 ○​ El equipo B - elige lado para el Mapa 1
-                                 ○​ El equipo B - elige el Mapa 2
-                                 ○​ El equipo A - elige lado para el Mapa 2
-                                 ○​ El equipo A - elige el Mapa 3
-                                 ○​ El equipo B - elige lado para el Mapa 3
-                                 ○​ El equipo B - elige el Mapa 4
-                                 ○​ El equipo A - elige lado para el mapa 4
-                                 ○​ El mapa 5 es el único mapa que queda
-                                 ○​ El equipo B - elige lado para el Mapa 5
-                           ●​ Formato de torneo: Doble eliminación.
-                           ●​ Formato de series: Al mejor de 5 (Bo5).
-                           ●​ Jugadoras en partida: 5v5
-                           ●​ Sembrado: El sembrado será prioritario para el equipo del
+                                 ○ El equipo con mejor sembrado banea dos mapas
+                                 ○ El equipo A - elige el Mapa 1
+                                 ○ El equipo B - elige lado para el Mapa 1
+                                 ○ El equipo B - elige el Mapa 2
+                                 ○ El equipo A - elige lado para el Mapa 2
+                                 ○ El equipo A - elige el Mapa 3
+                                 ○ El equipo B - elige lado para el Mapa 3
+                                 ○ El equipo B - elige el Mapa 4
+                                 ○ El equipo A - elige lado para el mapa 4
+                                 ○ El mapa 5 es el único mapa que queda
+                                 ○ El equipo B - elige lado para el Mapa 5
+                           ● Formato de torneo: Doble eliminación.
+                           ● Formato de series: Al mejor de 5 (Bo5).
+                           ● Jugadoras en partida: 5v5
+                           ● Sembrado: El sembrado será prioritario para el equipo del
                               upper bracket.
 
-5.5.​   Final Regional LATAM
+5.5.   Final Regional LATAM
 
         El equipo campeón del Main Event de la región Norte y el equipo campeón del Main
         Event de la región Sur se enfrentarán en la Final Regional LATAM, a jugarse de
@@ -2149,7 +2149,7 @@ LLAVE CLOSED QUALIFIER
         campeón de LATAM y será el merecedor a ser representante de la región en el
         VALORANT Game Changers Championship 2025.
 
-           ●​ Modo de juego: Partida personalizada.
+           ● Modo de juego: Partida personalizada.
 
 
                                                                                                  35
@@ -2159,31 +2159,31 @@ LLAVE CLOSED QUALIFIER
                                                                       LVP, Liga de Videojuegos Profesional
 
 
-                 ●​ Lado del mapa: Se definirá al Equipo A mediante un coinflip.
-                        ○​ El equipo A banea un mapa
-                        ○​ El equipo B banea un mapa
-                        ○​ El equipo A - elige el Mapa 1
-                        ○​ El equipo B - elige lado para el Mapa 1
-                        ○​ El equipo B - elige el Mapa 2
-                        ○​ El equipo A - elige lado para el Mapa 2
-                        ○​ El equipo A - elige el Mapa 3
-                        ○​ El equipo B - elige lado para el Mapa 3
-                        ○​ El equipo B - elige el Mapa 4
-                        ○​ El equipo A - elige lado para el mapa 4
-                        ○​ El mapa 5 es el único mapa que queda
-                        ○​ El equipo B - elige lado para el Mapa 5
-                 ●​ Formato de torneo: Serie única.
-                 ●​ Formato de series: Al mejor de 5 (Bo5).
-                 ●​ Jugadoras en Partida: 5v5
+                 ● Lado del mapa: Se definirá al Equipo A mediante un coinflip.
+                        ○ El equipo A banea un mapa
+                        ○ El equipo B banea un mapa
+                        ○ El equipo A - elige el Mapa 1
+                        ○ El equipo B - elige lado para el Mapa 1
+                        ○ El equipo B - elige el Mapa 2
+                        ○ El equipo A - elige lado para el Mapa 2
+                        ○ El equipo A - elige el Mapa 3
+                        ○ El equipo B - elige lado para el Mapa 3
+                        ○ El equipo B - elige el Mapa 4
+                        ○ El equipo A - elige lado para el mapa 4
+                        ○ El mapa 5 es el único mapa que queda
+                        ○ El equipo B - elige lado para el Mapa 5
+                 ● Formato de torneo: Serie única.
+                 ● Formato de series: Al mejor de 5 (Bo5).
+                 ● Jugadoras en Partida: 5v5
 
 
-     5.6.​   Valorant Game Changers 2026
+     5.6.   Valorant Game Changers 2026
 
 
              Los seis equipos que califiquen al Main Event en el año 2025 en su respectiva región,
              serán invitados a participar en Valorant Game Changers 2026.
 
-    5.7.​    Fechas y horarios.
+    5.7.    Fechas y horarios.
 
 
 
@@ -2471,35 +2471,35 @@ NORTE
                                                                         LVP, Liga de Videojuegos Profesional
 
 
-6.​   Proceso de enfrentamientos.
+6.   Proceso de enfrentamientos.
 
-      6.1.​   Cambio de horarios y calendarios.
+      6.1.   Cambio de horarios y calendarios.
 
               La LVP puede reorganizar el horario y/o fecha de una partida a su consideración. En
               caso de que se haga alguna modificación se notificará a todos los equipos a la mayor
               brevedad posible por medio del fixture y los medios de comunicación oficial.
 
-      6.2.​   Verificaciones de identidad.
+      6.2.   Verificaciones de identidad.
 
               Tal como se menciona en la sección 3.8. Verificaciones de identidad, los árbitros del
               Circuito Game Changers realizarán verificaciones de identidad antes de cada serie.
               Se pedirá a las jugadoras que compartan su cámara y pantalla para verificar su
               identidad, también se podrá pedir que compartan su pantalla de juego para
-              monitorear la partida. ​
+              monitorear la partida. 
 
-              ​
+              
               Los entrenadores deberán mantener su cámara encendida en todo momento, desde
               el inicio de la preparación de la partida hasta la finalización de la serie o mapa.En
               caso de ser necesario, se podrá requerir que el entrenador comparta su pantalla.
-              ​
+              
               Si un entrenador no enciende su cámara durante la partida, no estará autorizado
-              para intervenir ni hablar durante las pausas técnicas.​
+              para intervenir ni hablar durante las pausas técnicas.
 
               En caso de que alguna jugadora Titular no cumpla exitosamente la verificación, no
               podrá jugar la partida y tendrá que ser sustituida por una Suplente que cumpla
               exitosamente la verificación.
 
-      6.3.​   Fixture.
+      6.3.   Fixture.
 
               Antes del inicio de la competencia, se proporcionará a los equipos un documento
               Fixture que concentra toda la información de las partidas con fechas, horas,
@@ -2507,20 +2507,20 @@ NORTE
               contenido de este documento es oficial, y será la principal fuente de información
               actualizable que podrán consultar los equipos durante la duración de la temporada.
 
-      6.4.​   Verificación de alineación y baneo de mapas.
+      6.4.   Verificación de alineación y baneo de mapas.
 
 
               La confirmación de las alineaciones se realizará a través de la plataforma Discord,
               coincidiendo con el momento del baneo de mapas. El baneo de mapas se llevará a
               cabo a las siguientes horas:
 
-                  ●​ Región sur:
-                        ○​ Primer serie: 2:00 PM, hora de Argentina
-                        ○​ Segunda serie: 4:30 PM hora de Argentina​
+                  ● Región sur:
+                        ○ Primer serie: 2:00 PM, hora de Argentina
+                        ○ Segunda serie: 4:30 PM hora de Argentina
 
-                  ●​ Región norte:
-                        ○​ Primera serie: 2:00 PM, hora de México
-                        ○​ Segunda serie: 4:30 PM, hora de México​
+                  ● Región norte:
+                        ○ Primera serie: 2:00 PM, hora de México
+                        ○ Segunda serie: 4:30 PM, hora de México
 
               Es importante señalar que la LVP (Liga de Videojuegos Profesional) se reserva el
               derecho de modificar el orden y horario de las regiones, con un aviso previo de al
@@ -2536,7 +2536,7 @@ NORTE
 
 
 
-6.5.​    Calendario.
+6.5.    Calendario.
 
          En el Fixture compartido por LVP aparecerán tanto las fechas como horas exactas
          para que los equipos estén presentes en Discord y en la sala de juego del servidor
@@ -2545,11 +2545,11 @@ NORTE
          Horario de llegada. La serie del Norte se jugará en cuanto termine la serie del Sur o
          viceversa.
 
-6.6.​    Puntualidad.
+6.6.    Puntualidad.
 
          Las jugadoras y entrenadores(as) que participen en un Partido oficial deben estar
          completamente listos en el lobby del juego respectivo a más tardar a la hora
-         especificada por la LVP en el fixture de la Liga.​
+         especificada por la LVP en el fixture de la Liga.
 
          Si un Equipo no está completamente listo en los tiempos especificados, se puede
          aplicar una Acción Disciplinaria.
@@ -2564,12 +2564,12 @@ NORTE
          Equipos y la LVP. Los oficiales del torneo comunicarán la fecha exacta del partido lo
          antes posible.
 
-        6.6.1.​   Horario de llegada.
+        6.6.1.   Horario de llegada.
 
                   La citación para los Equipos será a la hora indicada en el fixture
                   dependiendo de la región (LAN/LAS).
 
-        6.6.2.​   Amonestaciones por retardos.
+        6.6.2.   Amonestaciones por retardos.
 
                   En caso de que se cumplan 10 minutos después de la Hora de Inicio y el
                   equipo aún está incompleto o no esté presente en la sala de juego, al ser
@@ -2579,14 +2579,14 @@ NORTE
                   por mapa), teniendo un máximo de 20 minutos para que el equipo esté listo
                   para jugar.
 
-6.7.​    Parche de juego.
+6.7.    Parche de juego.
 
          Se jugará en el parche que se indique en el fixture, deberán pasar al menos dos
          semanas desde el lanzamiento del parche en el servidor público para poder usar ese
          parche. Los cambios en el parche competitivo y la disponibilidad de agentes
          quedarán a discreción del Circuito Game Changers.
 
-        6.7.1.​   Agentes nuevos.
+        6.7.1.   Agentes nuevos.
 
                   Se restringirán automáticamente durante dos semanas a partir de su
                   lanzamiento en la cola competitiva. Ejemplo: el “Agente A” se lanzó el 5 de
@@ -2603,7 +2603,7 @@ NORTE
                   Partidos el 19 de febrero. El periodo de tiempo para poder usar un agente
                   nuevo podrá cambiar a discreción de la LVP.
 
-        6.7.2.​   Mapas nuevos.
+        6.7.2.   Mapas nuevos.
 
                   Se restringirán automáticamente durante cuatro semanas a partir de su
                   lanzamiento en la cola en vivo. Ejemplo: el “Mapa A” se lanzó el 1 de enero,
@@ -2611,7 +2611,7 @@ NORTE
                   de enero. El periodo de tiempo para jugar en un mapa nuevo podrá cambiar
                   a discreción de la LVP.
 
-        6.7.3.​   Restricciones adicionales.
+        6.7.3.   Restricciones adicionales.
 
                   Restricciones adicionales (por ejemplo, deshabilitar ciertas armas) pueden
                   ser agregadas por Riot o la LVP en cualquier momento antes o durante un
@@ -2620,7 +2620,7 @@ NORTE
                   períodos de tiempo más prolongados a discreción de los Oficiales del
                   Torneo.
 
-6.8.​    Cuentas de juego.
+6.8.    Cuentas de juego.
 
          Riot y/o la LVP proporcionarán cuentas de TR a las jugadoras (“Tournament Realm
          Accounts”/"Cuentas del Servidor de Torneos"). Es responsabilidad de las jugadoras
@@ -2662,22 +2662,22 @@ NORTE
                                                                    LVP, Liga de Videojuegos Profesional
 
 
- 6.9.​   Configuraciones del juego.
+ 6.9.   Configuraciones del juego.
 
          De manera obligatoria, se requerirá que todas las jugadoras tengan la configuración
          del juego para sangre y cuerpos desactivada. En el caso de que alguna jugadora los
          tenga activados una vez iniciada la partida, esta se pausará inmediatamente y la
          jugadora deberá desactivarlos. Infringir esta regla podría resultar en una Acción
-         Disciplinaria.​
+         Disciplinaria.
 
          Los títulos y gun buddies que se otorgan por ganar un evento, incluyendo los
          campeones de Masters, Champions y Game Changers, solo pueden ser equipados
-         por jugadoras(es) que hayan obtenido esos títulos y gun buddies. ​
+         por jugadoras(es) que hayan obtenido esos títulos y gun buddies. 
 
          Los rastreadores de texto y gráficos de FPS/Latencia deben estar desactivados
          durante el juego.
 
-6.10.​   Configuración previa al partido.
+6.10.   Configuración previa al partido.
 
          Las jugadoras tendrán bloques de tiempo designados antes de la hora de su Partido
          para asegurarse de que estén completamente preparadas. Los Oficiales del Torneo
@@ -2687,16 +2687,16 @@ NORTE
          preparación ha comenzado una vez que las jugadoras ingresan al Área de Combate,
          momento en el cual no se les permite salir sin el permiso de un oficial del torneo.
 
-         La configuración consiste en lo siguiente:​
+         La configuración consiste en lo siguiente:
 
-             ●​ Confirmar la precisión del nombre de la Cuenta del Servidor de Torneos.
-             ●​ Garantizar la función de trabajo de todo su equipamiento, conexión de red y
+             ● Confirmar la precisión del nombre de la Cuenta del Servidor de Torneos.
+             ● Garantizar la función de trabajo de todo su equipamiento, conexión de red y
                 protección DDOS.
-             ●​ Conexión y calibración de periféricos.
-             ●​ Garantizar el correcto funcionamiento del sistema de chat de voz, discord.
-             ●​ Selección de skins.
-             ●​ Ajustar la configuración del juego.
-             ●​ Calentamiento limitado en el juego.​
+             ● Conexión y calibración de periféricos.
+             ● Garantizar el correcto funcionamiento del sistema de chat de voz, discord.
+             ● Selección de skins.
+             ● Ajustar la configuración del juego.
+             ● Calentamiento limitado en el juego.
 
          Si una jugadora encuentra algún problema técnico con su equipamiento durante
          cualquier fase del proceso de configuración, la jugadora debe notificar a un Oficial
@@ -2708,7 +2708,7 @@ NORTE
          permitidas a su Equipo por reglamento a menos que los Oficiales del Torneo lo
          permitan.
 
-6.11.​   Estatus de jugadora lista y creación de la sala de juego.
+6.11.   Estatus de jugadora lista y creación de la sala de juego.
 
          Se espera que las jugadoras resuelvan cualquier problema con el proceso de
          configuración dentro del tiempo asignado y que el Partido comience a la hora
@@ -2738,20 +2738,20 @@ NORTE
          de juego y un árbitro indicará a las jugadoras que se unan tan pronto como se hayan
          completado las pruebas de la sala.
 
-6.12.​   Soporte técnico.
+6.12.   Soporte técnico.
 
          Los Árbitros estarán disponibles para ayudar con el proceso de preparación y
          resolución de problemas de cualquier asunto que surja durante la partida, siempre y
          cuando esté dentro de sus posibilidades.
 
-6.13.​   Obligaciones con medios de comunicación y transmisión de la LVP.
+6.13.   Obligaciones con medios de comunicación y transmisión de la LVP.
 
          En los casos que la LVP lo requiera, los equipos deberán designar a un vocero oficial
          y poner a disposición de los medios de comunicación y durante un mínimo de 15
          minutos, al menos a una jugadora que tenga la intención de jugar cualquier Partida
          ese día. Si una jugadora ha jugado al menos 2 partidas en el Circuito Game
          Changers 2025, se requerirá que la jugadora se haya puesto a disposición de los
-         medios de comunicación al menos una vez durante el torneo. ​
+         medios de comunicación al menos una vez durante el torneo. 
 
          Un equipo no puede poner a disposición de los medios de comunicación a la misma
          jugadora durante 4 días de partidas o series consecutivas.
@@ -2760,7 +2760,7 @@ NORTE
          entre otras: apariciones en los medios, entrevistas o discusiones adicionales sobre
          cualquier asunto de la Partida o la Serie.
 
-6.14.​   Configuración de la sala de juego.
+6.14.   Configuración de la sala de juego.
 
          La sala de juego oficial del Partido se establecerá en el modo "Torneo" con "Tiempo
          extra: Gana por dos" activado y con los siguientes ajustes generales:
@@ -2772,7 +2772,7 @@ NORTE
                   Servidor:                 Miami o Santiago
 
 
-6.15.​   Servidor de juego.
+6.15.   Servidor de juego.
 
 
          Por defecto, las partidas se jugarán en el servidor de Miami para la región LAN y en
@@ -2790,7 +2790,7 @@ NORTE
          CDMX o Chicago. Este acuerdo deberá ser realizado a través de Discord, con la
          presencia de un árbitro para su validación.
 
-6.16.​   Selección de Agentes e inicio de partida.
+6.16.   Selección de Agentes e inicio de partida.
 
          Una vez que haya comenzado la selección de agente, las jugadoras tendrán 85
          segundos para elegir a su agente, con ambos equipos eligiendo simultáneamente.
@@ -2804,11 +2804,11 @@ NORTE
          después de que haya expirado el tiempo o de que el equipo enemigo haya
          seleccionado, el proceso de selección de agente erróneo será considerado
          irrevocable, no se reiniciará y la jugadora deberá seguir jugando. No se permitirán
-         reinicios por error mecánico de las jugadoras.​
+         reinicios por error mecánico de las jugadoras.
 
          En caso de no haber evidencias suficientes de error del juego, el proceso se
          reiniciará y empezará después de la selección errónea, es decir, el equipo deberá
-         elegir el mismo agente.​
+         elegir el mismo agente.
 
          Una partida comenzará inmediatamente después de que se complete el proceso de
          selección de agente/mapa, a menos que un oficial del torneo indique lo contrario.
@@ -2817,7 +2817,7 @@ NORTE
          de las selecciones/bloqueos y el lanzamiento del Mapa, también conocido como
          "Tiempo libre".
 
-6.17.​   Inicio controlado del partido.
+6.17.   Inicio controlado del partido.
 
          En el caso de un error en el inicio del Partido o una decisión de los Oficiales del
          Torneo de separar el proceso de selección de agentes del inicio del Partido, un
@@ -2825,7 +2825,7 @@ NORTE
          agentes se seleccionarán de acuerdo con el anterior proceso de
          selección/prohibición válido.
 
-6.18.​   Carga lenta del cliente.
+6.18.   Carga lenta del cliente.
 
          Si se produce un bloqueo del juego, una desconexión o cualquier otra falla que
          interrumpa el proceso de carga e impida que una jugadora se una a una Partida
@@ -2834,7 +2834,7 @@ NORTE
          minutos, una vez completados, se empezará a usar el tiempo reglamentario de
          pausa del Equipo.
 
-6.19.​   Restricciones en elementos del juego.
+6.19.   Restricciones en elementos del juego.
 
          Se pueden agregar restricciones en cualquier momento antes o durante una Partida,
          si hay errores conocidos o sospechados con los Agentes, aspectos o mapas, o por
@@ -2850,24 +2850,24 @@ NORTE
                                                                        LVP, Liga de Videojuegos Profesional
 
 
-      6.20.​   Comunicación.
+      6.20.   Comunicación.
 
                La comunicación durante las partidas solo se puede llevar a cabo mediante los
                canales permitidos, ya sea el chat de juego o discord.
 
-      6.21.​   Comunicación por voz durante el partido.
+      6.21.   Comunicación por voz durante el partido.
 
                LVP podrá grabar y almacenar todas las comunicaciones por voz de ambos equipos
                durante sus partidos.
 
-      6.22.​   Penalización por cambio de alineación presentada a la LVP.
+      6.22.   Penalización por cambio de alineación presentada a la LVP.
 
                Al presentarse a jugar con una jugadora no mencionada en la alineación del primer
                mapa, el equipo perderá el ban del primer mapa en la siguiente jornada. Al
                presentarse con dos jugadoras fuera de la alineación perderán la elección de lado
                del primer o segundo mapa según corresponda.
 
-      6.23.​   Transmisión.
+      6.23.   Transmisión.
 
                No se permitirá que ningún miembro de los equipos (entrenadores, managers, CEO,
                dueños de equipo o jugadoras) transmita al mismo tiempo que ocurren las
@@ -2876,10 +2876,10 @@ NORTE
                los canales tradicionales de VALORANT Esports Latinoamérica, y su cobertura podrá
                seguirse desde la cuenta principal de esports de VALORANT en LATAM:
 
-                  A.​ Twitter: https://twitter.com/valesports_la
-                  B.​ Instagram: https://www.instagram.com/valesports_la/​
+                  A. Twitter: https://twitter.com/valesports_la
+                  B. Instagram: https://www.instagram.com/valesports_la/
 
-      6.24.​   Fallo de servidor.
+      6.24.   Fallo de servidor.
 
                En el caso extremo de que ocurra un imprevisto con los servidores de juego y no se
                pueda continuar jugando, si la partida ha superado el minuto 20:00, un árbitro podrá
@@ -2887,21 +2887,21 @@ NORTE
                evitar la derrota con una certeza razonable. Los siguientes criterios pueden ser
                utilizados para tomar la decisión:
 
-                  A.​ Diferencia de rondas: el equipo que tenga el mayor número de rondas
+                  A. Diferencia de rondas: el equipo que tenga el mayor número de rondas
                       ganadas.
-                  B.​ Diferencia de créditos: el equipos que tenga mayor número de créditos
+                  B. Diferencia de créditos: el equipos que tenga mayor número de créditos
                       (economía).
 
 
 
-7.​    Proceso posterior al partido.
+7.    Proceso posterior al partido.
 
-       7.1.​   Resultados.
+       7.1.   Resultados.
 
                Los Oficiales de Game Changers confirmarán y registrarán el resultado del Partido
                en el Fixture y en la página oficial de Game Changers.
 
-       7.2.​   Entre mapas.
+       7.2.   Entre mapas.
 
                Los Oficiales de Game Changers informarán a las jugadoras sobre la cantidad de
                tiempo restante antes del próximo Mapa del Partido, si corresponde. Para los
@@ -2925,7 +2925,7 @@ NORTE
          hayan confirmado a un Árbitro que todas las jugadoras están listas para jugar y, en
          los eventos, en sus asientos.
 
-7.3.​    Entre Series
+7.3.    Entre Series
 
          Para eventos en línea, el tiempo estándar para la transición entre Series es de 10
          minutos desde el momento de la última ronda de la serie anterior hasta que las
@@ -2939,7 +2939,7 @@ NORTE
          asientos (si corresponde) a la hora designada por los Árbitros, el Equipo podrá ser
          sancionado por retraso del Juego.
 
-7.4.​    Obligaciones posteriores al partido.
+7.4.    Obligaciones posteriores al partido.
 
          Los Equipos deberán poner a disposición de la LVP, durante un mínimo de diez (10)
          minutos, a cualquier jugadora, manager o entrenador/a del equipo ganador. El
@@ -2952,19 +2952,19 @@ NORTE
          discusiones adicionales sobre cualquier asunto de la Partida o Serie. Las jugadoras
          deben cumplir con estas obligaciones posteriores al partido.
 
-7.5.​    Resultados por abandono.
+7.5.    Resultados por abandono.
 
          Los partidos ganados por incomparecencia se informarán según el puntaje mínimo
          que le tomaría a un equipo ganar el partido (por ejemplo, 1-0 para el mejor de uno,
          2-0 para el mejor de tres, 3-0 para los mejor de cinco). No se registrarán otras
          estadísticas para los Partidos ganados por abandono como el número de rondas.
 
-7.6.​    Desempates para Stage I y II.
+7.6.    Desempates para Stage I y II.
 
          Se usará el siguiente proceso de desempate para determinar quién avanza a
          playoffs.
 
-        7.6.1.​   Proceso de desempate.
+        7.6.1.   Proceso de desempate.
 
                   Empate entre dos equipos:
 
@@ -2978,10 +2978,10 @@ NORTE
                                                                   LVP, Liga de Videojuegos Profesional
 
 
-                     (1)​ Resultado directo: resultado de la serie entre ambos equipos, equipo
+                     (1) Resultado directo: resultado de la serie entre ambos equipos, equipo
                           ganador de la serie.
 
-        7.6.2.​   Proceso de desempate entre 3 o más equipos.
+        7.6.2.   Proceso de desempate entre 3 o más equipos.
 
                   El siguiente orden de criterios se aplicará en caso de que haya un empate
                   entre tres o más equipos, hasta que solo queden dos equipos empatados.
@@ -2990,13 +2990,13 @@ NORTE
                   obtenido la victoria en la serie donde se enfrentaron durante la fase de
                   grupos.
 
-                     (1)​ Mayor número de series ganadas entre los equipos empatados.
-                     (2)​ Diferencia de mapas de la fase de grupos (Mapas ganados menos
+                     (1) Mayor número de series ganadas entre los equipos empatados.
+                     (2) Diferencia de mapas de la fase de grupos (Mapas ganados menos
                           mapas perdidos).
-                     (3)​ Diferencia de rondas de la fase de grupos (Rondas ganadas menos
+                     (3) Diferencia de rondas de la fase de grupos (Rondas ganadas menos
                           rondas perdidas).
-                     (4)​ Mapas ganados durante fase de grupos.
-                     (5)​ Rondas ganadas durante fase de grupos.
+                     (4) Mapas ganados durante fase de grupos.
+                     (5) Rondas ganadas durante fase de grupos.
 
                   En el caso de que sigan existiendo tres o más equipos empatados después
                   de aplicar estos criterios, se llevará a cabo un Round Robin con estos
@@ -3006,7 +3006,7 @@ NORTE
                   continuarán aplicándose en caso de que persistan los empates. Este Round
                   Robin se repetirá hasta que se resuelva el desempate.
 
-7.7.​     Criterios de Posicionamiento: Tabla general
+7.7.     Criterios de Posicionamiento: Tabla general
 
                   La puntuación asignada a cada equipo por stage se basará en su
                   clasificación al finalizar dicho stage. Los cuatro primeros lugares
@@ -3015,7 +3015,7 @@ NORTE
                   ubicados en la quinta posición en adelante serán asignados de acuerdo con
                   su posicionamiento final durante la fase de grupos
 
-7.8.​    Desempates clasificación a Main Event
+7.8.    Desempates clasificación a Main Event
 
 
                   Se usará el siguiente proceso de desempate para determinar quién obtiene
@@ -3028,11 +3028,11 @@ NORTE
 
                   Empate entre dos equipos:
 
-                     ●​ Resultado directo: resultado de la series entre ambos equipos,
+                     ● Resultado directo: resultado de la series entre ambos equipos,
                         equipo ganador del mayor número de series.
-                     ●​ Diferencia de mapas entre las series de ambos equipos (Mapas
+                     ● Diferencia de mapas entre las series de ambos equipos (Mapas
                         ganados menos mapas perdidos).
-                     ●​ Diferencia de rondas entre las series de ambos equipos (Rondas
+                     ● Diferencia de rondas entre las series de ambos equipos (Rondas
                         ganadas menos rondas perdidas).
 
 
@@ -3046,13 +3046,13 @@ NORTE
 
                         Empate entre tres o más equipos:
 
-                           ●​ Mayor número de series ganadas entre los equipos empatados.
-                           ●​ Diferencia de mapas de ambos Stages (Mapas ganados menos
+                           ● Mayor número de series ganadas entre los equipos empatados.
+                           ● Diferencia de mapas de ambos Stages (Mapas ganados menos
                               mapas perdidos).
-                           ●​ Diferencia de rondas de ambos Stages (Rondas ganadas menos
+                           ● Diferencia de rondas de ambos Stages (Rondas ganadas menos
                               rondas perdidas).
-                           ●​ Mapas ganados del split.
-                           ●​ Rondas ganadas del split.
+                           ● Mapas ganados del split.
+                           ● Rondas ganadas del split.
 
                         En caso de que persista el empate entre los equipos después de aplicar los
                         criterios anteriores, se llevará a cabo un sorteo para determinar el
@@ -3060,7 +3060,7 @@ NORTE
                         justa y equitativa de las posiciones correspondientes.
 
 
-      7.9.​    Reportes de incumplimientos de reglas.
+      7.9.    Reportes de incumplimientos de reglas.
 
                Si se acusa a algún Equipo de incumplir alguna de las reglas establecidas o de
                realizar algún tipo de trampa durante las fases de la Liga, se deberá presentar el
@@ -3068,18 +3068,18 @@ NORTE
                esports.val@lvp.global
 
 
-8.​   Pausas.
+8.   Pausas.
 
-      8.1.​    Pausa técnica.
+      8.1.    Pausa técnica.
 
-              8.1.1.​   Solicitud de Pausa Técnica
+              8.1.1.   Solicitud de Pausa Técnica
 
                         En caso de que una jugadora enfrente un problema que le impida continuar
                         jugando, deberá notificarlo a un árbitro de su partida y solicitar una pausa
                         técnica. La jugadora deberá anunciar el motivo de la pausa antes o
                         inmediatamente después de solicitarla.
 
-              8.1.2.​   Restricciones Durante la Pausa Técnica
+              8.1.2.   Restricciones Durante la Pausa Técnica
 
                         Durante una pausa técnica, se prohíbe a las jugadoras controlar a su agente.
                         Queda estrictamente prohibida cualquier comunicación de texto y voz entre
@@ -3087,18 +3087,18 @@ NORTE
                         específicamente.
 
 
-              8.1.3.​   Duración de la Pausa Técnica
+              8.1.3.   Duración de la Pausa Técnica
 
 
                         Cada equipo dispondrá de un tiempo máximo de diez (10) minutos de pausa
                         técnica por mapa.
-                            ●​ Suspensión del juego (Retraso esperado: 5 minutos) Ejemplos: la
+                            ● Suspensión del juego (Retraso esperado: 5 minutos) Ejemplos: la
                                 jugadora se desconectó del juego, el monitor se apagó, la
                                 computadora se congeló durante más de 3 segundos (menos tiempo
                                 podría clasificarse como una verificación del equipo), cualquier
                                 programa se bloqueó durante el juego, etc.
 
-                           ●​ Comprobación de equipos (Retraso esperado: 3-5 minutos)
+                           ● Comprobación de equipos (Retraso esperado: 3-5 minutos)
                               Ejemplos: la batería del mouse se agotó, el periférico dejó de
 
 
@@ -3113,7 +3113,7 @@ NORTE
                         funcionar, el audio se interrumpió, la configuración se restableció
                         repentinamente, etc.
 
-8.2.​   Procedimiento en caso de agotamiento del tiempo de Pausa Técnica.
+8.2.   Procedimiento en caso de agotamiento del tiempo de Pausa Técnica.
 
 
         En caso de que un equipo haya agotado la totalidad del tiempo correspondiente a su
@@ -3146,7 +3146,7 @@ NORTE
 
 
 
-8.3.​   Pausa táctica / tiempos fuera.
+8.3.   Pausa táctica / tiempos fuera.
 
 
         Los equipos pueden pedir pausa táctica de sesenta (60) segundos de duración
@@ -3174,7 +3174,7 @@ NORTE
                                                                            LVP, Liga de Videojuegos Profesional
 
 
-              8.3.1.​   Entre tiempo.
+              8.3.1.   Entre tiempo.
 
 
                         En el cambio de lado de cada mapa, se otorgará una pausa de un minuto y
@@ -3183,7 +3183,7 @@ NORTE
                         movimientos con sus agentes.
 
 
-      8.4.​    Pausa de emergencia.
+      8.4.    Pausa de emergencia.
 
 
                A los equipos se les otorgará un máximo de una (1) pausa por una situación de
@@ -3207,10 +3207,10 @@ NORTE
                que no sean de emergencia.
 
 
-9.​   Reglas adicionales para eventos en línea.
+9.   Reglas adicionales para eventos en línea.
 
 
-      9.1.​    Slot de Entrenador(a) en el cliente de VALORANT.
+      9.1.    Slot de Entrenador(a) en el cliente de VALORANT.
 
 
                Con el fin de asegurar y proteger la integridad competitiva de los eventos en línea en
@@ -3223,7 +3223,7 @@ NORTE
                línea.
 
 
-      9.2.​    Comunicaciones del partido.
+      9.2.    Comunicaciones del partido.
 
 
                Las jugadoras y entrenadores en un partido en curso de un evento en línea sólo se
@@ -3254,23 +3254,23 @@ NORTE
  comunicarse en la forma autorizada por los Oficiales de Game Changers.
 
 
-9.2.1.​   Comunicaciones permitidas.
+9.2.1.   Comunicaciones permitidas.
 
 
           Se permitirán los siguientes tipos de comunicaciones en un partido en curso
           de un evento:
 
-             ●​ Comunicación por voz o chat entre jugadoras del mismo equipo.
-             ●​ Comunicación de voz o chat entre el entrenador y las jugadoras del
+             ● Comunicación por voz o chat entre jugadoras del mismo equipo.
+             ● Comunicación de voz o chat entre el entrenador y las jugadoras del
                 mismo equipo durante el proceso de selección de mapa y agente
                 para cada partido, tiempos muertos, medios tiempos y entre mapas
                 (si corresponde).
-             ●​ Cualquier comunicación con los Oficiales de Game Changers.
-             ●​ Cualquier comunicación que haya sido expresamente autorizada por
+             ● Cualquier comunicación con los Oficiales de Game Changers.
+             ● Cualquier comunicación que haya sido expresamente autorizada por
                 un Oficial de Game Changers.
 
 
-9.2.2.​   Comunicaciones no permitidas.
+9.2.2.   Comunicaciones no permitidas.
 
 
           Cualquier comunicación con cualquier persona fuera del Partido en curso del
@@ -3280,7 +3280,7 @@ NORTE
           corresponde).
 
 
-9.2.3.​   Autorización de comunicación en partidos.
+9.2.3.   Autorización de comunicación en partidos.
 
 
           Las jugadoras y entrenadores están obligados a obtener la autorización de
@@ -3288,7 +3288,7 @@ NORTE
           cualquier persona que no esté permitida en el partido.
 
 
-9.2.4.​   Comunicación en partidos no autorizada.
+9.2.4.   Comunicación en partidos no autorizada.
 
 
           Una jugadora o entrenador en un partido en curso de un evento en línea que
@@ -3305,7 +3305,7 @@ NORTE
                                                                    LVP, Liga de Videojuegos Profesional
 
 
-9.3.​    Puntos de vista (POV) de partidos en curso.
+9.3.    Puntos de vista (POV) de partidos en curso.
 
 
          Las jugadoras y entrenadores de un partido en curso solo podrán ver el punto de
@@ -3313,7 +3313,7 @@ NORTE
          en el evento en línea.
 
 
-        9.3.1.​   Puntos de vista permitidos.
+        9.3.1.   Puntos de vista permitidos.
 
 
                   Las jugadoras en un espacio de jugador del cliente VALORANT pueden ver
@@ -3327,7 +3327,7 @@ NORTE
                   por el cliente VALORANT.
 
 
-        9.3.2.​   Puntos de vista no permitidos.
+        9.3.2.   Puntos de vista no permitidos.
 
 
                   Las jugadoras y entrenadores en un partido en curso tienen prohibido utilizar
@@ -3339,7 +3339,7 @@ NORTE
                   un Oficial de Torneo estará sujeto a Acción Disciplinaria.
 
 
-9.4.​    Monitoreo de Jugadoras y Entrenador(a).
+9.4.    Monitoreo de Jugadoras y Entrenador(a).
 
 
          Los Oficiales de Torneo del evento en línea tendrán derecho a implementar un
@@ -3354,7 +3354,7 @@ NORTE
          establecidos por los Oficiales de Torneo.
 
 
-        9.4.1.​   Auditoría de comunicación en el cliente.
+        9.4.1.   Auditoría de comunicación en el cliente.
 
 
                   Los Oficiales de Torneo y Riot tienen derecho a auditar cualquier
@@ -3375,7 +3375,7 @@ NORTE
           cualquier jugadora o entrenador en el evento en línea.
 
 
-9.4.2.​   Sistemas de comunicación por voz.
+9.4.2.   Sistemas de comunicación por voz.
 
 
           Las jugadoras y entrenadores tienen prohibido usar cualquier sistema de
@@ -3388,7 +3388,7 @@ NORTE
           jugadoras y entrenadores que ocurra durante un partido en curso.
 
 
-9.4.3.​   Monitoreo de captura y grabación de pantalla.
+9.4.3.   Monitoreo de captura y grabación de pantalla.
 
 
           La LVP puede requerir el uso de programas de captura de pantalla y vídeo
@@ -3396,14 +3396,14 @@ NORTE
           jugadoras o entrenadores(as) graben su pantalla durante un Partido oficial.
 
 
-9.4.4.​   Monitoreo de captura de cámara.
+9.4.4.   Monitoreo de captura de cámara.
 
 
           La LVP tiene el derecho de requerir a jugadoras y entrenadores(as) el uso de
           una cámara física para grabar un punto específico de vista de las jugadoras,
           entrenadores(as) y sus alrededores.
 
-9.4.5.​   Requisito de almacenamiento de capturas y grabaciones de pantalla y
+9.4.5.   Requisito de almacenamiento de capturas y grabaciones de pantalla y
           cámara.
 
           Las jugadoras y entrenadores(as) deben almacenar todos los datos
@@ -3411,13 +3411,13 @@ NORTE
           requisitos de monitoreo de captura de cámara durante un mínimo de dos (2)
           semanas después de finalizado del evento en línea.
 
-9.4.6.​   Auditoría de almacenamiento de capturas y grabaciones de pantalla y
+9.4.6.   Auditoría de almacenamiento de capturas y grabaciones de pantalla y
           cámara.
 
           Los Oficiales del Torneo tienen derecho a solicitar y auditar la captura y
           grabación de pantalla y los datos de la cámara en cualquier momento
           durante el evento en línea y durante dos (2) semanas después de finalizado
-          el evento en línea.​
+          el evento en línea.
 
           Cualquier jugadora o entrenador o entrenadora que se niegue o no pueda
           proporcionar los datos solicitados para fines de auditoría estará sujeta(o) a
@@ -3433,10 +3433,10 @@ NORTE
                                                                              LVP, Liga de Videojuegos Profesional
 
 
-10.​    Crashes e interrupciones del juego.
+10.    Crashes e interrupciones del juego.
 
 
-       10.1.​      Discontinuidad del juego.
+       10.1.      Discontinuidad del juego.
 
 
                    Si un Partido se interrumpe por motivos que escapan al control de las jugadoras (por
@@ -3445,7 +3445,7 @@ NORTE
                    de restauración de rondas del juego al principio de la ronda más reciente.
 
 
-       10.2.​      Interrupciones de juego de jugadoras individuales.
+       10.2.      Interrupciones de juego de jugadoras individuales.
 
 
                    Los partidos no se detendrán y las rondas no se restaurarán ni se volverán a jugar en
@@ -3453,7 +3453,7 @@ NORTE
                    comprar un arma incorrectamente, marcar alt, apagar el monitor, etc.).
 
 
-                10.2.1.​   Desconexiones.
+                10.2.1.   Desconexiones.
 
 
                            No se permite que las jugadoras causen de manera intencional una
@@ -3461,7 +3461,7 @@ NORTE
                            equipo e incurrir en la infracción de esta regla, en una Acción Disciplinaria.
 
 
-       10.3.​      Interrupciones Transitorias.
+       10.3.      Interrupciones Transitorias.
 
 
                    Las rondas no se reiniciarán debido a problemas que provocan una interrupción
@@ -3472,21 +3472,21 @@ NORTE
                    discreción, determinar que se ha producido una discontinuidad en el juego.
 
 
-       10.4.​      Crash/Interrupción del juego.
+       10.4.      Crash/Interrupción del juego.
 
 
                    Si una ronda de un Partido tiene un problema que causa una interrupción del juego
                    que impide que las jugadoras individuales jueguen la ronda (por ejemplo, falla del
                    cliente, falla de la computadora, corte de energía individual, etc.), los Oficiales del
                    Torneo pueden restaurar el ronda utilizando la función de restauración de ronda en el
-                   juego al comienzo de la ronda más reciente en el siguiente escenario: ​
+                   juego al comienzo de la ronda más reciente en el siguiente escenario: 
 
-                       ●​ Siempre que se cumplan todas las condiciones siguientes:
+                       ● Siempre que se cumplan todas las condiciones siguientes:
 
-                               A.​ El problema ocurrió durante el primer minuto de la ronda
-                               B.​ El problema ocurrió antes de que el equipo contrario causara daño al
+                               A. El problema ocurrió durante el primer minuto de la ronda
+                               B. El problema ocurrió antes de que el equipo contrario causara daño al
                                    agente de cualquier jugadora
-                               C.​ El Oficial del Torneo fue notificado inmediatamente.
+                               C. El Oficial del Torneo fue notificado inmediatamente.
 
                    No se tendrán en cuenta las interrupciones del juego que se produzcan después de
                    que el agente de una jugadora haya sido eliminado de la ronda.
@@ -3500,13 +3500,13 @@ NORTE
 
 
 
-       10.5.​   Remakes.
+       10.5.   Remakes.
 
                 Los Árbitros pueden considerar un remake, a su entera discreción, si existe fallo en
                 el servidor de juego o que todas las jugadoras no puedan conectarse, o si cinco (5)
                 jugadoras o más se desconectan al mismo tiempo.
 
-       10.6.​   Reprogramación de partidos por causa mayor.
+       10.6.   Reprogramación de partidos por causa mayor.
 
                 En el caso de que ocurra un imprevisto con el servidor de juego o causas externas
                 que impidan disputar el partido en la fecha y hora oficial, la LVP tiene la potestad de
@@ -3516,35 +3516,35 @@ NORTE
                 discreción si un evento califica como evento de causa mayor.
 
 
-11.​    Equipos.
+11.    Equipos.
 
 
-       11.1.​   Cambio de logos o grafismos.
+       11.1.   Cambio de logos o grafismos.
 
                 Todos los cambios que impliquen grafismos por parte de un equipo se notificarán con
                 una antelación mínima de (siete (7) días. Los logos deberán ser aprobados por la
                 LVP y se deberá rellenar en la plantilla oficial en caso de modificación en la
                 nomenclatura del equipo.
 
-       11.2.​   Abandono de jugadoras.
+       11.2.   Abandono de jugadoras.
 
                 Si una jugadora abandona su equipo unilateralmente durante cualquier etapa de la
                 Liga, la jugadora no podrá volver a ser inscrita en ninguna competición de LVP hasta
                 el próximo ciclo (2026).
 
-       11.3.​   Expulsión de un equipo.
+       11.3.   Expulsión de un equipo.
 
                 Si un equipo es expulsado de la Liga, todos sus partidos quedarán como perdidos y
                 se dará el punto de victoria a los equipos con los que se tenían juegos programados.
 
-       11.4.​   Buzón anónimo.
+       11.4.   Buzón anónimo.
 
                 Se tendrá un buzón para que las jugadoras y staff de equipos de Game Changers
                 puedan reportar cualquier problema totalmente anónimo, sin embargo, para poder
                 llevar a cabo una investigación, se deberán adjuntar pruebas.
 
 
-12.​    Premios.
+12.    Premios.
 
         Al final de cada ciclo, los equipos tendrán la oportunidad de ganar incentivos en efectivo
         basados en la posición final obtenida por el equipo en ambos Stages, el Main Event y la Final
@@ -3552,7 +3552,7 @@ NORTE
 
 
 
-         MXN​                 Stage I               Stage II                  Main Event
+         MXN                 Stage I               Stage II                  Main Event
                                                                                                     Norte vs Sur
        USD aprox      Norte             Sur    Norte         Sur           Norte       Sur
 
@@ -3650,7 +3650,7 @@ una vigencia de tres días.
                                                                  LVP, Liga de Videojuegos Profesional
 
 
-12.1.​   Entrega de premios
+12.1.   Entrega de premios
 
 
          Para la entrega de premios, el impuesto aplicable será desglosado del monto del
@@ -3660,48 +3660,48 @@ una vigencia de tres días.
          Los siguientes son los procesos que se deberán seguir dependiendo del caso del
          equipo:
 
-            1.​ Personas Morales – Con residencia Fiscal en México
+            1. Personas Morales – Con residencia Fiscal en México
                 Entregar la siguiente documentación:
 
-                    ●​ Opinión de cumplimiento de Obligaciones Fiscales
-                    ●​ Carátula de estado de cuenta bancario sin mostrar saldos ni
+                    ● Opinión de cumplimiento de Obligaciones Fiscales
+                    ● Carátula de estado de cuenta bancario sin mostrar saldos ni
                        movimientos donde sea visible: Cuenta, Clabe, Entidad Bancaria y
                        titular de la cuenta.
-                    ●​ Constancia de situación Fiscal
-                    ●​ Identificación Oficial del Representante Legal
-                    ●​ Acta Constitutiva
-                    ●​ Poder RPP (Folio Mercantil)
-                    ●​ Formato de alta de proveedor (proporcionado por LVP)
+                    ● Constancia de situación Fiscal
+                    ● Identificación Oficial del Representante Legal
+                    ● Acta Constitutiva
+                    ● Poder RPP (Folio Mercantil)
+                    ● Formato de alta de proveedor (proporcionado por LVP)
 
-            2.​ Personas Morales – Con residencia fuera de México
+            2. Personas Morales – Con residencia fuera de México
                 Entregar la siguiente documentación:
 
-                    ●​ Constancia de residencia fiscal
-                    ●​ Tax ID o su equivalente ( RUT, NIT, NIF…)
-                    ●​ Identificación Oficial del Representante Legal
-                    ●​ Escritura constitutiva o su equivalente
-                    ●​ Poder o autorización de la persona que pueda firmar en
+                    ● Constancia de residencia fiscal
+                    ● Tax ID o su equivalente ( RUT, NIT, NIF…)
+                    ● Identificación Oficial del Representante Legal
+                    ● Escritura constitutiva o su equivalente
+                    ● Poder o autorización de la persona que pueda firmar en
                        representación de la sociedad
-                    ●​ Formato de alta de proveedor (proporcionado por LVP)
-                    ●​ Certificado bancario emitido por el banco en el que se detalle:
-                           ○​ Banco
-                           ○​ Sucursal
-                           ○​ Dirección banco
-                           ○​ SWIFT
-                           ○​ Titular de la cuenta
-                           ○​ Dirección del titular
-                           ○​ Número de cuenta
-                           ○​ Divisa
+                    ● Formato de alta de proveedor (proporcionado por LVP)
+                    ● Certificado bancario emitido por el banco en el que se detalle:
+                           ○ Banco
+                           ○ Sucursal
+                           ○ Dirección banco
+                           ○ SWIFT
+                           ○ Titular de la cuenta
+                           ○ Dirección del titular
+                           ○ Número de cuenta
+                           ○ Divisa
 
-            3.​ Persona Física – Residente Fiscal en México
+            3. Persona Física – Residente Fiscal en México
                 Entregar la siguiente documentación:
 
-                    ●​ Identificación oficial vigente (ambos lados).
-                    ●​ Constancia de Situación Fiscal completa emitida en el mes corriente.
-                    ●​ Comprobante de domicilio (Domicilio fiscal) no mayor a dos meses.
-                    ●​ Carátula de Estado de cuenta bancario (visible Cuenta, Clabe, titular,
+                    ● Identificación oficial vigente (ambos lados).
+                    ● Constancia de Situación Fiscal completa emitida en el mes corriente.
+                    ● Comprobante de domicilio (Domicilio fiscal) no mayor a dos meses.
+                    ● Carátula de Estado de cuenta bancario (visible Cuenta, Clabe, titular,
                        Entidad Bancaria y divisa de la cuenta) no mayor a dos meses.
-                    ●​ Opinión de cumplimiento de obligaciones fiscales (emitida en el mes
+                    ● Opinión de cumplimiento de obligaciones fiscales (emitida en el mes
                        corriente y positiva).
 
 
@@ -3712,44 +3712,44 @@ una vigencia de tres días.
                                                                          LVP, Liga de Videojuegos Profesional
 
 
-                            ●​ Cuestionario de certificación de proveedores correctamente llenado
+                            ● Cuestionario de certificación de proveedores correctamente llenado
                                (proporcionado por la liga)
-                            ●​ Certificado de marca registrado sobre el nombre del equipo.
+                            ● Certificado de marca registrado sobre el nombre del equipo.
 
-                    4.​ Personas Físicas Extranjeras – Residencia Fiscal Fuera de México
+                    4. Personas Físicas Extranjeras – Residencia Fiscal Fuera de México
                         Entregar la siguiente documentación:
 
-                            ●​ Certificado de residencia fiscal para el año en curso.
-                            ●​ Número de identificación fiscal/tributaria (RUT, CUIT, NIT, NIF) en
+                            ● Certificado de residencia fiscal para el año en curso.
+                            ● Número de identificación fiscal/tributaria (RUT, CUIT, NIT, NIF) en
                                documento oficial emitido por la entidad fiscal de su país.
-                            ●​ Certificado bancario emitido por el banco que especifique:
-                                   ○​ Banco.
-                                   ○​ Sucursal.
-                                   ○​ Dirección del banco.
-                                   ○​ SWIFT/ABA/IBAN
-                                   ○​ Titular de la cuenta.
-                                   ○​ Dirección del titular.
-                                   ○​ Número de cuenta.
-                                   ○​ Divisa.
-                            ●​ ID Vigente.
-                            ●​ Comprobante de domicilio o carta donde especifique el domicilio de
+                            ● Certificado bancario emitido por el banco que especifique:
+                                   ○ Banco.
+                                   ○ Sucursal.
+                                   ○ Dirección del banco.
+                                   ○ SWIFT/ABA/IBAN
+                                   ○ Titular de la cuenta.
+                                   ○ Dirección del titular.
+                                   ○ Número de cuenta.
+                                   ○ Divisa.
+                            ● ID Vigente.
+                            ● Comprobante de domicilio o carta donde especifique el domicilio de
                                residencia no mayor a dos meses.
-                            ●​ Cuestionario de certificación de proveedores correctamente llenado
+                            ● Cuestionario de certificación de proveedores correctamente llenado
                                (proporcionado por la liga).
-                            ●​ Carta bajo protesta (proporcionada por la liga).
+                            ● Carta bajo protesta (proporcionada por la liga).
 
 
-                    A.​ En el caso de que el equipo sea una organización registrada como empresa,
+                    A. En el caso de que el equipo sea una organización registrada como empresa,
                         únicamente la organización que formaliza el contrato del Circuito Game
                         Changers LATAM con la Liga de Videojuegos Profesional (LVP) estará
                         autorizada para gestionar y percibir el importe del premio.
 
-                    B.​ En el caso de que el equipo sea representado por una persona natural en su
+                    B. En el caso de que el equipo sea representado por una persona natural en su
                         contrato, únicamente dicha persona que formaliza en el contrato del Circuito
                         Game Changers LATAM con la Liga de Videojuegos Profesional (LVP) estará
                         autorizada para gestionar y percibir el importe del premio.
 
-       12.2.​   Plazo de reclamo de premios
+       12.2.   Plazo de reclamo de premios
 
                 Los equipos ganadores dispondrán de un plazo de noventa (90) días naturales desde
                 la finalización de la fase de la competición correspondiente al premio, para presentar
@@ -3757,10 +3757,10 @@ una vigencia de tres días.
                 dicha documentación los premios no podrán ser reclamados.
 
 
-13.​    Reglas adicionales para eventos presenciales.
+13.    Reglas adicionales para eventos presenciales.
 
 
-       13.1.​   Protocolo de uniforme.
+       13.1.   Protocolo de uniforme.
 
                 Las jugadoras deben vestir los uniformes oficiales del equipo, aprobados por la
                 Game Changers todo el tiempo durante eventos presenciales, media days o en
@@ -3796,20 +3796,20 @@ una vigencia de tres días.
             aprobado se deberá llevar en eventos presenciales, fotografías oficiales, media days,
             entrevistas o eventos que lo requiera.
 
-13.2.​      Uniformes e indumentaria
+13.2.      Uniformes e indumentaria
 
 
-         13.2.1.​   Definiciones.
+         13.2.1.   Definiciones.
 
 
-               13.2.1.1.​   Indumentaria del equipo.
+               13.2.1.1.   Indumentaria del equipo.
 
                             Cualquier artículo de ropa o prenda que esté marcada con el
                             logotipo y/o colores oficiales del equipo. Los oficiales de la liga se
                             reservan el derecho de prohibir la ropa del equipo que se considere
                             inapropiada o inadecuada.
 
-               13.2.1.2.​   Indumentaria oficial del torneo.
+               13.2.1.2.   Indumentaria oficial del torneo.
 
                             Cualquier artículo de ropa o prenda que haya sido creada por la liga
                             y con la marca para el torneo o evento. Para mayor claridad, solo la
@@ -3819,7 +3819,7 @@ una vigencia de tres días.
                             Oficial de Torneo creada para torneos o eventos anteriores no se
                             considerará Indumentaria Oficial de Torneo.
 
-         13.2.2.​   Uniforme de equipo.
+         13.2.2.   Uniforme de equipo.
 
 
                     Los Miembros del Equipo deben usar ropa aprobada ("Uniforme de Equipo")
@@ -3836,43 +3836,43 @@ una vigencia de tres días.
                                                              LVP, Liga de Videojuegos Profesional
 
 
-      13.2.2.1.​   Jersey del equipo.
+      13.2.2.1.   Jersey del equipo.
 
 
                    Los miembros del equipo deben usar camisetas oficiales, aprobadas
                    e idénticas el día del juego durante todos los juegos de la liga. Todas
                    las camisetas de equipo deben cumplir con lo siguiente:
 
-                       ●​ Red - Espacio de patrocinio
-                       ●​ Negro - Logotipo del equipo y marca
+                       ● Red - Espacio de patrocinio
+                       ● Negro - Logotipo del equipo y marca
 
 
 
 
-                       ●​ Otros IP de Riot. El equipo no puede utilizar ninguna marca
+                       ● Otros IP de Riot. El equipo no puede utilizar ninguna marca
                           o logo de Riot Games sin el permiso expreso por escrito de
                           Riot Esports. Esto incluye, pero no se limita a: el logotipo de
                           Riot Games, los logotipos de eventos, los logotipos de
                           VALORANT o la IP de VALORANT (como artes de agentes,
                           etc.).
 
-                       ●​ Restricciones de logos de patrocinadores. No más de
+                       ● Restricciones de logos de patrocinadores. No más de
                           tres (3) logotipos de patrocinadores pueden ocupar el área
                           central del pecho/estómago de la camiseta del equipo. No se
                           imponen restricciones sobre la cantidad de logotipos de
                           patrocinadores para las mangas, los hombros o la parte
                           posterior de la camiseta del equipo.
 
-                       ●​ Camisetas del equipo de eventos especiales. Los equipos
+                       ● Camisetas del equipo de eventos especiales. Los equipos
                           pueden enviar una camiseta de equipo alternativa que puede
                           usarse por un período de tiempo temporal (por ejemplo, el
                           cumpleaños de la organización del equipo). LVP puede
-                          aprobar el uso de la camiseta de equipo alternativa caso​por
+                          aprobar el uso de la camiseta de equipo alternativa casopor
                           caso.
 
 
 
-13.2.3.​   Indumentaria en piernas.
+13.2.3.   Indumentaria en piernas.
 
 
            Todos los miembros del equipo deben usar pantalones o pantalones cortos.
@@ -3892,7 +3892,7 @@ una vigencia de tres días.
            ejemplo, negro, blanco o gris), o (c) Indumentaria en piernas
 
 
-13.2.4.​   Logotipos de indumentaria en piernas del equipo.
+13.2.4.   Logotipos de indumentaria en piernas del equipo.
 
 
            Toda la indumentaria en piernas del equipo puede tener un máximo de: 1
@@ -3907,24 +3907,24 @@ una vigencia de tres días.
 
 
 
-13.2.5.​   Zapatos.
+13.2.5.   Zapatos.
 
 
            Los miembros del equipo deben usar zapatos cerrados. Los miembros del
            equipo pueden usar cualquier marca de zapatos.
 
 
-13.2.6.​   Banderas nacionales.
+13.2.6.   Banderas nacionales.
 
 
            Las banderas que representan o simbolizan a una nación tienen prohibido
            ser incluidas en cualquier vestimenta usada por el Equipo.
 
 
-13.2.7.​   Indumentaria
+13.2.7.   Indumentaria
 
 
-      13.2.7.1.​   Indumentaria para cabeza.
+      13.2.7.1.   Indumentaria para cabeza.
 
                    Los Miembros del Equipo pueden usar indumentaria para la cabeza
                    (por ejemplo, gorros, sombreros, etc.) siempre que dicha
@@ -3942,11 +3942,11 @@ una vigencia de tres días.
              orejas de la jugadora, (b) bloquee la cara de la jugadora o (c)
              bloquee cualquier luz de transmisión que ilumine la cara de la
              jugadora. La Indumentaria de cabeza debe ser sin marca,
-             Indumentaria del Equipo o Indumentaria​Oficial​ del Torneo.
+             Indumentaria del Equipo o IndumentariaOficial del Torneo.
 
 
 
-13.2.7.2.​   Ropa debajo de la Camiseta.
+13.2.7.2.   Ropa debajo de la Camiseta.
 
              Se pueden usar camisetas de manga larga o sudaderas debajo de
              las camisetas del equipo, siempre que dicha ropa no oscurezca la
@@ -3955,12 +3955,12 @@ una vigencia de tres días.
              (por ejemplo, negro, blanco o gris). No se permitirán logotipos de
              patrocinadores en la ropa debajo de la camiseta. La marca individual
              del jugador (por ejemplo, el jugador [nombre del juego]) y la marca
-             del equipo (por ejemplo, el nombre o el logotipo​ del equipo) son
+             del equipo (por ejemplo, el nombre o el logotipo del equipo) son
              aceptables.
 
 
 
-13.2.7.3.​   Ropa sobre la Camiseta
+13.2.7.3.   Ropa sobre la Camiseta
 
              La ropa sobre camiseta, incluidas las chamarras, sudaderas con
              capucha y chaquetas, que se usan sobre y oscurecen la camiseta
@@ -3975,13 +3975,13 @@ una vigencia de tres días.
              para el evento en el que un Miembro del Equipo está compitiendo
              actualmente, también son aceptables.
 
-13.2.7.4.​   Accesorios.
+13.2.7.4.   Accesorios.
 
              Los miembros del equipo pueden usar una cantidad razonable
              (según lo determinen los oficiales de la liga) de joyas, anillos,
              pulseras y collares.
 
-13.2.7.5.​   Relojes.
+13.2.7.5.   Relojes.
 
              Los miembros del equipo pueden usar cualquier marca de reloj. Los
              relojes inteligentes y cualquier otro tipo de dispositivo montado en la
@@ -3998,10 +3998,10 @@ una vigencia de tres días.
                                                               LVP, Liga de Videojuegos Profesional
 
 
- 13.2.8.​   Indumentaria
+ 13.2.8.   Indumentaria
 
 
-       13.2.8.1.​   Ropa de marca.
+       13.2.8.1.   Ropa de marca.
 
                     Aparte de la Indumentaria del Equipo que es oficial y aprobada por la
                     Liga, los Miembros del Equipo tienen prohibido usar otras prendas
@@ -4009,7 +4009,7 @@ una vigencia de tres días.
                     otras palabras, caracteres u otras imágenes o mensajes visibles, que
                     no sean expresamente permitidos por la LVP.
 
-       13.2.8.2.​   Dispositivos electrónicos.
+       13.2.8.2.   Dispositivos electrónicos.
 
                     Los miembros del equipo tienen prohibido usar cualquier tipo de
                     dispositivo inteligente, dispositivo de fitness u otros dispositivos
@@ -4018,14 +4018,14 @@ una vigencia de tres días.
                     la liga antes de usar cualquier tipo de dispositivo electrónico con
                     capacidades informáticas.
 
-       13.2.8.3.​   Gafas opacas.
+       13.2.8.3.   Gafas opacas.
 
                     Los miembros del equipo tienen prohibido usar gafas totalmente
                     opacas durante un partido oficial. Se pueden usar gafas totalmente
                     opacas durante   la    huelga antes del comienzo de un
                     partido.
 
- 13.2.9.​   Ropa aprobada.
+ 13.2.9.   Ropa aprobada.
 
 
             Las jugadoras pueden solicitar el uso de ropa adicional solo en
@@ -4033,7 +4033,7 @@ una vigencia de tres días.
             cualquier solicitud de indumentaria adicional de equipo o jugadora caso por
             caso.
 
-13.2.10.​   Contenido de la liga.
+13.2.10.   Contenido de la liga.
 
 
             Durante todas las entrevistas previas y posteriores al partido en una
@@ -4045,7 +4045,7 @@ una vigencia de tres días.
             creado por la Liga, la Liga Game Changers comunicará las pautas de la ropa
             en relación con esas apariciones.
 
-13.2.11.​   Ropa de entrenador(a).
+13.2.11.   Ropa de entrenador(a).
 
 
             Los entrenadores o entrenadoras del Equipo y otro personal que estará en el
@@ -4067,14 +4067,14 @@ una vigencia de tres días.
                     polos, blusas y otra vestimenta que se vea profesional.
 
 
-13.3.​      Área de combate.
+13.3.      Área de combate.
 
             Para eventos presenciales el “Área de Combate” comprende el área que rodea a
             cualquier PC de competición que se usa en partida. En las fases online, las
             jugadoras deberán estar presentes en todo momento desde la preparación de la
             partida.
 
-         13.3.1.​   Entrenadores.
+         13.3.1.   Entrenadores.
 
                     Un máximo de dos (2) entrenadores pueden estar en el Área de Combate
                     durante el proceso de preparación del combate y durante la fase de
@@ -4083,24 +4083,24 @@ una vigencia de tres días.
                     tener comunicación remota con las jugadoras durante las pausas tácticas y
                     medios tiempos.
 
-         13.3.2.​   Managers de los equipos.
+         13.3.2.   Managers de los equipos.
 
                     Los managers pueden estar en el Área de Combate durante el proceso de
                     preparación de la partida, pero deben abandonar el área antes de la fase de
                     Selección de agentes y no podrán regresar hasta que finalice la partida.
 
-13.4.​      Desconexión durante la partida.
+13.4.      Desconexión durante la partida.
 
             Si una jugadora se desconecta de manera intencional sin notificar o pausar antes de
             que inicie la ronda, el Árbitro no estará forzado a detener la partida. Durante una
             pausa o detención, las jugadoras no podrán retirarse de sus computadoras o del
             Teamspeak o Discord a menos que tengan autorización.
 
-                A.​ Pausa dirigida.
+                A. Pausa dirigida.
 
                     Los Árbitros pueden ordenar la pausa de una partida en cualquier momento.
 
-                B.​ Pausa de la jugadora.
+                B. Pausa de la jugadora.
 
                     Las jugadoras sólo podrán pausar una partida notificando el motivo a un
                     Árbitro inmediatamente después de pausar. Los motivos aceptados de una
@@ -4112,7 +4112,7 @@ una vigencia de tres días.
                     situación y determinará si la jugadora está lista, dispuesta y es capaz de
                     jugar la partida.
 
-                C.​ Reanudación de la partida.
+                C. Reanudación de la partida.
 
 
 
@@ -4128,7 +4128,7 @@ una vigencia de tres días.
                  Luego de que todas las jugadoras estén informadas y confirmen que están
                  listas en el chat, los Árbitros la reanudarán.
 
-             D.​ Comunicación entre jugadoras durante una partida detenida.
+             D. Comunicación entre jugadoras durante una partida detenida.
 
                  Por justicia y deportividad con todos los equipos competidores, las jugadoras
                  y entrenadores no tienen permitido comunicarse, de ninguna manera, entre
@@ -4137,7 +4137,7 @@ una vigencia de tres días.
                  tienen prohibido silenciarse durante cualquier momento de la partida y los
                  árbitros podrán hacer verificaciones del cumplimiento de esto.
 
-13.5.​   White noise.
+13.5.   White noise.
 
          Se les solicitará a las jugadoras que mantengan los niveles de volumen
          preestablecidos.
@@ -4151,7 +4151,7 @@ una vigencia de tres días.
          incluyendo sombreros, bufandas u otros artículos de vestimenta, entre los auriculares
          y los oídos.
 
-13.6.​   Periféricos y Hardware.
+13.6.   Periféricos y Hardware.
 
          En eventos presenciales la Game Changers proporcionará a cada jugadora:
          computadora, monitor, auriculares o audífonos, mesa y silla. Y las jugadoras se
@@ -4169,7 +4169,7 @@ una vigencia de tres días.
          jugadoras si incluye o muestra algún nombre, semejanza o logotipo de una compañía
          o marca competidora de LVP o Riot Games.
 
-13.7.​   Descargas.
+13.7.   Descargas.
 
          Las jugadoras usarán únicamente los programas que la Game Changers les
          proporcione, y que estarán disponibles y visibles en el escritorio de la computadora.
@@ -4186,7 +4186,7 @@ una vigencia de tres días.
                                                                           LVP, Liga de Videojuegos Profesional
 
 
-       13.8.​   Media Days.
+       13.8.   Media Days.
 
                 Se realizarán “Media Days” con los Equipos, distribuidos a lo largo de la Temporada,
                 incluyendo la sesión de fotos a los integrantes de la alineación registrada del equipo
@@ -4201,19 +4201,19 @@ una vigencia de tres días.
                 naturales para casos presenciales.
 
 
-14.​    Árbitros.
+14.    Árbitros.
 
         Son los miembros del staff de la Game Changers que tienen la responsabilidad de juzgar
         cada asunto, pregunta y situación relacionados con lo que ocurra antes, durante e
         inmediatamente después de cada partida.
 
-       14.1.​   Comportamiento del Árbitro.
+       14.1.   Comportamiento del Árbitro.
 
                 En todo momento deberán comportarse de manera profesional y deberán emitir
                 dictámenes de una forma imparcial. No mostrarán ningún tipo de pasión o prejuicio
                 hacia ningúna jugadora, equipo, director de equipo, propietario u otro individuo.
 
-       14.2.​   Irrevocabilidad del juicio.
+       14.2.   Irrevocabilidad del juicio.
 
                 Si un Árbitro hace un juicio incorrecto, dicho juicio puede ser sujeto a una reversión.
                 La LVP podrá evaluar a consideración la decisión durante o luego de la partida para
@@ -4222,22 +4222,22 @@ una vigencia de tres días.
                 final. Esta decisión es final y no puede ser invalidada incluyendo por parte de Riot
                 Games.
 
-       14.3.​   Interferencia externa en presenciales.
+       14.3.   Interferencia externa en presenciales.
 
                 El árbitro detendrá, suspenderá temporalmente o suspenderá de manera definitiva el
                 partido por cualquier tipo de infracción de las reglas de juego o interferencia externa,
                 por ejemplo cuando:
 
-                    ●​ Un objeto lanzado por un espectador golpee a un miembro del equipo
+                    ● Un objeto lanzado por un espectador golpee a un miembro del equipo
                        arbitral, a una jugadora o a un miembro del cuerpo técnico de un equipo; el
                        árbitro podrá permitir que el partido continúe, o bien lo detenga, lo suspenda
                        temporalmente o lo suspenda definitivamente, según la gravedad del
                        incidente.
 
-                    ●​ Un espectador se comunique deliberadamente con las jugadoras para dar
+                    ● Un espectador se comunique deliberadamente con las jugadoras para dar
                        información sobre el equipo rival.
 
-                    ●​ Fallo de conexión del servidor o problemas de conexión que la organización
+                    ● Fallo de conexión del servidor o problemas de conexión que la organización
                        entienda que imposibilitan el desarrollo del juego.
 
 
@@ -4250,9 +4250,9 @@ una vigencia de tres días.
                                                                              LVP, Liga de Videojuegos Profesional
 
 
-15.​    Bugs.
+15.    Bugs.
 
-       15.1.​      Tipos de bug.
+       15.1.      Tipos de bug.
 
                    Un bug es un error, defecto o falla en el Juego que produce un error, no
                    intencionado, o resultado inesperado. La clasificación de bugs se comunicará a
@@ -4260,26 +4260,26 @@ una vigencia de tres días.
                    bugs: Bug de juego (Playthrough Bugs), Bugs de mayor impacto (Major Bugs) y
                    Exploits.
 
-                       ●​ Bug de juego (“Playthrough Bugs”).
+                       ● Bug de juego (“Playthrough Bugs”).
 
                            Un fallo que no altera significativamente la integridad competitiva del juego.
                            Esto puede significar que hay medidas de mitigación disponibles o que el
                            impacto ha sido considerado insuficiente para justificar una desactivación o
                            un remake.
 
-                       ●​ Bug de mayor impacto (“Major Bugs”).
+                       ● Bug de mayor impacto (“Major Bugs”).
 
                            Un fallo que afecta significativamente a la capacidad de una jugadora para
                            competir en el juego, altera significativamente las estadísticas del juego o la
                            mecánica del mismo, y no tiene medidas de mitigación razonables. La
                            determinación del impacto quedará a la entera discreción de los árbitros.
 
-                       ●​ Bugs desconocidos (“Bug desconocido”).
+                       ● Bugs desconocidos (“Bug desconocido”).
 
                            Un "Bug desconocido" se define como un error que no está en la Lista de
                            errores de Esports compartida con el parche actual.
 
-                       ●​ Bugs que rompen el juego (“Game Breaking Bug”).
+                       ● Bugs que rompen el juego (“Game Breaking Bug”).
 
                            Un "Game Breaking Bug" se define como un error cuya ocurrencia socava la
                            integridad competitiva de una ronda en su conjunto y hace que el resultado
@@ -4287,9 +4287,9 @@ una vigencia de tres días.
                            dentro de esta categoría se enumerará explícitamente en la Lista de errores
                            de Esports compartida con cada parche.
 
-       15.2.​      Uso de Round Rollback para errores.
+       15.2.      Uso de Round Rollback para errores.
 
-                15.2.1.​   Pre-daño.
+                15.2.1.   Pre-daño.
 
                            Si, en el momento en que ocurre un error en una ronda, ningúna jugadora ha
                            causado daño directamente a un oponente en la ronda, entonces la LVP
@@ -4297,7 +4297,7 @@ una vigencia de tres días.
                            importantes que afectan la capacidad de una jugadora para competir en el
                            juego por razones fuera del control de la jugadora.
 
-                15.2.2.​   Post-Daño.
+                15.2.2.   Post-Daño.
 
                            Si, en el momento en que ocurre un error en una ronda, una jugadora ya ha
                            causado daño directamente a un oponente en la ronda, los Oficiales de
@@ -4314,30 +4314,30 @@ una vigencia de tres días.
                                                                              LVP, Liga de Videojuegos Profesional
 
 
-                15.2.3.​   Retroceso redondo para errores de ruptura de juegos.
+                15.2.3.   Retroceso redondo para errores de ruptura de juegos.
 
                            Si se produce un error de interrupción del juego en cualquier momento
                            durante una ronda, los oficiales de Game Changers iniciarán una reversión
                            de la ronda para restaurar el juego al comienzo de la ronda.
 
 
-16.​    Adjudicación de Exploits.
+16.    Adjudicación de Exploits.
 
         Un error causado por la jugadora que tiene el potencial de alterar significativamente la
         integridad competitiva del juego y proporcionar una ventaja competitiva no intencionada.
         Como norma, independientemente del impacto, el uso de exploits no está permitido y si se
         encuentra dará lugar a una penalización.
 
-       16.1.​      Exploits específicos de agentes.
+       16.1.      Exploits específicos de agentes.
 
-                16.1.1.​   Cypher.
+                16.1.1.   Cypher.
 
                            Todas las colocaciones de las cámaras de Cypher que ofrezcan una ventaja
                            competitiva injusta abusando de las texturas del mapa y/o la geometría para
                            evitar que la cámara de Cypher sea destruida o vista se consideran
                            prohibidas.
 
-                16.1.2.​   Regla general de las utilidades de los agentes.
+                16.1.2.   Regla general de las utilidades de los agentes.
 
                            Todos los usos de la utilidad del agente que permitan una ventaja
                            competitiva injusta mediante el abuso de las texturas del mapa y/o de la
@@ -4359,12 +4359,12 @@ una vigencia de tres días.
                            la habilidad no puede abusar de las texturas y/o la geometría del mapa para
                            llegar a lugares no deseados.
 
-                16.1.3.​   Potenciador de salto con agentes.
+                16.1.3.   Potenciador de salto con agentes.
 
                            Se prohíbe a las jugadoras usar el modelo de otro agente para impulsarse y
                            llegar a una localización fuera del rango de salto previsto.
 
-       16.2.​      Valoración de Sanciones.
+       16.2.      Valoración de Sanciones.
 
                    Al evaluar la sanción adecuada, los Oficiales del Torneo tendrán en cuenta las
                    sanciones anteriores por la misma situación o una similar, la clasificación de exploit,
@@ -4381,55 +4381,55 @@ una vigencia de tres días.
             evaluaciones serán consideradas por los Oficiales del Torneo en cada categoría para
             aplicar las sanciones correspondientes.
 
-         16.2.1.​   Clasificación del Exploit.
+         16.2.1.   Clasificación del Exploit.
 
-                        ●​ ¿Está el exploit en la lista de errores de Esports y cómo se clasifica?
-                        ●​ Si el exploit no está en la lista de errores de Esports, ¿es lo
+                        ● ¿Está el exploit en la lista de errores de Esports y cómo se clasifica?
+                        ● Si el exploit no está en la lista de errores de Esports, ¿es lo
                            suficientemente similar a otro como para que una persona razonable
                            asuma que la clasificación sería la misma?
-                        ●​ Si el exploit no está en la lista de errores de Esports y no es similar a
+                        ● Si el exploit no está en la lista de errores de Esports y no es similar a
                            otro exploit conocido, los Oficiales del Torneo deben usar los otros
                            criterios para ayudar a informar cualquier acción.
 
-         16.2.2.​   Comunicación Previa.
+         16.2.2.   Comunicación Previa.
 
-                        ●​ ¿Se ha compartido la lista de errores de Esports con el equipo o la
+                        ● ¿Se ha compartido la lista de errores de Esports con el equipo o la
                            jugadora?
-                        ●​ ¿Fue la lista de errores de Esports para la versión del parche
+                        ● ¿Fue la lista de errores de Esports para la versión del parche
                            designada por el Oficial de Torneo para el evento compartido dentro
                            de un plazo razonable para que se informen y hagan los ajustes
                            necesarios?
-                        ●​ Si la Lista de errores de Esports no se ha comunicado en absoluto o
+                        ● Si la Lista de errores de Esports no se ha comunicado en absoluto o
                            en un plazo razonable, esto debería ser un factor atenuante.
 
-         16.2.3.​   Impacto.
+         16.2.3.   Impacto.
 
-                        ●​ Qué impacto tuvo el exploit en la ronda y/o el resultado del mapa,
+                        ● Qué impacto tuvo el exploit en la ronda y/o el resultado del mapa,
                            por ejemplo, daño infligido, información obtenida (visión, sonido,
                            etc.), acciones evitadas de los oponentes (desactivación/colocación
                            de bombas).
-                        ●​ ¿Qué impacto podría tener esta hazaña en la percepción del
+                        ● ¿Qué impacto podría tener esta hazaña en la percepción del
                            deporte? ¿Podría desacreditar al deporte?
 
-         16.2.4.​   Intención.
+         16.2.4.   Intención.
 
-                        ●​ ¿Qué tan difícil es usar el exploit accidentalmente? ¿Requiere un
+                        ● ¿Qué tan difícil es usar el exploit accidentalmente? ¿Requiere un
                            conjunto específico de acciones que no ocurren en el curso normal
                            del juego?
-                        ●​ ¿Han recibido la jugadora o el equipo sanciones por la misma
+                        ● ¿Han recibido la jugadora o el equipo sanciones por la misma
                            hazaña en el pasado?
-                        ●​ ¿La Jugadora o el equipo discutieron el uso en las comunicaciones
+                        ● ¿La Jugadora o el equipo discutieron el uso en las comunicaciones
                            de voz?
-                        ●​ ¿La jugadora o el equipo notificó a un árbitro inmediatamente
+                        ● ¿La jugadora o el equipo notificó a un árbitro inmediatamente
                            después de que ocurrió la hazaña?
 
-16.3.​      Tipo de penalizaciones.
+16.3.      Tipo de penalizaciones.
 
             La siguiente lista de sanciones no es una lista exhaustiva. Los Oficiales del Torneo
             pueden, a su sola discreción, emitir otros tipos de Acciones Disciplinarias tales como
             Multas o Suspensiones según cada caso.
 
-         16.3.1.​   Advertencia.
+         16.3.1.   Advertencia.
 
                     Las advertencias pueden ser emitidas por bugs no intencionados que no den
                     una ventaja competitiva, o errores que se consideren lo suficientemente
@@ -4445,7 +4445,7 @@ una vigencia de tres días.
            pequeños como para no tener un impacto significativo en la integridad
            competitiva del partido.
 
-16.3.2.​   Retroceso de ronda.
+16.3.2.   Retroceso de ronda.
 
            Los oficiales del torneo pueden realizar un retroceso de ronda cuando un
            bug haya tenido un impacto significativo en el resultado de la ronda, pero no
@@ -4456,7 +4456,7 @@ una vigencia de tres días.
            afecte a la integridad de la ronda, pero que no sea culpa de ninguna
            jugadora o entrenador(a).
 
-16.3.3.​   Ronda perdida.
+16.3.3.   Ronda perdida.
 
            Los oficiales del torneo pueden dar por perdida una ronda cuando un bug o
            exploit tengan un impacto significativo en el resultado de la ronda, y los
@@ -4466,29 +4466,29 @@ una vigencia de tres días.
            determinen los oficiales del torneo.
            Las rondas perdidas pueden aplicarse mediante los siguientes métodos:
 
-               ●​ Volver a la ronda en la que se utilizó el exploit y otorgar al equipo
+               ● Volver a la ronda en la que se utilizó el exploit y otorgar al equipo
                   que no realizó el exploit la victoria de la ronda a través de la
                   eliminación en la configuración de de la ronda.
-               ●​ Si no es posible retroceder, la pérdida de rondas debe aplicarse al
+               ● Si no es posible retroceder, la pérdida de rondas debe aplicarse al
                   inicio de la siguiente ronda. Si la ronda actual puede hacer que el
                   mapa termine, la pérdida debe aplicarse a la ronda actual.
 
-16.3.4.​   Pérdida de mapa.
+16.3.4.   Pérdida de mapa.
 
            Los árbitros pueden emitir una pérdida de mapa en las siguientes
            situaciones:
-               ●​ Un exploit tuvo un impacto significativo en el resultado de un mapa o
+               ● Un exploit tuvo un impacto significativo en el resultado de un mapa o
                    proporcionó una ventaja competitiva significativa no intencionada,
                    pero el mapa ha concluido y no es posible la reversión de la ronda o
                    la repetición de la misma.
-               ●​ Segundas infracciones por exploit de bajo impacto en las que no es
+               ● Segundas infracciones por exploit de bajo impacto en las que no es
                    posible el reinicio de ronda y/o remake no es posible.
-               ●​ Segundas infracciones por exploits o bugs de alto impacto mientras
+               ● Segundas infracciones por exploits o bugs de alto impacto mientras
                    el mapa se está jugando, y ya se ha aplicado una pérdida de ronda.
-               ●​ Casos que justifiquen una penalización inmediata, según la
+               ● Casos que justifiquen una penalización inmediata, según la
                    discreción de los oficiales del torneo.
 
-16.3.5.​   Pérdida por pérdida de partido.
+16.3.5.   Pérdida por pérdida de partido.
 
            Los Oficiales de Torneo pueden emitir una pérdida por incomparecencia para
            un Partido cuando las acciones del Personal de Equipo de uno de los
@@ -4509,7 +4509,7 @@ una vigencia de tres días.
                         fue detectado hasta que el Partido ya había concluido, y no hay medidas de
                         mitigación razonables disponibles.
 
-       16.4.​   Reglas de equipo sobre la revisión de exploits.
+       16.4.   Reglas de equipo sobre la revisión de exploits.
 
                 Las jugadoras y entrenadores pueden solicitar una revisión sobre el uso de
                 bugs/exploits. Si una jugadora o entrenador cree que se ha producido un bug o
@@ -4523,16 +4523,16 @@ una vigencia de tres días.
                 siguientes reglas se aplican a las jugadoras y entrenadores cuando solicitan la
                 revisión de un bug o exploit:
 
-                    ●​ Si se confirma la existencia de un bug o exploit, se informará a ambos
+                    ● Si se confirma la existencia de un bug o exploit, se informará a ambos
                        equipos y los oficiales del torneo evaluarán las acciones de rectificación
                        apropiadas para el bug o exploit.
-                    ●​ Si se revisa la reclamación de bug o exploit y el supuesto bug o exploit se
+                    ● Si se revisa la reclamación de bug o exploit y el supuesto bug o exploit se
                        considera que no se trata de un bug o exploit, el equipo que solicitó la
                        revisión perderá un tiempo fuera/ pausa táctica. Si no queda ningún tiempo
                        fuera, el Equipo recibirá una Pérdida de ronda en la siguiente ronda
                        inmediata por eliminación.
 
-       16.5.​   Decisiones finales bugs y exploits.
+       16.5.   Decisiones finales bugs y exploits.
 
                 Los oficiales del torneo tienen el derecho de evaluar y tomar la decisión final sobre
                 todos los bugs y exploit. Todas las decisiones referentes a la interpretación de estas
@@ -4542,7 +4542,7 @@ una vigencia de tres días.
                 o cualquier otro recurso legal o equitativo.
 
 
-17.​    Código de conducta.
+17.    Código de conducta.
 
         Cada Entidad de Equipo deberá cumplir y asegurarse de que todas las jugadoras,
         entrenadores, preparadores físicos, managers de equipo, propietarios de equipo, otros
@@ -4569,37 +4569,37 @@ una vigencia de tres días.
 
 
 
-       17.1.​      Código de conducta en general.
+       17.1.      Código de conducta en general.
 
-                17.1.1.​   Acciones Disciplinarias y Sanciones.
+                17.1.1.   Acciones Disciplinarias y Sanciones.
 
                            Una violación de este Conjunto de reglas de la competencia de Open
                            Qualifier o cualquier Regla complementaria de Riot y del Código de
                            Conducta Global de Esports de Riot Games aplicable dará lugar a medidas
                            disciplinarias o sanciones a discreción de la LVP y/o Riot.
 
-       17.2.​      Integridad Competitiva.
+       17.2.      Integridad Competitiva.
 
                    A continuación, se incluye una lista no exclusiva de ejemplos de conducta que tiene
                    un impacto adverso en la integridad competitiva del juego, todos los cuales están
                    prohibidos:
 
-                17.2.1.​   Ringing.
+                17.2.1.   Ringing.
 
                            Está prohibido jugar con la cuenta o Riot ID de otra jugadora, o solicitar o
                            inducir a otra persona a jugar con la cuenta o Riot ID de otra jugadora.
 
-                17.2.2.​   Incumplimiento.
+                17.2.2.   Incumplimiento.
 
                            Ningúna jugadora o entrenador puede negarse a cumplir con las
                            instrucciones o decisiones de la LVP o de los Oficiales de Open Qualifier.
 
-       17.3.​      Comportamiento no profesional o actos ilegales.
+       17.3.      Comportamiento no profesional o actos ilegales.
 
                    A continuación se incluye una lista no exclusiva de ejemplos de comportamiento
                    poco profesional o actividades ilegales, los cuales todos están prohibidos:
 
-                17.3.1.​   Violencia.
+                17.3.1.   Violencia.
 
                            Se espera que el Personal del Equipo resuelva sus diferencias de manera
                            respetuosa y sin recurrir a la violencia, las amenazas o la intimidación (física
@@ -4607,7 +4607,7 @@ una vigencia de tres días.
                            cualquier competidor, aficionado u oficial de la competencia.
 
 
-18.​    Confidencialidad.
+18.    Confidencialidad.
 
         El Personal del equipo no puede, sin el consentimiento de la LVP, divulgar ninguna
         información confidencial o de propiedad exclusiva proporcionada o puesta a disposición por
@@ -4636,7 +4636,7 @@ una vigencia de tres días.
         utilizada en eventos en vivo y otra información similar que se oculta a los fanáticos para
         preservar la "revelación" en un evento en línea o un evento en vivo.
 
-       18.1.​   Términos de Uso.
+       18.1.   Términos de Uso.
 
                 Cualquier conducta que (a) viole los Términos de uso de VALORANT; (b) viola
                 cualquier directriz o cualquier política publicada en los sitios web oficiales o cuentas
@@ -4644,19 +4644,19 @@ una vigencia de tres días.
                 por parte de otros, está prohibido y constituye una infracción de este Reglamento de
                 la competencia Game Changers.
 
-       18.2.​   Infracciones.
+       18.2.   Infracciones.
 
                 Luego de descubrir que cualquier miembro de un equipo ha cometido cualquier
                 violación a las reglas especificadas arriba, la LVP puede, sin limitación de su
                 autoridad, emitir sanciones a su consideración. Por ejemplo:
 
-                    ●​   Pérdida de la picks y bans para partidas actuales o futuras.
-                    ●​   Pérdida de selección de lado para partidas actuales o futuras.
-                    ●​   Multa(s) o renuncia(s) a premios.
-                    ●​   Pérdida de partidas.
-                    ●​   Pérdida de series.
-                    ●​   Suspensiones.
-                    ●​   Descalificaciones.
+                    ●   Pérdida de la picks y bans para partidas actuales o futuras.
+                    ●   Pérdida de selección de lado para partidas actuales o futuras.
+                    ●   Multa(s) o renuncia(s) a premios.
+                    ●   Pérdida de partidas.
+                    ●   Pérdida de series.
+                    ●   Suspensiones.
+                    ●   Descalificaciones.
 
                 Las infracciones repetidas serán sujeto de sanciones escaladas, hasta, e incluyendo,
                 descalificación de futuras participaciones en el Circuito Game Changers. Las
@@ -4665,7 +4665,7 @@ una vigencia de tres días.
                 que las competencias profesionales de Valorant se llevan a cabo (es decir, de febrero
                 a octubre).
 
-       18.3.​   Derecho a publicar.
+       18.3.   Derecho a publicar.
 
                 LVP tendrá el derecho de publicar una declaración en la que exponga que un
                 miembro del equipo fue sancionado. Cualquier miembro de equipo o equipo que
@@ -4674,9 +4674,9 @@ una vigencia de tres días.
                 sociedades matriz, subsidiarios, afiliados, empleados, agentes o contratistas.
 
 
-19.​    Reglamento Disciplinario.
+19.    Reglamento Disciplinario.
 
-       19.1.​   Acciones disciplinarias.
+       19.1.   Acciones disciplinarias.
 
                 Si los oficiales de Game Changers determinan que el personal del equipo o un
                 equipo ha cometido una violación del Reglamento de la competencia de Game
@@ -4684,10 +4684,10 @@ una vigencia de tres días.
                 Riot, LVP y los oficiales de Game Changers pueden tomar cualquiera o todas las
                 siguientes medidas disciplinarias:
 
-                    a)​ Verbal o advertencia(s) pública(s) por escrito
-                    b)​ Pérdida(s) del premio
-                    c)​ Confiscación(es) de juegos
-                    d)​ Confiscación(es) de torneos
+                    a) Verbal o advertencia(s) pública(s) por escrito
+                    b) Pérdida(s) del premio
+                    c) Confiscación(es) de juegos
+                    d) Confiscación(es) de torneos
 
 
                                                                                                            75
@@ -4697,25 +4697,25 @@ una vigencia de tres días.
                                                                         LVP, Liga de Videojuegos Profesional
 
 
-                   e)​ Confiscación(es) de una franja horaria
-                   f)​ Suspensión(es)
-                   g)​ Descalificación(es) y prohibición(es), incluidas las futuras Competiciones
+                   e) Confiscación(es) de una franja horaria
+                   f) Suspensión(es)
+                   g) Descalificación(es) y prohibición(es), incluidas las futuras Competiciones
                        Oficiales u otros eventos relacionados con VALORANT u otros videojuegos o
                        propiedades de esports que sean propiedad de Riot o sus afiliados o estén
                        bajo su control.
 
-                   (1)​ El tipo y alcance de las Acciones Disciplinarias que pueden imponerse se
+                   (1) El tipo y alcance de las Acciones Disciplinarias que pueden imponerse se
                         basa en las circunstancias específicas de cada caso, teniendo en cuenta la
                         gravedad de la infracción, así como las circunstancias agravantes y
                         atenuantes.
-                   (2)​ Las violaciones o infracciones repetidas pueden considerarse circunstancias
+                   (2) Las violaciones o infracciones repetidas pueden considerarse circunstancias
                         agravantes y pueden estar sujetas a sanciones progresivas.
-                   (3)​ Se pueden usar múltiples medidas en combinación para una sola infracción
+                   (3) Se pueden usar múltiples medidas en combinación para una sola infracción
                         cuando las circunstancias lo justifiquen.
-                   (4)​ Las infracciones están sujetas a acción, ya sea que se hayan cometido
+                   (4) Las infracciones están sujetas a acción, ya sea que se hayan cometido
                         intencionalmente o como parte de una broma, un truco o alguna forma de
                         actuación en las redes sociales.
-                   (5)​ Los intentos de cometer tales delitos o infracciones también están sujetos a
+                   (5) Los intentos de cometer tales delitos o infracciones también están sujetos a
                         sanción.
 
                 Si un Equipo o el Personal del Equipo ha sido previamente descalificado o prohibido
@@ -4730,9 +4730,9 @@ una vigencia de tres días.
                 prohibido participar en cualquier competencia oficial a menos que Riot lo permita
                 explícitamente.
 
-20.​    Reglamento de operaciones de partidos.
+20.    Reglamento de operaciones de partidos.
 
-       20.1.​   Ámbito de aplicación.
+       20.1.   Ámbito de aplicación.
 
                 La cooperación de los oficiales de Game Changers es fundamental para la entrega
                 sin problemas de un evento competitivo. Por ejemplo, el comportamiento de
@@ -4757,7 +4757,7 @@ una vigencia de tres días.
                                                                          LVP, Liga de Videojuegos Profesional
 
 
-       20.2.​   Retraso del juego.
+       20.2.   Retraso del juego.
 
                 Los equipos pueden ser sancionados por retraso del juego de acuerdo con el
                 siguiente calendario de sanciones. Los Oficiales de Game Changers tienen el
@@ -4784,7 +4784,7 @@ una vigencia de tres días.
                 decisiones caso por caso a la luz de las circunstancias particulares de cada caso.
                 Las multas podrán incrementarse por cada caso adicional de reincidencia.
 
-       20.3.​   Incumplimiento.
+       20.3.   Incumplimiento.
 
                 Las jugadoras, entrenadores y otro personal del equipo deben cooperar con los
                 oficiales de Game Changers y cumplir con las instrucciones de manera rápida y
@@ -4793,9 +4793,9 @@ una vigencia de tres días.
                 además de otras Acciones Disciplinarias.
 
 
-21.​    Reglamento de Comportamiento del Personal del Equipo.
+21.    Reglamento de Comportamiento del Personal del Equipo.
 
-       21.1.​   Ámbito de aplicación.
+       21.1.   Ámbito de aplicación.
 
                 Los oficiales de Game Changers, la seguridad del evento, el personal encargado de
                 los equipos y otro personal de la competencia que trabaja en calidad oficial, ocupan
@@ -4826,37 +4826,37 @@ una vigencia de tres días.
          fiesta, los sitios destacados y todos los demás lugares oficiales designados por Riot
          o la LVP.
 
-21.2.​   Comportamiento poco profesional u hostil.
+21.2.   Comportamiento poco profesional u hostil.
 
          Los siguientes comportamientos serán considerados un incumplimiento de estas
          normas de comportamiento del Personal del Equipo.
 
-             ●​ Comportamiento poco profesional: Cualquier comportamiento que impida
+             ● Comportamiento poco profesional: Cualquier comportamiento que impida
                 el buen desarrollo de la competencia, o impida que el personal de la
                 competencia se desempeñe en su capacidad oficial en la competencia.
 
-             ●​ Comportamiento Hostil: Cualquier comportamiento que se considere o
+             ● Comportamiento Hostil: Cualquier comportamiento que se considere o
                 pueda considerarse agresivo o grosero. Por ejemplo, dicho comportamiento
                 incluye, entre otros, gritarle al personal de la competencia, ser beligerante
                 con el personal de la competencia o negarse a cooperar con el personal de
                 la competencia.
 
-             ●​ Incumplimiento de Instrucciones: las jugadoras, entrenadores y otro
+             ● Incumplimiento de Instrucciones: las jugadoras, entrenadores y otro
                 personal del equipo deben cumplir con las instrucciones de los oficiales de
                 Game Changers. Se permite una discusión razonable con respecto a una
                 instrucción. Sin embargo, el Personal del Equipo debe cooperar con los
                 Oficiales de Game Changers en la ejecución de esas instrucciones.
 
-21.3.​   Comportamiento excluido.
+21.3.   Comportamiento excluido.
 
          Los comportamientos que generalmente se consideran de naturaleza poco ética o
          las infracciones del Código de conducta (sección 17. Código de Conducta) u otras
          normas de deportes electrónicos de Riot no se sancionarán adicionalmente en virtud
          de estas normas de conducta del personal del equipo.
 
-21.4.​   Investigación por parte del Operador del Torneo.
+21.4.   Investigación por parte del Operador del Torneo.
 
-             ●​ Riot, la LVP y los Oficiales de Game Changers, tendrán derecho a controlar
+             ● Riot, la LVP y los Oficiales de Game Changers, tendrán derecho a controlar
                 el cumplimiento de este Conjunto de reglas de competencia de Game
                 Changers y cualquier Reglamento de Riot aplicable a las Ligas Game
                 Changers e investigar posibles infracciones. Al aceptar este Conjunto de
@@ -4865,12 +4865,12 @@ una vigencia de tres días.
                 investigación interna o externa realizada en relación con una supuesta
                 infracción.
 
-             ●​ El Personal del Equipo tiene el deber de decir la verdad en relación con
+             ● El Personal del Equipo tiene el deber de decir la verdad en relación con
                 cualquier investigación realizada por o para Riot y el Operador del Torneo y
                 tiene el deber adicional de no obstruir dicha investigación, engañar a los
                 investigadores u ocultar pruebas.
 
-             ●​ Riot y la LVP tendrán derecho a publicar una declaración que establezca que
+             ● Riot y la LVP tendrán derecho a publicar una declaración que establezca que
                 el Personal del Equipo y/o un Equipo han sido penalizados. Cualquier
                 miembro del equipo y/o equipo al que se pueda hacer referencia en dicha
                 declaración renuncia a cualquier derecho de acción legal contra el operador
@@ -4894,9 +4894,9 @@ una vigencia de tres días.
 
 
 
-22.​    Limitaciones de responsabilidad.
+22.    Limitaciones de responsabilidad.
 
-       22.1.​   Sin daños punitivos.
+       22.1.   Sin daños punitivos.
 
                 En la máxima medida permitida por la Ley aplicable, ni Riot, la LVP ni ninguno de sus
                 respectivos afiliados o licenciantes (colectivamente, las "Partes de Riot") serán
@@ -4909,7 +4909,7 @@ una vigencia de tres días.
                 Party tiene la culpa e incluso si Riot Party es consciente de la posibilidad de tales
                 daños.
 
-       22.2.​   Límite de responsabilidad.
+       22.2.   Límite de responsabilidad.
 
                 En la medida máxima permitida por la Ley aplicable, la responsabilidad agregada de
                 las Partes de Riot que surja de o en relación con este Conjunto de reglas de la
@@ -4923,12 +4923,12 @@ una vigencia de tres días.
                 además de las expresamente establecidas en esta Sección.
 
 
-23.​    Uso de imagen.
+23.    Uso de imagen.
 
         Tanto los equipos que participan en la Game Changers como su Alineación y demás
         miembros aceptan expresamente que:
 
-            ●​ Se realicen filmaciones, grabaciones y se tomen fotografías de su persona, graben
+            ● Se realicen filmaciones, grabaciones y se tomen fotografías de su persona, graben
                su voz, conversaciones, dichos, hechos y sonidos, durante y en conexión con mi
                participación en la competencia (en adelante, los “Materiales”). Autorizan a la LVP a
                exhibir, reproducir o publicar en cualquier forma tales fotografías, filmaciones y/o
@@ -4939,7 +4939,7 @@ una vigencia de tres días.
                que las filmaciones, grabaciones e imágenes resultantes sean exhibidas,
                reproducidas o publicadas por la LVP.
 
-            ●​ Aceptan que la LVP será dueña exclusiva de los resultados y ganancias de los
+            ● Aceptan que la LVP será dueña exclusiva de los resultados y ganancias de los
                Materiales con derecho al registro de propiedad intelectual, al uso y otorgamiento de
                permisos para que otros lo usen, en cualquier forma y mediante cualquier medio. En
 
@@ -4961,7 +4961,7 @@ una vigencia de tres días.
                 “streaming”, descargas (“downloads”), “podcasting” y “wireless media”), en su
                 totalidad o en una porción, con cualquier finalidad, sin límite de tiempo.
 
-            ●​ Autorizan expresamente a la LVP a realizar distribuciones o reproducciones de los
+            ● Autorizan expresamente a la LVP a realizar distribuciones o reproducciones de los
                Materiales a través de cualquier soporte, incluyendo sin limitación alguna, soportes
                de audio, libros, Compact Disc, DVD, fotografías, imágenes tridimensionales,
                holográficas, grabaciones digitales, CD-ROM, redes informáticas o televisación
@@ -4975,9 +4975,9 @@ una vigencia de tres días.
 
 
 
-24.​    Resolución de conflictos.
+24.    Resolución de conflictos.
 
-       24.1.​   Finalidad de ciertas decisiones
+       24.1.   Finalidad de ciertas decisiones
 
                 Todas las decisiones relacionadas con la elegibilidad de las jugadoras, las
                 restricciones de los patrocinadores, la programación y organización de la
@@ -4988,7 +4988,7 @@ una vigencia de tres días.
                 Game Changers son definitivas y vinculantes y no darán lugar a ningún reclamo por
                 daños monetarios o cualquier otro recurso.
 
-       24.2.​   Recursos
+       24.2.   Recursos
 
                 Sin perjuicio de lo anterior, Riot y la LVP tendrán derecho a iniciar y llevar a cabo
                 cualquier acción o procedimiento ante cualquier tribunal de jurisdicción competente
@@ -5002,9 +5002,9 @@ una vigencia de tres días.
                 Evento de Medios o distribuyan transmisiones u otro contenido audiovisual.
 
 
-25.​    Construcción, Reformas y Otras Disposiciones Generales.
+25.    Construcción, Reformas y Otras Disposiciones Generales.
 
-       25.1.​   Prioridad y Conflictos.
+       25.1.   Prioridad y Conflictos.
 
                 En caso de conflicto entre (a) cualquier término de este Reglamento de la
                 competencia Game Changers y los términos de un Acuerdo de participación del
@@ -5026,7 +5026,7 @@ una vigencia de tres días.
          Game Changers o el Documento de orientación serán adicionales y no reemplazarán
          a los recursos establecidos en un Acuerdo de participación del equipo.
 
-25.2.​   Enmiendas al Reglamento de Competición de Game Changers.
+25.2.   Enmiendas al Reglamento de Competición de Game Changers.
 
          Este Reglamento de la competencia Game Changers puede ser enmendado,
          modificado, actualizado o complementado por la LVP y Riot de vez en cuando,
@@ -5039,7 +5039,7 @@ una vigencia de tres días.
          complementar este Reglamento de la Competición Game Changers sin participar en
          tales discusiones.
 
-25.3.​   Consentimientos y aprobaciones.
+25.3.   Consentimientos y aprobaciones.
 
          Siempre que este Reglamento de la competencia Game Changers otorgue, confiera
          o reserve a Riot o la LVP el derecho a tomar medidas, abstenerse de tomar medidas,
@@ -5052,7 +5052,7 @@ una vigencia de tres días.
          el juicio comercial de Riot, entonces una corte, juez, tribunal o árbitro que revise esas
          actividades o decisiones no sustituirá su propio juicio por el juicio de Riot.
 
-25.4.​   Construcción.
+25.4.   Construcción.
 
          A los efectos de este Reglamento de la competencia Game Changers, (a) se
          considerará que las palabras "incluir", "incluye" e "incluido" van seguidas de las
@@ -5079,14 +5079,14 @@ una vigencia de tres días.
                                                                         LVP, Liga de Videojuegos Profesional
 
 
-       25.5.​   Idioma.
+       25.5.   Idioma.
 
                 El Reglamento original de la competencia Game Changers ha sido escrito en inglés.
                 En el caso de un conflicto no intencional en la interpretación entre la versión en
                 inglés y dicha traducción, prevalecerá la versión en inglés.
 
 
-26.​    Registro de cambios.
+26.    Registro de cambios.
 
 
 
@@ -5337,3 +5337,12 @@ consideration of all mitigating and aggravating factors. If circumstances justif
 
 
                                                                                                                 86
+
+## Links presentes no documento
+
+- https://drive.google.com/file/d/1lptFBawIeUBmWYQ3pTuvk_5YjtYPMC3n/view?usp=sharing
+- mailto:esports.val@lvp.global
+- https://twitter.com/valesports_la
+- https://www.instagram.com/valesports_la/
+- https://www.bbva.mx/personas/informacion-financiera-al-dia.html
+- https://assets.contentstack.io/v3/assets/bltad9188aa9a70543a/bltf893230f8716e3e8/656ec88f57c74cb04d28c286/SPA_MEX_RiotGames_Esports-GlobalCodeofConduct-2023.11.27.pdf?disposition=inline

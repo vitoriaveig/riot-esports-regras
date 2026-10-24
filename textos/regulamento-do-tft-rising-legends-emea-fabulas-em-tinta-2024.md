@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news/df6226905bc12e85edd228abfc7c4cfa
 sha256: "4b502314c1d15483d728af52c663c4ac02ac25a3852abc4931ffa14bdf0ce284"
 paginas: "41"
 idioma: "pt"
-baixado_em: "2026-10-24T20:32:43Z"
+baixado_em: "2026-10-24T20:58:17Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -860,7 +860,7 @@ uymytqyÿtÿqÿmÿnqryqyrÿqtsÿtsmÿnÿny
 
                                        ÿ ¡ÿ¢£¤¥¦¢ÿ¡£¥§ÿ̈©ª©«ÿ
                                        ÿ
-                                     ÿ¬­®¯§°±¦ÿ­²¦§²¢³ÿ́µ¶·¤¥µÿ­·¨¬¢ÿ
+                                     ÿ¬®¯§°±¦ÿ²¦§²¢³ÿ́µ¶·¤¥µÿ·¨¬¢ÿ
                                                                                                   ÿ̧ÿ
 
 <!-- página 9 -->
@@ -966,7 +966,7 @@ uymytqyÿtÿqÿmÿnqryqyrÿqtsÿtsmÿnÿny
  ÿ^ÿ ÿabhhcÿbegbÿÿechfhcÿ
       ^^ÿ ÿ
       ÿ      ¡¢¢£¤£¥¦ÿ§¨©ª£«¨ÿ
-           ­®¯®¯®ÿ ÿ
+           ®¯®¯®ÿ ÿ
            ÿ         Hqqÿÿ
                          EMMxxrqÿÿrzzEvzJuJzLKÿÿ  v|{rLJKÿÿ LEvtzruJzLÿÿ xzMEturLxEzÿÿ
                                                                                           rz{ÿ

@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news/5e02c4f2436d9cdc7f6ff8fa9e846669
 sha256: "90cadb8e2372be3e7b1a41d9f50a99c5a396a56ff78a1280f360d1f5787354bf"
 paginas: "7"
 idioma: "en"
-baixado_em: "2026-10-24T20:33:40Z"
+baixado_em: "2026-10-24T20:59:33Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -360,3 +360,8 @@ If you have any questions or concerns about this Privacy Notice, please contact 
 
 
                                                                                                                                            7
+
+## Links presentes no documento
+
+- https://euw.leagueoflegends.com/en/legal/privacy
+- mailto:dpo@riotgames.com

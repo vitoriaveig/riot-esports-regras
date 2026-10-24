@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news_live/8fbec2a81955a1ebd38d9803a2c
 sha256: "8be0b7937eac44a4e44fb9106b441e4533496d30e44c63489345f52173fb0468"
 paginas: "7"
 idioma: "en"
-baixado_em: "2026-10-24T20:31:43Z"
+baixado_em: "2026-10-24T20:57:11Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -19,8 +19,8 @@ fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.ri
 Masters Toronto Event-Specific Ruleset
 
 <!-- página 2 -->
-1.​   Introduction and Purpose
-      1.1.​ Background
+1.   Introduction and Purpose
+      1.1. Background
       VALORANT Champions Tour LLC, a Delaware limited liability company (“League
       Entity”), along with its affiliates (collectively, “Riot”), organizes a series of regional,
       cross-regional, and international esports tournaments and related media events under the
@@ -36,28 +36,28 @@ Masters Toronto Event-Specific Ruleset
       The 2025 Masters Toronto event is an international esports tournament (“International
       Competition”) held as part of the VCT.
 
-      1.2.​ Purpose
+      1.2. Purpose
       The League Entity has created this Masters Toronto Event-Specific Ruleset (the
       “Event-Specific Ruleset”) to set forth certain policies, rules, and procedures that will
       apply to all Teams participating in the Masters Toronto event. This Event-Specific
       Ruleset is in addition to, and not in lieu of, the VALORANT Official Competition
       Ruleset (the “Competition Ruleset”) and the VCT25 Roster Construction Rules (the
       “RCR”).
-         ●​ Link to Competition Ruleset
-         ●​ Link to RCR
+         ● Link to Competition Ruleset
+         ● Link to RCR
 
 <!-- página 3 -->
-2.​   VCT Masters Toronto Event Structure
-      2.1.​ Competitive Format
-         ●​ 12 Teams
-         ●​ 8 Team Swiss System Format (“Group Stage”) with the #2 and #3 seed Teams
+2.   VCT Masters Toronto Event Structure
+      2.1. Competitive Format
+         ● 12 Teams
+         ● 8 Team Swiss System Format (“Group Stage”) with the #2 and #3 seed Teams
             from the respective VCT Leagues
-         ●​ The top four teams from the Group Stage and the four #1 seed Teams from the
+         ● The top four teams from the Group Stage and the four #1 seed Teams from the
             respective VCT Leagues qualify for an 8 team double-elimination bracket
             (“Playoff Stage”)
-         ●​ All matches are best-of-three; Lower Finals and Grand Finals are best-of-five
+         ● All matches are best-of-three; Lower Finals and Grand Finals are best-of-five
 
-      2.2.​ Seeding and Groups
+      2.2. Seeding and Groups
       The Group Stage Draw will include the eight #2 and #3 seed Teams from the respective
       VCT Leagues who qualified for Masters Toronto. The Group Stage of Masters Toronto
       will feature a three (3) round Swiss format. Teams will need two (2) wins to progress to
@@ -73,8 +73,8 @@ Masters Toronto Event-Specific Ruleset
       were drawn into the last slot (i.e. Match 4, Slot 2), they will swap with the team
       immediately before them until a valid draw is complete.
 
-      Pool 1 - Am #2, CN #2, EMEA #2, Pac #2​ ​
-      ​Pool 2 - Am #3, CN #3, EMEA #3, Pac #3​ ​
+      Pool 1 - Am #2, CN #2, EMEA #2, Pac #2 
+      Pool 2 - Am #3, CN #3, EMEA #3, Pac #3 
 
 
 
@@ -95,11 +95,11 @@ won their first match in Round 1 will be in a common pool. Teams who lost their 
 match in Round 1 will be in a separate, common pool.
 
 Teams from the same region are eligible to face each other in Rounds 2 and 3. Teams are
-placed into the bracket using a random draw.​
+placed into the bracket using a random draw.
 
-Pool Assignments: ​
-​      Pool 1 - Team 1-0, Team 1-0, Team 1-0, Team 1-0
-​      Pool 2 - Team 0-1, Team 0-1, Team 0-1, Team 0-1
+Pool Assignments: 
+      Pool 1 - Team 1-0, Team 1-0, Team 1-0, Team 1-0
+      Pool 2 - Team 0-1, Team 0-1, Team 0-1, Team 0-1
 
 Round 2 - Seeding
 
@@ -115,10 +115,10 @@ Teams from the same region are eligible to face each other in Rounds 2 and 3. Re
 from within the Masters Toronto Group Stage are not permitted. If a team is drawn into a
 matchup that has already been played at Masters Toronto, they will be placed in the next
 available spot. If they were drawn into the last slot (i.e. Match 2, Slot 2), they will swap
-with the team immediately before them until a valid draw is complete.​
+with the team immediately before them until a valid draw is complete.
 
-Pool Assignments: ​
-​      Pool 1 - Team 1-1, Team 1-1, Team 1-1, Team 1-1
+Pool Assignments: 
+      Pool 1 - Team 1-1, Team 1-1, Team 1-1, Team 1-1
 
 Round 3 - Seeding
 
@@ -138,9 +138,9 @@ Playoffs - Draw
       Another #1 seed Team cannot be selected. However, regional selections are legal.
 
 
-      Pool Assignments: ​
-      ​      Pool 1 - #1 Seed Teams​      ​     ​
-      ​      Pool 2 - Team 2-0, Team 2-0, Team 2-1, Team 2-1
+      Pool Assignments: 
+            Pool 1 - #1 Seed Teams           
+            Pool 2 - Team 2-0, Team 2-0, Team 2-1, Team 2-1
 
 
 
@@ -153,8 +153,8 @@ Playoffs - Draw
       Lower Semifinals, Lower Finals and Grand Finals, the team coming from the Upper
       bracket will automatically be the higher seed, regardless of Pool.
 
-3.​   Roster Rules
-      3.1.​ Starting Rosters
+3.   Roster Rules
+      3.1. Starting Rosters
       For each match of the International Competition, the Team must designate ﬁve (5)
       starters from the Team’s Active Roster (as defined in the VCT25 Roster Construction
       Rules), which shall constitute the Team’s “Starting Roster”. Rosters are considered
@@ -165,7 +165,7 @@ Playoffs - Draw
          submitted no later than 10:00pm local time, or an hour after the conclusion of the final
          game of the day, whichever is the latest, the day prior to the team’s match.
 
-         3.2.​ Substitutions during Tournament Play
+         3.2. Substitutions during Tournament Play
          For Matches involving more than one map (i.e., a best-of-three or best-of-five Match), a
          Team may replace their then-current starters with substitutes from the Team’s Active
          Roster (as defined in the VCT25 Roster Construction Rules) in between maps, provided
@@ -176,7 +176,7 @@ Playoffs - Draw
          the Match Area and will be given seven (7) minutes to complete the setup process.
 
 
-4.​      Accommodations and Player Practice Rooms
+4.      Accommodations and Player Practice Rooms
          All twelve Teams will be provided with accommodations and player practice rooms for
          the required five (5) starters, up to one (1) substitute, one (1) Head Coach, and one (1)
          team manager who have earned the right to participate in International Competitions held
@@ -187,13 +187,13 @@ Playoffs - Draw
          the League, Teams are prohibited from using other accommodations or player practice
          rooms during the course of the event.
 
-5.​      Competitive Patch
+5.      Competitive Patch
          All matches will be played on patch version 10.10.
 
-6.​      Map Pool
+6.      Map Pool
          The map pool consists of Ascent, Haven, Icebox, Lotus, Pearl, Split, and Sunset.
 
-7.​      Prize Money
+7.      Prize Money
 
       Placement         Prize
          1st         $350,000.00
@@ -214,7 +214,7 @@ Playoffs - Draw
 
 
 
-8.​   Travel and Expenses
+8.   Travel and Expenses
       For the required five (5) starters, up to one (1) substitute, one (1) Head Coach, and one
       (1) team manager per Team who have earned the right to participate in International
       Competitions held as part of the VCT, the League Entity will provide reasonable travel,
@@ -230,7 +230,7 @@ Playoffs - Draw
       reasonable travel, accommodation and meals or reimbursement for the foregoing while
       such player competes at the International Competition held as part of the VCT.
 
-9.​   Priority and Conflicts.
+9.   Priority and Conflicts.
       In the event of a conflict between (a) any term of this Event-Specific Ruleset, the
       Competition Ruleset, and the terms of a Team Participation Agreement, or (b) any term
       of this Event-Specific Ruleset and the terms of a Guidance Document, the League Entity,
@@ -238,3 +238,8 @@ Playoffs - Draw
       remedies set forth in this Event-Specific Ruleset or a Guidance Document shall be in
       addition to, and shall not supersede, any remedies set forth a Team Participation
       Agreement.
+
+## Links presentes no documento
+
+- https://cdn.sanity.io/files/dsfx7636/news/b2626c898b248fe08f7cf5425d5b54e3deb1db31.pdf
+- https://cdn.sanity.io/files/dsfx7636/news/fd836048e4e3eb6131400d51cd9b4a04475be38c.pdf

@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news/d29599901e40e92b717921fd4b2e2d30
 sha256: "dacda6a3efaf1a3616b547213200f0330328d6ed52fae1675204292c460b5631"
 paginas: "9"
 idioma: "en"
-baixado_em: "2026-10-24T20:33:11Z"
+baixado_em: "2026-10-24T20:58:57Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -143,3 +143,8 @@ VCT ‘23
 
 
                                     CONFIDENTIAL
+
+## Links presentes no documento
+
+- https://www.dropbox.com/s/4pr4dpk7z2vycos/Co-Streaming%20Terms%20and%20Conditions%20%28VCT%202023%20Lock-in%29%20%5Bdrops%5D.pdf?dl=0
+- https://www.riotgames.com/en/legal

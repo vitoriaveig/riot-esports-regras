@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news/9a20c12b1be4794b6e6c2c9a2e78a16f
 sha256: "9c6bf211808f886f9249bfeeca567f5ef19b6966efd9e742418b59e03e2ae9d2"
 paginas: "35"
 idioma: "en"
-baixado_em: "2026-10-24T20:33:03Z"
+baixado_em: "2026-10-24T20:58:49Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -1754,3 +1754,12 @@ Exhibits   Added Exhibits B, C, D & E.
                          Contract Database.
 
 28.06.2023   Exhibit A   n/a                                      Added Penalty Index
+
+## Links presentes no documento
+
+- https://docs.google.com/document/d/1RpsIoF4kBCsXaWIoCE98ucywj1E_YXQiGBcvqyEIkgk/edit#heading=h.xzcgaeq65fyo
+- https://docs.google.com/document/d/1RpsIoF4kBCsXaWIoCE98ucywj1E_YXQiGBcvqyEIkgk/edit#heading=h.nhx97979p41e
+- https://docs.google.com/document/d/1RpsIoF4kBCsXaWIoCE98ucywj1E_YXQiGBcvqyEIkgk/edit#heading=h.3n8a3nx9ilgz
+- https://docs.google.com/document/d/1RpsIoF4kBCsXaWIoCE98ucywj1E_YXQiGBcvqyEIkgk/edit#heading=h.18suote9j3nm
+- https://docs.google.com/document/d/1RpsIoF4kBCsXaWIoCE98ucywj1E_YXQiGBcvqyEIkgk/edit#heading=h.21ksc5k9g5lj
+- https://docs.google.com/document/d/1RpsIoF4kBCsXaWIoCE98ucywj1E_YXQiGBcvqyEIkgk/edit#heading=h.39dhdorcvz2m

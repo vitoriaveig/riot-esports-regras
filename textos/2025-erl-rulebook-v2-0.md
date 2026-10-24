@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news/f068037e8869f9ec647a2caef1b56f50
 sha256: "e535b4d0b4fe8d6ba6a45239125ec06d4e7321256307246990ac6e7f9525a516"
 paginas: "62"
 idioma: "en"
-baixado_em: "2026-10-24T20:32:29Z"
+baixado_em: "2026-10-24T20:58:00Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -2778,3 +2778,13 @@ Version 2.0; 20th November 2024
 
 Version 2.0; 20th November 2024
                                                                                                    62
+
+## Links presentes no documento
+
+- mailto:erl-team@riotgames.com
+- https://assets.contentstack.io/v3/assets/blt6b44d0e0eb15833b/blt1398ca90bf4d67b6/6571f68f9c568179e1785f79/EMEA_LOL_Player_Loan_Policy_07.12.23.pdf
+- https://www.emea-competitiveops.com/
+- https://riot.eurcommunitycompetition.com/
+- https://docs.google.com/spreadsheets/d/1Y7k5kQ2AegbuyiGwEPsa62e883FYVtHqr6UVut9RC4o/pubhtml#
+- https://esports-assets.s3.amazonaws.com/production/files/rules/Esports_Global_Penalty_Index.pdf
+- https://cmsassets.rgpub.io/sanity/files/dsfx7636/news/2e711dd42c1ebeb3ad2a5954b919a4016b740ac7.pdf

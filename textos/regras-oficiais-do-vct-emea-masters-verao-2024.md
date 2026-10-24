@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news/e8a76d9bde2dd00efadca9b313a699c5
 sha256: "dce81a8d11d624cbe5f2791a18de3f1796de4ee3ab0c89b24a9bc116bc36f4e5"
 paginas: "58"
 idioma: "en"
-baixado_em: "2026-10-24T20:33:13Z"
+baixado_em: "2026-10-24T20:58:59Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -2497,3 +2497,11 @@ Version 2.2; 28th June 2024
 
 Version 2.2; 28th June 2024
                                               58
+
+## Links presentes no documento
+
+- https://www.emea-competitiveops.com/
+- mailto:erl-team@riotgames.com
+- https://docs.google.com/spreadsheets/d/e/2PACX-1vSO1Hn7Pu61_T-giLGTpbuuFJXY-sNV-bShtualAJ12QU2O_cJVSQOAdWGuS3q47DYR3CBndNF-6QxL/pubhtml
+- https://docs.google.com/spreadsheets/d/1Y7k5kQ2AegbuyiGwEPsa62e883FYVtHqr6UVut9RC4o/pubhtml#
+- https://esports-assets.s3.amazonaws.com/production/files/rules/Esports_Global_Penalty_Index.pdf

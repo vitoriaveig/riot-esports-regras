@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news/0e203e95bc55d49720e5fe3d25ed6305
 sha256: "8e94f007652a8d0e2621b4ba9a6a5f89f5148bd7303be48d390cadf802114d91"
 paginas: "35"
 idioma: "en"
-baixado_em: "2026-10-24T20:32:11Z"
+baixado_em: "2026-10-24T20:57:41Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -1723,3 +1723,8 @@ forbidden for use in the                                 Round               Tou
 tournament)                                              Suspension          and/or
                                                                              competitive
                                                                              suspension
+
+## Links presentes no documento
+
+- https://www.riotgames.com/en/terms-of-service
+- https://bit.ly/tftesportsdiscord

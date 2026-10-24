@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news/7e64f59ecae57d4675f15b2069e009c4
 sha256: "2594b63b6a3b9041acc62f347af3426c2983a1ec4a87ab0ded71a5d08142c564"
 paginas: "19"
 idioma: "en"
-baixado_em: "2026-10-24T20:32:31Z"
+baixado_em: "2026-10-24T20:58:04Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -906,3 +906,8 @@ Date          Section        Previous rule                              Updated 
                                                                      to any international League-Events).
 
 20.11.2024.   Exhibits   Exhibit J Competition format                Removed.
+
+## Links presentes no documento
+
+- https://docs.google.com/document/d/1Uh78LeLStBH7WJ1Tm9gTUJna3DucWjmukzbGQRpjkhw/edit?tab=t.0#heading=h.pmfff38apfk
+- https://riot.eurcommunitycompetition.com/

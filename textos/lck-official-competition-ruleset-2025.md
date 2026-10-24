@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news_live/3e74c542dd1efc5c07529772e4b
 sha256: "6595f5c7dc5c2c6a8a24edf3dfd9d0b9038018a6fe8b242ba198513641d15d99"
 paginas: "79"
 idioma: "ko"
-baixado_em: "2026-10-24T20:31:20Z"
+baixado_em: "2026-10-24T20:56:45Z"
 tambem_listado_como: "lck-lck-cl-event-specific-ruleset-2025"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---

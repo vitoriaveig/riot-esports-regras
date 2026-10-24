@@ -11,14 +11,14 @@ url: "https://cdn.sanity.io/files/dsfx7636/news/ca195b2858f04a6bb3a01f637605be32
 sha256: "e63dacc8dc4aa4e21f192055b3de531c0bacfb70e389e4bbd458f3f18be172dd"
 paginas: "8"
 idioma: "en"
-baixado_em: "2026-10-24T20:32:48Z"
+baixado_em: "2026-10-24T20:58:23Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
 GLOBAL RULES
-The Global Contract Database can be viewed here​.
+The Global Contract Database can be viewed here.
 
-The Global Suspension Database can be viewed here​.
+The Global Suspension Database can be viewed here.
 
 
 INTERREGIONAL ANTI-POACHING AND
@@ -308,3 +308,8 @@ Masters & NLB), and Southeast Asia/Taiwan (GPL & LNL) handling their regional
 residency requirements individually. The NA and EU requirement provides a robust
 framework that will not only preserve regional identity in the future, but permit a healthy
 amount of movement between regions that is to the benefit of esports as a whole
+
+## Links presentes no documento
+
+- https://docs.google.com/spreadsheets/d/1Y7k5kQ2AegbuyiGwEPsa62e883FYVtHqr6UVut9RC4o/pubhtml
+- https://docs.google.com/spreadsheets/d/1W9GCSMN3owr6B4pHIW2Pq1ywIBMTg8adtbWq414fGvw/pubhtml

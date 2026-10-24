@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news/ac5dbd984fabbfdb0ccd3d529ae8254f
 sha256: "11670659a7b50c09abbb1000270dcf3d6adc2671b42da44662b24597ca7c8f48"
 paginas: "43"
 idioma: "en"
-baixado_em: "2026-10-24T20:33:45Z"
+baixado_em: "2026-10-24T21:00:59Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->

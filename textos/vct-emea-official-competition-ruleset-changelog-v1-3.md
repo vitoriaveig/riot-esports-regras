@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news_live/e69ef6bceb14c4ecbaee6c68648
 sha256: "2d3c0c554a822a0b8726ae0b3d61290a94888db460ebc19a9258be561ddf9f50"
 paginas: "4"
 idioma: "en"
-baixado_em: "2026-10-24T20:31:32Z"
+baixado_em: "2026-10-24T20:56:58Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -88,7 +88,7 @@ Date         Section   Previous Rule                              Updated Rule
 
 29/02/2025   4.7       Requests to modify a Team’s Starting       Requests to modify a Team’s Starting
                        Roster for a Match during a                Roster for a Match during a
-                       competition ​   week must be               competition ​      week must be
+                       competition    week must be               competition       week must be
                        submitted to League Officials no later     submitted to League Officials 24 hours
                        than 17:00 CET/CEST on the day prior       prior to the first Match of the Match
                        to the Match.                              day.

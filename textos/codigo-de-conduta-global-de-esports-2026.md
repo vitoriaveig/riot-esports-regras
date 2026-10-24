@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news_live/1e8a0de5885cfd0a0923985637f
 sha256: "72896e0dc5bdf2f3604d6a5cbf6678987bad202a51e7803e5cc1d109e0194932"
 paginas: "28"
 idioma: "en"
-baixado_em: "2026-10-24T20:30:53Z"
+baixado_em: "2026-10-24T20:56:10Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -954,3 +954,7 @@ Back to Table of Contents
 
                                                                                                           28
 Back to Table of Contents
+
+## Links presentes no documento
+
+- https://www.riotgames.com/en/terms-of-service

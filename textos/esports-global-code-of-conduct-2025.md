@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news/83a85618d1520a2f7b22ddf265b51bfb
 sha256: "603b4f52a1d191f51648cc3cc1cdcb9ecde257719a8772000d8e6b48a399e50f"
 paginas: "26"
 idioma: "en"
-baixado_em: "2026-10-24T20:29:55Z"
+baixado_em: "2026-10-24T20:54:56Z"
 tambem_listado_como: "codigo-de-conduta-global-de-esports-2025"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
@@ -909,3 +909,7 @@ Back to Table of Contents
 
                                                                                                           26
 Back to Table of Contents
+
+## Links presentes no documento
+
+- https://www.riotgames.com/en/terms-of-service

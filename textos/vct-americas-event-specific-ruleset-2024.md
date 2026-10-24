@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news/5f681e2ff975590360933ccce3656150
 sha256: "b8a671e02e08693afa52426845159880ca572fca6f28f64c694c2a76f99826aa"
 paginas: "18"
 idioma: "en"
-baixado_em: "2026-10-24T20:33:36Z"
+baixado_em: "2026-10-24T20:59:29Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -824,3 +824,10 @@ as they would in the studio.
 
 
                                                                                                 18
+
+## Links presentes no documento
+
+- https://www.dropbox.com/sh/xfy0lbve0hdr0ju/AADJvsARxPlKGBHmsKFaKghAa/Rules%20and%20Policies%202024/VCT24?dl=0&preview=Valorant+Official+Competition+Ruleset.pdf&subfolder_nav_tracking=1
+- https://www.dropbox.com/sh/xfy0lbve0hdr0ju/AADJvsARxPlKGBHmsKFaKghAa/Rules%20and%20Policies%202024/VCT24?dl=0&preview=VCT24+Roster+Construction+Rules.docx.pdf&subfolder_nav_tracking=1
+- https://docs.google.com/presentation/d/1FC0wlW-xuEFu5RzQSwGaznN_c6qmntd6Rf_ABFAPpGE/edit?usp=sharing
+- http://publichealth.lacounty.gov/media/Coronavirus/data/response-plan.htm

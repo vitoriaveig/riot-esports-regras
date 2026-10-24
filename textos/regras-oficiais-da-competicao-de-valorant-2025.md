@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news/b2626c898b248fe08f7cf5425d5b54e3
 sha256: "fbabef48137e30aa0b53bd905d99b88165b1f658e3397bc0a07a02fd3a4e277a"
 paginas: "45"
 idioma: "en"
-baixado_em: "2026-10-24T20:32:19Z"
+baixado_em: "2026-10-24T20:57:51Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -21,167 +21,167 @@ VALORANT Official Competition Ruleset
 
 <!-- página 2 -->
                                     Table of Contents
-1. Introduction and Purpose​                                           6
-    1.1. Background.​                                                  6
-    1.2. Purpose.​                                                     6
-    1.3. Acknowledgement and Acceptance.​                              6
-    1.4. Application of the Competition Ruleset.​                      7
-    1.5. Disciplinary Action.​                                         7
-    1.6. Defined Terms.​                                               7
-2. Equipment and Peripherals​                                          8
-    2.1. Team-owned Equipment​                                         8
-        2.1.1. Permitted Player-Owned or Team-Owned Equipment.​        8
-        2.1.2. Required Approvals for Use of Team-Owned Equipment.​    8
-        2.1.3. Replacement Team-owned Equipment​                       8
-    2.2. League Equipment​                                             9
-        2.2.1. Replacement of League Equipment​                        9
-    2.3. Computer Programs and Usage​                                  9
-        2.3.1. Voice Chat.​                                            9
-        2.3.2. Social Media and Communication.​                        9
-        2.3.3. Non-Essential Equipment.​                              10
-        2.3.4. Macros​                                                10
-       2.3.5. Snap Tap & SOCD​                                        10
-        2.3.6. Native Programs.​                                      10
-        2.3.7. Audio Restrictions​                                    10
-        2.3.8. Equipment Tampering​                                   10
-3. Venue, Competition Area Layout, and Schedule​                      11
-    3.1. General Venue Access​                                        11
-    3.2. Pre-Entry Health Inspection​                                 11
-    3.3. Match Area​                                                  11
-        3.3.1. Team Personnel.​                                       11
-        3.3.2. Coach Match Area Access.​                              11
-        3.3.3. Wireless Devices.​                                     12
-        3.3.4. Notes and Notepads.​                                   12
-        3.3.5. Consumable Restrictions.​                              12
-4. Match Process​                                                     12
-    4.1. Changes to Schedule​                                         12
-    4.2. Arrival at Venue​                                            13
-    4.3. Roles of League Officials​                                   13
-        4.3.1. Match Operations Lead.​                                13
+1. Introduction and Purpose                                           6
+    1.1. Background.                                                  6
+    1.2. Purpose.                                                     6
+    1.3. Acknowledgement and Acceptance.                              6
+    1.4. Application of the Competition Ruleset.                      7
+    1.5. Disciplinary Action.                                         7
+    1.6. Defined Terms.                                               7
+2. Equipment and Peripherals                                          8
+    2.1. Team-owned Equipment                                         8
+        2.1.1. Permitted Player-Owned or Team-Owned Equipment.        8
+        2.1.2. Required Approvals for Use of Team-Owned Equipment.    8
+        2.1.3. Replacement Team-owned Equipment                       8
+    2.2. League Equipment                                             9
+        2.2.1. Replacement of League Equipment                        9
+    2.3. Computer Programs and Usage                                  9
+        2.3.1. Voice Chat.                                            9
+        2.3.2. Social Media and Communication.                        9
+        2.3.3. Non-Essential Equipment.                              10
+        2.3.4. Macros                                                10
+       2.3.5. Snap Tap & SOCD                                        10
+        2.3.6. Native Programs.                                      10
+        2.3.7. Audio Restrictions                                    10
+        2.3.8. Equipment Tampering                                   10
+3. Venue, Competition Area Layout, and Schedule                      11
+    3.1. General Venue Access                                        11
+    3.2. Pre-Entry Health Inspection                                 11
+    3.3. Match Area                                                  11
+        3.3.1. Team Personnel.                                       11
+        3.3.2. Coach Match Area Access.                              11
+        3.3.3. Wireless Devices.                                     12
+        3.3.4. Notes and Notepads.                                   12
+        3.3.5. Consumable Restrictions.                              12
+4. Match Process                                                     12
+    4.1. Changes to Schedule                                         12
+    4.2. Arrival at Venue                                            13
+    4.3. Roles of League Officials                                   13
+        4.3.1. Match Operations Lead.                                13
 
 
                                                                        2
 
 <!-- página 3 -->
-        4.3.2. Head Referee.​                                                 13
-        4.3.3. Stage Referees​                                                14
-        4.3.4. Finality of Judgment.​                                         14
-    4.4. Competitive Patches​                                                 14
-        4.4.1. New Agents​                                                    14
-        4.4.2. New Maps​                                                      14
-        4.4.3. Additional Restrictions​                                       14
-    4.5. Pre-Match Setup​                                                     15
-        4.5.1. Player Accounts.​                                              15
-        4.5.2. Game Settings​                                                 15
-        4.5.3. Setup Time.​                                                   15
-        4.5.4. Lighting Levels.​                                              16
-        4.5.5. Technical Failure of Equipment.​                               16
-        4.5.6. Timelines of Match Start.​                                     16
-        4.5.7. Player Ready State.​                                           16
-        4.5.8. Match Lobby Creation.​                                         16
-        4.5.9. Online Matches.​                                               16
-        4.5.10. Pre-Match Obligations.​                                       17
-        4.5.11. Pre-Match Schedule.​                                          17
-    4.6. Match Setup and Play Restrictions​                                   17
-        4.6.1. Match Definition​                                              17
-        4.6.2. Lobby Settings.​                                               17
-        4.6.3. Server Selection for LAN Matches.​                             17
-        4.6.4. Server Selection for Online Matches.​                          17
-        4.6.5. Start of Map Selection Process.​                               18
-        4.6.6. Map Pool.​                                                     18
-        4.6.7. Map Selection Process for Best-of-One Matches.​                18
-        4.6.8. Map Selection Process for Best-of-Three Matches.​              18
-        4.6.9. Map Selection Process for Best-of-Five Matches.​               19
-        4.6.10. Map Selection Process for Double Elimination Grand-Finals.​   19
-        4.6.11. Start of Agent Selection Process.​                            20
-        4.6.12. Match Start After Agent and Map Selection.​                   20
-        4.6.13. Controlled Match Start.​                                      20
-        4.6.14. Slow Client Load.​                                            20
-        4.6.15. Restrictions on Gameplay Elements.​                           21
-        4.6.16. Substitutions during Tournament Play.​                        21
-5. Post-Match Process​                                                        21
-    5.1. Post-Match Process​                                                  21
+        4.3.2. Head Referee.                                                 13
+        4.3.3. Stage Referees                                                14
+        4.3.4. Finality of Judgment.                                         14
+    4.4. Competitive Patches                                                 14
+        4.4.1. New Agents                                                    14
+        4.4.2. New Maps                                                      14
+        4.4.3. Additional Restrictions                                       14
+    4.5. Pre-Match Setup                                                     15
+        4.5.1. Player Accounts.                                              15
+        4.5.2. Game Settings                                                 15
+        4.5.3. Setup Time.                                                   15
+        4.5.4. Lighting Levels.                                              16
+        4.5.5. Technical Failure of Equipment.                               16
+        4.5.6. Timelines of Match Start.                                     16
+        4.5.7. Player Ready State.                                           16
+        4.5.8. Match Lobby Creation.                                         16
+        4.5.9. Online Matches.                                               16
+        4.5.10. Pre-Match Obligations.                                       17
+        4.5.11. Pre-Match Schedule.                                          17
+    4.6. Match Setup and Play Restrictions                                   17
+        4.6.1. Match Definition                                              17
+        4.6.2. Lobby Settings.                                               17
+        4.6.3. Server Selection for LAN Matches.                             17
+        4.6.4. Server Selection for Online Matches.                          17
+        4.6.5. Start of Map Selection Process.                               18
+        4.6.6. Map Pool.                                                     18
+        4.6.7. Map Selection Process for Best-of-One Matches.                18
+        4.6.8. Map Selection Process for Best-of-Three Matches.              18
+        4.6.9. Map Selection Process for Best-of-Five Matches.               19
+        4.6.10. Map Selection Process for Double Elimination Grand-Finals.   19
+        4.6.11. Start of Agent Selection Process.                            20
+        4.6.12. Match Start After Agent and Map Selection.                   20
+        4.6.13. Controlled Match Start.                                      20
+        4.6.14. Slow Client Load.                                            20
+        4.6.15. Restrictions on Gameplay Elements.                           21
+        4.6.16. Substitutions during Tournament Play.                        21
+5. Post-Match Process                                                        21
+    5.1. Post-Match Process                                                  21
 
 
                                                                                3
 
 <!-- página 4 -->
-        5.1.1. Results.​                                21
-        5.1.2. Tech Notes.​                             21
-        5.1.3. Between Maps.​                           21
-        5.1.4. Between Matches.​                        22
-        5.1.5. Post-Match Obligations.​                 22
-        5.1.6. Results of Forfeiture.​                  22
-        5.1.7. Tie-Breakers.​                           22
-        5.1.8. Championship Points.​                    23
-6. Pauses​                                              23
-    6.1. Timeouts​                                      23
-        6.1.1. Timeout Protocol​                        23
-        6.1.2. Timeout Agent Control​                   24
-    6.2. Technical Pauses​                              24
-        6.2.1. Technical Pauses Categories​             24
-        6.2.2. Technical Pause Protocol​                24
-        6.2.3. Technical Pause Agent Control​           24
-        6.2.4. Invalid Technical Pauses​                24
-    6.3. Player Emergency Pause​                        25
-        6.3.1. Player Emergency Protocol.​              25
-        6.3.2. Illness, Injury, or Disability.​         25
-7. Bugs​                                                25
-    7.1. Types of Bugs​                                 25
-        7.1.1. Play Through Bug​                        25
-        7.1.2. Major Bugs​                              25
-        7.1.3. Unknown Bugs​                            26
-        7.1.4. Game Breaking Bugs​                      26
-    7.2. League Official Initiated Round Rollback​      26
-        7.2.1. Pre-Damage​                              26
-        7.2.2. Post-Damage​                             26
-        7.2.3. Round Rollback for Game Breaking Bugs​   26
-8. Exploit Adjudication​                                26
-    8.1. Agent Specific Exploits​                       27
-    8.2. Assessment of Penalties​                       28
-        8.2.1. Exploit Classification​                  28
-        8.2.2. Prior Communication​                     28
-        8.2.3. Impact​                                  28
-        8.2.4. Intent​                                  28
-    8.3. Types of Penalties​                            29
+        5.1.1. Results.                                21
+        5.1.2. Tech Notes.                             21
+        5.1.3. Between Maps.                           21
+        5.1.4. Between Matches.                        22
+        5.1.5. Post-Match Obligations.                 22
+        5.1.6. Results of Forfeiture.                  22
+        5.1.7. Tie-Breakers.                           22
+        5.1.8. Championship Points.                    23
+6. Pauses                                              23
+    6.1. Timeouts                                      23
+        6.1.1. Timeout Protocol                        23
+        6.1.2. Timeout Agent Control                   24
+    6.2. Technical Pauses                              24
+        6.2.1. Technical Pauses Categories             24
+        6.2.2. Technical Pause Protocol                24
+        6.2.3. Technical Pause Agent Control           24
+        6.2.4. Invalid Technical Pauses                24
+    6.3. Player Emergency Pause                        25
+        6.3.1. Player Emergency Protocol.              25
+        6.3.2. Illness, Injury, or Disability.         25
+7. Bugs                                                25
+    7.1. Types of Bugs                                 25
+        7.1.1. Play Through Bug                        25
+        7.1.2. Major Bugs                              25
+        7.1.3. Unknown Bugs                            26
+        7.1.4. Game Breaking Bugs                      26
+    7.2. League Official Initiated Round Rollback      26
+        7.2.1. Pre-Damage                              26
+        7.2.2. Post-Damage                             26
+        7.2.3. Round Rollback for Game Breaking Bugs   26
+8. Exploit Adjudication                                26
+    8.1. Agent Specific Exploits                       27
+    8.2. Assessment of Penalties                       28
+        8.2.1. Exploit Classification                  28
+        8.2.2. Prior Communication                     28
+        8.2.3. Impact                                  28
+        8.2.4. Intent                                  28
+    8.3. Types of Penalties                            29
 
 
                                                          4
 
 <!-- página 5 -->
-        8.3.1. Warning​                                                29
-        8.3.2. Round Rollback​                                         29
-        8.3.3. Round Loss​                                             29
-        8.3.4. Map Forfeit Loss​                                       30
-        8.3.5. Match Forfeit Loss​                                     30
-    8.4. Finality of Judgment on Bug and Exploit Adjudication​         30
-9. Challenge​                                                          31
-    9.1. Requesting Challenge​                                         31
-    9.2. Challenges Per Map​                                           31
-    9.3. Official Review​                                              31
-    9.4. Successful Challenge​                                         31
-    9.5. Unsuccessful Challenge​                                       31
-    9.6. Game Pause for Challenge​                                     32
-10. Crashes and Interruptions of Gameplay​                             32
-    10.1. Discontinuity of Gameplay​                                   32
-    10.2. Individual Player Gameplay Interruptions​                    32
-        10.2.1. Transient Interruptions​                               32
-        10.2.2. Multiple Player Crash/Interruption of Gameplay​        32
-        10.2.3. Single Player Crash/Interruption of Gameplay​          32
-11. Player and Team Conduct During Matches​                            33
-        11.1. Delay of Game​                                           33
-        11.2. Non-Compliance​                                          33
-        11.3. Unprofessional or Hostile Behavior​                      33
-12. Travel and Expenses​                                               34
-13. Construction, Amendments and Other General Provisions​             34
-    13.1. Priority and Conflicts.​                                     34
-    13.2. Amendments to the Competition Ruleset.​                      34
-    13.3. Consents and Approvals.​                                     35
-    13.4. Construction.​                                               35
-14. Change Log​                                                        35
-       VIOLATION OF OTHER POLICIES​                                    45
-       BREACH OF RIOT GAMES TERMS OF SERVICE OUTSIDE OF COMPETITION​   45
-       BREACHES RELATED TO GAMBLING & MATCH-FIXING​                    45
+        8.3.1. Warning                                                29
+        8.3.2. Round Rollback                                         29
+        8.3.3. Round Loss                                             29
+        8.3.4. Map Forfeit Loss                                       30
+        8.3.5. Match Forfeit Loss                                     30
+    8.4. Finality of Judgment on Bug and Exploit Adjudication         30
+9. Challenge                                                          31
+    9.1. Requesting Challenge                                         31
+    9.2. Challenges Per Map                                           31
+    9.3. Official Review                                              31
+    9.4. Successful Challenge                                         31
+    9.5. Unsuccessful Challenge                                       31
+    9.6. Game Pause for Challenge                                     32
+10. Crashes and Interruptions of Gameplay                             32
+    10.1. Discontinuity of Gameplay                                   32
+    10.2. Individual Player Gameplay Interruptions                    32
+        10.2.1. Transient Interruptions                               32
+        10.2.2. Multiple Player Crash/Interruption of Gameplay        32
+        10.2.3. Single Player Crash/Interruption of Gameplay          32
+11. Player and Team Conduct During Matches                            33
+        11.1. Delay of Game                                           33
+        11.2. Non-Compliance                                          33
+        11.3. Unprofessional or Hostile Behavior                      33
+12. Travel and Expenses                                               34
+13. Construction, Amendments and Other General Provisions             34
+    13.1. Priority and Conflicts.                                     34
+    13.2. Amendments to the Competition Ruleset.                      34
+    13.3. Consents and Approvals.                                     35
+    13.4. Construction.                                               35
+14. Change Log                                                        35
+       VIOLATION OF OTHER POLICIES                                    45
+       BREACH OF RIOT GAMES TERMS OF SERVICE OUTSIDE OF COMPETITION   45
+       BREACHES RELATED TO GAMBLING & MATCH-FIXING                    45
 
 
 
@@ -189,8 +189,8 @@ VALORANT Official Competition Ruleset
                                                                         5
 
 <!-- página 6 -->
-1.​   Introduction and Purpose
-      1.1.​   Background.
+1.   Introduction and Purpose
+      1.1.   Background.
       VALORANT Champions Tour LLC, a Delaware limited liability company (“League
       Entity”), along with its affiliates (collectively, “Riot”), organizes a series of regional,
       cross-regional, and international esports tournaments and related media events under the
@@ -204,7 +204,7 @@ VALORANT Official Competition Ruleset
       Agreements and as more fully described therein, the League Entity has granted each
       Team Entity the right to field a team that will compete in the VCT and its respective
       League (“Team”).
-      1.2.​   Purpose.
+      1.2.   Purpose.
       The League Entity has created this VALORANT Official Competition Ruleset (the
       “Competition Ruleset”) to set forth certain policies, rules and procedures that will apply
       to all Team Entities that have entered into Team Participation Agreements with the
@@ -215,7 +215,7 @@ VALORANT Official Competition Ruleset
       event-specific policies, rules and procedures that will apply to all Team Entities
       participating in the applicable event (“Event-Specific Ruleset”). These Event-Specific
       Rulesets are in addition to, and not in lieu of, the Competition Ruleset.
-      1.3.​   Acknowledgement and Acceptance.
+      1.3.   Acknowledgement and Acceptance.
 
       The acknowledgement of the Competition Ruleset, and an agreement to be bound by and
       comply with their terms, is an essential term of each Team Participation Agreement. This
@@ -235,7 +235,7 @@ VALORANT Official Competition Ruleset
                                                                                                6
 
 <!-- página 7 -->
-1.4.​   Application of the Competition Ruleset.
+1.4.   Application of the Competition Ruleset.
 
 Each Team Entity acknowledges and agrees that a breach of, or failure to comply with,
 the Competition Ruleset or any Guidance Document by (a) any person or entity who,
@@ -252,7 +252,7 @@ Team Entity, in each instance even in cases where the Team Entity was not, itsel
 This Competition Ruleset applies only to official VCT or League play and not to other
 competitions, tournaments or organized play of VALORANT as administered by
 employees, contractors or agents of the League (“League Officials”).
-1.5.​   Disciplinary Action.
+1.5.   Disciplinary Action.
 
 The League Entity shall be entitled to undertake such disciplinary procedures as it
 determines in relation to any breach of, or failure to comply with, this Competition
@@ -265,7 +265,7 @@ competitive integrity of League Games or the goodwill associated with the Game, 
 VCT and the VCT Leagues, and (iii) are dealt with in compliance with the Riot Games
 Esports Global Code of Conduct, as well as with the TPA and all relevant Rules.
 
-1.6.​   Defined Terms.
+1.6.   Defined Terms.
 
 Capitalized terms in this Competition Ruleset, unless expressly defined otherwise herein,
 shall have the meaning ascribed to such terms in the applicable Team Participation
@@ -277,10 +277,10 @@ Agreement.
                                                                                            7
 
 <!-- página 8 -->
-2.​   Equipment and Peripherals
-      2.1.​   Team-owned Equipment
+2.   Equipment and Peripherals
+      2.1.   Team-owned Equipment
 
-              2.1.1.​ Permitted Player-Owned or Team-Owned Equipment.
+              2.1.1. Permitted Player-Owned or Team-Owned Equipment.
 
               At LAN events held as part of the VCT or a League, players are allowed to bring
               the following categories of equipment, which are owned by themselves or their
@@ -293,7 +293,7 @@ Agreement.
               Team-owned Equipment. If the Team-owned Equipment brought by a player is
               incompatible with the League Entity-provided equipment, the League Entity will
               provide replacement equipment for use by the player.
-              2.1.2.​ Required Approvals for Use of Team-Owned Equipment.
+              2.1.2. Required Approvals for Use of Team-Owned Equipment.
 
               All Team-owned Equipment used at LAN events may be subject to competitive
               integrity checks by League Officials in advance of a Match (as defined in Section
@@ -312,7 +312,7 @@ Agreement.
               company or brand which is a competitor of Riot or VALORANT. League
               Officials reserve the right to request the Team to cover-up a logo or brand on
               Team-owned Equipment during the event.
-              2.1.3.​ ​Replacement Team-owned Equipment
+              2.1.3. Replacement Team-owned Equipment
 
               Players may bring additional sets of Team-owned Equipment to use as
               replacement in case of equipment failure. The replacement Team-owned
@@ -326,7 +326,7 @@ Agreement.
 <!-- página 9 -->
         Equipment to use in case of equipment failure, then the player must use League
         Entity-provided equipment.
-2.2.​   League Equipment
+2.2.   League Equipment
 
 The League Entity will provide, and players will exclusively use, equipment in the
 following categories for all VCT and League LAN events: (1) PC and monitor, (2) hand
@@ -340,7 +340,7 @@ use of hardware, software or other equipment that is not provided or approved by
 League Officials will be deemed cheating. Players must return all League
 Entity-provided equipment to League Officials when the LAN event is over or upon
 request by League Officials.
-        2.2.1.​ Replacement of League Equipment
+        2.2.1. Replacement of League Equipment
 
         If equipment or technical problems are suspected at a LAN event, a player or
         League Official may request a technical review of the situation. A technician
@@ -348,20 +348,20 @@ request by League Officials.
         issues. Technicians may request that League Officials order replacements of any
         equipment at the applicable technician’s discretion. Decisions regarding the
         replacement of any equipment are solely at the discretion of the League Entity.
-2.3.​   Computer Programs and Usage
+2.3.   Computer Programs and Usage
 
 At LAN events, players and coaches are prohibited from installing their own programs
 and must use only the programs provided by the League Entity. This includes the
 warm-up area computers. If a player wishes to install a program onto the warm-up area
 computers, they must ﬁrst ask a League Official.
-        2.3.1.​ Voice Chat.
+        2.3.1. Voice Chat.
 
         Voice chat will be provided only via the native system used in League
         Entity-provided headsets. Use of third-party voice chat software (e.g., Discord) is
         not permitted at either LAN events or online events, without explicit prior
         approval of League Officials. League Officials may monitor a Team’s audio at
         the discretion of the League Entity.
-        2.3.2.​ Social Media and Communication.
+        2.3.2. Social Media and Communication.
 
         It is prohibited to use League Entity-provided computers to view or post on any
         social media or communication sites. This includes, but is not limited to,
@@ -371,30 +371,30 @@ computers, they must ﬁrst ask a League Official.
                                                                                          9
 
 <!-- página 10 -->
-2.3.3.​ Non-Essential Equipment.
+2.3.3. Non-Essential Equipment.
 
 It is prohibited to connect anything other than permitted Team-owned equipment,
 or League Entity-provided equipment, to League Entity-provided computers, for
 any reason. By way of example, this includes devices such as mobile phones or
 flash drives.
-2.3.4.​ Macros
+2.3.4. Macros
 
 All macro programs, including software macros and hardware implemented
 macros stored in on-board memory of the hardware, external to the VALORANT
 game client are prohibited.
-2.3.5.​ Snap Tap & SOCD
+2.3.5. Snap Tap & SOCD
 
 Unless otherwise instructed by League Officials, players may use Snaptap,
 SOCD, or other equivalent keyboard technologies.
 
-2.3.6.​ Native Programs.
+2.3.6. Native Programs.
 
 Players may use the native programs MS Paint and Notepad before and after
 Matches. Players may not use the native programs MS Paint and Notepad during
 a Match, and must close out of those programs before the start of the Match.
 League Officials may prohibit players from accessing native programs in cases
 of abuse.
-2.3.7.​ Audio Restrictions
+2.3.7. Audio Restrictions
 
 Players will be required to maintain volume levels above minimum settings.
 League Officials may require players to adjust their volume levels higher if the
@@ -407,7 +407,7 @@ certain religious articles and/or medical devices (e.g., hijab, dastar, yarmulke
 hearing devices). The determination of whether an item qualifies for the religious
 and/or medical exemption will be made by League Officials at their sole
 discretion.
-2.3.8.​ Equipment Tampering
+2.3.8. Equipment Tampering
 
 At LAN events, players may not touch or handle another player’s equipment
 after a Match has started. Players who require assistance with their equipment
@@ -419,13 +419,13 @@ should ask for assistance from a League Official.
                                                                                  10
 
 <!-- página 11 -->
-3.​   Venue, Competition Area Layout, and Schedule
-      3.1.​   General Venue Access
+3.   Venue, Competition Area Layout, and Schedule
+      3.1.   General Venue Access
 
       At LAN events, access for Teams to the restricted areas of venues for official Matches is
       restricted to Team Personnel only, unless otherwise approved, in advance, by the League
       Entity. Permission to attend Matches is solely at the discretion of the League Entity.
-      3.2.​   Pre-Entry Health Inspection
+      3.2.   Pre-Entry Health Inspection
 
       At LAN events, each Team Personnel must verify their identity with League Officials
       prior to entering the venue for official Matches. Additionally, League Officials will have
@@ -440,13 +440,13 @@ should ask for assistance from a League Official.
       sanitation or public safety procedures, League Officials will have full authority to
       implement those procedures, and all players will cooperate with League Officials in the
       implementation of those procedures.
-      3.3.​   Match Area
+      3.3.   Match Area
 
       The “Match Area” is the area immediately surrounding any competition PCs used
       during Match play at a LAN or online event. During Match play, the presence of Team
       Personnel in the Match Area is restricted solely to the players of the Teams in play that
       are participating in the Match, and the coaches in accordance with Section 3.3.2.
-              3.3.1.​ Team Personnel.
+              3.3.1. Team Personnel.
 
               Credentialed Team Personnel, including team managers, translators, and other
               Team support staff that have been registered and given credentials for the event
@@ -456,7 +456,7 @@ should ask for assistance from a League Official.
               The total number of Team Personnel, including the players, coaches, and other
               Team Personnel, allowed in the Match Area during the Match prep process may
               not exceed eight (8).
-              3.3.2.​ Coach Match Area Access.
+              3.3.2. Coach Match Area Access.
 
               The Team may designate one (1) coach that will participate on stage during the
               Match (“Match Coach”). If no coach is designated, the Team’s head coach (the
@@ -469,7 +469,7 @@ should ask for assistance from a League Official.
               Teams participating in a given day’s Matches will be granted Match Area access
               during those Matches, and will be allowed to communicate with their Team
               during the map pick/ban and agent selection process.
-              3.3.3.​ Wireless Devices.
+              3.3.3. Wireless Devices.
 
               No electronic devices, including, but not limited to: mobile phones, tablets, and
               smart watches are allowed in the Match Area and the Team huddle rooms during
@@ -477,7 +477,7 @@ should ask for assistance from a League Official.
               and between maps of multi-map Matches. League Officials will collect such
               devices from all Team Personnel in the Match Area and Team huddle rooms, and
               return them after the end of the Match.
-              3.3.4.​ Notes and Notepads.
+              3.3.4. Notes and Notepads.
 
               Players are not permitted to bring any written or printed materials into the Match
               Area during a Match.
@@ -488,21 +488,21 @@ should ask for assistance from a League Official.
               communicate or convey information to the players during a Match outside of
               timeouts, halftimes, between maps, and other time periods where communication
               between coaches and players is allowed.
-              3.3.5.​ Consumable Restrictions.
+              3.3.5. Consumable Restrictions.
 
               Allowed Consumables:
-                 ●​ Drinks are permitted in the Match Area only in League Entity-approved
+                 ● Drinks are permitted in the Match Area only in League Entity-approved
                     re-sealable containers. League Officials will provide such containers to
                     players upon request.
-                 ●​ Chewing gum is allowed in the Match Area.
+                 ● Chewing gum is allowed in the Match Area.
               Prohibited Consumables:
-                 ●​ Food is prohibited in the Match Area.
-                 ●​ Tobacco and other nicotine products are prohibited in the Match Area.
+                 ● Food is prohibited in the Match Area.
+                 ● Tobacco and other nicotine products are prohibited in the Match Area.
               Teams may not leave any trash or gum within the Match Area after the
               conclusion of the Match.
 
-4.​   Match Process
-      4.1.​   Changes to Schedule
+4.   Match Process
+      4.1.   Changes to Schedule
 
 
 
@@ -513,7 +513,7 @@ League Officials may, at their sole discretion, re-order the schedule of Matches
 given day and/or change the date of a Match to a diﬀerent date or otherwise modify the
 schedule of Matches. In the event that the League Officials modify a Match schedule,
 they will notify all Teams as soon as possible.
-4.2.​   Arrival at Venue
+4.2.   Arrival at Venue
 
 Members of a Team’s Active Roster (as defined in the VCT Roster Construction Rules)
 who are participating in a LAN event held as part of the VCT or a League must arrive at
@@ -522,33 +522,33 @@ specified by League Officials. For any online Matches, players will be expected 
 ready to join the Match lobby no later than thirty (30) minutes before the Team’s
 scheduled Match time specified by League Officials. Sanctions for tardiness may be
 assessed at the discretion of League Officials.
-4.3.​   Roles of League Officials
+4.3.   Roles of League Officials
 
-        4.3.1.​ Match Operations Lead.
+        4.3.1. Match Operations Lead.
 
         The “Match Operations Lead” is a League Official who is responsible for
         judgments on every Match-related issue that impacts competitive integrity. The
         role of this person includes, but is not limited to:
-        ●​ Making the final determination on technical pauses and their appropriate
+        ● Making the final determination on technical pauses and their appropriate
            duration.
-        ●​ Ensuring tactical timeouts are valid and all parties are informed.
-        ●​ Evaluating bug and exploit occurrences and any potential repercussions.
-        ●​ Making judgment calls regarding round rollbacks and all other issues that
+        ● Ensuring tactical timeouts are valid and all parties are informed.
+        ● Evaluating bug and exploit occurrences and any potential repercussions.
+        ● Making judgment calls regarding round rollbacks and all other issues that
            may affect the competitive integrity of the game.
-        ●​ Coordinating map pick/ban process.
-        ●​ Making the final determination on all Match Operations Regulations
-           (Section 11.4.)​
+        ● Coordinating map pick/ban process.
+        ● Making the final determination on all Match Operations Regulations
+           (Section 11.4.)
 
-        4.3.2.​ Head Referee.
+        4.3.2. Head Referee.
 
         The “Head Referee” is a League Official who is responsible for pre- and post-
         Match setup as well as the in-game lobby. Their oversight includes, but is not
         limited to:
-        ●​ Checking the Team’s lineup before a Match.
-        ●​ Checking and monitoring player peripherals and Match Areas, if applicable.
-        ●​ Announcing the beginning of the Match.
-        ●​ Ordering pause/resume during play.
-        ●​ Informing Teams of sanctions and Disciplinary Action in response to rule
+        ● Checking the Team’s lineup before a Match.
+        ● Checking and monitoring player peripherals and Match Areas, if applicable.
+        ● Announcing the beginning of the Match.
+        ● Ordering pause/resume during play.
+        ● Informing Teams of sanctions and Disciplinary Action in response to rule
            violations during the Match.
 
 
@@ -556,24 +556,24 @@ assessed at the discretion of League Officials.
                                                                                       13
 
 <!-- página 14 -->
-        ●​ Making Match-related determinations under this Competition Ruleset,
+        ● Making Match-related determinations under this Competition Ruleset,
            including with regard to pauses and stoppages of play.
-        ●​ Conﬁrming the end of the Match and its results.​
+        ● Conﬁrming the end of the Match and its results.
 
 
-        4.3.3.​ Stage Referees
+        4.3.3. Stage Referees
 
         The “Stage Referees” are under the direction of the Match Operations Lead and
         the Head Referee. Responsibilities include but are not limited to:
-        ●​ Admitting or denying access to the Match Areas, if applicable.
-        ●​ Carrying out security protocols directed by the Head Referee and other
+        ● Admitting or denying access to the Match Areas, if applicable.
+        ● Carrying out security protocols directed by the Head Referee and other
            League Officials, and/or in support of this Competition Ruleset.
-        ●​ Administering the player checklist and enforcing this Competition Ruleset,
+        ● Administering the player checklist and enforcing this Competition Ruleset,
            including directing players to take or refrain from taking any action.
-        ●​ Communicating with players about any issues experienced, in-game and out.
-        ●​ Upon request, explaining any bug exploits. ​
+        ● Communicating with players about any issues experienced, in-game and out.
+        ● Upon request, explaining any bug exploits. 
 
-        4.3.4.​ Finality of Judgment.
+        4.3.4. Finality of Judgment.
 
         All decisions regarding the interpretation of this Competition Ruleset, player
         eligibility, scheduling and staging of the event, and penalties for misconduct, lie
@@ -581,23 +581,23 @@ assessed at the discretion of League Officials.
         Operations Lead decisions with respect to this Competition Ruleset cannot be
         appealed and shall not give rise to any claim for monetary damages or any other
         legal or equitable remedy.
-4.4.​   Competitive Patches
+4.4.   Competitive Patches
 
 All official Matches of the VCT and the Leagues will be played on the patch version
 specified in the applicable Event-Specific ruleset.
-        4.4.1.​ New Agents
+        4.4.1. New Agents
 
         New agents will be automatically restricted for approximately two weeks from
         their release on the live competitive queue. Example: Agent A was released on
         February 5, so Agent A will become eligible to be used in all Matches on
         February 19.
-        4.4.2.​ New Maps
+        4.4.2. New Maps
 
         New maps will be automatically restricted for approximately four weeks (28
         days) from their release on live competitive queue. Example: Map A was
         released on January 1, so Map A will become eligible to be used in all Matches
         on January 29.
-        4.4.3.​ Additional Restrictions
+        4.4.3. Additional Restrictions
 
 
                                                                                         14
@@ -609,25 +609,25 @@ specified in the applicable Event-Specific ruleset.
         may be extended or reduced at the discretion of League Officials.
         Eligibility for new agents and maps for an official Match of the VCT and the
         Leagues will be communicated to Teams in the applicable Event-Specific ruleset.
-4.5.​   Pre-Match Setup
+4.5.   Pre-Match Setup
 
-        4.5.1.​ Player Accounts.
+        4.5.1. Player Accounts.
 
         Players will be provided with accounts (“Tournament Realm Accounts”) for
         use in all official Matches of the VCT and the Leagues. Tournament Realm
         Accounts will be named using the official Team tag followed by the player’s
         official tournament handle.
-        4.5.2.​ Game Settings
+        4.5.2. Game Settings
 
-        ●​ All players will be required to have the in-game settings for blood and
+        ● All players will be required to have the in-game settings for blood and
            bodies turned off.
-        ●​ Titles and gun buddies awarded for winning an event, including Masters,
+        ● Titles and gun buddies awarded for winning an event, including Masters,
            Champions, and Game Changers Champions, may only be equipped by
            players that have earned those titles and gun buddies.
-        ●​ FPS/Latency text and graph trackers must be disabled during gameplay.
+        ● FPS/Latency text and graph trackers must be disabled during gameplay.
            Graphs are permitted during tech checks and warm ups for player usage.
 
-        4.5.3.​ Setup Time.
+        4.5.3. Setup Time.
 
         At LAN events, players will have designated blocks of time prior to their Match
         time to ensure they are fully prepared. League Officials will inform players and
@@ -637,30 +637,30 @@ specified in the applicable Event-Specific ruleset.
         allowed to leave without permission of the on-site League Official and
         accompaniment by another League Official.
         Setup is comprised of the following:
-        ●​ Confirm Tournament Realm Account name accuracy
-        ●​ Ensuring the quality of all League Entity-provided equipment.
-        ●​ Connecting and calibrating peripherals.
-        ●​ Ensuring proper function of voice chat system.
-        ●​ Selecting skins.
-        ●​ Adjusting in-game settings
-        ●​ Limited in-game warm-up.
+        ● Confirm Tournament Realm Account name accuracy
+        ● Ensuring the quality of all League Entity-provided equipment.
+        ● Connecting and calibrating peripherals.
+        ● Ensuring proper function of voice chat system.
+        ● Selecting skins.
+        ● Adjusting in-game settings
+        ● Limited in-game warm-up.
 
 
 
                                                                                       15
 
 <!-- página 16 -->
-4.5.4.​ Lighting Levels.
+4.5.4. Lighting Levels.
 
 Players may request adjustments to the level of lighting being directed at the
 stage during the setup process. However, there will be a minimum level of stage
 lighting required by the League Officials, and the lighting will not be lowered
 below this level.
-4.5.5.​ Technical Failure of Equipment.
+4.5.5. Technical Failure of Equipment.
 
 If a player encounters any equipment problems during any phase of the setup
 process, the player must notify a League Official immediately.
-4.5.6.​ Timelines of Match Start.
+4.5.6. Timelines of Match Start.
 
 It is expected that players will resolve any issues with the setup process within
 the allotted time and that the Match will begin at the scheduled time. Sanctions
@@ -671,7 +671,7 @@ Ready State”). During Team Ready State, all players must be out of the range,
 must be in the correct lobby order, must exit out of all native programs, and be
 prepared to enter the Match. Sanctions for tardiness in entering the Team Ready
 State may be assessed at the discretion of League Officials.
-4.5.7.​ Player Ready State.
+4.5.7. Player Ready State.
 
 No fewer than ﬁve minutes before an official Match is scheduled to begin, a
 referee will conﬁrm with each player that their setup is complete. Once all ten
@@ -680,12 +680,12 @@ warm-up Match or leave the Match Area.
 Once all ten players in a Match have confirmed completion of setup, all settings
 will be considered complete and no pauses or delay of the Match will be allowed
 for minor settings issues.
-4.5.8.​ Match Lobby Creation.
+4.5.8. Match Lobby Creation.
 
 All official Matches of the VCT and the Leagues will be played in Match lobbies
 hosted by the League Entity. League Officials will decide how the official Match
 lobby will be created.
-4.5.9.​ Online Matches.
+4.5.9. Online Matches.
 
 For official online Matches, players will be expected to complete setup, as
 outlined in Section 4.5.3., and confirm readiness at a time specified by League
@@ -698,12 +698,12 @@ performance of their chosen setup, including computer hardware and peripherals,
 <!-- página 17 -->
         internet connection, DDOS protection and power. Issues with this setup are not
         an acceptable reason for lateness or pausing beyond a Team’s allowance.
-        4.5.10.​Pre-Match Obligations.
+        4.5.10.Pre-Match Obligations.
 
         Players will be informed of any pre-Match obligations, including, but not limited
         to, media appearances, interviews, or further discussion of any Match matters.
         Players are required to perform these pre-Match obligations.
-        4.5.11.​Pre-Match Schedule.
+        4.5.11.Pre-Match Schedule.
 
         All Teams are obligated to adhere to any pre-Match schedule provided to the
         Teams by League Officials. The pre-Match schedule may include designated
@@ -713,9 +713,9 @@ performance of their chosen setup, including computer hardware and peripherals,
         pre-Match requirements. Sanctions for tardiness and/or failure to comply with the
         obligations set forth in the pre-Match schedule may be assessed at the discretion
         of League Officials.
-4.6.​   Match Setup and Play Restrictions
+4.6.   Match Setup and Play Restrictions
 
-        4.6.1.​ Match Definition
+        4.6.1. Match Definition
 
         A “game” is an instance of competition on a VALORANT map that is played
         until a winner is determined for the map. A “Match” is a set of games that is
@@ -726,14 +726,14 @@ performance of their chosen setup, including computer hardware and peripherals,
         Team will either receive a win tally in a league format or advance to the next
         round in a tournament format. In a “best-of-one” (“Bo1”) format, the terms game
         and Match may be used interchangeably.
-        4.6.2.​ Lobby Settings.
+        4.6.2. Lobby Settings.
 
         The official Match lobby will be set to “Tournament” mode with “Overtime: Win
         by Two” turned on.
-        4.6.3.​ Server Selection for LAN Matches.
+        4.6.3. Server Selection for LAN Matches.
 
         Matches will be hosted on a local server.
-        4.6.4.​ Server Selection for Online Matches.
+        4.6.4. Server Selection for Online Matches.
 
         Any online Matches played as part of the VCT and the Leagues will be hosted on
         servers selected by League Officials based on ping for computers within the
@@ -743,18 +743,18 @@ performance of their chosen setup, including computer hardware and peripherals,
                                                                                       17
 
 <!-- página 18 -->
-4.6.5.​ Start of Map Selection Process.
+4.6.5. Start of Map Selection Process.
 
 For the first Match of the day, the map selection process will begin at least sixty
 (60) minutes prior to the start of map one. For all other Matches, the map
 selection process will begin upon arrival of the Teams at the event venue. Under
 no circumstances may a map be played twice in one Match unless all other
 available maps have been played.
-4.6.6.​ Map Pool.
+4.6.6. Map Pool.
 
 The map pool consists of seven (7) maps. The full map pool will be listed in the
 event-specific ruleset for each event.
-4.6.7.​ Map Selection Process for Best-of-One Matches.
+4.6.7. Map Selection Process for Best-of-One Matches.
 
 The better-seeded team will decide if they are either Team A or Team B. If the
 tournament in question has no predetermined seeding, the “better-seeded team”
@@ -762,16 +762,16 @@ for purposes of this Section will be determined at random. When instructed in th
 map selection process, the Team must ban a map and cannot choose to skip the
 map ban. Team A starts the process and the map for the Match will be selected
 according to the following procedure:
-           ●​ Team A bans 1 map
-           ●​ Team B bans 1 map
-           ●​ Team A bans 1 map
-           ●​ Team B bans 1 map
-           ●​ Team A bans 1 map
-           ●​ Team B bans 1 map
-           ●​ Map 7 is only map remaining
-           ●​ Team A picks side
+           ● Team A bans 1 map
+           ● Team B bans 1 map
+           ● Team A bans 1 map
+           ● Team B bans 1 map
+           ● Team A bans 1 map
+           ● Team B bans 1 map
+           ● Map 7 is only map remaining
+           ● Team A picks side
 
-4.6.8.​ Map Selection Process for Best-of-Three Matches.
+4.6.8. Map Selection Process for Best-of-Three Matches.
 
 The better-seeded team will decide if they are either Team A or Team B. If the
 tournament in question has no predetermined seeding, the “better-seeded team”
@@ -779,23 +779,23 @@ for purposes of this Section will be determined at random. When instructed in th
 map selection process, the Team must ban a map and cannot choose to skip the
 map ban. Team A starts the process and the map for the Match will be selected
 according to the following procedure:
-           ●​ Team A bans one map
-           ●​ Team B bans one map
+           ● Team A bans one map
+           ● Team B bans one map
 
 
 
                                                                                 18
 
 <!-- página 19 -->
-           ●​ Team A picks map 1
-           ●​ Team B picks side for map 1
-           ●​ Team B picks map 2
-           ●​ Team A picks side for map 2
-           ●​ Team A bans one map
-           ●​ Team B bans one map
-           ●​ Map 3 is only map remaining
-           ●​ Team A picks side for map 3
-4.6.9.​ Map Selection Process for Best-of-Five Matches.
+           ● Team A picks map 1
+           ● Team B picks side for map 1
+           ● Team B picks map 2
+           ● Team A picks side for map 2
+           ● Team A bans one map
+           ● Team B bans one map
+           ● Map 3 is only map remaining
+           ● Team A picks side for map 3
+4.6.9. Map Selection Process for Best-of-Five Matches.
 
 The better-seeded team will decide if they are either Team A or Team B. If the
 tournament in question has no predetermined seeding, the “better-seeded team”
@@ -803,19 +803,19 @@ for purposes of this Section will be determined at random. When instructed in th
 map selection process, the Team must ban a map and cannot choose to skip the
 map ban. Team A starts the process and the map for the Match will be selected
 according to the following procedure:
-           ●​ Team A bans one map
-           ●​ Team B bans one map
-           ●​ Team A picks map 1
-           ●​ Team B picks side for map 1
-           ●​ Team B picks map 2
-           ●​ Team A picks side for map 2
-           ●​ Team A picks map 3
-           ●​ Team B picks side for map 3
-           ●​ Team B picks map 4
-           ●​ Team A picks side for map 4
-           ●​ Map 5 is only map remaining
-           ●​ Team B picks side for map 5
-4.6.10.​Map Selection Process for Double Elimination Grand-Finals.
+           ● Team A bans one map
+           ● Team B bans one map
+           ● Team A picks map 1
+           ● Team B picks side for map 1
+           ● Team B picks map 2
+           ● Team A picks side for map 2
+           ● Team A picks map 3
+           ● Team B picks side for map 3
+           ● Team B picks map 4
+           ● Team A picks side for map 4
+           ● Map 5 is only map remaining
+           ● Team B picks side for map 5
+4.6.10.Map Selection Process for Double Elimination Grand-Finals.
 
 The upper bracket team will decide if they are either Team A or Team B. When
 instructed in the map selection process, the Team must ban a map and cannot
@@ -826,18 +826,18 @@ instructed in the map selection process, the Team must ban a map and cannot
 <!-- página 20 -->
 choose to skip the map ban. Map picks and bans for the Match will be selected
 according to the following procedure:
-           ●​ Upper bracket Team bans two maps
-           ●​ Team A picks map 1
-           ●​ Team B picks side for map 1
-           ●​ Team B picks map 2
-           ●​ Team A picks side for map 2
-           ●​ Team A picks map 3
-           ●​ Team B picks side for map 3
-           ●​ Team B picks map 4
-           ●​ Team A picks side for map 4
-           ●​ Map 5 is only map remaining
-           ●​ Team B picks side for map 5
-4.6.11.​Start of Agent Selection Process.
+           ● Upper bracket Team bans two maps
+           ● Team A picks map 1
+           ● Team B picks side for map 1
+           ● Team B picks map 2
+           ● Team A picks side for map 2
+           ● Team A picks map 3
+           ● Team B picks side for map 3
+           ● Team B picks map 4
+           ● Team A picks side for map 4
+           ● Map 5 is only map remaining
+           ● Team B picks side for map 5
+4.6.11.Start of Agent Selection Process.
 
 Once Agent Select has started, players will have 85 seconds to pick their agent,
 with both Teams picking simultaneously. If a player picks an agent by mistake
@@ -847,19 +847,19 @@ process will be restarted with the same picks up until the mistake occurred, aft
 which the player must choose their intended agent. In the case the player notifies
 a League Official after the timer has expired, the Agent Select process will not be
 restarted and the player will be required to play through.
-4.6.12.​Match Start After Agent and Map Selection.
+4.6.12.Match Start After Agent and Map Selection.
 
 A Match will start immediately after the agent/map Selection process is
 complete, unless otherwise stated by a League Official. Players are not allowed
 to quit a map during the time between the completion of picks/bans and map
 launch, also known as “Free Time.”
-4.6.13.​Controlled Match Start.
+4.6.13.Controlled Match Start.
 
 In the event of an error in Match start or a decision by League Officials to
 separate the pick/ban process from Match start, a League Official may start the
 Match in a controlled manner and all maps will be selected in accordance with
 the previous valid completed pick/ban process.
-4.6.14.​Slow Client Load.
+4.6.14.Slow Client Load.
 
 
                                                                                 20
@@ -869,12 +869,12 @@ the previous valid completed pick/ban process.
               loading process and prevents a player from joining a Match on Match start, the
               Match must be immediately paused until all ten players are connected to the
               Match.
-              4.6.15.​Restrictions on Gameplay Elements.
+              4.6.15.Restrictions on Gameplay Elements.
 
               Restrictions may be added at any time before or during a Match, if there are
               known or suspected bugs with any agents, skins or maps, or for any other reason
               as determined at the discretion of League Officials.
-              4.6.16.​Substitutions during Tournament Play.
+              4.6.16.Substitutions during Tournament Play.
 
               For Matches involving more than one map (i.e., a best-of-three or best-of-five
               Match), a Team may replace their then-current starters with substitutes from the
@@ -889,16 +889,16 @@ the previous valid completed pick/ban process.
               immediately enter the Match Area and complete the setup process, as outlined in
               Section 4.5.3., within seven (7) minutes.
 
-5.​   Post-Match Process
-      5.1.​   Post-Match Process
+5.   Post-Match Process
+      5.1.   Post-Match Process
 
-              5.1.1.​ Results.
+              5.1.1. Results.
 
               League Officials will conﬁrm and record the Match result.
-              5.1.2.​ Tech Notes.
+              5.1.2. Tech Notes.
 
               Players will identify any technical issues with League Officials.
-              5.1.3.​ Between Maps.
+              5.1.3. Between Maps.
 
               League Officials will inform players of the remaining amount of time before the
               next map in the Match, if applicable. The next map, if applicable, will commence
@@ -914,38 +914,38 @@ the previous valid completed pick/ban process.
 designated restroom. Players are not allowed to move to any other location that
 has not been specifically authorized by League Officials for use during the
 transition time.
-5.1.4.​ Between Matches.
+5.1.4. Between Matches.
 
 Teams must be ready to enter the Match Area within five (5) minutes of the
 conclusion of the previous Match, and begin the setup process. The next Match
 will commence as soon as both Teams have confirmed to a League Official that
 all players are ready to play.
-5.1.5.​ Post-Match Obligations.
+5.1.5. Post-Match Obligations.
 
 Players will be informed of any post-Match obligations, including, but not
 limited to, media appearances, interviews, or further discussion of any Match
 matters. Players are required to perform these post-Match obligations.
-5.1.6.​ Results of Forfeiture.
+5.1.6. Results of Forfeiture.
 
 Matches won by forfeit will be reported by the minimum score it would take for
 one Team to win the Match (e.g., 1-0 for best-of-1 Matches, 2-0 for best-of-three
 Matches, 3-0 for best-of-ﬁve Matches). All forfeited map results will be reported
 as a 13-0. No other statistics will be recorded for forfeited Matches.
-5.1.7.​ Tie-Breakers.
+5.1.7. Tie-Breakers.
 
 VCT and League events that include formats where ties may occur between
 Teams shall use the tie-breaker process specified by League Officials and/or the
 applicable Event-Specific Ruleset. If no tiebreaker process is specified, the
 following tie-breaker process shall be used to determine who advances:
 Head-to-Head Tie-Breaker Process:
-    (1)​Head-to-head Match score.
-    (2)​Head-to-head map differential.
-    (3)​Head-to-head round differential.
-    (4)​Split/event map differential.
-    (5)​Split/event round differential.
+    (1)Head-to-head Match score.
+    (2)Head-to-head map differential.
+    (3)Head-to-head round differential.
+    (4)Split/event map differential.
+    (5)Split/event round differential.
 3-Way Tie-Breaker Process:
-    (1)​Head-to-head for all three teams
-           (a)​ Team with a two matchup head-to-head advantage automatically
+    (1)Head-to-head for all three teams
+           (a) Team with a two matchup head-to-head advantage automatically
                 receives first of the group. Tie-breakers for the remaining two
                 teams are determined using the above head-to-head tie-breaker
                 process.
@@ -956,32 +956,32 @@ Head-to-Head Tie-Breaker Process:
                                                                               22
 
 <!-- página 23 -->
-                        (b)​If no team has a two matchup head-to-head advantage (i.e., all
+                        (b)If no team has a two matchup head-to-head advantage (i.e., all
                              Teams are 1-1 head-to-head), then proceed to step (2) of the
                              3-way tie-breaker process.
-                 (2)​Total split/event map differential.
-                 (3)​Total split/event round differential.
-                 (4)​Bo1 Match is held for a tie-breaker.
-                        (a)​ The Bo1 Match will be implemented at the discretion of League
+                 (2)Total split/event map differential.
+                 (3)Total split/event round differential.
+                 (4)Bo1 Match is held for a tie-breaker.
+                        (a) The Bo1 Match will be implemented at the discretion of League
                              Officials. An alternative process may be implemented on a
                              case-by-case basis.
 
               Multiple Team (4+) Tie-Breaker Process:
-                 (1)​Total split/event map differential
-                 (2)​Total split/event round differential
-                 (3)​Tied Teams Only Matches - split/event map differential
-                 (4)​Tied Teams Only Matches - split/event round differential
-                        (a)​ Note: If ties reduce to 2-3 teams, utilize appropriate tie breakers
+                 (1)Total split/event map differential
+                 (2)Total split/event round differential
+                 (3)Tied Teams Only Matches - split/event map differential
+                 (4)Tied Teams Only Matches - split/event round differential
+                        (a) Note: If ties reduce to 2-3 teams, utilize appropriate tie breakers
                              above. If there is no head-to-head data, then the rest of these tie
                              breakers apply.
 
-              5.1.8.​ Championship Points.
+              5.1.8. Championship Points.
 
               Championship point tiebreakers will take into account the full season
               performance of the Teams.
 
-6.​   Pauses
-      6.1.​   Timeouts
+6.   Pauses
+      6.1.   Timeouts
 
          Teams are allowed to call timeouts of sixty (60) seconds in duration (“Timeouts”)
          two times per map during the first 24 rounds of the map (“Regulation”), at any time
@@ -990,7 +990,7 @@ Head-to-Head Tie-Breaker Process:
          overtime, each team will be granted one Timeout to use for overtime. Unused
          Timeouts from Regulation will not carry over to overtime.
 
-              6.1.1.​ Timeout Protocol
+              6.1.1. Timeout Protocol
 
               Communication will be limited to players and coaches. All Timeouts must be
               taken within the first twenty (20) seconds of a Buy Phase. Any Timeout taken
@@ -1004,23 +1004,23 @@ Head-to-Head Tie-Breaker Process:
                                                                                               23
 
 <!-- página 24 -->
-        6.1.2.​ Timeout Agent Control
+        6.1.2. Timeout Agent Control
 
         During a Timeout, headsets have to stay on and players are prohibited from
         controlling their agent (i.e., players can not move or use utility during a
         Timeout).
-6.2.​   Technical Pauses​
+6.2.   Technical Pauses
 
-        6.2.1.​ Technical Pauses Categories
+        6.2.1. Technical Pauses Categories
 
-        ●​ Suspension of Play (Expected delay: Greater than 10 minutes)
+        ● Suspension of Play (Expected delay: Greater than 10 minutes)
         Examples: player disconnected from game, monitor went black, computer froze
         for longer than 3 seconds (less time could classify as an equipment check), any
         programs crashed during gameplay, etc.
-        ●​ Equipment Check (Expected delay: 3-5 minutes)
+        ● Equipment Check (Expected delay: 3-5 minutes)
         Examples: mouse battery died, peripheral stopped working, audio became
         bugged, settings suddenly reset, etc.
-        6.2.2.​ Technical Pause Protocol
+        6.2.2. Technical Pause Protocol
         If a player has a problem that prevents the player from continuing play, the
         player must notify League Officials and request a technical pause. The player
         must announce the reason when requesting a technical pause, and the Head
@@ -1030,26 +1030,26 @@ Head-to-Head Tie-Breaker Process:
         Team may be sanctioned for delay of game.
         Players are not allowed to leave the Match Area at any time during a technical
         pause.
-        6.2.3.​ Technical Pause Agent Control
+        6.2.3. Technical Pause Agent Control
 
         During a technical pause, headsets have to stay on and players are prohibited
         from controlling their agent (i.e., players can not move or use utility during a
         Timeout). Any form of communication including but not limited to text and
         voice communication between players and coaches is forbidden during a
         technical pause, unless instructed to do so by a League Official.
-        6.2.4.​ Invalid Technical Pauses
+        6.2.4. Invalid Technical Pauses
         Technical pauses will not be granted for the following non-exhaustive reasons:
-        ●​ Accidentally hitting power button of monitor;
-        ●​ Minor audio adjustments; or
-        ●​ In-ear headphone adjustments.
+        ● Accidentally hitting power button of monitor;
+        ● Minor audio adjustments; or
+        ● In-ear headphone adjustments.
 
 
                                                                                          24
 
 <!-- página 25 -->
-      6.3.​   Player Emergency Pause
+      6.3.   Player Emergency Pause
 
-              6.3.1.​ Player Emergency Protocol.
+              6.3.1. Player Emergency Protocol.
 
               Teams will be granted a maximum of one (1) pause for an emergency situation
               (“Player Emergency Pause”) per map in a Match for a maximum aggregate
@@ -1063,7 +1063,7 @@ Head-to-Head Tie-Breaker Process:
               the Match shall be awarded to one of the Teams. Teams that misuse the Player
               Emergency Pause for non-emergencies will be sanctioned.
 
-              6.3.2.​ Illness, Injury, or Disability.
+              6.3.2. Illness, Injury, or Disability.
 
               Minor player illness, injury, or disability is not an acceptable reason for a Player
               Emergency Pause. Players may inform League Officials prior to the start of a
@@ -1072,13 +1072,13 @@ Head-to-Head Tie-Breaker Process:
               issue and to determine whether the player is ready, willing, and able to continue
               playing.
 
-7.​   Bugs
-      7.1.​   Types of Bugs
+7.   Bugs
+      7.1.   Types of Bugs
 
       A bug is an error, flaw, or fault in the Game that produces an incorrect, unintended, or
       unexpected result. Bug classification will be communicated via the Esports Bug List
       shared with each patch.
-              7.1.1.​ ​Play Through Bug
+              7.1.1. Play Through Bug
 
               A “Play Through Bug” is defined as a bug that does not significantly alter the
               competitive integrity of the game. This may mean that there are mitigation steps
@@ -1086,7 +1086,7 @@ Head-to-Head Tie-Breaker Process:
               remake.
               All Play Through Bugs are not eligible to be challenged for evaluation according
               to the process in Section 9.
-              7.1.2.​ ​Major Bugs
+              7.1.2. Major Bugs
 
 
 
@@ -1100,7 +1100,7 @@ Head-to-Head Tie-Breaker Process:
               of impact will be at the sole discretion of League Officials.
               Major Bugs are eligible to be challenged for evaluation according to the process
               in Section 9.
-              7.1.3.​ Unknown Bugs
+              7.1.3. Unknown Bugs
 
               An “Unknown Bug” is defined as a bug that is not on the Esports Bug List
               shared with the current patch.
@@ -1108,31 +1108,31 @@ Head-to-Head Tie-Breaker Process:
               game, significantly alters game stats or gameplay mechanics, and has no
               reasonable mitigation steps, is eligible to be challenged for evaluation according
               to the process in Section 9.
-              7.1.4.​ Game Breaking Bugs
+              7.1.4. Game Breaking Bugs
 
               A “Game Breaking Bug” is defined as a bug whose occurrence undermines the
               competitive integrity of a round as a whole, and causes the outcome of the round
               to become undeterminable. Any bugs that fall within this category will be
               explicitly listed in the Esports Bug List shared with each patch.
-      7.2.​   League Official Initiated Round Rollback
+      7.2.   League Official Initiated Round Rollback
 
-              7.2.1.​ Pre-Damage
+              7.2.1. Pre-Damage
 
               If, at the time that a bug occurs in a round, no damage has been directly caused
               by any player to an opponent in the round, then League Officials may initiate a
               round rollback for bugs that impact a player’s ability to compete in the game for
               reasons outside of the player’s control.
-              7.2.2.​ Post-Damage
+              7.2.2. Post-Damage
 
               If, at the time that a bug occurs in a round, damage has already been directly
               caused by a player to an opponent in the round, then League Officials will not
               initiate a round rollback outside of the Challenge process defined in Section 9.
-              7.2.3.​ Round Rollback for Game Breaking Bugs
+              7.2.3. Round Rollback for Game Breaking Bugs
 
               If a Game Breaking Bug occurs at any time during a round, League Officials will
               initiate a round rollback to restore the game to the start of the round.
 
-8.​   ​Exploit Adjudication
+8.   Exploit Adjudication
 
 
 
@@ -1143,12 +1143,12 @@ A player-caused bug that has the potential to significantly alter the competitiv
 of the game and provide an unintended competitive advantage. As a standard, regardless
 of impact, exploit usage is not permitted and if found will result in a penalty, as outlined
 below.
-8.1.​   Agent Specific Exploits
+8.1.   Agent Specific Exploits
 
 Non-limiting examples of “Agent Specific Exploits” are detailed in the Esports Bug
 List. Any use of a bug or exploit specifically listed in the Esports Bug List, or covered
 under a blanket prohibition will be considered a violation of these rules.
-        8.1.1.​ ​Cypher
+        8.1.1. Cypher
         All Cypher cam placements that afford an unfair competitive advantage via
         abusing map textures and/or geometry to prevent the Cypher cam from being
         destroyed or seen are considered banned exploits. All Cypher cam placements
@@ -1157,7 +1157,7 @@ under a blanket prohibition will be considered a violation of these rules.
         that provides an unfair advantage. Any other uses of a Cypher cam that are
         determined by a League Official to provide an unfair competitive advantage will
         also be considered banned exploits.
-        8.1.2.​ ​General Agent Utility Rule
+        8.1.2. General Agent Utility Rule
         All uses of agent utility that afford an unfair competitive advantage via abusing
         map textures and/or geometry to prevent the agent utility from being destroyed
         or seen are considered banned exploits. Agent utility cannot be used in areas that
@@ -1189,70 +1189,70 @@ under a blanket prohibition will be considered a violation of these rules.
         trajectories or end locations for KAYO's ZERO/POINT ability with League
         Officials prior to usage if the Team is unsure whether that usage complies with
         this special exception rule.
-        8.1.3.​ ​Agent Character Model Boosting
+        8.1.3. Agent Character Model Boosting
         Players are prohibited from using another agent's character model to boost to a
         location out of intended jumping range.
-8.2.​   Assessment of Penalties
+8.2.   Assessment of Penalties
 
 When assessing the appropriate penalty, League Officials shall take into account the past
 punishments for the same or similar situation, exploit classification, prior
 communication, impact, and intent. The following questions and assessments shall be
 considered by League Officials in each category to apply appropriate penalties.
-        8.2.1.​ ​Exploit Classification
+        8.2.1. Exploit Classification
 
-            ●​ Is the exploit on the Esports Bug List, and how is it classified?
-            ●​ If the exploit isn’t in the Esports Bug List, is it similar enough to another
+            ● Is the exploit on the Esports Bug List, and how is it classified?
+            ● If the exploit isn’t in the Esports Bug List, is it similar enough to another
                that a reasonable person would assume that the classification would be
                the same?
-            ●​ If the exploit isn’t in the Esports Bug List and isn’t similar to another
+            ● If the exploit isn’t in the Esports Bug List and isn’t similar to another
                known exploit, League Officials should use the other criteria to help
                inform any action.
 
-        8.2.2.​ ​Prior Communication
+        8.2.2. Prior Communication
 
-            ●​ Has the Esports Bug List been shared with the team and/or player?
-            ●​ Was the Esports Bug List for the patch version designated by the League
+            ● Has the Esports Bug List been shared with the team and/or player?
+            ● Was the Esports Bug List for the patch version designated by the League
                Officials for the event shared within a reasonable timeframe for them to
                inform themselves and make necessary adjustments?
-            ●​ If the Esports Bug List hasn’t been communicated at all or in a reasonable
+            ● If the Esports Bug List hasn’t been communicated at all or in a reasonable
                timeframe, this should be a mitigating factor.
 
-        8.2.3.​ Impact
+        8.2.3. Impact
 
-            ●​ What impact did the exploit have on the round and/or outcome of the
+            ● What impact did the exploit have on the round and/or outcome of the
                map - e.g., Damage dealt, info gained (vision, sound etc.), prevented
                opponents actions (bomb defusal/plant).
-            ●​ What impact could this exploit have on the perception of the sport? Could
+            ● What impact could this exploit have on the perception of the sport? Could
                it bring the sport into disrepute?
 
-        8.2.4.​ ​Intent
+        8.2.4. Intent
 
 
 
                                                                                          28
 
 <!-- página 29 -->
-           ●​ How hard is it to use the exploit accidentally? Does it require a specific
+           ● How hard is it to use the exploit accidentally? Does it require a specific
               set of actions that don’t occur in the normal course of play?
-           ●​ Has the player or Team received penalties for the same exploit in the
+           ● Has the player or Team received penalties for the same exploit in the
               past?
-           ●​ Did the player or Team discuss usage in voice comms?
-           ●​ Did the player or Team notify a referee immediately after the exploit had
+           ● Did the player or Team discuss usage in voice comms?
+           ● Did the player or Team notify a referee immediately after the exploit had
               occurred?
 
-8.3.​   Types of Penalties
+8.3.   Types of Penalties
 
 The following list of penalties is a non-exhaustive list. League Officials may, at their
 sole discretion, issue other types of Disciplinary Actions such as Fines or Suspensions
 on a case-by-case basis.
-        8.3.1.​ ​Warning
+        8.3.1. Warning
 
         League Officials may issue warnings for a low impact first offense in order to
         prevent widespread usage of low impact exploits.
         Warnings may be issued for unintended bugs that did not give a competitive
         advantage, or bugs deemed small enough to not have a significant impact on the
         competitive integrity of the Match.
-        8.3.2.​ ​Round Rollback
+        8.3.2. Round Rollback
 
         League Officials may perform a round rollback when an exploit has had a
         significant impact on the outcome of the round, but the intent of the player that
@@ -1264,7 +1264,7 @@ on a case-by-case basis.
         round rollback.
         Round rollbacks may also be issued for a major exploit that impacts the integrity
         of the round, but is not the fault of any player or coach.
-        8.3.3.​ ​Round Loss
+        8.3.3. Round Loss
 
         League Officials may issue a round loss when an exploit has a significant impact
         on the outcome of the round, and League Officials have determined that the
@@ -1278,10 +1278,10 @@ on a case-by-case basis.
                                                                                         29
 
 <!-- página 30 -->
-           ●​ Roll back to the round where the exploit was used and award the Team
+           ● Roll back to the round where the exploit was used and award the Team
               that did not perform the exploit the round win via elimination in round
               rollback settings.
-           ●​ If rolling back isn’t an option, round loss should be applied at the start of
+           ● If rolling back isn’t an option, round loss should be applied at the start of
               the next round. If the current round could result in the map ending, the
               loss should be applied to the current round.
         Round losses may be issued for intended exploits that give a competitive
@@ -1289,21 +1289,21 @@ on a case-by-case basis.
         the current Esports Bug List given to Teams in a reasonable timeframe, the
         exploit will automatically be classified as an intended exploit if considered
         egregious.
-        8.3.4.​ ​Map Forfeit Loss
+        8.3.4. Map Forfeit Loss
 
         League Officials may issue a forfeit loss for a map of the Match in the following
         scenarios:
-           ●​ An exploit had a significant impact on the outcome of a map or provided
+           ● An exploit had a significant impact on the outcome of a map or provided
               a significant unintended competitive advantage, but the map has
               concluded and round rollback and/or remake is not possible.
-           ●​ Second offenses for low impact exploits where round rollback and/or
+           ● Second offenses for low impact exploits where round rollback and/or
               remake is not possible.
-           ●​ Second offenses for high impact exploits while the map is still being
+           ● Second offenses for high impact exploits while the map is still being
               played, and a round loss has already been applied.
-           ●​ Egregious cases that warrant an immediate escalated penalty, as
+           ● Egregious cases that warrant an immediate escalated penalty, as
               determined at the sole discretion of the League Officials.
 
-        8.3.5.​ ​Match Forfeit Loss
+        8.3.5. Match Forfeit Loss
 
         League Officials may issue a forfeit loss for a Match when the actions of the
         Team Personnel of one of the participating Teams has irreversibly undermined
@@ -1313,7 +1313,7 @@ on a case-by-case basis.
         not caught until the Match had already concluded, and no reasonable mitigation
         steps are available.
 
-8.4.​   Finality of Judgment on Bug and Exploit Adjudication
+8.4.   Finality of Judgment on Bug and Exploit Adjudication
 
 League Officials have the right to assess and make final calls on all exploit decisions.
 All decisions regarding the interpretation of this Section 8 lie solely with the League
@@ -1326,18 +1326,18 @@ claim for monetary damages or any other legal or equitable remedy.
                                                                                         30
 
 <!-- página 31 -->
-9.​   Challenge
+9.   Challenge
       A request for an official review (“Challenge”) for one of the following categories of
       issues that occurred during a round. A successful Challenge will result in action
       depending on the severity of the issue.
 
       The following categories of issues are eligible for challenge by a Team:
 
-          ●​ Major Bugs
-          ●​ Any unknown bugs that are not on the Esports Bug List
-          ●​ Exploits
+          ● Major Bugs
+          ● Any unknown bugs that are not on the Esports Bug List
+          ● Exploits
 
-      9.1.​   ​Requesting Challenge
+      9.1.   Requesting Challenge
 
       Only the Match Coach of a Team may request a Challenge. All Challenges must be
       taken within the first twenty (20) seconds of a Buy Phase of the round immediately
@@ -1350,12 +1350,12 @@ claim for monetary damages or any other legal or equitable remedy.
       Challenge will not be granted and the Team may be subject to sanction if a delay of
       game is caused.
 
-      9.2.​   Challenges Per Map
+      9.2.   Challenges Per Map
 
       Teams are given one (1) Challenge per map of a Match. Challenges do not carry over to
       subsequent maps in a Match.
 
-      9.3.​   Official Review
+      9.3.   Official Review
 
       League Officials will review the preceding round to determine whether any event in the
       round falls into one of the Challenge eligible issues. During the official review, League
@@ -1363,7 +1363,7 @@ claim for monetary damages or any other legal or equitable remedy.
       review. League Official decisions with respect to the official review of an issue cannot
       be appealed.
 
-      9.4.​   Successful Challenge
+      9.4.   Successful Challenge
 
       A Challenge is successful if the issue is determined to be a Challenge eligible issue. If
       the Challenge is successful, League Officials will take action depending on the severity
@@ -1371,7 +1371,7 @@ claim for monetary damages or any other legal or equitable remedy.
       round forfeit, and a map forfeit. The Team will retain their Challenge and the staked
       Timeout.
 
-      9.5.​   Unsuccessful Challenge
+      9.5.   Unsuccessful Challenge
 
 
                                                                                                31
@@ -1381,7 +1381,7 @@ claim for monetary damages or any other legal or equitable remedy.
     issue. If the Challenge is unsuccessful, the Team’s one Challenge for the map and one of
     the Team’s remaining Timeouts for the map are consumed.
 
-    9.6.​   Game Pause for Challenge
+    9.6.   Game Pause for Challenge
 
     During a Challenge the game will be paused. Headsets have to stay on and players are
     prohibited from controlling their agent (i.e., players can not move or use utility during a
@@ -1389,20 +1389,20 @@ claim for monetary damages or any other legal or equitable remedy.
     voice communication between players and coaches is forbidden during a Challenge
     pause, unless instructed to do so by a League Official.
 
-10.​ Crashes and Interruptions of Gameplay
-    10.1.​ Discontinuity of Gameplay
+10. Crashes and Interruptions of Gameplay
+    10.1. Discontinuity of Gameplay
 
     If a Match is interrupted for reasons beyond the control of the players (e.g., server crash,
     internet outage, power outage, DDOS, etc.), the League Official will restore the round
     using the in-game round restore feature to the beginning of the most recent round.
 
-    10.2.​ Individual Player Gameplay Interruptions
+    10.2. Individual Player Gameplay Interruptions
 
     Matches will not be stopped and rounds will not be restored or replayed in cases where
     the issue is clearly a player’s fault (e.g., mis-buying a weapon, alt-tabbing, turning off
     monitor, etc.).
 
-            10.2.1.​Transient Interruptions
+            10.2.1.Transient Interruptions
 
             Rounds will not be replayed due to issues that cause a short-term interruption in
             gameplay that does not persist for the remainder of the round (e.g., alt-tab, client
@@ -1411,7 +1411,7 @@ claim for monetary damages or any other legal or equitable remedy.
             reasons beyond their control, League Officials may, at their discretion, determine
             that a discontinuity of gameplay has occurred.
 
-            10.2.2.​Multiple Player Crash/Interruption of Gameplay
+            10.2.2.Multiple Player Crash/Interruption of Gameplay
 
             If two or more players in a round of a Match have an issue that causes an
             interruption to the gameplay that prevents those players from playing out the
@@ -1422,7 +1422,7 @@ claim for monetary damages or any other legal or equitable remedy.
             Interruptions to gameplay that occur after a player’s agent has been eliminated
             will not count.
 
-            10.2.3.​Single Player Crash/Interruption of Gameplay
+            10.2.3.Single Player Crash/Interruption of Gameplay
 
 
                                                                                              32
@@ -1434,7 +1434,7 @@ claim for monetary damages or any other legal or equitable remedy.
           Officials may restore the round using the in-game round restore feature to the
           beginning of the most recent round in the following scenario:
 
-              ●​ “Start of Round Crash” All of the following conditions are met: (a)
+              ● “Start of Round Crash” All of the following conditions are met: (a)
                  issue occurred during the first minute of the round, (b) issue occurred
                  before any damage was caused to any player’s agent by the opposing
                  Team, and (c) the referee was immediately notified.
@@ -1454,13 +1454,13 @@ claim for monetary damages or any other legal or equitable remedy.
           the Team had already undisputedly won at the time of the interruption, as
           determined by League Officials at their sole discretion.
 
-11.​ Player and Team Conduct During Matches
-    11.1.​ Delay of Game
+11. Player and Team Conduct During Matches
+    11.1. Delay of Game
 
           Teams that fail to adhere to the schedules and/or match process timelines
           provided by League Officials may be sanctioned for delay of game or tardiness.
 
-    11.2.​ Non-Compliance
+    11.2. Non-Compliance
 
           Players, coaches, and other Team Personnel must cooperate with League
           Officials and comply with instructions in a prompt and timely manner. Failure to
@@ -1468,7 +1468,7 @@ claim for monetary damages or any other legal or equitable remedy.
           Match may be sanctioned with delay of game in addition to other Disciplinary
           Actions.
 
-    11.3.​ Unprofessional or Hostile Behavior
+    11.3. Unprofessional or Hostile Behavior
 
           Any unprofessional or hostile behavior from players, coaches, or other Team
           Personnel toward League Officials will be considered a breach of this
@@ -1478,16 +1478,16 @@ claim for monetary damages or any other legal or equitable remedy.
                                                                                            33
 
 <!-- página 34 -->
-           ●​ Unprofessional Behavior: Any behavior that impedes the smooth running of
+           ● Unprofessional Behavior: Any behavior that impedes the smooth running of
               the competition, or impedes competition staff from performing in their
               official capacity at the competition.
 
-           ●​ Hostile Behavior: Any behavior that is considered or can be considered as
+           ● Hostile Behavior: Any behavior that is considered or can be considered as
               aggressive or rude. For example, such behavior includes, but is not limited
               to, yelling at competition staff, being belligerent with competition staff, or
               refusing to cooperate with competition staff.
 
-12.​ Travel and Expenses
+12. Travel and Expenses
     For the required five (5) starters, one (1) substitute, one (1) Head Coach, and one (1)
     team manager per Team who have earned the right to participate in International
     Competitions held as part of the VCT, the League Entity will provide reasonable travel,
@@ -1504,8 +1504,8 @@ claim for monetary damages or any other legal or equitable remedy.
     such player competes at the International Competition held as part of the VCT.
 
 
-13.​ Construction, Amendments and Other General Provisions
-    13.1.​ Priority and Conflicts.
+13. Construction, Amendments and Other General Provisions
+    13.1. Priority and Conflicts.
     In the event of a conflict between (a) any term of this Competition Ruleset and the terms
     of a Team Participation Agreement, or (b) any term of this Competition Ruleset and the
     terms of a Guidance Document, the League Entity, in its sole discretion, shall determine
@@ -1513,7 +1513,7 @@ claim for monetary damages or any other legal or equitable remedy.
     Ruleset or a Guidance Document shall be in addition to, and shall not supersede, any
     remedies set forth a Team Participation Agreement.
 
-    13.2.​ Amendments to the Competition Ruleset.
+    13.2. Amendments to the Competition Ruleset.
     Pursuant to terms of the Team Participation Agreement, this Competition Ruleset may
     be amended, modified, updated or supplemented by the League Entity from time to time,
     provided that no such amendment, modification, update or supplement will have the
@@ -1529,7 +1529,7 @@ claim for monetary damages or any other legal or equitable remedy.
           modify, update or supplement this Competition Ruleset without engaging in any such
           discussions.
 
-          13.3.​ Consents and Approvals.
+          13.3. Consents and Approvals.
           Whenever this Competition Ruleset grants, confers or reserves to the League Entity the
           right to take action, refrain from taking action, grant or withhold its consent or grant or
           withhold its approval or make any other determination, unless the provision specifically
@@ -1541,7 +1541,7 @@ claim for monetary damages or any other legal or equitable remedy.
           tribunal or arbitrator reviewing those activities or decisions will not substitute its/his/her
           own judgment for the League Entity’s judgment.
 
-          13.4.​ Construction.
+          13.4. Construction.
           For purposes of this Competition Ruleset, (a) the words “include,” “includes” and
           “including” shall be deemed to be followed by the words “without limitation”; and (b)
           the words “herein,” “hereof,” “hereby,” “hereto” and “hereunder” refer to this
@@ -1556,7 +1556,7 @@ claim for monetary damages or any other legal or equitable remedy.
           applicable to all genders and the word “or” has the inclusive meaning represented by the
           phrase “and/or”.
 
-  14.​ Change Log
+  14. Change Log
 Date                 Section        Previous Language                    Updated Language
 
 March 23, 2023       9.             Any unknown bug that                 Any unknown bugs that are not on the
@@ -1665,9 +1665,9 @@ January 3, 2024   10.2.3.   If only a single player in a round of   If only a si
                             Officials may restore the round         in-game round restore feature to the
                             using the in-game round restore         beginning of the most recent round in the
                             feature to the beginning of the most    following scenario:
-                            recent round in the following                ●​ “Start of Round Crash” All of
+                            recent round in the following                ● “Start of Round Crash” All of
                             scenario:                                          the following conditions are met:
-                                 ●​ All of the following                       (a) issue occurred during the first
+                                 ● All of the following                       (a) issue occurred during the first
                                       conditions are met: (a)                  minute of the round, (b) issue
                                       issue occurred during the                occurred before any damage was
                                       first minute of the round,               caused to any player’s agent by
@@ -1676,12 +1676,12 @@ January 3, 2024   10.2.3.   If only a single player in a round of   If only a si
                                       any player’s agent by the
                                       opposing Team, and (c)        If a Start of Round Crash occurs, League
                                       the referee was               Officials may stop the round early and
-                                      immediately notified.​        restore the round.​
+                                      immediately notified.        restore the round.
 
                             Interruptions to gameplay that          For all other interruptions to gameplay,
                             occur after a player’s agent has        both Teams must play out and finish the
                             been eliminated from the round          round. League Officials will evaluate the
-                            will not be considered. ​               circumstances of the interruption to
+                            will not be considered.                circumstances of the interruption to
                                                                     gameplay at the end of the round during a
                                                                     technical pause. Failure by a Team to play
                                                                     out the round to the best of their ability
@@ -1695,7 +1695,7 @@ January 3, 2024   10.2.3.   If only a single player in a round of   If only a si
 <!-- página 38 -->
                                                                          that occur after a player’s agent has been
                                                                          eliminated from the round will not be
-                                                                         considered. ​
+                                                                         considered. 
 
                                                                          Awarded Round Victory: League Officials,
                                                                          at their sole discretion, may award a round
@@ -1728,17 +1728,17 @@ December 17, 2024   2.1.2        At their discretion, League             At thei
                                  esports regulations. The role of this
                                  person includes, but is not limited
                                  to:
-                                      ●​ Investigating breaches of
+                                      ● Investigating breaches of
                                           any Riot esports
                                           regulations, including the
                                           Team Personnel behavior
                                           regulations (Section
                                           11.5.).
-                                      ●​ Making the final
+                                      ● Making the final
                                           determination on any
                                           disciplinary measures
                                           taken against Teams.
-                                      ●​ Upon request, explaining
+                                      ● Upon request, explaining
                                           any disciplinary measures
                                           taken against Teams.
 
@@ -1826,14 +1826,14 @@ December 17, 2024   2.1.2        At their discretion, League             At thei
         Added Multiple Team Tie-Breaker
         Process]                            Multiple Team (4+) Tie-Breaker
                                             Process:
-                                                1.​ Total split/event map differential
-                                                2.​ Total split/event round
+                                                1. Total split/event map differential
+                                                2. Total split/event round
                                                      differential
-                                                3.​ Tied Teams Only Matches -
+                                                3. Tied Teams Only Matches -
                                                      split/event map differential
-                                                4.​ Tied Teams Only Matches -
+                                                4. Tied Teams Only Matches -
                                                      split/event round differential
-                                                          a.​ Note: If ties reduce to
+                                                          a. Note: If ties reduce to
                                                                2-3 teams, utilize
                                                                appropriate tie breakers
                                                                above. If there is no
@@ -1879,13 +1879,13 @@ December 17, 2024   2.1.2        At their discretion, League             At thei
                                                      Personnel toward League Officials will be
                                                      considered a breach of this Competition
                                                      Ruleset.
-                                                         ●​ Unprofessional Behavior: Any
+                                                         ● Unprofessional Behavior: Any
                                                               behavior that impedes the smooth
                                                               running of the competition, or
                                                               impedes competition staff from
                                                               performing in their official
                                                               capacity at the competition.
-                                                         ●​ Hostile Behavior: Any behavior
+                                                         ● Hostile Behavior: Any behavior
                                                               that is considered or can be
                                                               considered as aggressive or rude.
                                                               For example, such behavior
@@ -1901,7 +1901,7 @@ January 16, 2025   Exhibit 1   [New]                 [Added]
 
 
 
-                                       *​   *​   *
+                                       *   *   *
 
 
 
