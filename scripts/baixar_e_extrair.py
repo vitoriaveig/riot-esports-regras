@@ -120,11 +120,16 @@ def baixar_planilha_google(sess, url, destino, prefixo):
     m = re.search(r"/spreadsheets/(?:u/\d+/)?d/(e/)?([\w-]+)", url)
     if not m: return []
     if m.group(1):
-        u = f"https://docs.google.com/spreadsheets/d/e/{m.group(2)}/pub?output=xlsx"
+        urls = [f"https://docs.google.com/spreadsheets/d/e/{m.group(2)}/pub?output=xlsx"]
     else:
-        u = f"https://docs.google.com/spreadsheets/d/{m.group(2)}/export?format=xlsx"
-    r = sess.get(u, timeout=90); time.sleep(PAUSA)
-    if r.status_code != 200 or r.content[:2] != b"PK": return []
+        urls = [f"https://docs.google.com/spreadsheets/d/{m.group(2)}/export?format=xlsx",
+                f"https://docs.google.com/spreadsheets/d/{m.group(2)}/pub?output=xlsx"]
+    r = None
+    for u in urls:
+        r = sess.get(u, timeout=120); time.sleep(PAUSA)
+        if r.status_code == 200 and r.content[:2] == b"PK": break
+    else:
+        return []
     arqs = []
     for nome, df in pd.read_excel(io.BytesIO(r.content), sheet_name=None).items():
         df = df.dropna(how="all").dropna(axis=1, how="all")
@@ -261,7 +266,14 @@ def main():
             elif modo == "docx" or dados[:2] == b"PK":
                 corpo = normalizar(docx_para_texto(dados)); ext = "docx"
             elif modo == "gsheet":
-                arqs, corpo = sheet_para_csvs(dados.decode("utf-8", errors="replace"), raiz / "dados", tid)
+                arqs = baixar_planilha_google(sess, d["url"], raiz / "dados", tid)
+                if arqs:
+                    import pandas as pd
+                    corpo = "\n\n".join(f"## Aba: {a_.stem.split('__', 1)[-1]}\n\nArquivo: `dados/{a_.name}` — "
+                                         f"{len(pd.read_csv(a_))} linhas\n\n" + pd.read_csv(a_).head(15).to_markdown(index=False)
+                                         for a_ in arqs)
+                else:
+                    arqs, corpo = sheet_para_csvs(dados.decode("utf-8", errors="replace"), raiz / "dados", tid)
                 reg["detalhe"] = f"{len(arqs)} abas exportadas para dados/"; ext = "html"
             elif modo == "gdoc_pub" and b"<html" in dados[:500].lower():
                 from bs4 import BeautifulSoup
@@ -269,7 +281,7 @@ def main():
             else:
                 corpo = normalizar(dados.decode("utf-8", errors="replace")); ext = "txt"
                 if "<html" in corpo[:500].lower():
-                    raise RuntimeError("recebido HTML em vez do documento (link pode exigir login)")
+                    raise RuntimeError("documento Google com acesso restrito (não público): recebido HTML de login em vez do arquivo")
 
             if a.salvar_originais:
                 (raiz / "originais" / f"{tid}.{ext}").write_bytes(dados)
