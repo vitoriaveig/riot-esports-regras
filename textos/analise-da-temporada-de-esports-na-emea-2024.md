@@ -11,7 +11,7 @@ url: "https://drive.google.com/file/d/16Mx1YDlo-G2VMyWSNNbqFtMc_X4eUjmH/view"
 sha256: "a66c08f36d5475b60d475f3351b20dd675565a61d141db68216cf32ddb8d10f7"
 paginas: "65"
 idioma: "en"
-baixado_em: "2026-10-24T21:06:07Z"
+baixado_em: "2026-10-24T21:10:40Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->

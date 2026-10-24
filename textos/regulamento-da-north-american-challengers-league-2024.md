@@ -8,10 +8,10 @@ versao: "24.3"
 tipo_documento: "Regulamento de competição"
 status_biblioteca: "Arquivado"
 url: "https://docs.google.com/document/d/e/2PACX-1vSDwp8yL8MvAvRZyuCrUwkOdpr3LLN0Z_Pp_Jo1EWF1qzVeyUwiDERWhz11C_Uc2VHPjLa0ZxNGcJuI/pub"
-sha256: "a309615b74d5f1e381eea6e170d06571595929590802684bf77469d25a2fe021"
+sha256: "e6c72b98cc4630be7592b738b8e18db2afb832a131d41730b41fb1ab8559fb82"
 paginas: ""
 idioma: "en"
-baixado_em: "2026-10-24T21:06:34Z"
+baixado_em: "2026-10-24T21:11:07Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 2024 NACL Rule Set (v24.2)
@@ -414,7 +414,7 @@ NACL Qualifier Points and Qualification Slots will be owned by the legal entity 
 NACL Teams may not sell or transfer ownership of their Qualification Slot.
 Starting Lineups. 
 Requests to modify a Starting Roster for a Team’s first match on any other day of a Tournament must be submitted no later than a time set by the Tournament Operator on the day prior to the Team’s match.
-For each NACL Match, the Team must designate ﬁve (5) Starters which shall constitute the Team’s 
+For each NACL Match, the Team must designate five (5) Starters which shall constitute the Team’s 
 “Starting Roster
 .
 ” 
@@ -426,7 +426,7 @@ In the event of an emergency at any point during a Match, a Team will be given u
 eligible
  Substitute to be ready 
 in the lobby
- for pick ban. Teams must prioritize Players on their full roster as Substitutes if possible. If a replacement cannot be found then the Team will forfeit. Tournament Oﬃcials, in conjunction with Riot Games, will determine if an incident qualiﬁes as an emergency. Tournament Officials may require proof of emergency from the Team.
+ for pick ban. Teams must prioritize Players on their full roster as Substitutes if possible. If a replacement cannot be found then the Team will forfeit. Tournament Officials, in conjunction with Riot Games, will determine if an incident qualifies as an emergency. Tournament Officials may require proof of emergency from the Team.
 Coaches
 . 
 All Teams participating in NACL matches must have one Coach. The Coach may be present for the pick/ban phase of every Game in which the Team participates.
