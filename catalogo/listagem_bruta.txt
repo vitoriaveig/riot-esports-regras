@@ -1,0 +1,149 @@
+# Extraído de https://competitiveops.riotgames.com/pt-BR/library em 2026-10-24 (147 cartões, 2 fixados)
+# idx|game_badge|data_publicacao|titulo|tags|href|nota
+0|agnostic|16 DE DEZEMBRO DE 2024|Esports Global Code of Conduct (2025)|GLOBAL,REGULATIONS|news/83a85618d1520a2f7b22ddf265b51bfbf843b7c2.pdf|FIXADO
+1|agnostic|1 DE NOVEMBRO DE 2024|EMEA Penalty Tracker|EMEA,LEC,VCT EMEA,SEMI-PRO & OTHER|news/2faf03f9bb568f95ebda5d19fb0ebf49dbd24a16.pdf|FIXADO
+2|val|FEVEREIRO DE 2026|Regulamento Oficial de Competição do VCT EMEA 2026 (Versão 1.5_20/01/2026)|REGULAMENTOS,VCT EMEA|news_live/e069feed802c0aa6e77797e7727610c3a6f299cd.pdf|
+3|agnostic|ABRIL DE 2025|Índice de Penalidades – LRN e LRS (2025)|REGULAMENTOS,LTA,ÍNDICE DE PENALIDADES|news_live/435f0d2f5458e952bc8267e27795185e672e4900.pdf|
+4|agnostic|SETEMBRO DE 2025|ARQUIVADO: Regulamento da ERL 2024 (v0.3)|REGULAMENTOS,SEMIPROFISSIONAL E OUTROS|news/75c1276b07b47d5e7b21012afa103fb288da10f6.pdf|Última atualização: 27 de maio de 2024
+5|agnostic|ABRIL DE 2025|Índice de Penalidades – NACL (2025)|REGULAMENTOS,SEMIPROFISSIONAL E OUTROS,ÍNDICE DE PENALIDADES|news_live/15fc4012668c6768e381a24101c7d9a756f228d0.pdf|
+6|agnostic|FEVEREIRO DE 2026|Registro de alterações do regulamento oficial de competição do VCT EMEA 2026||news_live/5f05f1c4334e826f1439270a0f5e09dc6bea387d.pdf|
+7|val|JANEIRO DE 2026|Regulamento de Competição Específico do Evento VCT Americas 2026|REGULAMENTOS,VCT AMERICAS|news_live/ed6298e4d6f3364f1201256fe22b07aafb20575a.pdf|
+8|agnostic|20 DE FEVEREIRO DE 2025|LJL Official Rules (2025)|REGULAMENTOS,SEMIPROFISSIONAL E OUTROS|news/99144c5622671eed8173f32a73323c0dd36822ad.pdf|Version 2.3. Updated February 18, 2025
+9|val|15 DE SETEMBRO DE 2026|Regras Específicas de Evento do VCT Champions Shanghai (2026)|REGULAMENTOS|news_live/b476c425bfe9d5235d438ade60674e3e4cac36a9.pdf|
+10|agnostic|31 DE AGOSTO DE 2026|Regras Específicas do Evento Campeonato Mundial 2026|REGULAMENTOS|news_live/faa5ce974e58615911fbee931c6123e2785a8b46.pdf|
+11|agnostic|15 DE SETEMBRO DE 2026|Regulamento Global e Regional do TFT: Selvas Encantadas 2026|REGULAMENTOS,SEMIPROFISSIONAL E OUTROS|news_live/fb6bcd10ba5c2a6a8530c88edd4f1728e1726c64.pdf|
+12|val|28 DE JULHO DE 2026|ARQUIVADO: Regras Específicas do Evento Etapa 2 do VCT26 Pacific|REGULAMENTOS,VCT PACIFIC|news_live/b57954435371bf64437ecf1f7b447f4ae1a65313.pdf|
+13|agnostic|27 DE JULHO DE 2026|Regras da Competição dos Eventos Internacionais de Esports de League of Legends de 2026 v.1.1|REGULAMENTOS|news_live/d29e446e0a0d0813a8caaae1d2817dd82cfe79c6.pdf|
+14|val|22 DE JULHO DE 2026|Regulamento Específico de Evento do VCT26 Americas (v26.2)|REGULAMENTOS,VCT AMERICAS|news_live/b825a967a1d2cdc1f6b88c660be9f135e2a07488.pdf|
+15|agnostic|26 DE JUNHO DE 2026|Regulamento LATAM Tier 2 LoL 2026_ v26.4|REGULAMENTOS,SEMIPROFISSIONAL E OUTROS|news_live/ba5c6c32ee02c1331968dac53558508c1aeb8df2.pdf|
+16|val|12 DE MAIO DE 2026|2026 Challengers EMEA LCQ Playoffs Rulebook (v1.0_10May2026)|REGULAMENTOS,SEMIPROFISSIONAL E OUTROS|news_live/501056cdb9e16416ed90abe0511757a81792a3ed.pdf|
+17|agnostic|6 DE MAIO DE 2026|2026 Qualificatórias do Circuito Desafiante - Regras Complementares (v26.2)|REGULAMENTOS,SEMIPROFISSIONAL E OUTROS|news_live/c9afd1c7e842a83eb7b6d4e7eaa760a8ba7623f6.pdf|
+18|agnostic|14 DE ABRIL DE 2026|Regulamento da ERL 2026 (v2.6_11Maio2026)|REGULAMENTOS|news_live/8f95ad929ed9af4597875a782b34d936bb33cb75.pdf|
+19|agnostic|3 DE MARÇO DE 2026|League of Legends Esports International Events 2026 Competition Ruleset|REGULAMENTOS|news_live/137455865da54f3986483b0382c22206d5dea63b.pdf|
+20|agnostic|3 DE MARÇO DE 2026|2026 First Stand Tournament Event Specific Ruleset|REGULAMENTOS|news_live/2893a4fb548f9253d1c99965718c69312ce3bc6b.pdf|
+21|val|3 DE MARÇO DE 2026|Regulamento do Torneio Challengers EMEA 2026|REGULAMENTOS,SEMIPROFISSIONAL E OUTROS|news_live/a5b35cc02c4fcac88e8bd50b92e88e0f1e861089.pdf|
+22|val|20 DE FEVEREIRO DE 2026|VCT Masters Santiago Event-Specific Ruleset|REGULAMENTOS|news_live/3ea5d7549c28b15fac416c99c39f081f8c8404cf.pdf|
+23|agnostic|11 DE FEVEREIRO DE 2026|Regulamento da NACL 2026 (Versão 26.6)|REGULAMENTOS,SEMIPROFISSIONAL E OUTROS|news_live/80c9b547e9fb1356303740e9df3ee81cd99e6798.pdf|
+24|agnostic|11 DE FEVEREIRO DE 2026|2026 Qualificatórias do Circuito Desafiante - Carta Regra (v26.0)|REGULAMENTOS,SEMIPROFISSIONAL E OUTROS|news_live/8b1bd43cc7ee168b77514efc1a5cd228d99dbef8.pdf|
+25|val|11 DE FEVEREIRO DE 2026|Regras Específicas do Evento VCT Pacific Kickoff 2026|REGULAMENTOS,VCT PACIFIC|news_live/28588ec73d7dc80dd968a0ddf9c893293531487c.pdf|
+26|agnostic|12 DE JANEIRO DE 2026|LCK 2026 공식 규정집 (Regras Oficiais da Competição)|REGULAMENTOS|news_live/c14cf2672fb4f272815b466aff4d1dd7c24c3323.pdf|Somente em coreano. Última atualização: 15 dez. 2025; vigência: 14 jan. 2026
+27|agnostic|12 DE JANEIRO DE 2026|LCK 2026 대회별 규정집 (Regras Específicas do Evento)|REGULAMENTOS|news_live/2aec81b6e65c35bc0643a21130d8200cae3350b6.pdf|Somente em coreano. Última atualização: 15 dez. 2025; vigência: 14 jan. 2026
+28|agnostic|12 DE JANEIRO DE 2026|Regulamento LCS 2026 (v.2.2)|REGULAMENTOS|news_live/360cac5b9c29e8891004ca92468a1e2489b2aa71.pdf|
+29|agnostic|12 DE JANEIRO DE 2026|Regras Oficiais da Competição da LCP (2026)|REGULAMENTOS,LCP|news_live/9d46b1b7f22a1847313529231173fe7501c1389f.pdf|Versão 20260112
+30|agnostic|12 DE JANEIRO DE 2026|Regras Específicas do Evento LCP (2026)|REGULAMENTOS,LCP|news_live/9d46b1b7f22a1847313529231173fe7501c1389f.pdf|Versão 20260112
+31|agnostic|11 DE JANEIRO DE 2026|TFT APAC Rulebook - Lore & Legends (2026)|REGULAMENTOS,TFT APAC|news_live/5260651e18d7a0535e1fab9968ae809cdd6c45ca.pdf|
+32|val|10 DE JANEIRO DE 2026|VCT Roster Construction Rules (2026)|REGULAMENTOS|news_live/329a523ef388af7c70c7f5bf2b89af79ec65242a.pdf|Elegibilidade, janelas de transferência, contratos e movimentação de jogadores no VCT
+33|val|10 DE JANEIRO DE 2026|Regras oficiais da competição do VCT (2026)|REGULAMENTOS|news_live/f600a428dbcb54cff5814750f4c4be2b699d7934.pdf|Última atualização: 18 dez. 2025
+34|agnostic|9 DE JANEIRO DE 2026|Regulamento TFT EMEA – Lore & Legends (2026)|REGULAMENTOS,TFT EMEA|news_live/3ec25ab8fbf174b1fd18fb0c4f07234461aeb333.pdf|
+35|agnostic|9 DE JANEIRO DE 2026|Regulamento do CBLoL 2026 v26.1|REGULAMENTOS|news_live/9a5b8d37ca6a8994fbf1bd7490799857d522f64f.pdf|
+36|agnostic|9 DE JANEIRO DE 2026|Código de Conduta Global de Esports (2026)|REGULAMENTOS|news_live/1e8a0de5885cfd0a0923985637fdabd0c874b7ff.pdf|
+37|agnostic|8 DE JANEIRO DE 2026|Regras Globais de Esports do TFT para o TFT Pro Circuit e a Final Regional (2026)|REGULAMENTOS|news_live/b5ae72b533dbbb1d3df3ee585239739e6f7dfdbc.pdf|
+38|agnostic|8 DE JANEIRO DE 2026|TFT AMERICAS Rulebook - Lore & Legends (2026)|REGULAMENTOS,TFT AMERICAS|news_live/a429357f215c70452504b29f656cdb8f6583e237.pdf|
+39|agnostic|15 DE DEZEMBRO DE 2025|Políticas Globais de Esports do LoL (Edição 2026)|REGULAMENTOS|news_live/bef3e7b9f7d9be8e5aefd5cfb72c499a785cb33e.pdf|v20251210
+40|agnostic|24 DE NOVEMBRO DE 2025|Registro de alterações do Regulamento da LEC Versão 3.1 (Última Atualização: 22 de janeiro de 2026)|REGULAMENTOS|news_live/39c5742654303b0a6f876d03b333aa545c64c19e.pdf|
+41|agnostic|18 DE NOVEMBRO DE 2025|Regulamento da ERL 2026 (Versão 2.3_17/11/2025)|REGULAMENTOS,SEMIPROFISSIONAL E OUTROS|news_live/fa50e03c16d933280f3ee9d74c38ca0683928228.pdf|
+42|val|11 DE NOVEMBRO DE 2025|ARQUIVADO: Regras do campeonato VCT Game Changers 2025|REGULAMENTOS,DOCUMENTO ARQUIVADO|news_live/01fab7acc018a993b0f6a2cdd8de16c74f09e193.pdf|
+43|val|16 DE OUTUBRO DE 2025|ARQUIVADO: Regras da competição: VCT Challengers APAC 2025|REGULAMENTOS,SEMIPROFISSIONAL E OUTROS|news_live/b9c19d0d157a56755bf6c0167a0415ebcf51783d.pdf|
+44|val|16 DE OUTUBRO DE 2025|ARQUIVADO: Regras específicas do evento: VCT Pacific Ascension 2025|REGULAMENTOS,SEMIPROFISSIONAL E OUTROS|news_live/5c44fa636953c989f595ee2f3eeeefdaa837f3f9.pdf|
+45|agnostic|6 DE OUTUBRO DE 2025|ARQUIVADO: Regras da Competição Game Changers Pacific (2025)|REGULAMENTOS,GAME CHANGERS PACÍFICO|news_live/cfffc93d05f190ae8ed851aa7838225c6bd0820e.pdf|
+46|agnostic|6 DE OUTUBRO DE 2025|ARQUIVADO: Regras do Challengers Ascension Americas (v25.2)|REGULAMENTOS,LTA,SEMIPROFISSIONAL E OUTROS|news_live/ef00799f1f4740b2900ee9c5c63da3cbff4a293b.pdf|
+47|agnostic|6 DE OUTUBRO DE 2025|Regulamento do Challengers Ascension EMEA (2025, v1.0)|REGULAMENTOS,LTA,SEMIPROFISSIONAL E OUTROS|news_live/1865561342bcaf481874bc5eedc04cf348510087.pdf|
+48|agnostic|3 DE OUTUBRO DE 2025|ARQUIVADO: Regras do Campeonato Mundial de 2025 (v1.0)|REGULAMENTOS|news_live/d3d5b3d1ad2d201d397818ca4209c99536182a18.pdf|
+49|val|29 DE SETEMBRO DE 2025|Regulamento do Challengers Ascension Americas (v25.0)|REGULAMENTOS,VCT AMERICAS,SEMIPROFISSIONAL E OUTROS|news_live/1865561342bcaf481874bc5eedc04cf348510087.pdf|
+50|agnostic|11 DE SETEMBRO DE 2025|ERL Trade Approval Request Form (Exhibit D)|REGULAMENTOS,SEMIPROFISSIONAL E OUTROS|news_live/cc189b5d24c05739e1cdd5191cfcfe5416056e0a.pdf|
+51|agnostic|10 DE SETEMBRO DE 2025|ARQUIVADO: Políticas Globais de Esports do LoL (Edição 2025)|REGULAMENTOS,DOCUMENTO ARQUIVADO|news_live/b36e44e1a22726de82f162d0d28ed9dbfb36a2e5.pdf|
+52|val|4 DE SETEMBRO DE 2025|ARQUIVADO: Regras Específicas do Evento – VCT Paris 2025|REGULAMENTOS|news_live/9fd52830922d39d5f1eb975187063fe3100a65f8.pdf|
+53|val|29 DE AGOSTO DE 2025|ARCHIVED: EMEA Masters Rulebook Changelog (v3.2)|REGULAMENTOS,VCT EMEA,DOCUMENTO ARQUIVADO|https://riotgames.enterprise.slack.com/files/U03PJ66G3TK/F09C71YSBQU/em_rulebook_2025_v3.2_-_26.08.2025._-_changelog.pdf|Link interno do Slack da Riot (inacessível ao público). Version 3.2, 26 ago. 2025
+54|agnostic|21 DE AGOSTO DE 2025|LCK Official Competition Ruleset (2025)|REGULAMENTOS,SEMIPROFISSIONAL E OUTROS|news_live/3e74c542dd1efc5c07529772e4b978ab83c99352.pdf|
+55|agnostic|18 DE AGOSTO DE 2025|ARCHIVED: LCK & LCK CL Event Specific Ruleset (2025)|REGULAMENTOS,SEMIPROFISSIONAL E OUTROS,DOCUMENTO ARQUIVADO|news_live/3e74c542dd1efc5c07529772e4b978ab83c99352.pdf|개정일 2025-03-03, 시행일 2025-04-02
+56|agnostic|11 DE AGOSTO DE 2025|2025 LTA Ruleset (v25.7)|REGULAMENTOS,LTA|news_live/583cd825ee9f9dc4be4a53367a1594984ace21a0.pdf|Updated July 2025
+57|agnostic|5 DE AGOSTO DE 2025|ARQUIVADO: Regulamento da LTA — Tier 2 2025 (v25.10)|REGULAMENTOS,SEMIPROFISSIONAL E OUTROS|news_live/ae58633d9d528503e70f6a7834012ebff3947cb3.pdf|
+58|val|23 DE JULHO DE 2025|2025 VCT Americas Event-Specific Ruleset (v25.3)|REGULAMENTOS,VCT AMERICAS|news_live/1c0e2369b0248ab62cab39afa4f83d3f45c85a44.pdf|
+59|agnostic|23 DE JULHO DE 2025|2025 LEC Rulebook (v2.6)|REGULAMENTOS|news_live/6292aac1777b5977c5b5f72db94894147b9aa3e7.pdf|Version 2.6, July 10, 2025
+60|val|22 DE JULHO DE 2025|2025 VCT EMEA Official Competition Ruleset (v1.3)|REGULAMENTOS,VCT EMEA|news_live/face14cbd248b096b4e3942aa3df49983cb54385.pdf|Updated July 11, 2025
+61|val|22 DE JULHO DE 2025|VCT EMEA Official Competition Ruleset Changelog (v1.3)|REGULAMENTOS,VCT EMEA|news_live/e69ef6bceb14c4ecbaee6c686484d1681def05bd.pdf|Updated August 8, 2025
+62|agnostic|8 DE JULHO DE 2025|ARQUIVADO: Regulamento da ERL 2025|REGULAMENTOS,SEMIPROFISSIONAL E OUTROS,DOCUMENTO ARQUIVADO|news_live/8e05973744bc95a45f234388cc1df1b215e4afc6.pdf|Versão 2.2, 26 jun. 2025
+63|val|24 DE JUNHO DE 2025|VALORANT Challengers Latin America Supplementary Ruleset (v25.2)|REGULAMENTOS,SEMIPROFISSIONAL E OUTROS|news_live/cc250f846cc29e80ab8a6121275f2946898b3dc5.pdf|
+64|val|24 DE JUNHO DE 2025|VALORANT Challengers Brazil - Supplementary Ruleset (v25.2)|REGULAMENTOS,SEMIPROFISSIONAL E OUTROS|news_live/1569edbdc65313a34c35a718fdbe3142bd6efdba.pdf|
+65|val|24 DE JUNHO DE 2025|2025 VALORANT Game Changers Latin America - Supplementary Ruleset (v1.01)|REGULAMENTOS,GAME CHANGERS AMERICAS|news_live/fdee3d550991c61771d126a625c26205eb160251.pdf|
+66|agnostic|23 DE JUNHO DE 2025|ARQUIVADO: Regras do Torneio Mid-Season Invitational 2025|REGULAMENTOS|news_live/8104de6fdde5c325d7c4e562c916c0e36c60a901.pdf|
+67|val|25 DE MAIO DE 2025|ARQUIVADO: Regras Específicas do Evento VALORANT Masters Toronto (2025)|VCT AMERICAS,VCT CN,VCT PACIFIC,VCT EMEA|news_live/8fbec2a81955a1ebd38d9803a2cd53d85aa897ac.pdf|
+68|agnostic|23 DE MAIO DE 2025|EMEA Dispute Resolution: List of Arbitrators|REGULAMENTOS,VCT EMEA,SEMIPROFISSIONAL E OUTROS,GAME CHANGERS EMEA,RESOLUÇÃO DE CONFLITOS|news_live/cffa86644dc9da20827f63b8e6a2059e6281db2b.pdf|
+69|agnostic|25 DE ABRIL DE 2025|Índice de Penalidades – Circuito Desafiante (2025)|REGULAMENTOS,SEMIPROFISSIONAL E OUTROS,ÍNDICE DE PENALIDADES|news_live/a6ec61cf44cca2d38d4354667367436d97fbe75c.pdf|
+70|agnostic|25 DE MARÇO DE 2025|Regras Oficiais da Competição da LCP (2025)|REGULAMENTOS,LCP|news/aa6ec7a0cc7de681de13e8caff47aa12b4931e9d.pdf|Última atualização: 12 mar. 2025
+71|agnostic|25 DE MARÇO DE 2025|Regras Específicas de Evento da LCP (2025)|REGULAMENTOS,LCP|news/0b3fa772ef1927784d2599c70f0303053c2d60ca.pdf|Última atualização: 24 mar. 2025
+72|agnostic|24 DE MARÇO DE 2025|Regras Oficiais da LTA (2025)|REGULAMENTOS,LTA|news/d4b927bc79c80ffa8a1d3296d01c02496f7e9fcb.pdf|Versão 25.5
+73|agnostic|24 DE MARÇO DE 2025|Regras da LTA – Tier 2 (2025)|REGULAMENTOS,LTA|news/940d9c575a47e943f23928b93cc7c9c99d558648.pdf|Versão 25.6, 20 mar. 2025
+74|agnostic|28 DE FEVEREIRO DE 2025|Análise da temporada de Esports na EMEA (2024)|REGULAMENTOS,VCT EMEA,GAME CHANGERS EMEA,SEMIPROFISSIONAL E OUTROS|https://drive.google.com/file/d/16Mx1YDlo-G2VMyWSNNbqFtMc_X4eUjmH/view|
+75|agnostic|26 DE FEVEREIRO DE 2025|Regras do First Stand Tournament (2025)|REGULAMENTOS|news/1696c93dc7040eba9f6194668d3402dcb8b74dca.pdf|
+76|agnostic|26 DE FEVEREIRO DE 2025|Política Global de Jogador dos Esports do TFT (2025)|REGULAMENTOS|news/1180dbadfabeeb74cb0b8a010c50e5bcf4d788a4.pdf|
+77|agnostic|26 DE FEVEREIRO DE 2025|ARQUIVADO: Regulamento do TFT Rising Legends EMEA – Mergulhe em Arcane (2025)|REGULAMENTOS,TFT EMEA|news/4eec8fc8703c77368d43611aabca0b67b67fa6c7.pdf|
+78|agnostic|26 DE FEVEREIRO DE 2025|Regulamento de TFT Americas Esports – Mergulhe em Arcane (2025)|REGULAMENTOS,TFT AMERICAS|news/711516eb71e2341b31178c89c76ea0ab0ed51fc1.pdf|
+79|agnostic|26 DE FEVEREIRO DE 2025|ARQUIVADO: Regulamento de TFT APAC – Mergulhe em Arcane (2025)|REGULAMENTOS,TFT APAC|news/0e203e95bc55d49720e5fe3d25ed6305a8fa5737.pdf|
+80|agnostic|20 DE FEVEREIRO DE 2025|Acordo de Isenção, Renúncia e Termos de Participação da LJL (2025)|REGULAMENTOS,SEMIPROFISSIONAL E OUTROS|news/b4def25bef63d2627005aea00028411a76f62626.pdf|
+81|val|20 DE FEVEREIRO DE 2025|Regulamento de Masters EMEA (2025)|REGULAMENTOS,VCT EMEA|news/29cfda2ba883be697b5ebc7e5f360ccc4f2bb064.pdf|Versão 2.1.1, 1 jan. 2025
+82|val|18 DE FEVEREIRO DE 2025|Regras do VCT Challengers EMEA (2025)|REGULAMENTOS,SEMIPROFISSIONAL E OUTROS|news/0e15a38487e4dfc16476950a23b78ae4863e1e7e.pdf|Versão 2.0_17.02.2025
+83|val|11 DE FEVEREIRO DE 2025|ARQUIVADO: Regras Específicas do Evento VCT Masters Bangkok (2025)|REGULAMENTOS|news/853323dba79d0fd4ba37124c59a883406dbedf3c.pdf|
+84|val|24 DE JANEIRO DE 2025|VCT EMEA Official Competition Ruleset (v1.3)|REGULAMENTOS,VCT EMEA|news_live/face14cbd248b096b4e3942aa3df49983cb54385.pdf|Last Updated: July 11, 2025
+85|val|16 DE JANEIRO DE 2025|Regras Oficiais da Competição de VALORANT (2025)|REGULAMENTOS|news/b2626c898b248fe08f7cf5425d5b54e3deb1db31.pdf|Última atualização: 16 jan. 2025
+86|agnostic|23 DE JANEIRO DE 2025|Índice de Penalidades da LTA Norte (2025)|REGULAMENTOS,LTA|news/dce5105a7a1bc77d9cd4295ad9d89e7045c859e9.pdf|
+87|agnostic|23 DE JANEIRO DE 2025|Índice de Penalidades da LTA Sul (2025)|REGULAMENTOS,LTA|news/51b18a129964fa5b0f3ff299032c69a2e409e483.pdf|Versão 11.11.24
+88|agnostic|29 DE DEZEMBRO DE 2024|Resolução de Conflitos EMEA: Regras de Arbitragem (2025)|EMEA,LEC,SEMIPROFISSIONAL E OUTROS,RESOLUÇÃO DE CONFLITOS|news/d18bb9a27cf2d641795e736f93853731e2e5e0a8.pdf|Válidas de 1 jan. 2025 a 31 dez. 2025
+89|agnostic|16 DE DEZEMBRO DE 2024|Código de Conduta Global de Esports (2025)|REGULAMENTOS|news/83a85618d1520a2f7b22ddf265b51bfbf843b7c2.pdf|
+90|agnostic|5 DE DEZEMBRO DE 2024|ARQUIVADO: Regulamento da LJL 2025|REGULAMENTOS|news/124167200b08614d1816fb5e6288785728d99322.pdf|
+91|agnostic|31 DE DEZEMBRO DE 2024|ARCHIVED: 2025 ERL Rulebook (v2.0)|REGULAMENTOS,SEMIPROFISSIONAL E OUTROS,DOCUMENTO ARQUIVADO|news/f068037e8869f9ec647a2caef1b56f50f3dd830f.pdf|
+92|agnostic|20 DE NOVEMBRO DE 2024|ARCHIVED: 2025 ERL Rulebook Changelog (v2.0)|REGULAMENTOS,SEMIPROFISSIONAL E OUTROS,DOCUMENTO ARQUIVADO|news/7e64f59ecae57d4675f15b2069e009c442b2bedd.pdf|
+93|agnostic|7 DE NOVEMBRO DE 2024|EMEA Dispute Resolution: Data Privacy Policy|REGULAMENTOS,VCT EMEA,SEMIPROFISSIONAL E OUTROS,GAME CHANGERS EMEA,RESOLUÇÃO DE CONFLITOS|news/667003e7af7706f3ebe0198afe8207668a8f125f.pdf|
+94|agnostic|7 DE NOVEMBRO DE 2024|EMEA Dispute Resolution: Request for Arbitration Template|EMEA,LEC,VCT EMEA,SEMIPROFISSIONAL E OUTROS,GAME CHANGERS EMEA,RESOLUÇÃO DE CONFLITOS|news/3290d162991a88a5139e0120414756848f91613f.docx|
+95|agnostic|7 DE NOVEMBRO DE 2024|EMEA Dispute Resolution: User Guide to Dispute Resolution|REGULAMENTOS,VCT EMEA,SEMIPROFISSIONAL E OUTROS,GAME CHANGERS EMEA,RESOLUÇÃO DE CONFLITOS|news_live/5bcfcb880fa20f8ee18bf6127bba00cce6c82ca6.pdf|
+96|agnostic|7 DE NOVEMBRO DE 2024|EMEA Dispute Resolution: Legal Aid Application|EMEA,LEC,VCT EMEA,SEMIPROFISSIONAL E OUTROS,GAME CHANGERS EMEA,RESOLUÇÃO DE CONFLITOS|news/16b35274e077e4e228337cba26edb1543526703c.docx|
+97|agnostic|7 DE NOVEMBRO DE 2024|Resolução de Conflitos EMEA: Regras de Arbitragem (2024)|EMEA,LEC,VCT EMEA,SEMIPROFISSIONAL E OUTROS,GAME CHANGERS EMEA,RESOLUÇÃO DE CONFLITOS|news/059f6f1657b4cd06838b620cab91c56e8c65cb16.pdf|Válidas de 7 nov. 2024 a 31 dez. 2024
+98|agnostic|6 DE NOVEMBRO DE 2024|Regulamento do TFT Rising Legends EMEA – Batalha Musical (2024)|REGULAMENTOS,TFT EMEA|news/9f0ef7e485766f96491a8f74d50f81b652d683ab.pdf|
+99|agnostic|6 DE NOVEMBRO DE 2024|Regulamento do TFT Rising Legends EMEA – Fábulas em Tinta (2024)|REGULAMENTOS,TFT EMEA|news/df6226905bc12e85edd228abfc7c4cfa03d79201.pdf|
+100|agnostic|6 DE NOVEMBRO DE 2024|ARQUIVADO: Regulamento do TFT Macao Open|REGULAMENTOS|news/811a2bc66e2161456d3bbb950016e1fb5fa2693f.pdf|
+101|agnostic|6 DE NOVEMBRO DE 2024|Regulamento do TFT Rising Legends EMEA – Balbúrdias e Bruxarias (2024)|REGULAMENTOS,TFT EMEA|news/eb086b7e5b98ebb17831dff14f28dc30be1a4aef.pdf|
+102|agnostic|1 DE NOVEMBRO DE 2024|Regras Globais de League of Legends (2020)|REGULAMENTOS|news/ca195b2858f04a6bb3a01f637605be3233f135bb.pdf|
+103|lol|1 DE NOVEMBRO DE 2024|League of Legends – Banco de Dados de Contratos Globais (BDCG)|GLOBAL,MISCELLANEOUS|https://docs.google.com/spreadsheets/u/1/d/1Y7k5kQ2AegbuyiGwEPsa62e883FYVtHqr6UVut9RC4o/pubhtml#|Planilha Google publicada (dados de contratos)
+104|val|1 DE NOVEMBRO DE 2024|VALORANT – Banco de Dados de Contratos Globais (BDCG)|GLOBAL,VCT AMERICAS,VCT CN,VCT EMEA,VCT PACIFIC,MISCELLANEOUS|https://docs.google.com/spreadsheets/d/e/2PACX-1vRmmWiBmMMD43m5VtZq54nKlmj0ZtythsA1qCpegwx-iRptx2HEsG0T3cQlG1r2AIiKxBWnaurJZQ9Q/pubhtml|Planilha Google publicada (dados de contratos)
+105|lol|1 DE NOVEMBRO DE 2024|Escalação Ativa da NACL|AMERICAS,LTA,SEMIPROFISSIONAL E OUTROS,MISCELLANEOUS|news/ed17d56d54afb8d5670a1de9b3072b5e1f9b0b56.pdf|
+106|lol|1 DE NOVEMBRO DE 2024|Banco de Dados de Jogadores das ERLs|EMEA,SEMIPROFISSIONAL E OUTROS,MISCELLANEOUS|news/276b32200c0cf498a8aceb12043e28fcbe424250.pdf|Registro dos jogadores das Divisões 1 e 2 não credenciadas
+107|agnostic|1 DE NOVEMBRO DE 2024|LEC Team Member Drop Form (Exhibit E)|REGULAMENTOS|news/7224c356f9be601d5b22d448f9cd6d1d0175f181.pdf|
+108|lol|1 DE NOVEMBRO DE 2024|Perguntas Frequentes sobre o regulamento do EM e das ERLs|EMEA,VCT EMEA,SEMIPROFISSIONAL E OUTROS,REGULATIONS|news/e865f60487e1d21c21f1c7b6d3222b065db1f27e.pdf|
+109|agnostic|1 DE NOVEMBRO DE 2024|ARCHIVED: 2024 LEC Rulebook Changelog|REGULAMENTOS,DOCUMENTO ARQUIVADO|news/f6cf8503f4fd1871701ce3fd4517d5824b242f12.pdf|
+110|agnostic|1 DE NOVEMBRO DE 2024|ARCHIVED: 2024 EMEA Masters Rulebook Changelog|REGULAMENTOS,SEMIPROFISSIONAL E OUTROS,DOCUMENTO ARQUIVADO|news/9a20c12b1be4794b6e6c2c9a2e78a16f21cd7aeb.pdf|
+111|agnostic|1 DE NOVEMBRO DE 2024|Relatório de Penalidades da EMEA|EMEA,LEC,VCT EMEA,SEMIPROFISSIONAL E OUTROS|news/2faf03f9bb568f95ebda5d19fb0ebf49dbd24a16.pdf|
+112|agnostic|1 DE NOVEMBRO DE 2024|Regulamento do League of Legends EMEA Championship (2024)|REGULAMENTOS|news/7556afc9a03da8610e38daf3edfa760026d0f25b.pdf|Versão 2.6, 24 jul. 2024
+113|agnostic|1 DE NOVEMBRO DE 2024|Mid-Seasonal Invitational Rules (2024)|REGULAMENTOS|news/c5eb4dfed0dd2574a94a145c6ac9a23818cbf8b8.pdf|
+114|agnostic|1 DE NOVEMBRO DE 2024|Regras do Campeonato Mundial de League of Legends (2024)|REGULAMENTOS|news/f69130a70849462c75fbd834f740f170963b173e.pdf|
+115|val|1 DE NOVEMBRO DE 2024|Diretrizes de Watch Party do VCT Americas (2024)|REGULAMENTOS,VCT AMERICAS,MISCELLANEOUS|news/d29599901e40e92b717921fd4b2e2d308480cb7a.pdf|
+116|val|1 DE NOVEMBRO DE 2024|VCT Masters Madrid Event-Specific Ruleset (2024)|REGULAMENTOS|https://docs.google.com/document/d/1s22tYJyZhvXD4UaBIPhabrp3YRqfzFK-YRATAV3FO6E/edit|Google Docs
+117|val|31 DE DEZEMBRO DE 2024|ARCHIVED: VCT24 Roster Construction Rules|REGULAMENTOS,DOCUMENTO ARQUIVADO|https://docs.google.com/document/d/1eKKDc0t1MtYF2Q5mk5xJwq5jS5PT2nlM/edit?usp=sharing&ouid=112518600908962408414&rtpof=true&sd=true|Google Docs. Last updated December 15, 2023
+118|val|1 DE NOVEMBRO DE 2024|Regras Oficiais do VCT EMEA Masters (Verão 2024)|REGULAMENTOS,VCT EMEA,DOCUMENTO ARQUIVADO|news/e8a76d9bde2dd00efadca9b313a699c5ef6e6947.pdf|Versão 2.2, 28 jun. 2024
+119|val|1 DE NOVEMBRO DE 2024|VCT Masters Shanghai Event-Specific Ruleset (2024)|REGULAMENTOS|https://docs.google.com/document/d/1lMFUpG5_oHY9-Yr2W-v4uccOTJd8HvSuEl5PaZK_QL8/edit?usp=sharing|Google Docs
+120|val|1 DE NOVEMBRO DE 2024|ARCHIVED: VCT24 Americas Game Changers Competition Ruleset|REGULAMENTOS,VCT AMERICAS,DOCUMENTO ARQUIVADO|news/33eae66ad200e8c9a16a03b05ef79417f76cc5da.pdf|Version 1.0, June 2022
+121|val|1 DE NOVEMBRO DE 2024|ARCHIVED: VCT Americas Penalty Index (2024)|REGULAMENTOS,VCT AMERICAS,DOCUMENTO ARQUIVADO,ÍNDICE DE PENALIDADES|news/1c6a5afd03d1e6a5bfb4a125502b48cac933265d.pdf|Version 1.1, June 11, 2024
+122|agnostic|1 DE NOVEMBRO DE 2024|Regulamento Financeiro Esportivo da LEC v1.2|REGULAMENTOS|news/81560296114715f34c887c65fde4837acf992f83.pdf|Atualização: 30 set. 2025
+123|val|1 DE NOVEMBRO DE 2024|Regulamento do VCT EMEA Challengers|REGULAMENTOS,SEMIPROFISSIONAL E OUTROS|news/38aa5f4e2ab49ab6750cd3d8b01d2f22226bd403.pdf|Versão 1.0, 26 mar. 2024
+124|val|1 DE NOVEMBRO DE 2024|Regulamento do VCT EMEA Game Changers|REGULAMENTOS,GAME CHANGERS EMEA,DOCUMENTO ARQUIVADO|news/143ec28158811825cae92059abd3254242e9b26b.pdf|Versão 10, 27 ago. 2022
+125|val|1 DE NOVEMBRO DE 2024|Archived: VCT Champions Seoul Event-Specific Ruleset (2024)|REGULAMENTOS,DOCUMENTO ARQUIVADO|news/ecf0c2a456ac39779282b3ce00e406053b27f140.pdf|
+126|agnostic|1 DE NOVEMBRO DE 2024|ARQUIVADO: Índice de Penalidades – NACL (2024)|REGULAMENTOS,SEMIPROFISSIONAL E OUTROS,ÍNDICE DE PENALIDADES|https://docs.google.com/document/u/1/d/e/2PACX-1vTN5EBe13OZ_coEDNWy-2uMNuVlbKLTtANdbUgNpAWdbMkCeiuEH9mg3_czKjDg4C1-j0l5d0yQkqoB/pub|Google Docs publicado
+127|agnostic|1 DE NOVEMBRO DE 2024|ARQUIVADO: Regulamento da North American Challengers League (2024)|REGULAMENTOS,SEMIPROFISSIONAL E OUTROS,DOCUMENTO ARQUIVADO|https://docs.google.com/document/d/e/2PACX-1vSDwp8yL8MvAvRZyuCrUwkOdpr3LLN0Z_Pp_Jo1EWF1qzVeyUwiDERWhz11C_Uc2VHPjLa0ZxNGcJuI/pub|Google Docs publicado. Versão 24.3
+128|val|1 DE NOVEMBRO DE 2024|ARQUIVADO: Regulamento de Competição do VCT22 Game Changers Championship|REGULAMENTOS,DOCUMENTO ARQUIVADO|news/8544666856c2e078565ce53fb372ac199f70bf1f.pdf|
+129|val|1 DE NOVEMBRO DE 2024|Política de propriedade simultânea no VCT|REGULAMENTOS|news/84d275e925987ec472bec5ada7a99d3d775f4285.pdf|Última atualização: 2 jan. 2021
+130|agnostic|1 DE NOVEMBRO DE 2024|College League of Legends Season Official Rules (2024)|REGULAMENTOS,SEMIPROFISSIONAL E OUTROS,DOCUMENTO ARQUIVADO|https://drive.google.com/file/d/1Z0bUo2hWwlSrlLMvYEsGGlOjqDV9a5Cx/view|Google Drive. Version 1.01
+131|val|1 DE NOVEMBRO DE 2024|ARCHIVED: VCT Americas Event-Specific Ruleset (2024)|REGULAMENTOS,VCT AMERICAS,DOCUMENTO ARQUIVADO|news/5f681e2ff975590360933ccce36561500b752e0b.pdf|Version 24.2
+132|val|1 DE NOVEMBRO DE 2024|ARQUIVADO: Regras do Campeonato – VCT24 Game Changers|REGULAMENTOS|news/180d9c581eb6e3726eae5eb364279ca796645039.pdf|
+133|agnostic|1 DE NOVEMBRO DE 2024|Folha de Resumo de Consentimento de Membro da Equipe da ERL (Anexo A)|REGULAMENTOS,SEMIPROFISSIONAL E OUTROS,MISCELLANEOUS|news/44e7dc6ef628f1b885bcf1786eafe48137ee5044.pdf|
+134|agnostic|1 DE NOVEMBRO DE 2024|LEC Team Member Agreement Summary Sheet (Exhibit A)|REGULAMENTOS,MISCELLANEOUS|news/5e02c4f2436d9cdc7f6ff8fa9e8466695b8c4f13.pdf|
+135|agnostic|1 DE NOVEMBRO DE 2024|Análise da temporada de Esports na EMEA (2022)|EMEA,LEC,VCT EMEA,GAME CHANGERS EMEA,SEMIPROFISSIONAL E OUTROS,MISCELLANEOUS|news/2b7bb827eadac99fe00177bf42341102fe4f3208.pdf|
+136|agnostic|1 DE NOVEMBRO DE 2024|Análise da temporada na EMEA (2021)|EMEA,LEC,VCT EMEA,GAME CHANGERS EMEA,SEMIPROFISSIONAL E OUTROS,MISCELLANEOUS|news/ac5dbd984fabbfdb0ccd3d529ae8254fb004f196.pdf|
+137|val|1 DE NOVEMBRO DE 2024|ARQUIVADO: Regras de construção do elenco do VCT (2025)|GLOBAL,REGULATIONS|news/fd836048e4e3eb6131400d51cd9b4a04475be38c.pdf|
+138|agnostic|1 DE NOVEMBRO DE 2024|Análise da temporada de Esports na EMEA (2023)|EMEA,LEC,VCT EMEA,GAME CHANGERS EMEA,SEMIPROFISSIONAL E OUTROS,MISCELLANEOUS|news/c8d8d9e5ac3e99634c2a3561223689a9f2fe58f7.pdf|
+139|val|1 DE NOVEMBRO DE 2024|ARCHIVED: 2024 VALORANT Official Competition Ruleset|REGULAMENTOS,DOCUMENTO ARQUIVADO|https://docs.google.com/document/d/1m1tRdQ1zYNzc41lF3Nb2woycbcTwGl2jwdkhcRYkyIM/edit|Google Docs. Last updated January 3, 2024
+140|agnostic|1 DE SETEMBRO DE 2024|Regulamento da North American Challengers League (2023)|REGULAMENTOS,SEMIPROFISSIONAL E OUTROS|https://documentcloud.adobe.com/gsuiteintegration/index.html?state=%7B%22ids%22%3A%5B%221LVixThA9psJdBviIr8hpEJgh6RYD8I1q%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22112518600908962408414%22%2C%22resourceKeys%22%3A%7B%7D%7D|Visualizador Adobe sobre arquivo do Google Drive (id 1LVixThA9psJdBviIr8hpEJgh6RYD8I1q). Versão 23.0
+141|val|29 DE AGOSTO DE 2024|VCT Challengers EMEA Ascension Ruleset (2024)|REGULAMENTOS,SEMIPROFISSIONAL E OUTROS|news/6492ffc7a07038447c87eff5ceb85bdd9e390f92.pdf|Version 1.3, August 29, 2024
+142|val|26 DE JUNHO DE 2024|ARQUIVADO: Regras Oficiais da Competição – VCT EMEA (2024)|REGULAMENTOS,VCT EMEA|news/5214378b124247d8d6ddefe2a60a9188c32a5c6b.pdf|
+143|agnostic|27 DE MAIO DE 2024|ARQUIVADO: Regulamento da ERL 2024 (v1.3)|REGULAMENTOS,SEMIPROFISSIONAL E OUTROS,DOCUMENTO ARQUIVADO|news/75c1276b07b47d5e7b21012afa103fb288da10f6.pdf|Última atualização: 27 mai. 2024
+144|agnostic|27 DE MAIO DE 2024|ARCHIVED: 2024 ERL Rulebook Changelog (v1.3)|REGULAMENTOS,SEMIPROFISSIONAL E OUTROS,DOCUMENTO ARQUIVADO|news/3ad7779b08875709b1dc2e17cbe3e40408a3bd1d.pdf|Last update May 27, 2024
+145|agnostic|23 DE DEZEMBRO DE 2023|Esports Global Code of Conduct (2024)|REGULAMENTOS|news/a6534709d3b87488b5f7ee1e2c294820ab178006.pdf|Arquivado (descrição do site)
+146|agnostic|7 DE DEZEMBRO DE 2023|Diretriz de empréstimo de jogadores do League of Legends na EMEA (2024)|REGULAMENTOS,SEMIPROFISSIONAL E OUTROS|news/dbe25cfce9794e4b5faeb9ab606ce21cc1c169a6.pdf|
