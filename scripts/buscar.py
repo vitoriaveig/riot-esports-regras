@@ -98,7 +98,7 @@ def main():
             m = RX_PAG.search(l)
             if m: pag = m.group(1); continue
             s = RX_SEC.match(l)
-            if s: sec = f"{s.group(1)} {s.group(2).strip()}"
+            if s and not re.search(r"(\.{4,}|\s{3,})\s*\d{1,3}\s*$", l): sec = f"{s.group(1)} {s.group(2).strip()}"
             bloco = "\n".join(linhas[max(0, i - a.janela // 2): i + a.janela // 2 + 1])
             hit = [bool(p.search(l)) for p in pads]
             if any(hit) and ((a.qualquer) or all(p.search(bloco) for p in pads)):

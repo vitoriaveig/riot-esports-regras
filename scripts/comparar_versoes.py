@@ -22,7 +22,7 @@ def secoes(txt):
     out, atual, buf = {}, ("0", "Preâmbulo"), []
     for l in corpo.splitlines():
         m = RX.match(l)
-        if m and not re.search(r"\.{4,}\s*\d+\s*$", l):
+        if m and not re.search(r"(\.{4,}|\s{3,})\s*\d{1,3}\s*$", l):
             out[atual[0]] = (atual[1], "\n".join(buf).strip()); atual, buf = (m.group(1).rstrip("."), m.group(2).strip()), []
         else:
             buf.append(l.strip())

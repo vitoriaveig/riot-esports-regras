@@ -15,7 +15,7 @@ Uso:
   python scripts/baixar_e_extrair.py --id <id>     # um documento
   python scripts/baixar_e_extrair.py --local pasta # usa PDFs já baixados manualmente (nome = id ou hash)
 """
-import argparse, csv, hashlib, io, json, re, subprocess, sys, time
+import argparse, csv, hashlib, io, json, re, shutil, subprocess, sys, tempfile, time
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -34,7 +34,7 @@ def agora():
 
 def url_download(url):
     """Converte links de visualização em links de download direto quando possível."""
-    m = re.search(r"docs\.google\.com/document/d/e/([\w-]+)/pub", url)
+    m = re.search(r"docs\.google\.com/document/(?:u/\d+/)?d/e/([\w-]+)/pub", url)
     if m: return f"https://docs.google.com/document/d/e/{m.group(1)}/pub?output=txt", "gdoc_pub"
     m = re.search(r"docs\.google\.com/document/(?:u/\d+/)?d/([\w-]+)", url)
     if m: return f"https://docs.google.com/document/d/{m.group(1)}/export?format=txt", "gdoc"
@@ -43,9 +43,9 @@ def url_download(url):
         base = f"https://docs.google.com/spreadsheets/d/{'e/' if m.group(1) else ''}{m.group(2)}"
         return base + "/pubhtml", "gsheet"
     m = re.search(r"drive\.google\.com/file/d/([\w-]+)", url)
-    if m: return f"https://drive.google.com/uc?export=download&id={m.group(1)}", "drive"
+    if m: return f"https://drive.usercontent.google.com/download?id={m.group(1)}&export=download&confirm=t", "drive"
     m = re.search(r"%22ids%22%3A%5B%22([\w-]+)%22", url)
-    if m: return f"https://drive.google.com/uc?export=download&id={m.group(1)}", "drive"
+    if m: return f"https://drive.usercontent.google.com/download?id={m.group(1)}&export=download&confirm=t", "drive"
     if "slack.com" in url: return None, "indisponivel"
     if url.lower().endswith(".docx"): return url, "docx"
     return url, "pdf"
@@ -77,15 +77,66 @@ def indexar_secoes(paginas):
     for n, pg in enumerate(paginas, 1):
         for linha in pg.splitlines():
             m = RX_SECAO.match(linha.rstrip())
-            if m and not re.search(r"\.{4,}\s*\d+\s*$", linha):  # ignora linhas de sumário "....... 12"
+            if m and not re.search(r"(\.{4,}|\s{3,})\s*\d{1,3}\s*$", linha):  # ignora linhas de sumário
                 out.append((m.group(1).rstrip("."), re.sub(r"\s{2,}", " ", m.group(2)).strip(), n))
     return out
+
+
+RX_INVISIVEIS = re.compile("[\u00ad\u200b-\u200f\u202a-\u202e\u2060-\u2069\ufeff]")
+
+
+def normalizar(txt):
+    """Remove caracteres invisíveis (marcas de direção, espaços de largura zero) que quebram buscas."""
+    return RX_INVISIVEIS.sub("", txt).replace("\u00a0", " ")
+
+
+def links_pdf(dados):
+    try:
+        from pypdf import PdfReader
+        out = []
+        for pg in PdfReader(io.BytesIO(dados)).pages:
+            for an in pg.get("/Annots") or []:
+                a = an.get_object().get("/A") or {}
+                u = a.get("/URI") if hasattr(a, "get") else None
+                if u and str(u) not in out: out.append(str(u))
+        return out
+    except Exception:
+        return []
+
+
+def ocr(dados):
+    """OCR (ocrmypdf + tesseract) para PDFs que são imagem. Retorna os bytes do PDF com camada de texto."""
+    if not shutil.which("ocrmypdf"): return None
+    with tempfile.TemporaryDirectory() as d:
+        ent, sai = Path(d) / "e.pdf", Path(d) / "s.pdf"
+        ent.write_bytes(dados)
+        p = subprocess.run(["ocrmypdf", "-q", "--skip-text", "-l", "eng+por", str(ent), str(sai)], capture_output=True)
+        return sai.read_bytes() if p.returncode == 0 and sai.exists() else None
+
+
+def baixar_planilha_google(sess, url, destino, prefixo):
+    """Baixa uma planilha Google (link público) como XLSX e grava uma CSV por aba."""
+    import pandas as pd
+    m = re.search(r"/spreadsheets/(?:u/\d+/)?d/(e/)?([\w-]+)", url)
+    if not m: return []
+    if m.group(1):
+        u = f"https://docs.google.com/spreadsheets/d/e/{m.group(2)}/pub?output=xlsx"
+    else:
+        u = f"https://docs.google.com/spreadsheets/d/{m.group(2)}/export?format=xlsx"
+    r = sess.get(u, timeout=90); time.sleep(PAUSA)
+    if r.status_code != 200 or r.content[:2] != b"PK": return []
+    arqs = []
+    for nome, df in pd.read_excel(io.BytesIO(r.content), sheet_name=None).items():
+        df = df.dropna(how="all").dropna(axis=1, how="all")
+        arq = destino / f"{prefixo}__{re.sub(r'[^A-Za-z0-9]+', '_', str(nome))[:40]}.csv"
+        df.to_csv(arq, index=False); arqs.append(arq)
+    return arqs
 
 
 def pdf_para_paginas(dados):
     p = subprocess.run(["pdftotext", "-layout", "-enc", "UTF-8", "-", "-"], input=dados, capture_output=True)
     if p.returncode != 0: raise RuntimeError(p.stderr.decode(errors="ignore")[:300])
-    paginas = p.stdout.decode("utf-8", errors="replace").split("\f")
+    paginas = normalizar(p.stdout.decode("utf-8", errors="replace")).split("\f")
     if paginas and not paginas[-1].strip(): paginas = paginas[:-1]
     return paginas
 
@@ -104,7 +155,7 @@ def sheet_para_csvs(html, destino, texto_id):
     from bs4 import BeautifulSoup
     soup = BeautifulSoup(html, "html.parser")
     nomes = [li.get_text(strip=True) for li in soup.select("#sheet-menu li")] or []
-    tabelas = pd.read_html(io.StringIO(html))
+    tabelas = pd.read_html(io.StringIO(html), flavor="lxml")
     arquivos, resumo = [], []
     for i, t in enumerate(tabelas):
         nome = nomes[i] if i < len(nomes) else f"aba{i+1}"
@@ -160,7 +211,8 @@ def main():
         prev = anterior.get(tid)
         dl, modo = url_download(d["url"])
         imutavel = modo in ("pdf", "docx")  # URLs do CDN Sanity contêm o hash do conteúdo
-        if prev and prev["status"] == "ok" and prev["url"] == d["url"] and imutavel and not a.forcar and not a.local:
+        if (prev and prev["status"] == "ok" and prev["url"] == d["url"] and imutavel and "pouco texto" not in prev.get("detalhe", "")
+                and not a.forcar and not a.local):
             continue
         reg = {k: "" for k in CAMPOS_MANIFEST}
         reg.update(texto_id=tid, chave_arquivo=d["chave_arquivo"], titulo=d["titulo"], url=d["url"],
@@ -185,20 +237,37 @@ def main():
             reg["sha256"] = hashlib.sha256(dados).hexdigest(); reg["bytes"] = len(dados)
 
             corpo, paginas = "", []
+            links = []
             if dados[:4] == b"%PDF":
                 paginas = pdf_para_paginas(dados)
+                n_pal = len(re.findall(r"\w+", "\n".join(paginas)))
+                if paginas and n_pal < 10 * len(paginas):  # provável PDF-imagem
+                    com_ocr = ocr(dados)
+                    if com_ocr:
+                        paginas = pdf_para_paginas(com_ocr); reg["detalhe"] = "texto obtido por OCR (conferir)"
                 corpo = "\n".join(f"\n<!-- página {i} -->\n{pg.rstrip()}" for i, pg in enumerate(paginas, 1))
+                links = links_pdf(dados)
+                planilhas = [u for u in links if "docs.google.com/spreadsheets" in u]
+                for j, u in enumerate(planilhas):
+                    try:
+                        arqs = baixar_planilha_google(sess, u, raiz / "dados", tid if j == 0 else f"{tid}_{j+1}")
+                    except Exception as e2:
+                        arqs = []; print(f"  planilha vinculada não baixada: {str(e2)[:120]}")
+                    if arqs:
+                        reg["detalhe"] = (reg["detalhe"] + "; " if reg["detalhe"] else "") + f"planilha vinculada exportada ({len(arqs)} abas em dados/)"
+                if links:
+                    corpo += "\n\n## Links presentes no documento\n\n" + "\n".join(f"- {u}" for u in links)
                 ext = "pdf"
             elif modo == "docx" or dados[:2] == b"PK":
-                corpo = docx_para_texto(dados); ext = "docx"
+                corpo = normalizar(docx_para_texto(dados)); ext = "docx"
             elif modo == "gsheet":
                 arqs, corpo = sheet_para_csvs(dados.decode("utf-8", errors="replace"), raiz / "dados", tid)
                 reg["detalhe"] = f"{len(arqs)} abas exportadas para dados/"; ext = "html"
             elif modo == "gdoc_pub" and b"<html" in dados[:500].lower():
                 from bs4 import BeautifulSoup
-                corpo = BeautifulSoup(dados, "html.parser").get_text("\n"); ext = "html"
+                corpo = normalizar(BeautifulSoup(dados, "html.parser").get_text("\n")); ext = "html"
             else:
-                corpo = dados.decode("utf-8", errors="replace"); ext = "txt"
+                corpo = normalizar(dados.decode("utf-8", errors="replace")); ext = "txt"
                 if "<html" in corpo[:500].lower():
                     raise RuntimeError("recebido HTML em vez do documento (link pode exigir login)")
 
@@ -208,14 +277,17 @@ def main():
             reg["paginas"] = len(paginas) or ""
             reg["palavras"] = len(re.findall(r"\w+", texto_plano))
             reg["idioma"] = detectar_idioma(texto_plano)
-            if paginas and reg["palavras"] < 50 * max(1, len(paginas)) * 0.2:
+            if paginas and reg["palavras"] < 10 * len(paginas):
                 reg["detalhe"] = (reg["detalhe"] + "; " if reg["detalhe"] else "") + "pouco texto: PDF pode ser imagem (precisa OCR)"
             (raiz / "textos" / f"{tid}.md").write_text(cabecalho(d, reg) + corpo.strip() + "\n", encoding="utf-8")
             for num, tit, pg in indexar_secoes(paginas):
                 secoes.append({"texto_id": tid, "secao": num, "titulo_secao": tit, "pagina": pg})
             reg["status"] = "ok"; feitos.add(tid)
         except Exception as e:  # registra a falha e segue
-            reg["status"] = "erro"; reg["detalhe"] = str(e)[:300]
+            msg = str(e)
+            if "404" in msg and "sanity" in msg: msg = "link quebrado na própria Biblioteca (HTTP 404). " + msg
+            elif "401" in msg or "403" in msg: msg = "documento Google com acesso restrito (não público). " + msg
+            reg["status"] = "erro"; reg["detalhe"] = msg[:300]
         manifest[tid] = reg
         print(f"[{reg['status']}] {tid} {reg['detalhe']}", flush=True)
 
