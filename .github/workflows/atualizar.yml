@@ -29,6 +29,8 @@ jobs:
     timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main   # sempre a versão mais recente (evita conflito entre execuções em fila)
 
       - uses: actions/setup-python@v5
         with:
@@ -60,4 +62,5 @@ jobs:
           git add catalogo textos dados manifest.csv secoes.csv
           if git diff --cached --quiet; then echo "Sem mudanças."; exit 0; fi
           git commit -m "Corpus atualizado em $(date -u +%Y-%m-%d)"
+          git pull --rebase --autostash origin main || true
           git push
