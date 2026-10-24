@@ -1,0 +1,63 @@
+name: Atualizar corpus de regulamentos
+
+on:
+  workflow_dispatch:
+    inputs:
+      forcar:
+        description: "Baixar todos os documentos de novo (true/false)"
+        default: "false"
+      atualizar_listagem:
+        description: "Reler a Biblioteca da Riot para achar documentos novos (true/false)"
+        default: "true"
+  schedule:
+    - cron: "17 9 * * 1"   # toda segunda-feira, 06:17 (Brasília)
+  push:
+    paths:
+      - "catalogo/listagem_bruta.txt"
+      - "scripts/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: corpus
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Dependências
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+          pip install -q -r requirements.txt
+
+      - name: Reler a Biblioteca (documentos novos)
+        if: github.event_name == 'schedule' || github.event.inputs.atualizar_listagem == 'true'
+        run: |
+          python -m playwright install --with-deps chromium
+          python scripts/atualizar_listagem.py
+
+      - name: Gerar catálogo
+        run: python scripts/gerar_catalogo.py
+
+      - name: Baixar e extrair textos
+        run: |
+          if [ "${{ github.event.inputs.forcar }}" = "true" ]; then F="--forcar"; else F=""; fi
+          python scripts/baixar_e_extrair.py $F
+
+      - name: Gravar no repositório
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add catalogo textos dados manifest.csv secoes.csv
+          if git diff --cached --quiet; then echo "Sem mudanças."; exit 0; fi
+          git commit -m "Corpus atualizado em $(date -u +%Y-%m-%d)"
+          git push
