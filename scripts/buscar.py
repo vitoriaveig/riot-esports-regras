@@ -13,11 +13,18 @@ Saída padrão: documento, página, seção mais próxima e trecho, para citaç�
 import argparse, csv, io, re, sys, urllib.request
 from pathlib import Path
 
+LIGADURAS = str.maketrans({"\ufb00": "ff", "\ufb01": "fi", "\ufb02": "fl", "\ufb03": "ffi", "\ufb04": "ffl", "\ufb05": "st", "\ufb06": "st"})
+RX_INVIS = re.compile("[\u00ad\u200b-\u200f\u202a-\u202e\u2060-\u2069\ufeff]")
 RX_PAG = re.compile(r"<!-- página (\d+) -->")
 RX_SEC = re.compile(r"^\s{0,14}((?:\d{1,2}\.){1,5}\d{0,2})\s+([A-ZÀ-Ý][^.\n]{2,80}?)(?:\.\s|\.$|\s*$)")
 
 
 def abrir(remoto, rel, cache):
+    """Lê um arquivo do corpus (local ou GitHub) já normalizado (sem ligaduras nem caracteres invisíveis)."""
+    return RX_INVIS.sub("", _abrir(remoto, rel, cache)).translate(LIGADURAS)
+
+
+def _abrir(remoto, rel, cache):
     if not remoto:
         return Path(rel).read_text(encoding="utf-8")
     alvo = cache / rel

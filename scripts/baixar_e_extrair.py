@@ -84,10 +84,12 @@ def indexar_secoes(paginas):
 
 RX_INVISIVEIS = re.compile("[\u00ad\u200b-\u200f\u202a-\u202e\u2060-\u2069\ufeff]")
 
+LIGADURAS = str.maketrans({"\ufb00": "ff", "\ufb01": "fi", "\ufb02": "fl", "\ufb03": "ffi", "\ufb04": "ffl", "\ufb05": "st", "\ufb06": "st"})
+
 
 def normalizar(txt):
     """Remove caracteres invisíveis (marcas de direção, espaços de largura zero) que quebram buscas."""
-    return RX_INVISIVEIS.sub("", txt).replace("\u00a0", " ")
+    return RX_INVISIVEIS.sub("", txt).replace("\u00a0", " ").translate(LIGADURAS)
 
 
 def links_pdf(dados):
