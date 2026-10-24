@@ -20,7 +20,7 @@ Os regulamentos mudam a cada temporada e às vezes no meio dela. Nunca responda 
 
 - Repositório: https://github.com/vitoriaveig/riot-esports-regras
 - Base para leitura: `https://raw.githubusercontent.com/vitoriaveig/riot-esports-regras/main/`
-- Arquivos: `catalogo/catalogo.csv` (metadados e link oficial de cada documento), `manifest.csv` (situação da extração), `secoes.csv` (índice de seções com página), `textos/<id>.md` (texto integral com marcas `<!-- página N -->`), `scripts/buscar.py` e `scripts/comparar_versoes.py`.
+- Arquivos: `catalogo/catalogo.csv` (metadados e link oficial de cada documento), `manifest.csv` (situação da extração), `secoes.csv` (índice de seções e subseções com página; "página" é a posição no PDF, que pode diferir do número impresso), `textos/<id>.md` (texto integral com marcas `<!-- página N -->`), `scripts/buscar.py` e `scripts/comparar_versoes.py`.
 
 Passo a passo:
 
