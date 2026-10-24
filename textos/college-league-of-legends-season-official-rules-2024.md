@@ -11,7 +11,7 @@ url: "https://drive.google.com/file/d/1Z0bUo2hWwlSrlLMvYEsGGlOjqDV9a5Cx/view"
 sha256: "5898ce0b27c7329ad71d3994bbc4c9ba2001c171ab4c3f456d3f1532236b727d"
 paginas: "23"
 idioma: "en"
-baixado_em: "2026-10-24T20:33:33Z"
+baixado_em: "2026-10-24T20:39:12Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -1054,3 +1054,13 @@ fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.ri
                 by lack of specific language in this document. College Season officials may use
                 any form of punitive actions at their disposal against any entity whose conduct is
                 not within the confines of the best interests of the College Season.
+
+## Links presentes no documento
+
+- https://discord.gg/CLOL
+- mailto:collegiate@riotgames.com
+- https://www.ed.gov/accreditation
+- https://www.cicic.ca/869/results.canada?search=&t=1,2
+- http://prodraft.leagueoflegends.com/
+- https://news-a.akamaihd.net/public/images/articles-na/2019/COLRU/2020CollegeLoLSeasonCodeofConduct.pdf
+- https://docs.google.com/forms/d/e/1FAIpQLSfXfoRNSg3nmtW5uJeB2o3eXdZ_oakDnSFCZEUUR7B1iOXpAg/viewform?usp=sf_link
