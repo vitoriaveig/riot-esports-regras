@@ -14,7 +14,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 from buscar import abrir  # noqa: E402
 
-RX = re.compile(r"^\s{0,6}((?:\d{1,2}\.){1,4}\d{0,2})\s+([A-ZÀ-Ý].{2,80})$")
+RX = re.compile(r"^\s{0,14}((?:\d{1,2}\.){1,5}\d{0,2})\s+([A-ZÀ-Ý][^.\n]{2,80}?)(?:\.\s|\.$|\s*$)")
 
 
 def secoes(txt):
@@ -23,7 +23,8 @@ def secoes(txt):
     for l in corpo.splitlines():
         m = RX.match(l)
         if m and not re.search(r"(\.{4,}|\s{3,})\s*\d{1,3}\s*$", l):
-            out[atual[0]] = (atual[1], "\n".join(buf).strip()); atual, buf = (m.group(1).rstrip("."), m.group(2).strip()), []
+            out[atual[0]] = (atual[1], "\n".join(buf).strip())
+            atual, buf = (m.group(1).rstrip("."), m.group(2).strip()), [l[m.end():].strip()]
         else:
             buf.append(l.strip())
     out[atual[0]] = (atual[1], "\n".join(buf).strip())

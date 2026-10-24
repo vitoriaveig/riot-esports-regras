@@ -14,7 +14,7 @@ import argparse, csv, io, re, sys, urllib.request
 from pathlib import Path
 
 RX_PAG = re.compile(r"<!-- página (\d+) -->")
-RX_SEC = re.compile(r"^\s{0,6}((?:\d{1,2}\.){1,4}\d{0,2})\s+([A-ZÀ-Ý].{2,80})$")
+RX_SEC = re.compile(r"^\s{0,14}((?:\d{1,2}\.){1,5}\d{0,2})\s+([A-ZÀ-Ý][^.\n]{2,80}?)(?:\.\s|\.$|\s*$)")
 
 
 def abrir(remoto, rel, cache):

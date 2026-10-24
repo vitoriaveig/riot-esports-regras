@@ -69,7 +69,7 @@ def detectar_idioma(txt):
     return max(cont, key=cont.get) if max(cont.values()) > 20 else ""
 
 
-RX_SECAO = re.compile(r"^\s{0,6}((?:\d{1,2}\.){1,4}\d{0,2}|[IVX]{1,5}\.|(?:Section|Seção|Artigo|Article|Rule|Regra)\s+\d+(?:\.\d+)*)\s+([A-ZÀ-Ý][^\n]{2,90})$")
+RX_SECAO = re.compile(r"^\s{0,14}((?:\d{1,2}\.){1,5}\d{0,2}|[IVX]{1,5}\.|(?:Section|Seção|Artigo|Article|Rule|Regra)\s+\d+(?:\.\d+)*)\s+([A-ZÀ-Ý][^.\n]{2,80}?)(?:\.\s|\.$|\s*$)")
 
 
 def indexar_secoes(paginas):
@@ -206,10 +206,7 @@ def main():
         unicos = {k: v for k, v in unicos.items() if k == a.id or v["id"] == a.id}
 
     sess = requests.Session(); sess.headers["User-Agent"] = UA
-    manifest, secoes = dict(anterior), []
-    secoes_antigas = []
-    if (raiz / "secoes.csv").exists():
-        secoes_antigas = list(csv.DictReader(open(raiz / "secoes.csv", encoding="utf-8")))
+    manifest = dict(anterior)
 
     feitos = set()
     for tid, d in unicos.items():
@@ -292,8 +289,6 @@ def main():
             if paginas and reg["palavras"] < 10 * len(paginas):
                 reg["detalhe"] = (reg["detalhe"] + "; " if reg["detalhe"] else "") + "pouco texto: PDF pode ser imagem (precisa OCR)"
             (raiz / "textos" / f"{tid}.md").write_text(cabecalho(d, reg) + corpo.strip() + "\n", encoding="utf-8")
-            for num, tit, pg in indexar_secoes(paginas):
-                secoes.append({"texto_id": tid, "secao": num, "titulo_secao": tit, "pagina": pg})
             reg["status"] = "ok"; feitos.add(tid)
         except Exception as e:  # registra a falha e segue
             msg = str(e)
@@ -306,10 +301,16 @@ def main():
     with open(manifest_path, "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=CAMPOS_MANIFEST); w.writeheader()
         for k in sorted(manifest): w.writerow({c: manifest[k].get(c, "") for c in CAMPOS_MANIFEST})
-    todas = [s for s in secoes_antigas if s["texto_id"] not in feitos] + secoes
+    # índice de seções: refeito a partir de todos os textos (barato e sempre consistente)
+    linhas_sec = []
+    for arq in sorted((raiz / "textos").glob("*.md")):
+        corpo = arq.read_text(encoding="utf-8").split("\n---\n", 1)[-1]
+        paginas = re.split(r"<!-- página \d+ -->", corpo)[1:]
+        for num, tit, pg in indexar_secoes(paginas):
+            linhas_sec.append({"texto_id": arq.stem, "secao": num, "titulo_secao": tit, "pagina": pg})
     with open(raiz / "secoes.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=["texto_id", "secao", "titulo_secao", "pagina"]); w.writeheader()
-        w.writerows(sorted(todas, key=lambda s: (s["texto_id"], int(s["pagina"]))))
+        w.writerows(linhas_sec)
     st = [m["status"] for m in manifest.values()]
     print(json.dumps({s: st.count(s) for s in set(st)}, ensure_ascii=False))
 
