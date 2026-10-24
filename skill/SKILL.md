@@ -34,7 +34,7 @@ Passo a passo:
    ```
    Filtros: `--jogo`, `--competicao`, `--temporada`, `--tipo`, `--status`, `--ids`; `--regex`, `--qualquer`, `--contar`, `--max`.
 3. Para ler um documento inteiro, baixe `textos/<id>.md` (a coluna `texto` do catálogo dá o caminho).
-4. Confira no `manifest.csv` se o texto está `ok`. Se estiver `erro`, `indisponivel` ou com nota "pouco texto: PDF pode ser imagem", diga isso e peça ao usuário que anexe o PDF (o link oficial está no catálogo).
+4. Confira no `manifest.csv` se o texto está `ok`. Leia a coluna `detalhe`: "link quebrado na própria Biblioteca (HTTP 404)" e "documento Google com acesso restrito" são falhas da fonte, não do corpus (relate-as como achado, se for pesquisa); "texto obtido por OCR" pede conferência no original; "planilha vinculada exportada" indica dados em `dados/`. Para documentos sem texto, peça ao usuário que anexe o PDF (o link oficial está no catálogo). Alguns PDFs são só capas com link para uma planilha (ex.: EMEA Penalty Tracker); os links ficam no fim do texto, em "Links presentes no documento".
 5. Veja a data no cabeçalho de `catalogo/listagem_bruta.txt`. Se a pergunta for sobre algo muito recente, avise que a Biblioteca pode ter documento mais novo e sugira rodar o workflow (aba Actions do repositório → "Run workflow") ou conferir a página da Biblioteca.
 
 **Restrições importantes:** os PDFs ficam em `cdn.sanity.io`, que bloqueia leitura automática; não tente contornar isso por curl, Python, espelhos ou cache. Se o repositório estiver fora do ar, use o mapa da seção 5 para dizer o que existe e peça o PDF ao usuário. Se o usuário anexar uma versão própria, compare com o corpus e avise sobre diferenças.
