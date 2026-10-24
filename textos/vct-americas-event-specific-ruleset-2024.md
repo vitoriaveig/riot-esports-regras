@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news/5f681e2ff975590360933ccce3656150
 sha256: "b8a671e02e08693afa52426845159880ca572fca6f28f64c694c2a76f99826aa"
 paginas: "18"
 idioma: "en"
-baixado_em: "2026-10-24T20:59:29Z"
+baixado_em: "2026-10-24T21:18:06Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -428,7 +428,7 @@ then the next-highest team will qualify instead.
 
      3.1.   Starting Rosters
 
-     For each match of the VCT Americas Competition, the Team must designate ﬁve (5) starters from
+     For each match of the VCT Americas Competition, the Team must designate five (5) starters from
      the Team’s Active Roster (as defined in the RCR), which shall constitute the Team’s “Starting
      Roster”. Rosters are considered public at the submission deadline.
 

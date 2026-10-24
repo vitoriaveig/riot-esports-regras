@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news_live/f600a428dbcb54cff5814750f4c
 sha256: "ec44aa2415b859cb37da1bf08fa9a56823e9ab23f00a33b8ce4609503da8bbe3"
 paginas: "51"
 idioma: "en"
-baixado_em: "2026-10-24T20:56:05Z"
+baixado_em: "2026-10-24T21:14:22Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -351,7 +351,7 @@ request by League Officials.
 At LAN events, players and coaches are prohibited from installing their own programs
 and must use only the programs provided by the League Entity. This includes the
 warm-up area computers. If a player wishes to install a program onto the warm-up area
-computers, they must ﬁrst ask a League Official.
+computers, they must first ask a League Official.
         2.3.1. Voice Chat.
 
         Voice chat will be provided only via the native system used in League
@@ -524,7 +524,7 @@ between coaches and players is allowed.
       4.1.   Changes to Schedule
 
       League Officials may, at their sole discretion, re-order the schedule of Matches within a
-      given day and/or change the date of a Match to a diﬀerent date or otherwise modify the
+      given day and/or change the date of a Match to a different date or otherwise modify the
       schedule of Matches. In the event that the League Officials modify a Match schedule,
       they will notify all Teams as soon as possible.
       4.2.   Arrival at Venue
@@ -571,7 +571,7 @@ between coaches and players is allowed.
            violations during the Match.
         ● Making Match-related determinations under this Competition Ruleset,
            including with regard to pauses and stoppages of play.
-        ● Conﬁrming the end of the Match and its results.
+        ● Confirming the end of the Match and its results.
 
 
         4.3.3. Stage Referees
@@ -687,15 +687,15 @@ prepared to enter the Match. Sanctions for tardiness in entering the Team Ready
 State may be assessed at the discretion of League Officials.
 4.5.7. Player Ready State.
 
-No fewer than ﬁve minutes before an official Match is scheduled to begin, a
-referee will conﬁrm with each player that their setup is complete. Once all ten
+No fewer than five minutes before an official Match is scheduled to begin, a
+referee will confirm with each player that their setup is complete. Once all ten
 
 
 
                                                                               16
 
 <!-- página 17 -->
-        players in a Match have conﬁrmed completion of setup, players may not enter a
+        players in a Match have confirmed completion of setup, players may not enter a
         warm-up Match or leave the Match Area.
         Once all ten players in a Match have confirmed completion of setup, all settings
         will be considered complete and no pauses or delay of the Match will be allowed
@@ -915,7 +915,7 @@ Section 4.5.3., within seven (7) minutes.
 
               5.1.1. Results.
 
-              League Officials will conﬁrm and record the Match result.
+              League Officials will confirm and record the Match result.
               5.1.2. Tech Notes.
 
               Players will identify any technical issues with League Officials.
@@ -945,7 +945,7 @@ Section 4.5.3., within seven (7) minutes.
 
               Matches won by forfeit will be reported by the minimum score it would take for
               one Team to win the Match (e.g., 1-0 for best-of-1 Matches, 2-0 for best-of-three
-              Matches, 3-0 for best-of-ﬁve Matches). All forfeited map results will be reported
+              Matches, 3-0 for best-of-five Matches). All forfeited map results will be reported
               as a 13-0. No other statistics will be recorded for forfeited Matches.
               5.1.7. Tie-Breakers.
 

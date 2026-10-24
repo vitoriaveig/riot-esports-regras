@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news/2faf03f9bb568f95ebda5d19fb0ebf49
 sha256: "18388101a2ee17af6414ba529b69206ebd76851f8719d4086aa0e49615f99b94"
 paginas: "1"
 idioma: ""
-baixado_em: "2026-10-24T20:54:58Z"
+baixado_em: "2026-10-24T21:13:15Z"
 tambem_listado_como: "relatorio-de-penalidades-da-emea"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---

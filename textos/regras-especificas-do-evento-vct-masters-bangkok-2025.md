@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news/853323dba79d0fd4ba37124c59a88340
 sha256: "9522951ce1fd9f9acf90f88d599895cd099130bb9017d673d1d989173c3016e6"
 paginas: "7"
 idioma: "en"
-baixado_em: "2026-10-24T20:57:50Z"
+baixado_em: "2026-10-24T21:16:15Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -145,7 +145,7 @@ record of either 2-0 or 2-1.
 
 3.   Roster Rules
       3.1. Starting Rosters
-      For each match of the International Competition, the Team must designate ﬁve (5)
+      For each match of the International Competition, the Team must designate five (5)
       starters from the Team’s Active Roster (as defined in the VCT25 Roster Construction
       Rules), which shall constitute the Team’s “Starting Roster”. Rosters are considered
       public at the submission deadline.

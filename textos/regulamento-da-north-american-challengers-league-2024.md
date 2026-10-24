@@ -8,10 +8,10 @@ versao: "24.3"
 tipo_documento: "Regulamento de competição"
 status_biblioteca: "Arquivado"
 url: "https://docs.google.com/document/d/e/2PACX-1vSDwp8yL8MvAvRZyuCrUwkOdpr3LLN0Z_Pp_Jo1EWF1qzVeyUwiDERWhz11C_Uc2VHPjLa0ZxNGcJuI/pub"
-sha256: "e6c72b98cc4630be7592b738b8e18db2afb832a131d41730b41fb1ab8559fb82"
+sha256: "4fff1c03efa36601eba52802445ed1e32a59fd54ffce0c360c3a1811925d2fc3"
 paginas: ""
 idioma: "en"
-baixado_em: "2026-10-24T21:11:07Z"
+baixado_em: "2026-10-24T21:17:57Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 2024 NACL Rule Set (v24.2)

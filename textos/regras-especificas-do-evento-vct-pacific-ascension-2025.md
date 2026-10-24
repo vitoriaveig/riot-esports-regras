@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news_live/5c44fa636953c989f595ee2f3ee
 sha256: "e9ccd1c887ee3efee95292a836679272858e8430b2cd62ebe21b9e1499bb6cb3"
 paginas: "19"
 idioma: "en"
-baixado_em: "2026-10-24T20:56:28Z"
+baixado_em: "2026-10-24T21:14:49Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -176,7 +176,7 @@ Officials when the LAN event is over or upon request by League Officials.
 At LAN events, players and coaches are prohibited from installing their own programs
 and must use only the programs provided by the League Entity. This includes the
 warm-up area computers. If a player wishes to install a program onto the warm-up area
-computers, they must ﬁrst ask a League Official.
+computers, they must first ask a League Official.
         2.3.1. Voice Chat.
 
         Voice chat will be provided only via the native system used in League
@@ -320,7 +320,7 @@ ask for assistance from a League Official.
 
 <!-- página 10 -->
 League Officials may, at their sole discretion, re-order the schedule of Matches within a
-given day and/or change the date of a Match to a diﬀerent date or otherwise modify the
+given day and/or change the date of a Match to a different date or otherwise modify the
 schedule of Matches. In the event that the League Officials modify a Match schedule,
 they will notify all Teams as soon as possible.
 4.2.   Arrival at Venue
@@ -364,7 +364,7 @@ assessed at the discretion of League Officials.
 <!-- página 11 -->
         ● Making Match-related determinations under this Competition Ruleset,
            including with regard to pauses and stoppages of play.
-        ● Conﬁrming the end of the Match and its results.
+        ● Confirming the end of the Match and its results.
 
 
         4.3.3. Stage Referees
@@ -472,9 +472,9 @@ prepared to enter the Match. Sanctions for tardiness in entering the Team Ready
 State may be assessed at the discretion of League Officials.
 4.5.7. Player Ready State.
 
-No fewer than ﬁve minutes before an official Match is scheduled to begin, a
-referee will conﬁrm with each player that their setup is complete. Once all ten
-players in a Match have conﬁrmed completion of setup, players may not enter a
+No fewer than five minutes before an official Match is scheduled to begin, a
+referee will confirm with each player that their setup is complete. Once all ten
+players in a Match have confirmed completion of setup, players may not enter a
 warm-up Match or leave the Match Area.
 Once all ten players in a Match have confirmed completion of setup, all settings
 will be considered complete and no pauses or delay of the Match will be allowed

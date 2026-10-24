@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news/83a85618d1520a2f7b22ddf265b51bfb
 sha256: "603b4f52a1d191f51648cc3cc1cdcb9ecde257719a8772000d8e6b48a399e50f"
 paginas: "26"
 idioma: "en"
-baixado_em: "2026-10-24T20:54:56Z"
+baixado_em: "2026-10-24T21:13:12Z"
 tambem_listado_como: "codigo-de-conduta-global-de-esports-2025"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
@@ -26,7 +26,7 @@ Code of Conduct
 1. DEFINITIONS                                                4
 2. BACKGROUND AND PURPOSE                                     6
   2.1 Protecting the Esports Ecosystem.                       7
-  2.2 Binding Eﬀect.                                          7
+  2.2 Binding Effect.                                          7
   2.3 Consequences for Violations of the Rules.               7
 3. APPLICATION OF THIS CODE OF CONDUCT                        8
   3.1 Application to Esports Professionals.                   9
@@ -47,14 +47,14 @@ Code of Conduct
   4.11 Bullying and Abuse.                                    14
   4.12 Threats.                                               14
   4.13 Bribery.                                               15
-  4.14 Match-ﬁxing or Manipulation.                           15
+  4.14 Match-fixing or Manipulation.                           15
   4.15 Gambling.                                              15
   4.16 Fantasy Esports.                                       16
-  4.17 Conﬂicts of Interest.                                  16
-  4.18 False Information, Forgery and Falsiﬁcation.           16
+  4.17 Conflicts of Interest.                                  16
+  4.18 False Information, Forgery and Falsification.           16
   4.19 Abuse of Position.                                     17
   4.20 Retaliation.                                           17
-  4.21 Conﬁdential Information.                               17
+  4.21 Confidential Information.                               17
   4.22 Immoral Activities.                                    17
   4.23 Violations of Law.                                     18
 
@@ -96,8 +96,8 @@ Code of Conduct
 DEFINITIONS
 
 <!-- página 5 -->
-     The following terms are deﬁned for clarity and consistency throughout the Riot Games
-     Esports Global Code of Conduct. These deﬁnitions ensure a common understanding of
+     The following terms are defined for clarity and consistency throughout the Riot Games
+     Esports Global Code of Conduct. These definitions ensure a common understanding of
      key concepts and apply to all sections of this document.
 
 
@@ -114,18 +114,18 @@ DEFINITIONS
                                  Conduct applies to Esports Professionals.
 
 
-       1.3      Oﬃcials          Any individual designated by Riot Games or aﬃliated entities to
+       1.3      Officials          Any individual designated by Riot Games or affiliated entities to
                                  oversee and manage aspects of Riot Esports Competitions. This
-                                 includes, but is not limited to, referees, competitive operations staﬀ,
+                                 includes, but is not limited to, referees, competitive operations staff,
                                  studio and event personnel, and any other individuals tasked with
                                  ensuring the fair and orderly execution of Riot's Esports events.
-                                 Oﬃcials are responsible for enforcing the rules and regulations of
+                                 Officials are responsible for enforcing the rules and regulations of
                                  the competition and have the authority to make binding decisions
                                  during events.
 
 
        1.4      Riot Esports     Any competition that features play of League of Legends,
-                Competition      VALORANT, League of Legends: Wild Rift, Teamﬁght Tactics,
+                Competition      VALORANT, League of Legends: Wild Rift, Teamfight Tactics,
                                  Legends of Runeterra, and any other game title or event owned or
                                  operated by Riot Games.
 
@@ -133,8 +133,8 @@ DEFINITIONS
        1.5      Riot Esports     The collective structure of all competitive activities and stakeholders
                 Ecosystem        involved in Riot Games' esports initiatives, including but not limited
                                  to professional and semi-professional esports leagues, tournaments,
-                                 teams, players, coaches, team staﬀ, organizers, broadcasters, and
-                                 Riot's aﬃliated esports entities. This ecosystem encompasses all
+                                 teams, players, coaches, team staff, organizers, broadcasters, and
+                                 Riot's affiliated esports entities. This ecosystem encompasses all
                                  Riot Esports Competitions and related operations.
 
 
@@ -154,17 +154,17 @@ BACKGROUND
        “Player First” is one of the foundational values of Riot Games. This is true for all aspects of our
        business, including esports. The player experience depends on the cooperation of everyone
        who participates in the esports ecosystem. We also know that the conduct of a few individuals
-       can damage that ecosystem. Cheating, match-ﬁxing, racism, harassment, and other illegal,
+       can damage that ecosystem. Cheating, match-fixing, racism, harassment, and other illegal,
        unethical or antisocial behavior make esports less compelling for fans, sponsors, streaming
        platforms, and broadcasters. But most of all, these types of behavior make esports a lot less fun
        for players. The purpose of this Code of Conduct is to foster a safe and trustworthy esports
        environment and to codify the existing rules and practices designed to protect esports players,
        teams, fans, and the broader Riot esports community.
 
-       2.2     Binding Eﬀect.
+       2.2     Binding Effect.
 
        This Code of Conduct is a legal agreement between Esports Professionals and Riot Games, or its
-       applicable aﬃliate in their jurisdiction (“Riot Games” or “Riot”). Esports Professionals accept and
+       applicable affiliate in their jurisdiction (“Riot Games” or “Riot”). Esports Professionals accept and
        agree to be bound by this Code of Conduct by:
 
               a) signing a contract or registration form in which this Code of Conduct is incorporated,
@@ -176,7 +176,7 @@ BACKGROUND
               c) participating in any professional or semi-professional esports event that features
               competitive play of a Riot Games video game title.
 
-       Esports Professionals agree that they will beneﬁt, directly and indirectly, from the safe and
+       Esports Professionals agree that they will benefit, directly and indirectly, from the safe and
        trustworthy esports environment that Riot Games is creating with this Code of Conduct.
 
        2.3     Consequences for Violations of the Rules.
@@ -184,7 +184,7 @@ BACKGROUND
        Esports Professionals also accept and agree that Riot has the right to:
 
         a)     monitor compliance with this Code of Conduct, other esports policies, the Riot Games
-               Terms of Service, and any other tournament-speciﬁc or game-speciﬁc rules;
+               Terms of Service, and any other tournament-specific or game-specific rules;
         b)     investigate (or have one of our representatives investigate) possible violations of any of
                the foregoing, and/or possible violations of applicable law; and
          c)    where appropriate, impose sanctions for violations of this Code of Conduct or other
@@ -220,9 +220,9 @@ CONDUCT
         a)    all events leading up to, and immediately following, esports competitions (such as
               promotional events, press conferences, free-agency, prize award ceremonies/trophy
               hoists, and opening and closing ceremonies);
-        b)    qualiﬁers, regular-season, pre- and post-season play (including events like an all-star
+        b)    qualifiers, regular-season, pre- and post-season play (including events like an all-star
               game, invitational tournament or world championship series); and
-         c)   any other Riot-sanctioned oﬃcial competition, match, game, tournament, or public event
+         c)   any other Riot-sanctioned official competition, match, game, tournament, or public event
               that features competitive play of a Riot video game title by Esports Professionals.
 
        3.3     Application in Time.
@@ -234,7 +234,7 @@ CONDUCT
        It also applies to violations that occurred before Esports Professionals commence participation in
        Riot Esports Competitions if the nature of the violation is particularly egregious or where the
        alleged conduct has occurred repeatedly over time. For example, a coach who engaged in
-       match ﬁxing in esports competitions before being hired to coach a team could be subject to
+       match fixing in esports competitions before being hired to coach a team could be subject to
        sanctions under this Code of Conduct for those actions.
 
        This Code of Conduct also applies to violations committed by former Esports Professionals if
@@ -257,7 +257,7 @@ Back to Table of Contents
        It may also apply at third-party esports competitions, and circumstances that occur outside of
        tournament play entirely, if the alleged conduct could have an adverse impact on the Riot Esports
        Ecosystem or in circumstances where the alleged conduct could be associated with Riot, our
-       aﬃliates, our game titles, or other properties, in each case as determined by Riot.
+       affiliates, our game titles, or other properties, in each case as determined by Riot.
 
        The rules in this Code of Conduct apply during or at Riot Esports Competitions, and also apply to
        conduct that occurs outside of competitive play, including in text messages, chat, social media
@@ -286,7 +286,7 @@ RULES
        and others (including gaming equipment, recreation areas, work spaces, and other facilities) in a
        professional and responsible manner.
 
-       Esports Professionals must promptly comply with the decisions and instructions of Oﬃcials
+       Esports Professionals must promptly comply with the decisions and instructions of Officials
        (particularly of referees) in a respectful and non-combative manner. Any objections or concerns
        should be raised through the appropriate channels after compliance.
 
@@ -299,8 +299,8 @@ RULES
 
        Cheating is prohibited.
 
-       Cheating is deﬁned as the use of any in- or out-of-game method, technique, or technology that
-       aﬀects the outcome of a game or that gives a personal or team unfair advantage, including, for
+       Cheating is defined as the use of any in- or out-of-game method, technique, or technology that
+       affects the outcome of a game or that gives a personal or team unfair advantage, including, for
        example, the use of hacks, bug exploits, cheats, or communication with individuals who are not
        playing in the game.
 
@@ -308,7 +308,7 @@ RULES
 
        Esports Professionals may not interfere with the lights, cameras, or other studio equipment used
        at live events. For example, standing on chairs, tables, or other studio equipment is prohibited;
-       covering up, moving, obfuscating, or otherwise obstructing oﬃcial tournament sponsor
+       covering up, moving, obfuscating, or otherwise obstructing official tournament sponsor
        integrations is likewise prohibited. Esports Professionals must follow the instructions of studio
        and/or event personnel in relation to the foregoing.
 
@@ -325,10 +325,10 @@ Back to Table of Contents
 
 <!-- página 13 -->
        While a game is in progress, Esports Professionals may not communicate with others in a manner
-       that is unauthorized within the game or event-speciﬁc rules and regulations. If Riot or the
-       tournament organizer has speciﬁed particular procedures or equipment to be used for
+       that is unauthorized within the game or event-specific rules and regulations. If Riot or the
+       tournament organizer has specified particular procedures or equipment to be used for
        communications during a match, Esports Professionals must follow those procedures and use the
-       speciﬁed equipment.
+       specified equipment.
 
        When communication is permitted, Esports Professionals may only communicate with authorized
        individuals and may only use Riot-approved headsets and software for such communications.
@@ -337,16 +337,16 @@ Back to Table of Contents
 
        Esports Professionals who have registered for or agreed to participate in a Riot Esports
        Competition may be sanctioned for dropping out or refusing to participate in that event without
-       the approval of a tournament Oﬃcial.
+       the approval of a tournament Official.
 
        4.7    Illegal Drugs and Other Prohibited Substances.
 
        The illegal possession, use, or distribution of alcohol or drugs is prohibited, as is being under the
-       inﬂuence of drugs or alcohol while you are (a) engaged in any Riot Esports Competition or other
+       influence of drugs or alcohol while you are (a) engaged in any Riot Esports Competition or other
        event covered by this Code of Conduct, and/or (b) on premises that are owned by or leased to
        Riot or an esports tournament operator.
 
-       Esports Professionals may only use prescription drugs that are prescribed to them by a qualiﬁed
+       Esports Professionals may only use prescription drugs that are prescribed to them by a qualified
        medical professional and in the manner, combination, and quantity as prescribed. Esports
        Professionals may only use prescription drugs to treat the condition for which they are
        prescribed; and may not use them to enhance their performance in a game.
@@ -361,12 +361,12 @@ Back to Table of Contents
        means to transmit, allow or facilitate messages or actions that insult, encourage hatred,
        undermine, or harm the integrity of a country, individual, or group of people. This includes
        contemptuous, discriminatory, or denigrating expressions based on race, skin color, ethnic,
-       national, or social origin, gender, language, religion, political or other opinions, ﬁnancial status,
+       national, or social origin, gender, language, religion, political or other opinions, financial status,
        birth, sexual orientation, medical condition or history, or any other characteristic or status.
 
        Esports Professionals may not use such prohibited communications on social media, during any
        public-facing events (such as streaming), or in circumstances that could be associated with Riot,
-       our aﬃliates, our game titles, or other properties.
+       our affiliates, our game titles, or other properties.
 
 
 
@@ -380,35 +380,35 @@ Back to Table of Contents
        Esports Professionals may not use words, gestures, digital or physical objects, or any other
        means to transmit, allow or facilitate messages or actions that are obscene, vulgar, provocative,
        hateful, racist, insulting, threatening, abusive, libelous, slanderous, defamatory, or otherwise
-       oﬀensive or objectionable. Esports Professionals may not use such prohibited communications
+       offensive or objectionable. Esports Professionals may not use such prohibited communications
        on social media, during any public-facing events (such as streaming), or in circumstances that
-       could be associated with Riot, our aﬃliates, our game titles, or other properties.
+       could be associated with Riot, our affiliates, our game titles, or other properties.
 
        4.10   Harassment / Sexual Harassment.
 
        Esports Professionals may not engage in any form of harassment.
 
-       Harassment is deﬁned as unwelcome and unwanted behaviors that diminish, demean, or
-       otherwise intimidate. This rule also prohibits sexual harassment, which is deﬁned as any form of
+       Harassment is defined as unwelcome and unwanted behaviors that diminish, demean, or
+       otherwise intimidate. This rule also prohibits sexual harassment, which is defined as any form of
        unwelcome sexual advances. An advance is unwelcomed if the person being harassed would
-       regard the conduct as undesirable or oﬀensive.
+       regard the conduct as undesirable or offensive.
 
        Stalking, conduct that involves threats of violence (whether physically or online) and sharing
        personal information of another individual without permission are considered forms of
        harassment as is any conduct by an individual that incites or encourages abuse by others.
 
-       All forms of harassment are prohibited, even if the behavior is not suﬃciently severe or pervasive
+       All forms of harassment are prohibited, even if the behavior is not sufficiently severe or pervasive
        to constitute unlawful activity under applicable law.
 
        4.11   Bullying and Abuse.
 
        Esports Professionals may not engage in any form of bullying or physical or mental abuse.
 
-       Bullying is deﬁned as malicious conduct which a reasonable person would consider hostile,
-       oﬀensive, and unrelated to legitimate competition, especially in circumstances where the person
+       Bullying is defined as malicious conduct which a reasonable person would consider hostile,
+       offensive, and unrelated to legitimate competition, especially in circumstances where the person
        is perceived as vulnerable.
 
-       Abuse is deﬁned as treating a person with cruelty or violence (including physical altercation),
+       Abuse is defined as treating a person with cruelty or violence (including physical altercation),
        especially if done repeatedly. Acting with reckless disregard for the potential negative impact of
        one’s actions is also considered a form of bullying and is prohibited.
 
@@ -416,7 +416,7 @@ Back to Table of Contents
 
        Esports Professionals may not threaten others.
 
-       A threat is deﬁned as a statement of intention to commit an act of violence or take other hostile
+       A threat is defined as a statement of intention to commit an act of violence or take other hostile
        action against someone in retribution for something done or not done.
 
 
@@ -428,34 +428,34 @@ Back to Table of Contents
 <!-- página 15 -->
        4.13 Bribery.
 
-       Esports Professionals may not, directly or indirectly, accept, oﬀer, promise, receive, request,
+       Esports Professionals may not, directly or indirectly, accept, offer, promise, receive, request,
        solicit or give cash or any other thing of value to any other Esports Professional, team,
-       tournament Oﬃcial, government oﬃcial, or other person in exchange for a direct or indirect
-       beneﬁt in relation to a Riot Esports Competition. For purposes of this rule, a thing of value may
+       tournament Official, government official, or other person in exchange for a direct or indirect
+       benefit in relation to a Riot Esports Competition. For purposes of this rule, a thing of value may
        include loans, digital and physical goods, and professional services.
 
-       This rule prohibits active bribery (i.e., when a person oﬀers, promises, or gives a bribe) and
+       This rule prohibits active bribery (i.e., when a person offers, promises, or gives a bribe) and
        passive bribery (i.e., when a person requests, receives, or accepts a bribe).
 
-       4.14   Match-ﬁxing or Manipulation.
+       4.14   Match-fixing or Manipulation.
 
-       Esports Professionals may not match-ﬁx or otherwise manipulate the outcome of any match or
+       Esports Professionals may not match-fix or otherwise manipulate the outcome of any match or
        competition or request, encourage, or instruct others to manipulate it.
 
-       Manipulation is deﬁned as the unlawful or undue inﬂuence or alteration (including failing to give
-       best eﬀorts), directly or indirectly, by an act or an omission, of the course, result, or any other
-       aspect of a match (i.e. spot-ﬁxing) or a competition, irrespective of whether the behavior is
-       committed for ﬁnancial gain, sporting advantage, or any other purpose.
+       Manipulation is defined as the unlawful or undue influence or alteration (including failing to give
+       best efforts), directly or indirectly, by an act or an omission, of the course, result, or any other
+       aspect of a match (i.e. spot-fixing) or a competition, irrespective of whether the behavior is
+       committed for financial gain, sporting advantage, or any other purpose.
 
        Teams may be sanctioned for the actions of their team owners, players, coaches, and any other
        employees or members of their organization. Any attempt to manipulate any match or
        competition, even if done unsuccessfully, will be deemed a violation of this rule.
 
-       Failure to cooperate with Riot in an investigation related to match-ﬁxing or manipulation may be
-       sanctioned similarly to the actual act of match-ﬁxing or manipulation.
+       Failure to cooperate with Riot in an investigation related to match-fixing or manipulation may be
+       sanctioned similarly to the actual act of match-fixing or manipulation.
 
        Esports Professionals may be held liable for the behavior of their relatives (such as, but not
-       limited to, their spouse, friends, family members, colleagues, partners) or other aﬃliates (such as,
+       limited to, their spouse, friends, family members, colleagues, partners) or other affiliates (such as,
        but not limited to, agents or representatives) that may have taken part or contributed to a breach
        of this provision.
 
@@ -476,12 +476,12 @@ Back to Table of Contents
 Back to Table of Contents
 
 <!-- página 16 -->
-       Gambling activity is deﬁned as placing anything of value (including real-world currency,
+       Gambling activity is defined as placing anything of value (including real-world currency,
        cryptocurrency, or other digital assets) at risk in connection with a bet or wager. A gambling
        activity may take place in a casino, other physical retail location, or via the internet.
 
        Esports Professionals may be held liable for the behavior of their relatives (such as, but not
-       limited to, their spouse, friends, family members, colleagues, partners) or other aﬃliates (such as,
+       limited to, their spouse, friends, family members, colleagues, partners) or other affiliates (such as,
        but not limited to, agents or representatives) that may have taken part or contributed to a breach
        of this provision.
 
@@ -495,35 +495,35 @@ Back to Table of Contents
         b)    own any interest, either directly or indirectly, in any corporation or other entity that
               engages in fantasy contests for esports competitions.
 
-       Fantasy contests or daily fantasy contests are deﬁned as any online or peer-to-peer contest in
-       which the real-world performance of esports participants determines or inﬂuences the virtual
-       performance and/or point total of a ﬁctional team assembled by game participants.
+       Fantasy contests or daily fantasy contests are defined as any online or peer-to-peer contest in
+       which the real-world performance of esports participants determines or influences the virtual
+       performance and/or point total of a fictional team assembled by game participants.
 
-       For clariﬁcation, participation in Riot-sanctioned Pick'ems contests is permitted, provided it is not
+       For clarification, participation in Riot-sanctioned Pick'ems contests is permitted, provided it is not
        connected to any opportunity to make money or win prizes of real-world value.
 
-       4.17   Conﬂicts of Interest.
+       4.17   Conflicts of Interest.
 
-       Esports Professionals may not be involved in a situation which involves a conﬂict of interest. A
-       conﬂict of interest is any situation where personal interests could, or could appear to,
+       Esports Professionals may not be involved in a situation which involves a conflict of interest. A
+       conflict of interest is any situation where personal interests could, or could appear to,
 
         a)    prevent Esports Professionals from making a decision that is in their team’s best interests,
               or
-        b)    adversely aﬀect or compromise integrity of the sport.
+        b)    adversely affect or compromise integrity of the sport.
 
-       For example, an individual who is an owner of Team A and has loaned a signiﬁcant sum of money
-       to Team B would have a conﬂict of interest in a match between Team A and Team B. An Esports
-       Professional engaged in a personal relationship that could grant them access to conﬁdential
-       information or other unfair beneﬁt to the Esports Professional or their Team, may be in violation
-       of this policy. Examples of conﬂicts of interest provided in this Section are for illustrative
+       For example, an individual who is an owner of Team A and has loaned a significant sum of money
+       to Team B would have a conflict of interest in a match between Team A and Team B. An Esports
+       Professional engaged in a personal relationship that could grant them access to confidential
+       information or other unfair benefit to the Esports Professional or their Team, may be in violation
+       of this policy. Examples of conflicts of interest provided in this Section are for illustrative
        purposes only and are not exhaustive.
 
-       4.18   False Information, Forgery and Falsiﬁcation.
+       4.18   False Information, Forgery and Falsification.
 
        Esports Professionals may not provide false or misleading information to Riot or to any
        tournament organizers or other representatives. Esports Professionals may not make use of any
        document, form or content that they know (or should reasonably suspect) has been forged or
-       falsiﬁed or that contains false or misleading information.
+       falsified or that contains false or misleading information.
 
 
 
@@ -560,18 +560,18 @@ Back to Table of Contents
        Esports Professionals may not retaliate against anyone who reports a possible violation of this
        Code of Conduct in good faith or who provides truthful information during an investigation.
 
-       4.21   Conﬁdential Information.
+       4.21   Confidential Information.
 
-       Esports Professionals may have access to information that is conﬁdential to Riot Games or one of
-       its aﬃliates or that is competitively sensitive. Examples of such conﬁdential information may
+       Esports Professionals may have access to information that is confidential to Riot Games or one of
+       its affiliates or that is competitively sensitive. Examples of such confidential information may
        include (a) team lineups, (b) team strategy, (c) the results of pre-recorded matches that are
        broadcast or streamed to audiences at a later date, (d) information that is embargoed pending a
        reveal, and (e) information Esports Professionals gain access to during investigations or
        disciplinary proceedings.
 
-       Esports Professionals may not use, deliver or leak Riot conﬁdential or non-public information to
+       Esports Professionals may not use, deliver or leak Riot confidential or non-public information to
        others or use it for any purpose other than competing in Riot Esports Competitions. Similarly,
-       Esports Professionals may not request or facilitate any such provision of conﬁdential or
+       Esports Professionals may not request or facilitate any such provision of confidential or
        non-public information, whether for their own gain or for the gain of others.
 
        4.22 Immoral Activities.
@@ -589,7 +589,7 @@ Back to Table of Contents
        participation in Riot Esports Competitions. Esports Professionals may not engage in (or
        encourage or solicit others to engage in) any illegal activity or behavior that is under
        investigation or has resulted in formal charges, whether or not a conviction has occurred, if such
-       activity may bring Riot Games and/or a Riot Esports Competition into disrepute, negatively aﬀect
+       activity may bring Riot Games and/or a Riot Esports Competition into disrepute, negatively affect
        the authority, honor, and brand value of Riot Games or a Riot Esports Competition, or cause harm
        to the operation of a Riot Esports Competition.
 
@@ -599,7 +599,7 @@ Back to Table of Contents
        sanctions under this Code of Conduct in addition to consequences established in the Riot
        Games Terms of Service. In particular, any form of account boosting and sharing is prohibited.
 
-       Account Sharing is deﬁned as playing under another player’s account or soliciting, inducing,
+       Account Sharing is defined as playing under another player’s account or soliciting, inducing,
        encouraging or directing someone else to play under another player’s account. Esports
        Professionals may not engage in any conduct that circumvents (or attempts to circumvent) the
        matchmaking process of a game’s competitive matchmaking mode in order to increase or boost
@@ -607,7 +607,7 @@ Back to Table of Contents
        Professionals may not grant another player access to their game account or Riot ID in order to
        increase the MMR of their account or Riot ID. Similarly, Esports Professionals may not access
        another player’s account or Riot ID in order to increase the MMR of that player’s account or Riot
-       ID. Esports Professionals may not oﬀer to increase the MMR of a player’s account or Riot ID, or
+       ID. Esports Professionals may not offer to increase the MMR of a player’s account or Riot ID, or
        request that another player increase their MMR account or Riot ID. Esports Professionals may
        not promise or receive anything of value in connection with the MMR of their account or Riot ID
        or the MMR of another player’s account or Riot ID, and may not queue with another player in
@@ -630,8 +630,8 @@ CONSEQUENCES
 
        Esports Professionals must report any violation of this Code of Conduct to Riot Games upon
        becoming aware of the violation. If the violation occurs during a Riot Esports Competition,
-       Esports Professionals should report that violation to an Oﬃcial (such as referees, competitive
-       operations staﬀ, or other designated individuals).
+       Esports Professionals should report that violation to an Official (such as referees, competitive
+       operations staff, or other designated individuals).
 
        Riot Games may report violations of this Code of Conduct to law-enforcement agencies, or similar
        institutions, such as INTERPOL, and NCMEC.
@@ -641,7 +641,7 @@ CONSEQUENCES
        Esports Professionals are required to cooperate with Riot or Riot designated representatives in
        any internal or external investigation that is conducted relating to a suspected violation of this
        Code of Conduct. They must also comply with all instructions, directions, decisions, or rulings,
-       including any disciplinary measures or ﬁnal decisions issued by an entity recognized by Riot, such
+       including any disciplinary measures or final decisions issued by an entity recognized by Riot, such
        as the Dispute Resolution for Riot Games’ Esports (EMEA). Failure to comply with any such
        instructions, decisions, or rulings, including those from Riot or a Riot-recognized entity, may result
        in sanctions under this Code of Conduct.
@@ -662,10 +662,10 @@ CONSEQUENCES
         a)    If a suspected violation of this Code of Conduct occurred during a Riot Esports
               Competition and involved cheating, underperformance, or other matters related solely to a
               particular game or match in that Riot Esports Competition, Riot will not conduct an
-              investigation of that violation if more than two years have elapsed from the end of the ﬁnal
+              investigation of that violation if more than two years have elapsed from the end of the final
               game or match in the Riot Esports Competition and the date of our discovery of the
               violation.
-        b)    If a suspected violation of this Code of Conduct involves bribery, match-ﬁxing, sexual
+        b)    If a suspected violation of this Code of Conduct involves bribery, match-fixing, sexual
               harassment, or a violation of criminal law, Riot will not conduct an investigation of that
               violation if more than six years have elapsed from the date of the alleged conduct and the
               date of our discovery of the violation.
@@ -692,14 +692,14 @@ Back to Table of Contents
 
               ●     warning (private or public);
 
-              ●     ﬁne (teams may be held jointly liable for ﬁnes);
+              ●     fine (teams may be held jointly liable for fines);
 
               ●     prize forfeiture and return of prizes (including previously awarded money and
                     trophies);
 
               ●     restrictions or bans on entering a venue;
 
-              ●     game, match, or tournament forfeiture (including the disqualiﬁcation of competitions
+              ●     game, match, or tournament forfeiture (including the disqualification of competitions
                     in progress and/or exclusion from future competitions);
 
               ●     replaying a game or match;
@@ -707,7 +707,7 @@ Back to Table of Contents
               ●     forfeiture of league points, circuit points, or the points or rankings in any competitive
                     ranking system;
 
-              ●     suspension, disqualiﬁcation, or ban from one or more Riot Esports Competition;
+              ●     suspension, disqualification, or ban from one or more Riot Esports Competition;
 
               ●     change of venue;
 
@@ -723,10 +723,10 @@ Back to Table of Contents
        5.5    Corrective Actions and Public Service.
 
        An investigation may result in a ruling that includes directions to take certain corrective action or
-       to perform a speciﬁed public service activity. For example, Riot may require that Esports
+       to perform a specified public service activity. For example, Riot may require that Esports
        Professionals undergo training on a particular subject, such as sensitivity training, media training,
        or anti-harassment training. The failure to accept and implement the directions and/or corrective
-       action speciﬁed in a ruling by Riot is a violation of this Code of Conduct and may result in
+       action specified in a ruling by Riot is a violation of this Code of Conduct and may result in
        additional sanctions.
 
 
@@ -738,7 +738,7 @@ Back to Table of Contents
        5.6    Interim Measures.
 
        Riot may issue interim or provisional disciplinary measures pending the outcome of an
-       investigation and until a decision on the merits is ﬁnalized.
+       investigation and until a decision on the merits is finalized.
 
        In circumstances where credible evidence may suggest a breach of this Code of Conduct, Riot
        may implement provisional measures, including the suspension of individuals involved. These
@@ -755,8 +755,8 @@ Back to Table of Contents
 
        5.8    Aggravating and Mitigating Circumstances.
 
-       The type and extent of the disciplinary measures that may be imposed are based on the speciﬁc
-       circumstances of each case, taking into account the seriousness of the oﬀense as well as
+       The type and extent of the disciplinary measures that may be imposed are based on the specific
+       circumstances of each case, taking into account the seriousness of the offense as well as
        aggravating and mitigating circumstances.
 
        Repeated or multiple concurrent violations or infractions may be considered as aggravating
@@ -775,7 +775,7 @@ Back to Table of Contents
 
        Advocating, encouraging, colluding, or assisting any conduct that is prohibited by this Code of
        Conduct is a violation of this Code of Conduct. An attempt to circumvent a suspension,
-       disqualiﬁcation, or ban by using another game account or Riot ID is prohibited and a violation of
+       disqualification, or ban by using another game account or Riot ID is prohibited and a violation of
        this Code of Conduct.
 
        Infringements are punishable whether committed deliberately or negligently, by action or
@@ -793,43 +793,43 @@ Back to Table of Contents
        based on the conduct of its Esports Professionals.
 
        Team owners, coaches, managers, and any individuals in positions of authority within the Riot
-       Esports Ecosystem may be held to a higher standard of conduct, given their inﬂuence in fostering
+       Esports Ecosystem may be held to a higher standard of conduct, given their influence in fostering
        and maintaining a positive esports ecosystem.
 
        5.12   Discipline Index.
 
-       In some jurisdictions, a tournament organizer, Riot or a local Riot aﬃliate may provide a “Penalty
+       In some jurisdictions, a tournament organizer, Riot or a local Riot affiliate may provide a “Penalty
        Index” or chart that contains violations and corresponding sanctions. If an index or chart of this
        kind is provided or made available to Esports Professionals, it is provided for illustrative purposes
-       only. A ﬁnal determination on a sanction will be made by Riot following a review of the facts and
-       will take into consideration aggravating and mitigating circumstances that may not be reﬂected in
+       only. A final determination on a sanction will be made by Riot following a review of the facts and
+       will take into consideration aggravating and mitigating circumstances that may not be reflected in
        the index or chart.
 
        5.13   Rulings of Referee.
 
-       Decisions made by a referee or tournament oﬃcial during a Riot Esports Competition are ﬁnal
+       Decisions made by a referee or tournament official during a Riot Esports Competition are final
        and binding. Esports Professionals are required to abide by and implement the decisions of a
-       referee or tournament Oﬃcial made during the course of a Riot Esports Competition.
+       referee or tournament Official made during the course of a Riot Esports Competition.
 
        5.14   Final Determinations.
 
        Riot’s determination as to the appropriate disciplinary action (or combination of disciplinary
-       actions) will be ﬁnal and binding.
+       actions) will be final and binding.
 
        When making determinations, Riot may take into consideration the context, previous violations,
        the seriousness of the violation, the existence of any aggravating or mitigating factors, and the
        degree of cooperation Riot received during the investigation. Riot may also take into
        consideration the need to set an example to deter similar misconduct and the current and future
-       best interests of the overall Riot Esports Ecosystem. Esports Professionals may have the beneﬁt
+       best interests of the overall Riot Esports Ecosystem. Esports Professionals may have the benefit
        of mandatory rights or remedies provided by local law. Nothing in this Code of Conduct limits or
-       aﬀects those rights or remedies.
+       affects those rights or remedies.
 
        5.15   Public Decisions
 
        Riot may make decisions public at its sole discretion, which may include certain facts, details,
        consequences, or other information arising in connection with a ruling or other disciplinary
        decision by Riot regarding a violation or alleged violation of this Code of Conduct; or conduct by
-       the Esports Professionals which Riot believes is in material conﬂict with the best interests of the
+       the Esports Professionals which Riot believes is in material conflict with the best interests of the
        Riot Esports Ecosystem.
 
 
@@ -853,37 +853,37 @@ CODE OF CONDUCT
        Service. The provisions of Sections 13 (Warranty Disclaimer), 14 (Limitation of Liability), 15
        (Governing Law), 16 (Dispute Resolution) and 19 (Miscellaneous) of the Terms of Service apply to
        this Code of Conduct as if they were copied in full and inserted into this Section 6.1. In the event
-       of a conﬂict between the Terms of Service and this Code Conduct, the provision that is the most
+       of a conflict between the Terms of Service and this Code Conduct, the provision that is the most
        protective of the Riot Esports Ecosystem shall govern and prevail.
 
        6.2    Other Contracts with Riot; Other Rules.
 
        Esports Professionals may have entered into a tournament participation or other written
-       agreement with Riot or one of our aﬃliates. This Code of Conduct is part of the “rules”
-       referenced in such agreements. In the event of a conﬂict between other agreements with Riot or
-       its aﬃliate and this Code Conduct, the provision that is the most protective of the Riot Esports
-       Ecosystem shall govern and prevail; provided that if the contract has speciﬁc provisions
-       governing a rules violation dispute, those speciﬁc provisions shall govern and prevail if and to the
-       extent of any conﬂict with this Code of Conduct. Esports Professionals may be required to accept
-       additional terms from a tournament organizer, Riot or a local Riot aﬃliate in order to participate in
+       agreement with Riot or one of our affiliates. This Code of Conduct is part of the “rules”
+       referenced in such agreements. In the event of a conflict between other agreements with Riot or
+       its affiliate and this Code Conduct, the provision that is the most protective of the Riot Esports
+       Ecosystem shall govern and prevail; provided that if the contract has specific provisions
+       governing a rules violation dispute, those specific provisions shall govern and prevail if and to the
+       extent of any conflict with this Code of Conduct. Esports Professionals may be required to accept
+       additional terms from a tournament organizer, Riot or a local Riot affiliate in order to participate in
        a Riot Esports Competition, including a requirement to accept additional rules, such as
-       tournament-speciﬁc or game-speciﬁc rules. Those additional terms and rules are “User Rules”
+       tournament-specific or game-specific rules. Those additional terms and rules are “User Rules”
        referenced in the Terms of Service and are in addition to the obligations in this Code of Conduct.
 
        6.3    Amendments.
 
        Riot Games may make changes to this Code of Conduct from time to time, which will be
        published in a new copy of this Code of Conduct online and/or sent to Esports Professionals by
-       email directly or via the team. These changes take eﬀect thirty days after their publication or
-       notiﬁcation by email. ESPORTS PROFESSIONALS WHO DO NOT AGREE TO ANY OF THE PROPOSED CHANGES, MAY
+       email directly or via the team. These changes take effect thirty days after their publication or
+       notification by email. ESPORTS PROFESSIONALS WHO DO NOT AGREE TO ANY OF THE PROPOSED CHANGES, MAY
        WITHDRAW FROM RIOT ESPORTS COMPETITIONS AND THE PROPOSED CHANGES WILL HAVE NO EFFECT ON ESPORTS
        PROFESSIONALS WHO WITHDRAW. Continued participation in Riot Esports Competitions after changes
-       to this Code of Conduct take eﬀect will constitute acceptance of the changes.
+       to this Code of Conduct take effect will constitute acceptance of the changes.
 
        6.4    English Language.
 
        This Code of Conduct has been written in the English language. Any translation into any other
-       language is not an oﬃcial version. In the event of any conﬂict in interpretation between the
+       language is not an official version. In the event of any conflict in interpretation between the
        English version and a translation of this Code of Conduct, the English version will govern and
        control, unless otherwise provided by applicable law.
 

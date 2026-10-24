@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news_live/ed6298e4d6f3364f1201256fe22
 sha256: "edf604689599bc784b1e96bd5211fee5fea3e17d7d4633d85bc8d07c6f5e463b"
 paginas: "17"
 idioma: "en"
-baixado_em: "2026-10-24T20:55:18Z"
+baixado_em: "2026-10-24T21:13:36Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -455,7 +455,7 @@ The Stage 2 schedule will be shared following the conclusion of Masters London.
 
 3.   Roster Rules
       3.1.   Starting Rosters
-      For each match of the VCT Americas Competition, the Team must designate ﬁve (5)
+      For each match of the VCT Americas Competition, the Team must designate five (5)
       starters from the Team’s Active Roster (as defined in the RCR), which shall constitute the
       Team’s “Starting Roster”. Rosters are considered public at the submission deadline.
       Requests to modify a Starting Roster for a Team’s first match on any day must be

@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news/d29599901e40e92b717921fd4b2e2d30
 sha256: "dacda6a3efaf1a3616b547213200f0330328d6ed52fae1675204292c460b5631"
 paginas: "9"
 idioma: "en"
-baixado_em: "2026-10-24T20:58:57Z"
+baixado_em: "2026-10-24T21:17:32Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -63,7 +63,7 @@ COSTREAMER OBLIGATIONS 2/3
 The co-streamer terms and conditions also come with several restrictions.
 Among other things, costreamers cannot...
 
-● Block any advertisements from the oﬃcial stream
+● Block any advertisements from the official stream
 ● Close/Execute sponsorships deals for the co-stream without authorization
   from Riot Games
 ● Run personal video ads (Ads run by the streaming platform (youtube or
@@ -83,7 +83,7 @@ Among other things, costreamers cannot...
       sponsors, or players competing in the event
 
  ●    Run the Watch Party in any way that would violate any applicable laws
-      (including anything that might be a criminal oﬀence or give rise to civil
+      (including anything that might be a criminal offence or give rise to civil
       liability)
 
 <!-- página 6 -->
@@ -125,7 +125,7 @@ Riot Games Grants:
  ●   Use of Public Event Feed
  ●   License to distribute a stream of the feed with casting and commentary
 
-Riot Games can oﬀer:
+Riot Games can offer:
 
  ●   Promotion of the costream on the VCT Social Channels.
  ●   Champion exclusive twitch drops for creators streaming on the platform.

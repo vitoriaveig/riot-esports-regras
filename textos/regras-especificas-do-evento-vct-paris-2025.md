@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news_live/9fd52830922d39d5f1eb9751870
 sha256: "834ae8337fd8e9392941ccdbe535eb89c10f1ea0966bbec6fa6eff3fd777c698"
 paginas: "6"
 idioma: "en"
-baixado_em: "2026-10-24T20:56:43Z"
+baixado_em: "2026-10-24T21:15:05Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -95,7 +95,7 @@ Champions Paris Event-Specific Ruleset
 
 3.   Roster Rules
       3.1. Starting Rosters
-      For each match of the International Competition, the Team must designate ﬁve (5)
+      For each match of the International Competition, the Team must designate five (5)
       starters from the Team’s Active Roster (as defined in the VCT25 Roster Construction
       Rules), which shall constitute the Team’s “Starting Roster”. Rosters are considered
       public at the submission deadline.

@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news/8544666856c2e078565ce53fb372ac19
 sha256: "28f5755bc693b3282d23017acded206a0f97b457e5e43c259ec5285bc3f55cd3"
 paginas: "38"
 idioma: "en"
-baixado_em: "2026-10-24T20:59:22Z"
+baixado_em: "2026-10-24T21:17:59Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -214,7 +214,7 @@ and the Global Policy before participating in the Game Changers Championship eve
      3.1.   Player Age
 
             No player shall be considered eligible to participate in any Match of Game
-            Changers Championship before their 16th birthday, deﬁned as having lived 16
+            Changers Championship before their 16th birthday, defined as having lived 16
             full years.
 
 4.   Roster Rules
@@ -223,7 +223,7 @@ and the Global Policy before participating in the Game Changers Championship eve
      4.1.   Starting Roster
 
      For each Match in the Game Changers Championship event, the Team must designate
-     ﬁve (5) Starters, which shall constitute the Team’s “Starting Roster”, for each Map in
+     five (5) Starters, which shall constitute the Team’s “Starting Roster”, for each Map in
      the map pool defined under Section 7.6.4 of these GC Championship Rules. Rosters
      are considered public at the submission deadline.
 
@@ -245,7 +245,7 @@ and the Global Policy before participating in the Game Changers Championship eve
 
      In the event of an emergency at any point during a Match, a Team will be given up to
      ten minutes to produce an eligible Substitute on-site. If a replacement cannot be found
-     then the Team will forfeit. Tournament Oﬃcials will determine if an incident qualiﬁes
+     then the Team will forfeit. Tournament Officials will determine if an incident qualifies
      as an emergency. Any substitute must be a member of the Team roster.
      4.4.   Coaches
 
@@ -295,12 +295,12 @@ and the Global Policy before participating in the Game Changers Championship eve
        equipment will remain on-site with Tournament Officials and will only be
        accessible before the Match or at such time as approved by the Head Referee
        (as defined below). Unapproved equipment or equipment that is suspected by
-       Tournament Oﬃcials of providing an unfair competitive advantage will not be
+       Tournament Officials of providing an unfair competitive advantage will not be
        permitted for use, and players will be required to use Tournament
        Operator-provided equipment instead. At their discretion, Tournament
-       Oﬃcials may disallow the use of any individual piece of equipment for
-       reasons relating to tournament security, safety or operational eﬃciency or
-       eﬀectiveness. No player-owned or Team-owned hardware or equipment may
+       Officials may disallow the use of any individual piece of equipment for
+       reasons relating to tournament security, safety or operational efficiency or
+       effectiveness. No player-owned or Team-owned hardware or equipment may
        be brought into the Match Area if it features or displays any name, likeness or
        logo of a company or brand which is a competitor of Riot Games or
        VALORANT. Tournament Officials reserve the right to request that a Team
@@ -329,26 +329,26 @@ when the LAN Event is over or upon request by the Tournament Operator.
 5.3.   Replacement of Provided Equipment
 
 If equipment or technical problems are suspected at a LAN Event, a player or
-Tournament Oﬃcial may request a technical review of the situation. A technician
+Tournament Official may request a technical review of the situation. A technician
 designated by a Tournament Official will diagnose and troubleshoot problems as
-needed. Technicians may request that Tournament Oﬃcials order replacements of any
+needed. Technicians may request that Tournament Officials order replacements of any
 equipment at the applicable technician’s discretion. Decisions regarding the
 replacement of any equipment are solely at the discretion of the Tournament Operator.
 If a player wishes to use personal replacement equipment, the player must use
-equipment which has been pre-approved by Tournament Oﬃcials; otherwise, they will
-be provided replacement equipment by the Tournament Oﬃcials.
+equipment which has been pre-approved by Tournament Officials; otherwise, they will
+be provided replacement equipment by the Tournament Officials.
 5.4.   Computer Programs and Usage
 
 At LAN Events, Players are prohibited from installing their own programs and must
 use only the programs provided by the Tournament Operator. This includes the
 warm-up area computers. If a player wishes to install a program onto the warm-up
-area computers, the player must ﬁrst ask a Tournament Oﬃcial.
+area computers, the player must first ask a Tournament Official.
        5.4.1. Voice Chat.
 
        Voice chat will be provided only via the native system used in Tournament
        Operator-provided headsets. Use of third-party voice chat software (e.g.,
        Discord) is not permitted at either LAN Events or Online Events, without
-       explicit prior approval of Tournament Officials. Tournament Oﬃcials may
+       explicit prior approval of Tournament Officials. Tournament Officials may
        monitor a Team’s audio at the discretion of the Tournament Operator.
        5.4.2. Social Media and Communication.
 
@@ -358,7 +358,7 @@ area computers, the player must ﬁrst ask a Tournament Oﬃcial.
        5.4.3. Non-Essential Equipment.
 
        It is prohibited to connect non-essential equipment, such as mobile phones or
-       ﬂash drives, to Tournament Operator-provided computers, for any reason.
+       flash drives, to Tournament Operator-provided computers, for any reason.
        5.4.4. Macros
        All Macro programs external to the VALORANT game client are prohibited
        from being used for binding more than one action and/or a sequence of actions
@@ -382,19 +382,19 @@ area computers, the player must ﬁrst ask a Tournament Oﬃcial.
           and social media or communication accounts.
         ● Any strategy notes on native programs created in Pre-Match Setup must
           be deleted before the Match begins.
-        ● Any pause that Tournament Oﬃcials deem is a direct or indirect result of
+        ● Any pause that Tournament Officials deem is a direct or indirect result of
           players using native programs will be considered impermissible and will
-          be sanctioned. Tournament Oﬃcials will not oﬀer round restarts or
+          be sanctioned. Tournament Officials will not offer round restarts or
           remakes (as described in Section 8) for bugs that occur due to usage of
           native programs. For clarity, usage of native programs includes the act of
           switching application windows to access native programs.
-       Tournament Oﬃcials may sanction players for violations of these restrictions
+       Tournament Officials may sanction players for violations of these restrictions
        and may prohibit players from accessing native programs in cases of abuse.
 5.5.   Audio Restrictions
 
 Players will be required to maintain volume levels above minimum settings.
-Tournament Oﬃcials may require players to adjust their volume levels higher if the
-oﬃcials determine, at their sole discretion, that volume levels are too low.
+Tournament Officials may require players to adjust their volume levels higher if the
+officials determine, at their sole discretion, that volume levels are too low.
 Headphones must be placed directly on a player’s ears, and must remain there for the
 duration of the Match. Players are not permitted to obstruct the placement of
 headphones by any method or place any item, including hats, scarves or other articles
@@ -483,9 +483,9 @@ Starters of the Teams in play.
 
        The main coach for Teams participating in a given day’s Matches will be
        granted Match Area access and will be allowed to communicate with their
-       Team during the pick/ban map selection process. No other Team staﬀ will be
+       Team during the pick/ban map selection process. No other Team staff will be
        permitted in the Match Area during this time without the express permission
-       of Tournament Oﬃcials. All coaches will exit the Match Area to a designated
+       of Tournament Officials. All coaches will exit the Match Area to a designated
        position promptly after the pick/ban map selection process ends. For the
        purposes of online competition, any room in which the player competes will
        be considered part of the Match Area.
@@ -494,7 +494,7 @@ Starters of the Teams in play.
        Wireless devices, including mobile phones, tablets, and smart watches are not
        allowed in the Match Area while the players are involved in active play,
        including during the pick/ban map selection phase, pauses, remakes, and
-       between Maps of multi-Map Matches. Tournament Oﬃcials will collect such
+       between Maps of multi-Map Matches. Tournament Officials will collect such
        devices from players in the Match Area and return them after the end of the
        Match. This rule also applies to notes and notepads.
        6.3.4. Food and Drink Restrictions.
@@ -505,24 +505,24 @@ Starters of the Teams in play.
 
 
             No food is allowed in the Match Area. Drinks are permitted in the Match Area
-            only in Riot-approved re-sealable containers. Tournament Oﬃcials will
+            only in Riot-approved re-sealable containers. Tournament Officials will
             provide such containers to players upon request.
 
 7.   Match Process
      7.1.   Changes to Schedule
 
-     Tournament Oﬃcials may, at their sole discretion, re-order the schedule of Matches
-     within a given day and/or change the date of a Match to a diﬀerent date or otherwise
+     Tournament Officials may, at their sole discretion, re-order the schedule of Matches
+     within a given day and/or change the date of a Match to a different date or otherwise
      modify the schedule of Matches. In the event that the Tournament Officials modify a
      Match schedule, they will notify all Teams as soon as possible.
      7.2.   Arrival at Venue
 
      Members of a Team’s Active Roster who are participating in a LAN Event held as
      part of the Game Changers Championship event must arrive at the venue no later
-     than the time speciﬁed by Tournament Oﬃcials. For any Online Matches Players will
+     than the time specified by Tournament Officials. For any Online Matches Players will
      be expected to be ready to join the Match Lobby no later than the time specified by
      Tournament Officials. Sanctions for tardiness may be assessed at the discretion of
-     Tournament Oﬃcials.
+     Tournament Officials.
      7.3.   Roles of Tournament Officials
 
             7.3.1. Match Operations Lead.
@@ -540,7 +540,7 @@ Starters of the Teams in play.
 
             7.3.2. Head Referee.
 
-            The “Head Referee” is a Tournament Oﬃcial who is responsible for pre and
+            The “Head Referee” is a Tournament Official who is responsible for pre and
             post match setup as well as the in game lobby. Their oversight includes, but is
             not limited to:
             ● Checking the Team’s lineup before a Match.
@@ -559,7 +559,7 @@ Starters of the Teams in play.
        ● Making all Match-related determinations under these GC Championship
          Rules and the Global Policy, including with regard to pauses and
          stoppages of play.
-       ● Conﬁrming the end of the Match and its results.
+       ● Confirming the end of the Match and its results.
 
 
        7.3.3. Assistant Referees (“Stage Referees”)
@@ -568,7 +568,7 @@ Starters of the Teams in play.
        include but are not limited to:
        ● Admitting or denying access to the Match Areas, if applicable.
        ● Carrying out security protocols directed by the Head Referee and other
-         Tournament Oﬃcials, and/or in support of these Challengers Rules or the
+         Tournament Officials, and/or in support of these Challengers Rules or the
          Global Policy.
        ● Administering the player checklist and enforcing these Challengers Rules
          and the Global Policy, including directing players to take or refrain from
@@ -625,13 +625,13 @@ All Game Changers Championship matches will be played on patch version 5.09.
        7.5.3. Setup Time.
 
        At LAN Events, players will have designated blocks of time prior to their
-       Match time to ensure they are fully prepared. Tournament Oﬃcials will inform
+       Match time to ensure they are fully prepared. Tournament Officials will inform
        players and Teams of their scheduled setup time and duration as part of their
-       Match schedule. Tournament Oﬃcials may change the schedule at any time.
+       Match schedule. Tournament Officials may change the schedule at any time.
        Setup time is considered to have begun once players enter the Match Area, at
        which point they are not allowed to leave without permission of the on-site
-       Tournament Oﬃcial or Referee and accompaniment by another Tournament
-       Oﬃcial. Setup is comprised of the following:
+       Tournament Official or Referee and accompaniment by another Tournament
+       Official. Setup is comprised of the following:
        ● Confirm Tournament Realm account name accuracy
        ● Ensuring the quality of all Riot-provided equipment.
 
@@ -654,25 +654,25 @@ be lowered below this level.
 7.5.5. Technical Failure of Equipment.
 
 If a player encounters any equipment problems during any phase of the setup
-process, player must notify a Referee or Tournament Oﬃcial immediately.
+process, player must notify a Referee or Tournament Official immediately.
 7.5.6. Timelines of Match Start.
 
 It is expected that players will resolve any issues with the setup process within
 the allotted time and that the Match will begin at the scheduled time.
 Sanctions for tardiness may be assessed at the discretion of Tournament
-Oﬃcials.
+Officials.
 7.5.7. Player Ready State.
 
-For LAN Events, no fewer than ﬁve minutes before the Match is scheduled to
-begin, a Referee will conﬁrm with each player that their setup is complete.
-Once all ten players in a Match have conﬁrmed completion of setup, players
+For LAN Events, no fewer than five minutes before the Match is scheduled to
+begin, a Referee will confirm with each player that their setup is complete.
+Once all ten players in a Match have confirmed completion of setup, players
 may not enter a warm-up Match or leave the match area.
 7.5.8. Match Lobby Creation.
 
 Other than with respect to Online Qualifier matches, all Matches that are part
 of the Game Changers Championship event will be played in Match lobbies
-hosted by the Tournament Operator. Tournament Oﬃcials will decide how the
-oﬃcial Match lobby will be created. For Online Events, Tournament Officials
+hosted by the Tournament Operator. Tournament Officials will decide how the
+official Match lobby will be created. For Online Events, Tournament Officials
 will notify Team Captains of official accounts that will be used to host the
 Match. For LAN Events, players will be directed by a Referee to join a Match
 lobby as soon as testing has been completed.
@@ -705,7 +705,7 @@ Players will be expected to complete setup, as outlined in Section 7.5.2, and
        for Pre-Match Obligations, hair and makeup, map pick/ban, Setup Time, and
        other pre-match requirements. Sanctions for tardiness and/or failure to comply
        with the obligations set forth in the Pre-Match Schedule may be assessed at the
-       discretion of Tournament Oﬃcials.
+       discretion of Tournament Officials.
        7.5.12. Media Obligations.
 
        Teams will be required to make available to the media for a minimum of 15
@@ -730,10 +730,10 @@ Players will be expected to complete setup, as outlined in Section 7.5.2, and
 
 
 
-Once all ten players have reported to the oﬃcial Match lobby, a Referee or
-Tournament Oﬃcial will request conﬁrmation that both Teams are ready for
-the map selection process. Once both Teams conﬁrm readiness, a Referee or
-Tournament Oﬃcial will instruct the room owner to start the map selection
+Once all ten players have reported to the official Match lobby, a Referee or
+Tournament Official will request confirmation that both Teams are ready for
+the map selection process. Once both Teams confirm readiness, a Referee or
+Tournament Official will instruct the room owner to start the map selection
 process outlined in this Section 7.6. Under no circumstances may a map be
 played twice in one Match unless all other available maps have been played.
 For the first Match of the day, the Map Selection process will begin 30
@@ -844,7 +844,7 @@ through.
 7.6.10. Match Start After Agent and Map Selection.
 
 A Match will start immediately after the Agent/Map Selection process is
-complete, unless otherwise stated by a Tournament Oﬃcial. At this point,
+complete, unless otherwise stated by a Tournament Official. At this point,
 
 <!-- página 23 -->
                                                                                       17
@@ -857,8 +857,8 @@ complete, unless otherwise stated by a Tournament Oﬃcial. At this point,
             also known as “Free Time.”
             7.6.11. Controlled Match Start.
 
-            In the event of an error in Match start or a decision by Tournament Oﬃcials to
-            separate the pick/ban process from Match start, a Tournament Oﬃcial may
+            In the event of an error in Match start or a decision by Tournament Officials to
+            separate the pick/ban process from Match start, a Tournament Official may
             start the Match in a controlled manner and all maps will be selected in
             accordance with the previous valid completed pick/ban process.
             7.6.12. Slow Client Load.
@@ -871,7 +871,7 @@ complete, unless otherwise stated by a Tournament Oﬃcial. At this point,
 
             Restrictions may be added at any time before or during a Match, if there are
             known or suspected bugs with any Agents, skins or maps, or for any other
-            reason as determined at the discretion of Tournament Oﬃcials.
+            reason as determined at the discretion of Tournament Officials.
 
 8.   Pauses and Crashes
      8.1.   Timeouts
@@ -1227,13 +1227,13 @@ requesting a bug or exploit review:
 
               10.1.1. Results.
 
-              Tournament Oﬃcials will conﬁrm and record the Match result.
+              Tournament Officials will confirm and record the Match result.
               10.1.2. Tech Notes.
 
-              Players will identify any technical issues with Tournament Oﬃcials.
+              Players will identify any technical issues with Tournament Officials.
               10.1.3. Between Maps.
 
-              Tournament Oﬃcials will inform players of the remaining amount of time
+              Tournament Officials will inform players of the remaining amount of time
               before the next Map in the Match, if applicable. For online events, the
               standard time for transition in between Maps is eight (8) to ten (10) minutes
               from the time of the last Map’s Round until players are required in their seats
@@ -1260,7 +1260,7 @@ requesting a bug or exploit review:
              Teams have confirmed to a Referee or Tournament Official that all players are
              ready to play and, at LAN Events, in their seats.
              If all the players are not ready to play and in their seats (if applicable) at the
-             time designated to them by the Referees or Tournament Oﬃcials, the Team
+             time designated to them by the Referees or Tournament Officials, the Team
              can be sanctioned for delay of Game.
              10.1.5. Post-Match Obligations.
 
@@ -1279,7 +1279,7 @@ requesting a bug or exploit review:
 
              Matches won by forfeit will be reported by the minimum score it would take
              for one Team to win the Match (e.g. 1-0 for best-of-1 Matches, 2-0 for
-             best-of-three Matches, 3-0 for best-of-ﬁve Matches). No other statistics will be
+             best-of-three Matches, 3-0 for best-of-five Matches). No other statistics will be
              recorded for forfeited Matches.
 
 11.   Event Conduct

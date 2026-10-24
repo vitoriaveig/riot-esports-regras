@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news_live/501056cdb9e16416ed90abe0511
 sha256: "bf846d558ecff0bebe1b10515878f5ca2620e7c67a573d0da2d700b85c2998c7"
 paginas: "41"
 idioma: "en"
-baixado_em: "2026-10-24T20:55:35Z"
+baixado_em: "2026-10-24T21:13:52Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -737,7 +737,7 @@ Version 1.0; 10th May 2026
     9.2.     Coach Match Area Access
             9.2.1. Coaches for Teams participating in a given day’s Matches will be granted Match
                     Area access and will be allowed to communicate with their Team during the pick/ban
-                    map selection process. No other Team staﬀ will be permitted in the Match Area
+                    map selection process. No other Team staff will be permitted in the Match Area
                     during this time without the express permission of Challengers Officials. 
 
 
@@ -863,7 +863,7 @@ Version 1.0; 10th May 2026
 13. Match Process
     13.1.   Changes to Schedule
           13.1.1. Challengers Officials may, at their sole discretion, re-order the schedule of Matches
-                   within a given day and/or change the date of a Match to a diﬀerent date or otherwise
+                   within a given day and/or change the date of a Match to a different date or otherwise
                    modify the schedule of Matches. In the event that the Challengers Officials modify a
                    Match schedule, they will notify all Teams as soon as possible.
 
@@ -873,7 +873,7 @@ Version 1.0; 10th May 2026
 
     13.3.   Punctuality
           13.3.1. Team Members participating in an official match are required to be fully ready in the
-                   respective Game Lobby no later than the time speciﬁed by Challengers Officials in
+                   respective Game Lobby no later than the time specified by Challengers Officials in
                    the supplementary Challengers rules.
 
           13.3.2.   Teams must be present one (1) hour before their scheduled match time to complete
@@ -955,7 +955,7 @@ Version 1.0; 10th May 2026
 
         13.6.4.     Technical Failure of Equipment - If a player encounters any equipment problems
                      during any phase of the setup process, player must notify a Referee or Tournament
-                     Oﬃcial immediately.
+                     Official immediately.
 
 
 
@@ -976,15 +976,15 @@ Version 1.0; 10th May 2026
                  tardiness may be assessed at the discretion of Challengers Officials.
 
 
-        13.7.2.   At the specified time before the Match is scheduled to begin, a Referee will conﬁrm
+        13.7.2.   At the specified time before the Match is scheduled to begin, a Referee will confirm
                    with each player that their setup is complete. Once all ten players in a Match have
-                   conﬁrmed completion of setup, players may not enter a warm-up Match or leave the
+                   confirmed completion of setup, players may not enter a warm-up Match or leave the
                    match area.
 
 
         13.7.3.   Other than with respect to Online Qualifier matches, all Matches that are part of a
                    Challengers event will be played in Match lobbies hosted by a Challengers Official.
-                   Challengers Oﬃcials will decide how the oﬃcial Match lobby will be created and
+                   Challengers Officials will decide how the official Match lobby will be created and
                    players will be directed by a Referee to join a Match lobby as soon as testing has
                    been completed.
 
@@ -1132,7 +1132,7 @@ Version 1.0; 10th May 2026
 
 
       13.11.2.   A Match will start immediately after the Agent/Map Selection process is complete,
-                  unless otherwise stated by a Challengers Oﬃcial. At this point, Teams must remove
+                  unless otherwise stated by a Challengers Official. At this point, Teams must remove
                   any printed materials from the Match Area (if applicable), including any notes written
                   by Team Members. 
 
@@ -1148,8 +1148,8 @@ Version 1.0; 10th May 2026
 
 <!-- página 22 -->
    13.12.  Controlled Match Start
-        13.12.1. In the event of an error in Match start or a decision by Challengers Oﬃcials to
-                  separate the pick/ban process from Match start, a Challengers Oﬃcial may start the
+        13.12.1. In the event of an error in Match start or a decision by Challengers Officials to
+                  separate the pick/ban process from Match start, a Challengers Official may start the
                   Match in a controlled manner and all maps will be selected in accordance with the
                   previous valid completed pick/ban process.
 
@@ -1163,7 +1163,7 @@ Version 1.0; 10th May 2026
    13.14.  Restrictions on Gameplay Elements.
         13.14.1. Restrictions may be added at any time before or during a Match, if there are known
                   or suspected bugs with any Agents, skins or maps, or for any other reason as
-                  determined at the discretion of Challengers Oﬃcials.
+                  determined at the discretion of Challengers Officials.
 
 
 
@@ -1781,7 +1781,7 @@ Version 1.0; 10th May 2026
                    the player can continue playing.
 
   16.5.   Post-Match Process
-        16.5.1. Challengers Officials will conﬁrm and record the Match result.
+        16.5.1. Challengers Officials will confirm and record the Match result.
 
         16.5.2.   Players will identify any technical issues with Challengers Officials.
 
@@ -1820,7 +1820,7 @@ Version 1.0; 10th May 2026
 
           16.5.6.   Matches won by forfeit will be reported by the minimum score it would take for one
                      Team to win the Match (e.g. 1-0 for best-of-1 Matches, 2-0 for best-of-three
-                     Matches, 3-0 for best-of-ﬁve Matches). No other statistics will be recorded for
+                     Matches, 3-0 for best-of-five Matches). No other statistics will be recorded for
                      forfeited Matches.
 
 

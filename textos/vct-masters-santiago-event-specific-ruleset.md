@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news_live/3ea5d7549c28b15fac416c99c39
 sha256: "01f363842378905330afe031f9e2c775ff1ab3a7455a8b231df4eb972a3ea642"
 paginas: "8"
 idioma: "en"
-baixado_em: "2026-10-24T20:55:46Z"
+baixado_em: "2026-10-24T21:14:05Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -159,7 +159,7 @@ Teams are permitted to choose opponents from the same region.
 <!-- página 6 -->
 3.   Roster Rules
       3.1. Starting Rosters
-      For each match of the International Competition, the Team must designate ﬁve (5)
+      For each match of the International Competition, the Team must designate five (5)
       starters from the Team’s Active Roster (as defined in the VCT26 Roster Construction
       Rules), which shall constitute the Team’s “Starting Roster”. Rosters are considered
       public at the submission deadline.

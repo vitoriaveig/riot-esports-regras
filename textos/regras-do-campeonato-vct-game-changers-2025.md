@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news_live/01fab7acc018a993b0f6a2cdd8d
 sha256: "4666c609ab9f79362c42fe7022b7864d51101648f8f66e54a05ae1192a7aebc3"
 paginas: "55"
 idioma: "en"
-baixado_em: "2026-10-24T20:56:25Z"
+baixado_em: "2026-10-24T21:14:45Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -675,8 +675,8 @@ fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.ri
 
       4.7.4. In the event of an emergency at any point during a Match, a Team will be
               given up to ten minutes to produce an eligible Substitute on-site. If a
-              replacement cannot be found then the Team will forfeit. Tournament Oﬃcials
-              will determine if an incident qualiﬁes as an emergency. Any substitute must
+              replacement cannot be found then the Team will forfeit. Tournament Officials
+              will determine if an incident qualifies as an emergency. Any substitute must
               be an eligible member of the Team roster.
 
  4.8.   Team Manager
@@ -1215,7 +1215,7 @@ fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.ri
     At LAN events, players and coaches are prohibited from installing their own
     programs and must use only the programs provided by the Tournament Operator. This
     includes the warm-up area computers. If a player wishes to install a program onto the
-    warm-up area computers, they must ﬁrst ask a Tournament Official.
+    warm-up area computers, they must first ask a Tournament Official.
      9.3.1. Voice Chat.
 
             Voice chat will be provided only via the native system used in Tournament
@@ -1418,14 +1418,14 @@ fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.ri
     12.1.   Changes to Schedule
 
              Tournament Officials may, at their sole discretion, re-order the schedule of Matches
-             within a given day and/or change the date of a Match to a diﬀerent date or
+             within a given day and/or change the date of a Match to a different date or
              otherwise modify the schedule of Matches. In the event that the Tournament
              Officials modify a Match schedule, they will notify all Teams as soon as possible.
 
     12.2.   Punctuality
 
         12.2.1. Players and coaches participating in an official Match are required to be fully
-                 ready in the respective game lobby no later than the time speciﬁed by
+                 ready in the respective game lobby no later than the time specified by
                  Tournament Officials.
 
         12.2.2. If a Team is not fully ready at the specified times, Disciplinary Action may
@@ -1479,7 +1479,7 @@ fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.ri
            violations during the Match.
         ● Making Match-related determinations under this Competition Ruleset,
            including with regard to pauses and stoppages of play.
-        ● Conﬁrming the end of the Match and its results.
+        ● Confirming the end of the Match and its results.
 
 
 12.3.3. Stage Referees
@@ -1598,7 +1598,7 @@ fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.ri
 
     12.7.4. Technical Failure of Equipment - If a player encounters any equipment
              problems during any phase of the setup process, player must notify a
-             Tournament Oﬃcial immediately.
+             Tournament Official immediately.
 
     12.7.5. Players are responsible for ensuring the performance of their chosen setup,
              including computer hardware and peripherals, internet connection, DDOS
@@ -1620,13 +1620,13 @@ fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.ri
                Officials.
 
      12.8.2. At the specified time before the Match is scheduled to begin, a referee will
-              conﬁrm with each player that their setup is complete. Once all ten players in
-              a Match have conﬁrmed completion of setup, players may not enter a
+              confirm with each player that their setup is complete. Once all ten players in
+              a Match have confirmed completion of setup, players may not enter a
               warm-up Match or leave the Match Area.
 
      12.8.3. Other than with respect to online qualifier matches, all Matches that are part
               of a Game Changers event will be played in Match lobbies hosted by a
-              Tournament Official. Tournament Oﬃcials will decide how the oﬃcial Match
+              Tournament Official. Tournament Officials will decide how the official Match
               lobby will be created and players will be directed by a referee to join a Match
               lobby as soon as testing has been completed.
 
@@ -1830,15 +1830,15 @@ fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.ri
                    required to play through.
 
        12.12.2. A Match will start immediately after the Agent/Map Selection process is
-                 complete, unless otherwise stated by a Tournament Oﬃcial.
+                 complete, unless otherwise stated by a Tournament Official.
 
        12.12.3. Players are not allowed to quit a Map during the time between the
                  completion of picks/bans and Map launch, also known as “Free Time.”
 
    12.13.   Controlled Match Start
 
-       12.13.1. In the event of an error in Match start or a decision by Tournament Oﬃcials
-                 to separate the pick/ban process from Match start, a Tournament Oﬃcial may
+       12.13.1. In the event of an error in Match start or a decision by Tournament Officials
+                 to separate the pick/ban process from Match start, a Tournament Official may
                  start the Match in a controlled manner and all maps will be selected in
                  accordance with the previous valid completed pick/ban process.
 
@@ -1852,12 +1852,12 @@ fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.ri
 
              Restrictions may be added at any time before or during a Match, if there are known
              or suspected bugs with any Agents, skins or maps, or for any other reason as
-             determined at the discretion of Tournament Oﬃcials.
+             determined at the discretion of Tournament Officials.
 
 13. Post-Match Process
     13.1.   Results
 
-             Tournament Officials will conﬁrm and record the Match result.
+             Tournament Officials will confirm and record the Match result.
 
     13.2.   Tech Notes
 
@@ -1904,7 +1904,7 @@ fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.ri
 
              Matches won by forfeit will be reported by the minimum score it would take for
              one Team to win the Match (e.g. 1-0 for best-of-1 Matches, 2-0 for best-of-three
-             Matches, 3-0 for best-of-ﬁve Matches). No other statistics will be recorded for
+             Matches, 3-0 for best-of-five Matches). No other statistics will be recorded for
              forfeited Matches.
 
 14. Pauses

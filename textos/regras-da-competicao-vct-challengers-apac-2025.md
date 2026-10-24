@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news_live/b9c19d0d157a56755bf6c0167a0
 sha256: "3ee720a458de5e8b0c0a761102a2bb0f836dd5de266bf08b3feba3c586a553ed"
 paginas: "60"
 idioma: "en"
-baixado_em: "2026-10-24T20:56:26Z"
+baixado_em: "2026-10-24T21:14:47Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -753,8 +753,8 @@ Challengers League event.**
 
     4.7.4. In the event of an emergency at any point during a Match, a Team will be
             given up to ten minutes to produce an eligible Substitute on-site. If a
-            replacement cannot be found then the Team will forfeit. Challengers Oﬃcials
-            will determine if an incident qualiﬁes as an emergency. Any substitute must
+            replacement cannot be found then the Team will forfeit. Challengers Officials
+            will determine if an incident qualifies as an emergency. Any substitute must
             be an eligible member of the Team roster.
 
 
@@ -1290,14 +1290,14 @@ Challengers League event.**
        10.1. Changes to Schedule
 
               Challengers Officials may, at their sole discretion, re-order the schedule of Matches
-              within a given day and/or change the date of a Match to a diﬀerent date or
+              within a given day and/or change the date of a Match to a different date or
               otherwise modify the schedule of Matches. In the event that the Challengers
               Officials modify a Match schedule, they will notify all Teams as soon as possible.
 
        10.2. Punctuality
 
            10.2.1. Players and coaches participating in an official Match are required to be fully
-                    ready in the respective game lobby no later than the time speciﬁed by
+                    ready in the respective game lobby no later than the time specified by
                     Challengers Officials in the Challengers Supplementary Rules.
 
            10.2.2. If a Team is not fully ready at the specified times, Disciplinary Action may
@@ -1405,7 +1405,7 @@ Challengers League event.**
 
     10.6.4. Technical Failure of Equipment - If a player encounters any equipment
              problems during any phase of the setup process, player must notify a
-             Challengers Oﬃcial immediately.
+             Challengers Official immediately.
 
     10.6.5. Players are responsible for ensuring the performance of their chosen setup,
              including computer hardware and peripherals, internet connection, DDOS
@@ -1420,13 +1420,13 @@ Challengers League event.**
              Officials.
 
     10.7.2. At the specified time before the Match is scheduled to begin, a referee will
-             conﬁrm with each player that their setup is complete. Once all ten players in
-             a Match have conﬁrmed completion of setup, players may not enter a
+             confirm with each player that their setup is complete. Once all ten players in
+             a Match have confirmed completion of setup, players may not enter a
              warm-up Match or leave the Match Area.
 
     10.7.3. Other than with respect to online qualifier matches, all Matches that are part
              of a Challengers event will be played in Match lobbies hosted by a
-             Challengers Official. Challengers Oﬃcials will decide how the oﬃcial Match
+             Challengers Official. Challengers Officials will decide how the official Match
              lobby will be created and players will be directed by a referee to join a Match
              lobby as soon as testing has been completed.
 
@@ -1631,7 +1631,7 @@ Challengers League event.**
               required to play through.
 
     10.11.2. A Match will start immediately after the Agent/Map Selection process is
-              complete, unless otherwise stated by a Challengers Oﬃcial.
+              complete, unless otherwise stated by a Challengers Official.
 
     10.11.3. Players are not allowed to quit a Map during the time between the
               completion of picks/bans and Map launch, also known as “Free Time.”
@@ -1644,8 +1644,8 @@ Challengers League event.**
 <!-- página 36 -->
    10.12. Controlled Match Start
 
-          10.12.1. In the event of an error in Match start or a decision by Challengers Oﬃcials
-                    to separate the pick/ban process from Match start, a Challengers Oﬃcial may
+          10.12.1. In the event of an error in Match start or a decision by Challengers Officials
+                    to separate the pick/ban process from Match start, a Challengers Official may
                     start the Match in a controlled manner and all maps will be selected in
                     accordance with the previous valid completed pick/ban process.
 
@@ -1659,12 +1659,12 @@ Challengers League event.**
 
                 Restrictions may be added at any time before or during a Match, if there are known
                 or suspected bugs with any Agents, skins or maps, or for any other reason as
-                determined at the discretion of Challengers Oﬃcials.
+                determined at the discretion of Challengers Officials.
 
 11.   Post-Match Process
        11.1.   Results
 
-                Challengers Officials will conﬁrm and record the Match result.
+                Challengers Officials will confirm and record the Match result.
 
        11.2.   Tech Notes
 
@@ -1711,7 +1711,7 @@ Challengers League event.**
 
          Matches won by forfeit will be reported by the minimum score it would take for
          one Team to win the Match (e.g. 1-0 for best-of-1 Matches, 2-0 for best-of-three
-         Matches, 3-0 for best-of-ﬁve Matches). No other statistics will be recorded for
+         Matches, 3-0 for best-of-five Matches). No other statistics will be recorded for
          forfeited Matches.
 
 11.7.   Tie-breakers.

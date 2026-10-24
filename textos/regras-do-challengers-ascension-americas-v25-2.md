@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news_live/ef00799f1f4740b2900ee9c5c63
 sha256: "75e3edadc229e2334a1c483297c2930d776f2164853d60236e9021c851d0fa60"
 paginas: "58"
 idioma: "en"
-baixado_em: "2026-10-24T20:56:32Z"
+baixado_em: "2026-10-24T21:14:53Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -650,8 +650,8 @@ Appendix 1 - Restricted Sponsor List                             58
                                                                                          13
 
 <!-- página 15 -->
-             replacement cannot be found then the Team will forfeit. Challengers Oﬃcials
-             will determine if an incident qualiﬁes as an emergency. Any substitute must
+             replacement cannot be found then the Team will forfeit. Challengers Officials
+             will determine if an incident qualifies as an emergency. Any substitute must
              be an eligible member of the Team roster.
 
      4.6.5. A Team Coach can serve as a substitute in matches, but only in a situation
@@ -1219,12 +1219,12 @@ Bracket Final (L2) and Grand Final (GF), which are set to be a Best-of-Five (“
                Approved equipment will remain on-site with Tournament Officials and will
                only be accessible before the Match or at such time as approved by the
                Challengers Officials. Unapproved equipment or equipment that is suspected
-               by Tournament Oﬃcials of providing an unfair competitive advantage will
+               by Tournament Officials of providing an unfair competitive advantage will
                not be permitted for use, and players will be required to use Tournament
                Operator-provided equipment instead. At their discretion, Tournament
-               Oﬃcials may disallow the use of any individual piece of equipment for
-               reasons relating to tournament security, safety or operational eﬃciency or
-               eﬀectiveness. No player-owned or Team-owned hardware or equipment may
+               Officials may disallow the use of any individual piece of equipment for
+               reasons relating to tournament security, safety or operational efficiency or
+               effectiveness. No player-owned or Team-owned hardware or equipment may
                be brought into the Match Area if it features or displays any name, likeness
                or logo of a company or brand which is a competitor of Riot Games or
                VALORANT. Tournament Officials reserve the right to request that a Team
@@ -1257,26 +1257,26 @@ Bracket Final (L2) and Grand Final (GF), which are set to be a Best-of-Five (“
 10.3. Replacement of Provided Equipment
 
        If equipment or technical problems are suspected at a LAN Event, a player or
-       Challenger Oﬃcial may request a technical review of the situation. A technician
+       Challenger Official may request a technical review of the situation. A technician
        designated by a Challenger Official will diagnose and troubleshoot problems as
-       needed. Technicians may request that Challengers Oﬃcials order replacements of
+       needed. Technicians may request that Challengers Officials order replacements of
        any equipment at the applicable technician’s discretion. Decisions regarding the
        replacement of any equipment are solely at the discretion of the League. If a player
        wishes to use personal replacement equipment, the player must use equipment
-       which has been pre-approved by Challengers Oﬃcials; otherwise, they will be
-       provided replacement equipment by the Challengers Oﬃcials.
+       which has been pre-approved by Challengers Officials; otherwise, they will be
+       provided replacement equipment by the Challengers Officials.
 
 10.4. Computer Programs and Usage
 
        At LAN Events, Players are prohibited from installing their own programs and
        must use only the programs provided by the Challengers Officials. This includes
        the warm-up area computers. If a player wishes to install a program onto the
-       warm-up area computers, he or she must ﬁrst ask a Challenger Official.
+       warm-up area computers, he or she must first ask a Challenger Official.
 
    10.4.1. Voice Chat. Voice chat will be provided only via the native system used in
             League-provided headsets. Use of third-party voice chat software (e.g.,
             Discord) is not permitted at either LAN Events or Online Events, without
-            explicit prior approval of Challengers Officials. Challengers Oﬃcials may
+            explicit prior approval of Challengers Officials. Challengers Officials may
             monitor a Team’s audio at the discretion of the Challengers Officials.
 
    10.4.2. Social Media and Communication. It is prohibited to use League-provided
@@ -1292,7 +1292,7 @@ Bracket Final (L2) and Grand Final (GF), which are set to be a Best-of-Five (“
 10.5. Native Programs
 
        Players may use the native programs MS Paint and Notepad during and before
-       Matches. The following restrictions and Challengers Oﬃcials may sanction players
+       Matches. The following restrictions and Challengers Officials may sanction players
        for violations of these restrictions and may prohibit players from accessing native
        programs in cases of abuse.
 
@@ -1312,9 +1312,9 @@ Bracket Final (L2) and Grand Final (GF), which are set to be a Best-of-Five (“
        10.5.3. Any strategy notes on native programs created in Pre-Match Setup must be
                 deleted before the Match begins.
 
-       10.5.4. Any pause that Challengers Oﬃcials deem is a direct or indirect result of
+       10.5.4. Any pause that Challengers Officials deem is a direct or indirect result of
                 players using native programs will be considered impermissible and will be
-                sanctioned. Challengers Oﬃcials will not oﬀer round restarts or remakes for
+                sanctioned. Challengers Officials will not offer round restarts or remakes for
                 bugs that occur due to usage of native programs. For clarity, usage of native
                 programs includes the act of switching application windows to access native
                 programs.
@@ -1322,8 +1322,8 @@ Bracket Final (L2) and Grand Final (GF), which are set to be a Best-of-Five (“
    10.6. Audio Restrictions
 
             Players will be required to maintain volume levels above minimum settings.
-            Challengers Oﬃcials may require players to adjust their volume levels higher if the
-            oﬃcials determine, at their sole discretion, that volume levels are too low.
+            Challengers Officials may require players to adjust their volume levels higher if the
+            officials determine, at their sole discretion, that volume levels are too low.
             Headphones must be placed directly over a player’s ears and in-ear wired
             headphone, and must remain there for the duration of the Match. Players are not
             permitted to obstruct the placement of headphones by any method or place any
@@ -1443,7 +1443,7 @@ Bracket Final (L2) and Grand Final (GF), which are set to be a Best-of-Five (“
    13.1. Changes to Schedule
 
             Challengers Officials may, at their sole discretion, re-order the schedule of Matches
-            within a given day and/or change the date of a Match to a diﬀerent date or
+            within a given day and/or change the date of a Match to a different date or
             otherwise modify the schedule of Matches. In the event that the Challengers
             Officials modify a Match schedule, they will notify all Teams as soon as possible.
 
@@ -1456,7 +1456,7 @@ Bracket Final (L2) and Grand Final (GF), which are set to be a Best-of-Five (“
 13.2. Punctuality
 
     13.2.1. Players and coaches participating in an official Match are required to be fully
-             ready in the respective game lobby no later than the time speciﬁed by
+             ready in the respective game lobby no later than the time specified by
              Challengers Officials.
 
     13.2.2. If a Team is not fully ready at the specified times, Disciplinary Action may
@@ -1564,7 +1564,7 @@ Bracket Final (L2) and Grand Final (GF), which are set to be a Best-of-Five (“
 
     13.6.4. Technical Failure of Equipment - If a player encounters any equipment
              problems during any phase of the setup process, player must notify a
-             Challengers Oﬃcial immediately.
+             Challengers Official immediately.
 
     13.6.5. Players are responsible for ensuring the performance of their chosen setup,
              including computer hardware and peripherals, internet connection, DDOS
@@ -1579,13 +1579,13 @@ Bracket Final (L2) and Grand Final (GF), which are set to be a Best-of-Five (“
              Officials.
 
     13.7.2. At the specified time before the Match is scheduled to begin, a referee will
-             conﬁrm with each player that their setup is complete. Once all ten players in
-             a Match have conﬁrmed completion of setup, players may not enter a
+             confirm with each player that their setup is complete. Once all ten players in
+             a Match have confirmed completion of setup, players may not enter a
              warm-up Match or leave the Match Area.
 
     13.7.3. Other than with respect to online qualifier matches, all Matches that are part
              of a Challengers event will be played in Match lobbies hosted by a
-             Challengers Official. Challengers Oﬃcials will decide how the oﬃcial Match
+             Challengers Official. Challengers Officials will decide how the official Match
              lobby will be created and players will be directed by a referee to join a Match
              lobby as soon as testing has been completed.
 
@@ -1799,15 +1799,15 @@ Bracket Final (L2) and Grand Final (GF), which are set to be a Best-of-Five (“
               required to play through.
 
     13.11.2. A Match will start immediately after the Agent/Map Selection process is
-              complete, unless otherwise stated by a Challengers Oﬃcial.
+              complete, unless otherwise stated by a Challengers Official.
 
     13.11.3. Players are not allowed to quit a Map during the time between the
               completion of picks/bans and Map launch, also known as “Free Time.”
 
 13.12. Controlled Match Start
 
-    13.12.1. In the event of an error in Match start or a decision by Challengers Oﬃcials
-              to separate the pick/ban process from Match start, a Challengers Oﬃcial may
+    13.12.1. In the event of an error in Match start or a decision by Challengers Officials
+              to separate the pick/ban process from Match start, a Challengers Official may
               start the Match in a controlled manner and all maps will be selected in
               accordance with the previous valid completed pick/ban process.
 
@@ -1827,13 +1827,13 @@ Bracket Final (L2) and Grand Final (GF), which are set to be a Best-of-Five (“
 
             Restrictions may be added at any time before or during a Match, if there are known
             or suspected bugs with any Agents, skins or maps, or for any other reason as
-            determined at the discretion of Challengers Oﬃcials.
+            determined at the discretion of Challengers Officials.
 
 14. Post-Match Process
 
    14.1.   Results
 
-            Challengers Officials will conﬁrm and record the Match result.
+            Challengers Officials will confirm and record the Match result.
 
    14.2.   Tech Notes
 
@@ -1880,7 +1880,7 @@ Bracket Final (L2) and Grand Final (GF), which are set to be a Best-of-Five (“
 
              Matches won by forfeit will be reported by the minimum score it would take for
              one Team to win the Match (e.g. 1-0 for best-of-1 Matches, 2-0 for best-of-three
-             Matches, 3-0 for best-of-ﬁve Matches). All forfeited map results will be reported as
+             Matches, 3-0 for best-of-five Matches). All forfeited map results will be reported as
              a 13-0. No other statistics will be recorded for forfeited Matches.
 
     14.7.   Tie-breakers

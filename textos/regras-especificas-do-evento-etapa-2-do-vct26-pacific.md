@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news_live/b57954435371bf64437ecf1f7b4
 sha256: "e0787a6db80d42e07838c0293d842b68f24b151eaa4fdbb46c77f6427b076060"
 paginas: "19"
 idioma: "en"
-baixado_em: "2026-10-24T20:55:28Z"
+baixado_em: "2026-10-24T21:13:45Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -418,7 +418,7 @@ KICK//OFF)
 
 3.   Roster Rules
       3.1. Starting Rosters
-      For each match of VCT Pacific Stage 2, the Team must designate ﬁve (5) starters from
+      For each match of VCT Pacific Stage 2, the Team must designate five (5) starters from
       the Team’s Active Roster (as defined in the VCT26 Roster Construction Rules), which
       shall constitute the Team’s “Starting Roster”. Rosters are considered public at the
       submission deadline.

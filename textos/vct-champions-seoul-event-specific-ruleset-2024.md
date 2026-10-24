@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news/ecf0c2a456ac39779282b3ce00e40605
 sha256: "b8de18d499410a7a6c560ebf7d346aad99b4b2eb9e26b17502843044778c8263"
 paginas: "6"
 idioma: "en"
-baixado_em: "2026-10-24T20:59:16Z"
+baixado_em: "2026-10-24T21:17:53Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -95,7 +95,7 @@ Champions Seoul Event-Specific Ruleset
 
 3.   Roster Rules
      3.1.   Starting Rosters
-     For each match of the International Competition, the Team must designate ﬁve (5)
+     For each match of the International Competition, the Team must designate five (5)
      starters from the Team’s Active Roster (as defined in the VCT24 Roster Construction
      Rules), which shall constitute the Team’s “Starting Roster”. Rosters are considered
      public at the submission deadline.

@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news_live/9d46b1b7f22a184731352923117
 sha256: "7a3cf4f5816a8f8f123d715790396dc55b609663ef44a3b67f09c3fd7cf32747"
 paginas: "48"
 idioma: "en"
-baixado_em: "2026-10-24T20:55:59Z"
+baixado_em: "2026-10-24T21:14:17Z"
 tambem_listado_como: "regras-especificas-do-evento-lcp-2026"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---

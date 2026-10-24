@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news_live/28588ec73d7dc80dd968a0ddf9c
 sha256: "5b996e4f68ed901d2906f316bd34e1b307797b5ac6102bf65b09071675f773b9"
 paginas: "13"
 idioma: "en"
-baixado_em: "2026-10-24T20:55:51Z"
+baixado_em: "2026-10-24T21:14:10Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 <!-- página 1 -->
@@ -306,7 +306,7 @@ VALORANT Champions Tour Pacific
 
 3.   Roster Rules
       3.1. Starting Rosters
-      For each match of VCT Pacific Kickoff, the Team must designate ﬁve (5) starters from
+      For each match of VCT Pacific Kickoff, the Team must designate five (5) starters from
       the Team’s Active Roster (as defined in the VCT26 Roster Construction Rules), which
       shall constitute the Team’s “Starting Roster”. Rosters are considered public at the
       submission deadline.

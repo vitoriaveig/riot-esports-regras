@@ -11,7 +11,7 @@ url: "https://cdn.sanity.io/files/dsfx7636/news/75c1276b07b47d5e7b21012afa103fb2
 sha256: "ecaac11a0646a3626ac810f02a2144bd7a532147e5ae8ab767e9f05636f01fb6"
 paginas: "74"
 idioma: "en"
-baixado_em: "2026-10-24T20:55:07Z"
+baixado_em: "2026-10-24T21:13:24Z"
 tambem_listado_como: "regulamento-da-erl-2024-v1-3"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
