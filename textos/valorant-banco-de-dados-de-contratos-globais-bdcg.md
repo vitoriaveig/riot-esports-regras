@@ -8,10 +8,10 @@ versao: ""
 tipo_documento: "Base de dados / lista"
 status_biblioteca: "Ativo na biblioteca"
 url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRmmWiBmMMD43m5VtZq54nKlmj0ZtythsA1qCpegwx-iRptx2HEsG0T3cQlG1r2AIiKxBWnaurJZQ9Q/pubhtml"
-sha256: "f21402b8425011f28600a5b52193ddc65fd25299a610857e801deebe98fca545"
+sha256: "d74b7ffdd38d8de0588b67de43a2e152433ef462aeff9627228bacee8413c356"
 paginas: ""
 idioma: "en"
-baixado_em: "2026-10-24T21:17:02Z"
+baixado_em: "2026-10-26T16:12:49Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 ## Aba: AMERICAS
