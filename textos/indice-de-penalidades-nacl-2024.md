@@ -8,10 +8,10 @@ versao: ""
 tipo_documento: "Índice de penalidades"
 status_biblioteca: "Arquivado"
 url: "https://docs.google.com/document/u/1/d/e/2PACX-1vTN5EBe13OZ_coEDNWy-2uMNuVlbKLTtANdbUgNpAWdbMkCeiuEH9mg3_czKjDg4C1-j0l5d0yQkqoB/pub"
-sha256: "a5075c75905da4c1897c36f0197aba6879441570d281b7bb4ffe83a1b0674ab9"
+sha256: "a2dccd45e21139af5b4ffb763df4f1ac25939f5b3d4a5a133c4e530094b98962"
 paginas: ""
 idioma: "en"
-baixado_em: "2026-10-26T16:12:59Z"
+baixado_em: "2026-11-02T19:35:29Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 2024 NACL Penalty Index (24.1)

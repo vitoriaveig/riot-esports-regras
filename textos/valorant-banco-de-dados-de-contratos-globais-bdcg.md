@@ -8,33 +8,33 @@ versao: ""
 tipo_documento: "Base de dados / lista"
 status_biblioteca: "Ativo na biblioteca"
 url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRmmWiBmMMD43m5VtZq54nKlmj0ZtythsA1qCpegwx-iRptx2HEsG0T3cQlG1r2AIiKxBWnaurJZQ9Q/pubhtml"
-sha256: "d74b7ffdd38d8de0588b67de43a2e152433ef462aeff9627228bacee8413c356"
+sha256: "3c04e0b9ae058aeb59e46cb95af81c3ed7b055b25a56e82403c68debcbaed716"
 paginas: ""
 idioma: "en"
-baixado_em: "2026-10-26T16:12:49Z"
+baixado_em: "2026-11-02T19:35:18Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 ## Aba: AMERICAS
 
-Arquivo: `dados/valorant-banco-de-dados-de-contratos-globais-bdcg__AMERICAS.csv` — 79 linhas
+Arquivo: `dados/valorant-banco-de-dados-de-contratos-globais-bdcg__AMERICAS.csv` — 49 linhas
 
-| Last Update:   | 2026-09-14 20:39:12.878000   | Unnamed: 2                 | Unnamed: 3   | Unnamed: 4       | Unnamed: 5        | Unnamed: 6                 | Unnamed: 7      | Unnamed: 8    | Unnamed: 9   | Unnamed: 10                         |
-|:---------------|:-----------------------------|:---------------------------|:-------------|:-----------------|:------------------|:---------------------------|:----------------|:--------------|:-------------|:------------------------------------|
-| League         | Team                         | Official Tournament Handle | Role         | Legal First Name | Legal Family Name | End Date (Month Day, Year) | Resident Status | Roster Status | Team Tag     | Team Contact Information            |
-| AMERICAS       | 100 THIEVES                  | Cryo                       | PLAYER       | MATTHEW DYLAN    | PANGANIBAN        | 2026                       | Resident        | Active        | 100T         | Sean Gares <sgares@100thieves.com>  |
-| AMERICAS       | 100 THIEVES                  | Asuna                      | PLAYER       | PETER            | MAZURYK           | 2026                       | Resident        | Active        | 100T         | Sean Gares <sgares@100thieves.com>  |
-| AMERICAS       | 100 THIEVES                  | Timotino                   | PLAYER       | TIMOTHÉE         | LAVIGNE DUPONT    | 2027                       | Resident        | Active        | 100T         | Sean Gares <sgares@100thieves.com>  |
-| AMERICAS       | 100 THIEVES                  | Vora                       | PLAYER       | JORDAN           | PULWER            | 2028                       | Resident        | Active        | 100T         | Sean Gares <sgares@100thieves.com>  |
-| AMERICAS       | 100 THIEVES                  | bang                       | PLAYER       | SEAN             | BEZERRA           | 2027                       | Resident        | Active        | 100T         | Sean Gares <sgares@100thieves.com>  |
-| AMERICAS       | 100 THIEVES                  | Nbs                        | HEAD COACH   | LAURYNAS         | KISIELIUS         | 2027                       | Non-Resident    | Active        | 100T         | Sean Gares <sgares@100thieves.com>  |
-| AMERICAS       | CLOUD9                       | OXY                        | PLAYER       | FRANCIS          | HOANG             | 2028                       | Resident        | Active        | C9           | Johnny Pulatie <jpulatie@cloud9.gg> |
-| AMERICAS       | CLOUD9                       | Jackk                      | PLAYER       | JACK             | FOOTE             | 2028                       | Resident        | Active        | C9           | Johnny Pulatie <jpulatie@cloud9.gg> |
-| AMERICAS       | CLOUD9                       | Zellsis                    | PLAYER       | JORDAN           | MONTEMURRO        | 2028                       | Resident        | Active        | C9           | Johnny Pulatie <jpulatie@cloud9.gg> |
-| AMERICAS       | CLOUD9                       | fireballops                | PLAYER       | CAMERON          | TOMASELLI         | 2028                       | Resident        | Active        | C9           | Johnny Pulatie <jpulatie@cloud9.gg> |
-| AMERICAS       | CLOUD9                       | v1c                        | PLAYER       | VICTOR           | TRUONG            | 2026                       | Resident        | Active        | C9           | Johnny Pulatie <jpulatie@cloud9.gg> |
-| AMERICAS       | CLOUD9                       | Veer                       | HEAD COACH   | MICHAEL          | BLEVINS           | 2026                       | Resident        | Active        | C9           | Johnny Pulatie <jpulatie@cloud9.gg> |
-| AMERICAS       | ENVY                         | keznit                     | PLAYER       | ANGELO           | MORI LAGOS        | 2027                       | Resident        | Active        | ENVY         | Mike Rufail <mike@envy.gg>          |
-| AMERICAS       | ENVY                         | GLYPH                      | PLAYER       | CONNER           | GARCIA            | 2027                       | Resident        | Active        | ENVY         | Mike Rufail <mike@envy.gg>          |
+| Last Update:   | 2026-11-02 20:14:15.843000   | Unnamed: 2                 | Unnamed: 3   | Unnamed: 4       | Unnamed: 5        | Unnamed: 6                 | Unnamed: 7      | Unnamed: 8    | Unnamed: 9   | Unnamed: 10                            |
+|:---------------|:-----------------------------|:---------------------------|:-------------|:-----------------|:------------------|:---------------------------|:----------------|:--------------|:-------------|:---------------------------------------|
+| League         | Team                         | Official Tournament Handle | Role         | Legal First Name | Legal Family Name | End Date (Month Day, Year) | Resident Status | Roster Status | Team Tag     | Team Contact Information               |
+| AMERICAS       | 100 THIEVES                  | Timotino                   | PLAYER       | TIMOTHÉE         | LAVIGNE DUPONT    | 2027                       | Resident        | Active        | 100T         | Sean Gares <sgares@100thieves.com>     |
+| AMERICAS       | 100 THIEVES                  | Vora                       | PLAYER       | JORDAN           | PULWER            | 2028                       | Resident        | Active        | 100T         | Sean Gares <sgares@100thieves.com>     |
+| AMERICAS       | 100 THIEVES                  | bang                       | PLAYER       | SEAN             | BEZERRA           | 2027                       | Resident        | Active        | 100T         | Sean Gares <sgares@100thieves.com>     |
+| AMERICAS       | 100 THIEVES                  | nan                        | nan          | nan              | nan               | nan                        | nan             | nan           | 100T         | Sean Gares <sgares@100thieves.com>     |
+| AMERICAS       | 100 THIEVES                  | nan                        | nan          | nan              | nan               | nan                        | nan             | nan           | 100T         | Sean Gares <sgares@100thieves.com>     |
+| AMERICAS       | 100 THIEVES                  | Nbs                        | HEAD COACH   | LAURYNAS         | KISIELIUS         | 2027                       | Non-Resident    | Active        | 100T         | Sean Gares <sgares@100thieves.com>     |
+| AMERICAS       | G2                           | trent                      | PLAYER       | TRENT            | CAIRNS            | 2028                       | Resident        | Active        | G2           | Ambrose Lai <ambrose.lai@g2esports.com |
+| AMERICAS       | G2                           | leaf                       | PLAYER       | NATHAN           | ORF               | 2028                       | Resident        | Active        | G2           | Ambrose Lai <ambrose.lai@g2esports.com |
+| AMERICAS       | G2                           | babybay                    | PLAYER       | ANDREJ           | FRANCISTY         | 2027                       | Resident        | Active        | G2           | Ambrose Lai <ambrose.lai@g2esports.com |
+| AMERICAS       | G2                           | nan                        | nan          | nan              | nan               | nan                        | nan             | nan           | G2           | Ambrose Lai <ambrose.lai@g2esports.com |
+| AMERICAS       | G2                           | nan                        | nan          | nan              | nan               | nan                        | nan             | nan           | G2           | Ambrose Lai <ambrose.lai@g2esports.com |
+| AMERICAS       | G2                           | JoshRT                     | HEAD COACH   | JOSHUA           | LEE               | 2028                       | Resident        | Active        | G2           | Ambrose Lai <ambrose.lai@g2esports.com |
+| AMERICAS       | KRÜ VISA                     | Dante                      | PLAYER       | JESUS FEDERICO   | LARROSA           | 2028                       | Resident        | Active        | KRU          | Matias Portela <matias@kruesports.com> |
+| AMERICAS       | KRÜ VISA                     | Saadhak                    | PLAYER       | MATIAS           | DELIPETRO         | 2027                       | Resident        | Active        | KRU          | Matias Portela <matias@kruesports.com> |
 
 ## Aba: CN
 
