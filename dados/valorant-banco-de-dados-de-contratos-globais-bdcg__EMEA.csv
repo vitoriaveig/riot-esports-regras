@@ -19,13 +19,13 @@ EMEA,FUT ESPORTS,KROSTALY,PLAYER,Okan,Alaçam,2027,Resident,Active,FUT,
 EMEA,FUT ESPORTS,s0pp,PLAYER,Efe,Tur,2026,Resident,Active,FUT,
 EMEA,FUT ESPORTS,sociablEE,PLAYER,Volkan,Yönal,2026,Resident,Active,FUT,
 EMEA,FUT ESPORTS,vlad,HEAD COACH,Berke,Kantürk,2026,/,Staff,FUT,
-EMEA,GiantX,westside,PLAYER,Miłosz Tomasz,Duda,2026,Resident,Active,GX,David Alonso <david.alonso@goodgamegroup.org>
-EMEA,GiantX,ara,PLAYER,Eduard-George,Hanceriuc,2026,Resident,Active,GX,
-EMEA,GiantX,Flickless,PLAYER,Karel Ivo,Maeckelbergh,2026,Resident,Active,GX,
-EMEA,GiantX,neT,PLAYER,Michael Hunter,Bernet,2026,Non-Resident,Active,GX,
-EMEA,GiantX,Jesse,PLAYER,Adam,Čtvrtníček,2026,Resident,Active,GX,*2 way player
-EMEA,GiantX,wayLander,PLAYER,Jan,Rahkonen,2026,Resident,Reserve,GX,
-EMEA,GiantX,pipsoN,HEAD COACH,Daniil,Meshcheriakov,2026,/,Staff,GX,
+EMEA,GiantX,,,,,,,,,David Alonso <david.alonso@goodgamegroup.org>
+EMEA,GiantX,,,,,,,,,
+EMEA,GiantX,,,,,,,,,
+EMEA,GiantX,,,,,,,,,
+EMEA,GiantX,,,,,,,,,
+EMEA,GiantX,,,,,,,,,
+EMEA,GiantX,,,,,,,,,
 EMEA,KARMINE CORP,SUYGETSU,PLAYER,Dmitrii,Iliushin,2026,Resident,Active,KC,Clement Laparra <clement.laparra@karminecorp.fr>
 EMEA,KARMINE CORP,avez,PLAYER,Hazem,Khaled,2027,Resident,Active,KC,
 EMEA,KARMINE CORP,Sheydos,PLAYER,Bogdan,Naumov,2027,Resident,Active,KC,
@@ -42,8 +42,8 @@ EMEA,NAVI,ANGE1,HEAD COACH,Kyrylo,Karasov,2026,/,Staff,NAVI,
 EMEA,TEAM HERETICS,Weber,PLAYER,Brandon William,Weber,2027,Resident,Active,TH,Niklas Geiß <niklas@teamheretics.com >
 EMEA ,TEAM HERETICS,RieNs,PLAYER,Esad Enes,Ecirli,2026,Resident,Active,TH,
 EMEA,TEAM HERETICS,benjyfishy,PLAYER,Benjamin,David Fish,2026,Resident,Active,TH,
-EMEA,TEAM HERETICS,Boo,PLAYER,Ričardas,Lukaševičius,2026,Resident,Active,TH,
-EMEA,TEAM HERETICS,koshmaras,PLAYER,Martynas,Namikas,2028,Resident,Active,TH,
+EMEA,TEAM HERETICS,,,,,,,,,
+EMEA,TEAM HERETICS,,,,,,,,,
 EMEA,TEAM HERETICS,neilzinho,HEAD COACH,Neil,Finlay,2026,/,Staff,TH,
 EMEA,TEAM LIQUID,nAts,PLAYER,Ayaz,Akhmetshin,2026,Resident,Active,TL,Brittany Lattanzio <blattanzio@teamliquid.com>
 EMEA,TEAM LIQUID,kamo,PLAYER,Kamil,Frąckowiak,2027,Resident,Active,TL,
@@ -54,7 +54,8 @@ EMEA,TEAM LIQUID,Kicks,PLAYER,Kimmie,Laasner,2026,Resident,Active,TL,*2 way play
 EMEA,TEAM LIQUID,trexx,PLAYER,Nikita,Cherednichenko,2026,Resident,Active,TL,
 EMEA,TEAM LIQUID,GSR,PLAYER,Ognjen,Bondžić,2029,Resident,Active,TL,
 EMEA,TEAM LIQUID,LohaN,HEAD COACH,Ivo,Renato Da Silva Santos Albino,2028,/,Staff,TL,
-EMEA,TEAM VITALITY,Derke,PLAYER,Nikita,Sirmitev,2026,Resident,Active,VIT,Andy Zajimovic <andy.zajimovic@vitality.gg>
+EMEA,TEAM VITALITY,,,,,,,,,Andy Zajimovic <andy.zajimovic@vitality.gg>
+EMEA,TEAM VITALITY,,,,,,,,,
 EMEA,TEAM VITALITY,Jamppi,PLAYER,Elias,Olkkonen,2027,Resident,Active,VIT,
 EMEA,TEAM VITALITY,PROFEK,PLAYER,Dawid ,Święć,2027,Resident,Active,VIT,
 EMEA,TEAM VITALITY,Chronicle,PLAYER,Timofey,Khromov,2027,Resident,Active,VIT,

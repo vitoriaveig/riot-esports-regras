@@ -8,17 +8,17 @@ versao: ""
 tipo_documento: "Base de dados / lista"
 status_biblioteca: "Ativo na biblioteca"
 url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRmmWiBmMMD43m5VtZq54nKlmj0ZtythsA1qCpegwx-iRptx2HEsG0T3cQlG1r2AIiKxBWnaurJZQ9Q/pubhtml"
-sha256: "3c04e0b9ae058aeb59e46cb95af81c3ed7b055b25a56e82403c68debcbaed716"
+sha256: "c8310622f01f686fea6543cc25182ce7c81dee61921d1043d930ce8482ec7855"
 paginas: ""
 idioma: "en"
-baixado_em: "2026-11-02T19:35:18Z"
+baixado_em: "2026-11-09T19:54:32Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 ## Aba: AMERICAS
 
-Arquivo: `dados/valorant-banco-de-dados-de-contratos-globais-bdcg__AMERICAS.csv` — 49 linhas
+Arquivo: `dados/valorant-banco-de-dados-de-contratos-globais-bdcg__AMERICAS.csv` — 50 linhas
 
-| Last Update:   | 2026-11-02 20:14:15.843000   | Unnamed: 2                 | Unnamed: 3   | Unnamed: 4       | Unnamed: 5        | Unnamed: 6                 | Unnamed: 7      | Unnamed: 8    | Unnamed: 9   | Unnamed: 10                            |
+| Last Update:   | 2026-11-05 01:30:58.929000   | Unnamed: 2                 | Unnamed: 3   | Unnamed: 4       | Unnamed: 5        | Unnamed: 6                 | Unnamed: 7      | Unnamed: 8    | Unnamed: 9   | Unnamed: 10                            |
 |:---------------|:-----------------------------|:---------------------------|:-------------|:-----------------|:------------------|:---------------------------|:----------------|:--------------|:-------------|:---------------------------------------|
 | League         | Team                         | Official Tournament Handle | Role         | Legal First Name | Legal Family Name | End Date (Month Day, Year) | Resident Status | Roster Status | Team Tag     | Team Contact Information               |
 | AMERICAS       | 100 THIEVES                  | Timotino                   | PLAYER       | TIMOTHÉE         | LAVIGNE DUPONT    | 2027                       | Resident        | Active        | 100T         | Sean Gares <sgares@100thieves.com>     |
@@ -29,12 +29,12 @@ Arquivo: `dados/valorant-banco-de-dados-de-contratos-globais-bdcg__AMERICAS.csv`
 | AMERICAS       | 100 THIEVES                  | Nbs                        | HEAD COACH   | LAURYNAS         | KISIELIUS         | 2027                       | Non-Resident    | Active        | 100T         | Sean Gares <sgares@100thieves.com>     |
 | AMERICAS       | G2                           | trent                      | PLAYER       | TRENT            | CAIRNS            | 2028                       | Resident        | Active        | G2           | Ambrose Lai <ambrose.lai@g2esports.com |
 | AMERICAS       | G2                           | leaf                       | PLAYER       | NATHAN           | ORF               | 2028                       | Resident        | Active        | G2           | Ambrose Lai <ambrose.lai@g2esports.com |
-| AMERICAS       | G2                           | babybay                    | PLAYER       | ANDREJ           | FRANCISTY         | 2027                       | Resident        | Active        | G2           | Ambrose Lai <ambrose.lai@g2esports.com |
+| AMERICAS       | G2                           | nan                        | nan          | nan              | nan               | nan                        | nan             | nan           | G2           | Ambrose Lai <ambrose.lai@g2esports.com |
 | AMERICAS       | G2                           | nan                        | nan          | nan              | nan               | nan                        | nan             | nan           | G2           | Ambrose Lai <ambrose.lai@g2esports.com |
 | AMERICAS       | G2                           | nan                        | nan          | nan              | nan               | nan                        | nan             | nan           | G2           | Ambrose Lai <ambrose.lai@g2esports.com |
 | AMERICAS       | G2                           | JoshRT                     | HEAD COACH   | JOSHUA           | LEE               | 2028                       | Resident        | Active        | G2           | Ambrose Lai <ambrose.lai@g2esports.com |
-| AMERICAS       | KRÜ VISA                     | Dante                      | PLAYER       | JESUS FEDERICO   | LARROSA           | 2028                       | Resident        | Active        | KRU          | Matias Portela <matias@kruesports.com> |
-| AMERICAS       | KRÜ VISA                     | Saadhak                    | PLAYER       | MATIAS           | DELIPETRO         | 2027                       | Resident        | Active        | KRU          | Matias Portela <matias@kruesports.com> |
+| AMERICAS       | KRÜ VISA                     | Less                       | PLAYER       | FELIPE           | DE LOYOLA BASSO   | 2027                       | Resident        | Active        | KRU          | Matias Portela <matias@kruesports.com> |
+| AMERICAS       | KRÜ VISA                     | nan                        | nan          | nan              | nan               | nan                        | nan             | nan           | KRU          | Matias Portela <matias@kruesports.com> |
 
 ## Aba: CN
 
@@ -60,7 +60,7 @@ Arquivo: `dados/valorant-banco-de-dados-de-contratos-globais-bdcg__CN.csv` — 9
 
 ## Aba: EMEA
 
-Arquivo: `dados/valorant-banco-de-dados-de-contratos-globais-bdcg__EMEA.csv` — 81 linhas
+Arquivo: `dados/valorant-banco-de-dados-de-contratos-globais-bdcg__EMEA.csv` — 82 linhas
 
 | Last Update:   | 2026-08-11 16:05:42.948000   | Unnamed: 2                 | Unnamed: 3   | Unnamed: 4       | Unnamed: 5        | Unnamed: 6                 | Unnamed: 7      | Unnamed: 8    | Unnamed: 9   | Unnamed: 10                       |
 |:---------------|:-----------------------------|:---------------------------|:-------------|:-----------------|:------------------|:---------------------------|:----------------|:--------------|:-------------|:----------------------------------|

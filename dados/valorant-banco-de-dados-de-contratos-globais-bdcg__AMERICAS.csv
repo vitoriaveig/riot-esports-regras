@@ -1,4 +1,4 @@
-Last Update:,2026-11-02 20:14:15.843000,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10
+Last Update:,2026-11-05 01:30:58.929000,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10
 League,Team,Official Tournament Handle,Role,Legal First Name,Legal Family Name,"End Date (Month Day, Year)",Resident Status,Roster Status,Team Tag,Team Contact Information
 AMERICAS,100 THIEVES,Timotino,PLAYER,TIMOTHÉE,LAVIGNE DUPONT,2027,Resident,Active,100T,Sean Gares <sgares@100thieves.com>
 AMERICAS,100 THIEVES,Vora,PLAYER,JORDAN,PULWER,2028,Resident,Active,100T,Sean Gares <sgares@100thieves.com>
@@ -8,13 +8,13 @@ AMERICAS,100 THIEVES,,,,,,,,100T,Sean Gares <sgares@100thieves.com>
 AMERICAS,100 THIEVES,Nbs,HEAD COACH,LAURYNAS,KISIELIUS,2027,Non-Resident,Active,100T,Sean Gares <sgares@100thieves.com>
 AMERICAS,G2,trent,PLAYER,TRENT,CAIRNS,2028,Resident,Active,G2,Ambrose Lai <ambrose.lai@g2esports.com
 AMERICAS,G2,leaf,PLAYER,NATHAN,ORF,2028,Resident,Active,G2,Ambrose Lai <ambrose.lai@g2esports.com
-AMERICAS,G2,babybay,PLAYER,ANDREJ,FRANCISTY,2027,Resident,Active,G2,Ambrose Lai <ambrose.lai@g2esports.com
+AMERICAS,G2,,,,,,,,G2,Ambrose Lai <ambrose.lai@g2esports.com
 AMERICAS,G2,,,,,,,,G2,Ambrose Lai <ambrose.lai@g2esports.com
 AMERICAS,G2,,,,,,,,G2,Ambrose Lai <ambrose.lai@g2esports.com
 AMERICAS,G2,JoshRT,HEAD COACH,JOSHUA,LEE,2028,Resident,Active,G2,Ambrose Lai <ambrose.lai@g2esports.com
-AMERICAS,KRÜ VISA,Dante,PLAYER,JESUS FEDERICO,LARROSA,2028,Resident,Active,KRU,Matias Portela <matias@kruesports.com>
-AMERICAS,KRÜ VISA,Saadhak,PLAYER,MATIAS,DELIPETRO,2027,Resident,Active,KRU,Matias Portela <matias@kruesports.com>
 AMERICAS,KRÜ VISA,Less,PLAYER,FELIPE,DE LOYOLA BASSO,2027,Resident,Active,KRU,Matias Portela <matias@kruesports.com>
+AMERICAS,KRÜ VISA,,,,,,,,KRU,Matias Portela <matias@kruesports.com>
+AMERICAS,KRÜ VISA,,,,,,,,KRU,Matias Portela <matias@kruesports.com>
 AMERICAS,KRÜ VISA,,,,,,,,KRU,Matias Portela <matias@kruesports.com>
 AMERICAS,KRÜ VISA,,,,,,,,KRU,Matias Portela <matias@kruesports.com>
 AMERICAS,KRÜ VISA,ZONYK,HEAD COACH,NICOLAS,CARBONI EWING,2027,Resident,Active,KRU,Matias Portela <matias@kruesports.com>
@@ -29,22 +29,23 @@ AMERICAS,LOUD,luk xo,PLAYER,LUCCA,TRAVAIOLI,2027,Resident,Active,LOUD,Carlos Lir
 AMERICAS,LOUD,DaviH,PLAYER,DAVID,CRUZ FONSECA,2027,Resident,Active,LOUD,Carlos Lira Portela <carlos.lira@loud.gg>
 AMERICAS,LOUD,,,,,,,,LOUD,Carlos Lira Portela <carlos.lira@loud.gg>
 AMERICAS,LOUD,,,,,,,,LOUD,Carlos Lira Portela <carlos.lira@loud.gg>
-AMERICAS,LOUD,Romanilly,HEAD COACH,GONZALO ANDRES,MANZANO,2026,Resident,Active,LOUD,Carlos Lira Portela <carlos.lira@loud.gg>
+AMERICAS,LOUD,,HEAD COACH,,,,,,LOUD,Carlos Lira Portela <carlos.lira@loud.gg>
 AMERICAS,MIBR,Mazino,PLAYER,ROBERTO,RIVAS,2027,Resident,Active,MIBR,Fernando Goncalves <fserikawa@mibr.gg>
 AMERICAS,MIBR,aspas,PLAYER,ERICK,SANTOS,2027,Resident,Active,MIBR,Fernando Goncalves <fserikawa@mibr.gg>
 AMERICAS,MIBR,zekken,PLAYER,ZACHARY,PATRONE,2027,Resident,Active,MIBR,Fernando Goncalves <fserikawa@mibr.gg>
 AMERICAS,MIBR,Verno,PLAYER,ANDREW,MAUST,2027,Resident,Active,MIBR,Fernando Goncalves <fserikawa@mibr.gg>
+,,,,,,,,,MIBR,Fernando Goncalves <fserikawa@mibr.gg>
 AMERICAS,MIBR,fRoD,HEAD COACH,DANIEL ANTHONY,MONTANER,2027,Resident,Staff,MIBR,Fernando Goncalves <fserikawa@mibr.gg>
 AMERICAS,NRG,mada,PLAYER,ADAM,PAMPUCH,2027,Resident,Active,NRG,Jaime Cohenca <jaime@nrg.gg>
-AMERICAS,NRG,brawk,PLAYER,BROCK,SOMERHALDER,2026,Resident,Active,NRG,Jaime Cohenca <jaime@nrg.gg>
 AMERICAS,NRG,Ethan,PLAYER,ETHAN,ARNOLD,2027,Resident,Active,NRG,Jaime Cohenca <jaime@nrg.gg>
 AMERICAS,NRG,keiko,PLAYER,GEORGIO,SANASSY,2027,Non-Resident,Active,NRG,Jaime Cohenca <jaime@nrg.gg>
+AMERICAS,NRG,,,,,,,,NRG,Jaime Cohenca <jaime@nrg.gg>
 AMERICAS,NRG,,,,,,,,NRG,Jaime Cohenca <jaime@nrg.gg>
 AMERICAS,NRG,,HEAD COACH,,,,,,NRG,Jaime Cohenca <jaime@nrg.gg>
 AMERICAS,SENTINELS,reduxx,PLAYER,YASSIN IBRAHIM,ABOULALAZM,2028,Resident,Active,SEN,Eric Ma <eric@sentinels.gg>
 AMERICAS,SENTINELS,cortezia,PLAYER,GABRIEL,ARAUJO LOBO CORTEZ,2028,Resident,Active,SEN,Eric Ma <eric@sentinels.gg>
 AMERICAS,SENTINELS,johnqt,PLAYER,MOHAMED AMINE,OUARID,2028,Non-Resident,Active,SEN,Eric Ma <eric@sentinels.gg>
-AMERICAS,SENTINELS,Marved,PLAYER,JIMMY,NGUYEN,2026,Resident,Active,SEN,Eric Ma <eric@sentinels.gg>
-AMERICAS,SENTINELS,,,,,,,,SEN,Eric Ma <eric@sentinels.gg>
+AMERICAS,SENTINELS,OXY,PLAYER,FRANCIS,HOANG,2029,Resident,Active,SEN,Eric Ma <eric@sentinels.gg>
+AMERICAS,SENTINELS,brawk,PLAYER,BROCK,SUMERHALDER,2028,Resident,Active,SEN,Eric Ma <eric@sentinels.gg>
 AMERICAS,SENTINELS,,,,,,,,SEN,Eric Ma <eric@sentinels.gg>
 AMERICAS,SENTINELS,Ewok,HEAD COACH,MARTHINUS,JACOBUS VAN DER WALT,2028,Non-Resident,Staff,SEN,Eric Ma <eric@sentinels.gg>
