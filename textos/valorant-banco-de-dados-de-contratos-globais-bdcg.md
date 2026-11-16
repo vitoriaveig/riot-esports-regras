@@ -8,32 +8,32 @@ versao: ""
 tipo_documento: "Base de dados / lista"
 status_biblioteca: "Ativo na biblioteca"
 url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRmmWiBmMMD43m5VtZq54nKlmj0ZtythsA1qCpegwx-iRptx2HEsG0T3cQlG1r2AIiKxBWnaurJZQ9Q/pubhtml"
-sha256: "c8310622f01f686fea6543cc25182ce7c81dee61921d1043d930ce8482ec7855"
+sha256: "c46d32dc12bd5c168b4c2a109df0c7f0f0a25aeb765f3f114455fc3e20314e2a"
 paginas: ""
 idioma: "en"
-baixado_em: "2026-11-09T19:54:32Z"
+baixado_em: "2026-11-16T19:42:04Z"
 fonte: "Riot Games – Biblioteca de Operações Competitivas (competitiveops.riotgames.com)"
 ---
 ## Aba: AMERICAS
 
-Arquivo: `dados/valorant-banco-de-dados-de-contratos-globais-bdcg__AMERICAS.csv` — 50 linhas
+Arquivo: `dados/valorant-banco-de-dados-de-contratos-globais-bdcg__AMERICAS.csv` — 49 linhas
 
-| Last Update:   | 2026-11-05 01:30:58.929000   | Unnamed: 2                 | Unnamed: 3   | Unnamed: 4       | Unnamed: 5        | Unnamed: 6                 | Unnamed: 7      | Unnamed: 8    | Unnamed: 9   | Unnamed: 10                            |
+| Last Update:   | 2026-11-16 19:48:01.400000   | Unnamed: 2                 | Unnamed: 3   | Unnamed: 4       | Unnamed: 5        | Unnamed: 6                 | Unnamed: 7      | Unnamed: 8    | Unnamed: 9   | Unnamed: 10                            |
 |:---------------|:-----------------------------|:---------------------------|:-------------|:-----------------|:------------------|:---------------------------|:----------------|:--------------|:-------------|:---------------------------------------|
 | League         | Team                         | Official Tournament Handle | Role         | Legal First Name | Legal Family Name | End Date (Month Day, Year) | Resident Status | Roster Status | Team Tag     | Team Contact Information               |
 | AMERICAS       | 100 THIEVES                  | Timotino                   | PLAYER       | TIMOTHÉE         | LAVIGNE DUPONT    | 2027                       | Resident        | Active        | 100T         | Sean Gares <sgares@100thieves.com>     |
 | AMERICAS       | 100 THIEVES                  | Vora                       | PLAYER       | JORDAN           | PULWER            | 2028                       | Resident        | Active        | 100T         | Sean Gares <sgares@100thieves.com>     |
 | AMERICAS       | 100 THIEVES                  | bang                       | PLAYER       | SEAN             | BEZERRA           | 2027                       | Resident        | Active        | 100T         | Sean Gares <sgares@100thieves.com>     |
-| AMERICAS       | 100 THIEVES                  | nan                        | nan          | nan              | nan               | nan                        | nan             | nan           | 100T         | Sean Gares <sgares@100thieves.com>     |
-| AMERICAS       | 100 THIEVES                  | nan                        | nan          | nan              | nan               | nan                        | nan             | nan           | 100T         | Sean Gares <sgares@100thieves.com>     |
+| AMERICAS       | 100 THIEVES                  | Cryo                       | PLAYER       | MATTHEW          | PANGANIBAN        | 2027                       | Resident        | Active        | 100T         | Sean Gares <sgares@100thieves.com>     |
+| AMERICAS       | 100 THIEVES                  | Asuna                      | PLAYER       | PETER            | MAZURYK           | 2028                       | Resident        | Active        | 100T         | Sean Gares <sgares@100thieves.com>     |
 | AMERICAS       | 100 THIEVES                  | Nbs                        | HEAD COACH   | LAURYNAS         | KISIELIUS         | 2027                       | Non-Resident    | Active        | 100T         | Sean Gares <sgares@100thieves.com>     |
 | AMERICAS       | G2                           | trent                      | PLAYER       | TRENT            | CAIRNS            | 2028                       | Resident        | Active        | G2           | Ambrose Lai <ambrose.lai@g2esports.com |
 | AMERICAS       | G2                           | leaf                       | PLAYER       | NATHAN           | ORF               | 2028                       | Resident        | Active        | G2           | Ambrose Lai <ambrose.lai@g2esports.com |
-| AMERICAS       | G2                           | nan                        | nan          | nan              | nan               | nan                        | nan             | nan           | G2           | Ambrose Lai <ambrose.lai@g2esports.com |
-| AMERICAS       | G2                           | nan                        | nan          | nan              | nan               | nan                        | nan             | nan           | G2           | Ambrose Lai <ambrose.lai@g2esports.com |
-| AMERICAS       | G2                           | nan                        | nan          | nan              | nan               | nan                        | nan             | nan           | G2           | Ambrose Lai <ambrose.lai@g2esports.com |
+| AMERICAS       | G2                           | Hyunmin                    | PLAYER       | HYUNMIN          | SONG              | 2028                       | Resident        | Active        | G2           | Ambrose Lai <ambrose.lai@g2esports.com |
+| AMERICAS       | G2                           | kiNgg                      | PLAYER       | FRANCISCO        | ARAVENA           | 2028                       | Non-Resident    | Active        | G2           | Ambrose Lai <ambrose.lai@g2esports.com |
+| AMERICAS       | G2                           | Sato                       | PLAYER       | EDUARDO KENZO    | NAGAHAMA SATO     | 2028                       | Non-Resident    | Active        | G2           | Ambrose Lai <ambrose.lai@g2esports.com |
 | AMERICAS       | G2                           | JoshRT                     | HEAD COACH   | JOSHUA           | LEE               | 2028                       | Resident        | Active        | G2           | Ambrose Lai <ambrose.lai@g2esports.com |
-| AMERICAS       | KRÜ VISA                     | Less                       | PLAYER       | FELIPE           | DE LOYOLA BASSO   | 2027                       | Resident        | Active        | KRU          | Matias Portela <matias@kruesports.com> |
+| AMERICAS       | KRÜ VISA                     | Less                       | PLAYER       | FELIPE           | DE LOYOLA BASSO   | 2027                       | Resident        | Reserve       | KRU          | Matias Portela <matias@kruesports.com> |
 | AMERICAS       | KRÜ VISA                     | nan                        | nan          | nan              | nan               | nan                        | nan             | nan           | KRU          | Matias Portela <matias@kruesports.com> |
 
 ## Aba: CN
@@ -60,7 +60,7 @@ Arquivo: `dados/valorant-banco-de-dados-de-contratos-globais-bdcg__CN.csv` — 9
 
 ## Aba: EMEA
 
-Arquivo: `dados/valorant-banco-de-dados-de-contratos-globais-bdcg__EMEA.csv` — 82 linhas
+Arquivo: `dados/valorant-banco-de-dados-de-contratos-globais-bdcg__EMEA.csv` — 80 linhas
 
 | Last Update:   | 2026-08-11 16:05:42.948000   | Unnamed: 2                 | Unnamed: 3   | Unnamed: 4       | Unnamed: 5        | Unnamed: 6                 | Unnamed: 7      | Unnamed: 8    | Unnamed: 9   | Unnamed: 10                       |
 |:---------------|:-----------------------------|:---------------------------|:-------------|:-----------------|:------------------|:---------------------------|:----------------|:--------------|:-------------|:----------------------------------|
@@ -82,22 +82,22 @@ Arquivo: `dados/valorant-banco-de-dados-de-contratos-globais-bdcg__EMEA.csv` —
 
 ## Aba: PACIFIC
 
-Arquivo: `dados/valorant-banco-de-dados-de-contratos-globais-bdcg__PACIFIC.csv` — 43 linhas
+Arquivo: `dados/valorant-banco-de-dados-de-contratos-globais-bdcg__PACIFIC.csv` — 48 linhas
 
-| Last Update:   | 2026-09-17 07:46:41.372000   | Unnamed: 2                 | Unnamed: 3   | Unnamed: 4              | Unnamed: 5        | Unnamed: 6                 | Unnamed: 7      | Unnamed: 8    | Unnamed: 9   | Unnamed: 10                      |
-|:---------------|:-----------------------------|:---------------------------|:-------------|:------------------------|:------------------|:---------------------------|:----------------|:--------------|:-------------|:---------------------------------|
-| League         | Team                         | Official Tournament Handle | Role         | Legal First Name        | Legal Family Name | End Date (Month Day, Year) | Resident Status | Roster Status | Team Tag     | Team Contact Information         |
-| PACIFIC        | GEN.G                        | Ash                        | PLAYER       | HYUNCHEOL               | HA                | 2026                       | Resident        | Active        | GEN          | Paul Park <paul.park@geng.gg>    |
-| PACIFIC        | GEN.G                        | Karon                      | PLAYER       | WONTAE                  | KIM               | 2026                       | Resident        | Active        | GEN          | Paul Park <paul.park@geng.gg>    |
-| PACIFIC        | GEN.G                        | Efina                      | PLAYER       | NAKYEON                 | KIM               | 2026                       | Resident        | Active        | GEN          | Paul Park <paul.park@geng.gg>    |
-| PACIFIC        | GEN.G                        | t3xture                    | PLAYER       | NARA                    | KIM               | 2027                       | Resident        | Active        | GEN          | Paul Park <paul.park@geng.gg>    |
-| PACIFIC        | GEN.G                        | Raxcal                     | PLAYER       | MINSEOK                 | KIM               | 2028                       | Resident        | Active        | GEN          | Paul Park <paul.park@geng.gg>    |
-| PACIFIC        | GEN.G                        | KiTae                      | PLAYER       | GITAE                   | PAK               | 2026                       | Resident        | Reserve       | GEN          | *2-Way Player                    |
-| PACIFIC        | GEN.G                        | hsk                        | PLAYER       | HAESEONG                | KIM               | 2026                       | Resident        | Reserve       | GEN          | Paul Park <paul.park@geng.gg>    |
-| PACIFIC        | GEN.G                        | solo                       | HEAD COACH   | KEUNCHUL                | KANG              | 2027                       | Resident        | Staff         | GEN          | Paul Park <paul.park@geng.gg>    |
-| PACIFIC        | PAPER REX                    | d4v41                      | PLAYER       | AHMAD KHALISH RUSYAIDEE | BIN NORDIN        | 2026                       | Resident        | Active        | PRX          | Harley Orvall <harley@pprx.team> |
-| PACIFIC        | PAPER REX                    | f0rsakeN                   | PLAYER       | JASON                   | SUSANTO           | 2026                       | Resident        | Active        | PRX          | Harley Orvall <harley@pprx.team> |
-| PACIFIC        | PAPER REX                    | Jinggg                     | PLAYER       | JING JIE                | WANG              | 2026                       | Resident        | Active        | PRX          | Harley Orvall <harley@pprx.team> |
-| PACIFIC        | PAPER REX                    | Invy                       | PLAYER       | ADRIAN JIGGS AISA       | REYES             | 2027                       | Resident        | Active        | PRX          | Harley Orvall <harley@pprx.team> |
-| PACIFIC        | PAPER REX                    | something                  | PLAYER       | IlIA                    | PETROV            | 2026                       | Non-Resident    | Active        | PRX          | Harley Orvall <harley@pprx.team> |
-| PACIFIC        | PAPER REX                    | alecks                     | HEAD COACH   | ALEXANDRE SIN-CHUAN     | SALLE             | 2026                       | Resident        | Staff         | PRX          | Harley Orvall <harley@pprx.team> |
+| Last Update:   | 2026-11-16 02:26:37.243000   | Unnamed: 2                 | Unnamed: 3   | Unnamed: 4          | Unnamed: 5        | Unnamed: 6                 | Unnamed: 7      | Unnamed: 8    | Unnamed: 9   | Unnamed: 10                                  |
+|:---------------|:-----------------------------|:---------------------------|:-------------|:--------------------|:------------------|:---------------------------|:----------------|:--------------|:-------------|:---------------------------------------------|
+| League         | Team                         | Official Tournament Handle | Role         | Legal First Name    | Legal Family Name | End Date (Month Day, Year) | Resident Status | Roster Status | Team Tag     | Team Contact Information                     |
+| PACIFIC        | GEN.G                        | Karon                      | PLAYER       | WONTAE              | KIM               | 2027                       | Resident        | Active        | GEN          | Paul Park <paul.park@geng.gg>                |
+| PACIFIC        | GEN.G                        | t3xture                    | PLAYER       | NARA                | KIM               | 2027                       | Resident        | Active        | GEN          | Paul Park <paul.park@geng.gg>                |
+| PACIFIC        | GEN.G                        | Raxcal                     | PLAYER       | MINSEOK             | KIM               | 2028                       | Resident        | Active        | GEN          | Paul Park <paul.park@geng.gg>                |
+| PACIFIC        | GEN.G                        | nan                        | nan          | nan                 | nan               | nan                        | nan             | nan           | GEN          | Paul Park <paul.park@geng.gg>                |
+| PACIFIC        | GEN.G                        | nan                        | nan          | nan                 | nan               | nan                        | nan             | nan           | GEN          | Paul Park <paul.park@geng.gg>                |
+| PACIFIC        | GEN.G                        | solo                       | HEAD COACH   | KEUNCHUL            | KANG              | 2027                       | Resident        | Staff         | GEN          | Paul Park <paul.park@geng.gg>                |
+| PACIFIC        | PAPER REX                    | f0rsakeN                   | PLAYER       | JASON               | SUSANTO           | 2026                       | Resident        | Active        | PRX          | Harley Orvall <harley@pprx.team>             |
+| PACIFIC        | PAPER REX                    | Invy                       | PLAYER       | ADRIAN JIGGS AISA   | REYES             | 2027                       | Resident        | Active        | PRX          | Harley Orvall <harley@pprx.team>             |
+| PACIFIC        | PAPER REX                    | something                  | PLAYER       | IlIA                | PETROV            | 2026                       | Non-Resident    | Active        | PRX          | Harley Orvall <harley@pprx.team>             |
+| PACIFIC        | PAPER REX                    | nan                        | nan          | nan                 | nan               | nan                        | nan             | nan           | PRX          | Harley Orvall <harley@pprx.team>             |
+| PACIFIC        | PAPER REX                    | nan                        | nan          | nan                 | nan               | nan                        | nan             | nan           | PRX          | Harley Orvall <harley@pprx.team>             |
+| PACIFIC        | PAPER REX                    | alecks                     | HEAD COACH   | ALEXANDRE SIN-CHUAN | SALLE             | 2026                       | Resident        | Staff         | PRX          | Harley Orvall <harley@pprx.team>             |
+| PACIFIC        | REX REGUM QEON               | Crazyguy                   | PLAYER       | CONG ANH            | NGO               | 2028                       | Resident        | Active        | RRQ          | Calvin Victor Thenderan <calvin@teamrrq.com> |
+| PACIFIC        | REX REGUM QEON               | Jemkin                     | PLAYER       | BATOROV             | MAKSIM            | 2027                       | Non-Resident    | Active        | RRQ          | Calvin Victor Thenderan <calvin@teamrrq.com> |
